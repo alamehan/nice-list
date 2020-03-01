@@ -563,4 +563,57 @@ Educational Instagram Accounts
 Windows Software Bundles
 -------------------------
 
-_(Upcoming!)_
+* Driver Installer
+  * [DriverPack Solution](https://driverpack.io/) - Help you to download all the required and competitive drivers to your computer.
+  * [Silent Install Builder](http://www.silentinstall.org/) - Tool for quickly install a set of software on a multiple computers.
+ 
+* First-Install
+  * [Clover 3](http://en.ejie.me/) - Add multi-tab functionality Windows Explorer similar to Google Chrome browser.
+  * [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly. Everything.
+  * [TeraCopy](https://www.codesector.com/teracopy) - A free utility designed to copy files faster and more secure.
+  * [Speecy](https://www.ccleaner.com/speccy) - Fast, lightweight, advanced system information tool for your PC.
+  * [SHAREit](https://shareit.one/pc/) - Allows you to share all kind of files from one device to another.
+  * [WinRar](https://www.win-rar.com/) - Windows data compression tool that focuses on the RAR and ZIP formats.
+  
+* Internet & Browsers
+  * [Google Chrome](https://www.google.com/chrome/) - A cross-platform web browser developed by Google.
+  * [Mozilla Firefox](https://www.mozilla.org/firefox/) - A free and open-source web browser developed by the Mozilla Foundation.
+  * [NetBalancer](https://netbalancer.com/) - Windows application for local network traffic control and monitoring.
+  * [K9 Web Protection](https://softfamous.com/k9-web-protection/) - Content-control software to help parents protect their children while using the Internet.
+  * [Acrylic Wi-Fi](https://www.acrylicwifi.com/en/wlan-wifi-wireless-network-software-tools/wlan-scanner-acrylic-wifi-free/) - View real-time status of your Wi-Fi. Detects other networks, signal levels, channels.
+  * [Internet Download Manager](https://www.internetdownloadmanager.com/) - Tool to increase download speeds by up to 5 times.
+  * [4K Video Downloader](https://www.4kdownload.com/) - Allows downloading videos, playlists, channels and subtitles in high quality.
+  * [Google2SRT](https://sourceforge.net/projects/google2srt/) - Download, save and convert multiple subtitles from YouTube videos.
+  * [uTorrent](https://www.utorrent.com/) - The best torrent downloading app for beginners. Play torrents while you download.
+  
+* Document & Office Tools
+  * [Microsoft Office](https://www.office.com/) - Your place to create, communicate, collaborate, and get great work done.
+  * [WPS Office](https://www.wps.com/) - A new generation of office solutions. With powerful PDF, WPS Cloud, OCR, Files Repair, etc.
+  * [Edraw Max](https://www.edrawsoft.com/edraw-max/) - Creating flow chart, mind map, org charts, network diagrams and floor plans with templates.
+  * [XMind](https://www.xmind.net/) - The most professional and popular mind mapping tool.
+  * [PDF Sharper](https://www.pdfshaper.com/) - All-in-one PDF software optimized for better productivity and document security.
+  * [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) - Small, fast, and feature-rich PDF viewer that allows you to open, view, and print any PDF file.
+  * [Evernote](https://evernote.com/) - Take notes anywhere. Find information faster. Share ideas with anyone.
+  
+* Security & Optimization
+  * [360 Total Security](https://www.360totalsecurity.com/) - Your Unified Solution For PC Security and Performance.
+  * [Malwarebytes](https://www.malwarebytes.com/) - Protects you against malware, ransomware, malicious websites, and other advanced threats.
+  * [Austlogics Boostpeed](https://www.auslogics.com/) - A complete checkup of your entire system locating junk files and speed-reducing issues.
+  * [CCleaner](https://www.ccleaner.com/) - The No.1 Tool For Cleaning Your PC. Automatic cleaning. Reduce PC startup time.
+  
+* Imaging & Multimedia
+  * [IrfanView](https://www.irfanview.com/) - One of the most popular viewers worldwide.
+  * [PhotoScape](http://www.photoscape.org/) - Fun and easy photo editing software that enables you to fix and enhance photos.
+  * [AIMP](https://www.aimp.ru/) - Free audio player with support for large number of formats and playlists.
+  * [Spotify](https://www.spotify.com/) - Digital music (and podcast) service that gives you access to millions of songs.
+  * [VLC Media Player](https://www.videolan.org/vlc/) - Multimedia player that plays most multimedia files, and various streaming protocols.
+  * [Format Factory](http://www.pcfreetime.com/) - Free and multifunctional, multimedia file processing tools by PC Free Time.
+  * [HandBrake](https://handbrake.fr/) - Tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+  * [Audacity](https://www.audacityteam.org/) - Audacity is an easy-to-use, multi-track audio editor and recorder.
+
+* Productivity & Useful Apps
+  * **(Upcoming!)**
+* Graphic & Video Editor
+  * **(Upcoming!)**
+* Developer Tools
+  * **(Upcoming!)**
