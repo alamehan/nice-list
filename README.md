@@ -374,6 +374,7 @@ Incredibly Useful Websites
   * [Yify](https://yts.lt/) - YTS was a peer-to-peer release group known for distributing large numbers of movies.
 
 * Useful Web Apps
+  * [Get Emoji](https://getemoji.com/) - ✂️ Copy and 📋 Paste Emoji 👍 No apps required.
   * [LingoJam](https://lingojam.com/) - LingoJam lets you create an online translator (biasanya untuk style text generator).
   * [Text Fixer](https://www.textfixer.com/) - Collection of free online tools for web coding and text conversion
   * [Online Text Tools](https://onlinetexttools.com/) - Online text tools is a collection of useful text processing utilities.
