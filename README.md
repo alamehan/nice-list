@@ -21,6 +21,8 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 	<a href="#chrome-extension">Chrome Extension</a>&nbsp;&nbsp;&nbsp;
 </p>
 
+<br>
+
 💼 Mudah Cari Kerja
 --------------------
 
@@ -61,6 +63,8 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
   * [99designs](https://99designs.com/contests)
   * [DesignCrowd](https://jobs.designcrowd.com/jobs/)
   
+<br>
+
 ⚙️ Chrome Extension
 --------------------
 
@@ -138,3 +142,209 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
   * [Loom](https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb) - Capture, narrate and instantly share videos to communicate faster, clearer and friendlier.
   * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) - Increase your max volume by up to 4 times the loudness.
   * [Clever Mute](https://chrome.google.com/webstore/detail/clever-mute/eadinjjkfelcokdlmoechclnmmmjnpdh) - This extension mutes all sites by default.
+ 
+<br>
+
+📚 Self-Improvement 
+--------------------
+
+* Books and Ideas
+  * [Faster to Master](https://fastertomaster.com/) - Read more, learn faster and wake up productivity.
+  * [Optimize Me](https://www.optimize.me/) - The best Big Ideas from the best optimal living books. More wisdom in less time.
+  * [Design Epic Life](https://designepiclife.com/) - Design your life for high performance and success.
+  * [Gates Notes](https://www.gatesnotes.com/Books) - Recommended and books review by Bill Gates.
+  * [Marc Reclau](https://www.marcreklau.com/) - Author of the international #1 bestselling and award-winning book.
+  
+* Podcast
+  * [GaryVee Podcast](https://www.garyvaynerchuk.com/podcast/) - Keynote speeches on marketing and business.
+  * [HBD IdeaCast](https://open.spotify.com/show/4gtSBBxIAE142ApX6LqsvN) - A weekly podcast featuring the leading thinkers in business and management.
+  * [Podcast Subjective](https://soundcloud.com/iqbalhariadi) - Berbagi kisah, insight, dan tips praktis pengembangan diri.
+  * [Satu Persen Audio Insight](https://open.spotify.com/show/1iIFlumWtP4xI1QEzCBcSY) - Berkembang bersama kami, satu persen setiap harinya.
+  * [Thirty Days of Lunch](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww) - Teman makan siang sekaligus nutrisi untuk pikiran. Ga berat, tapi juga ga receh.
+  * [Makna Talks](https://open.spotify.com/show/1PGN4ilb4aoWKkB7FNSLsx) - A weekly podcast with well known subjects every week talking about what's behind the facts.
+  * [Hiduplah Indonesia Maya](https://open.spotify.com/show/6yUPhJdvDAMRVwApXBpQWd) - Podcast dari Pandji Pragiwaksono, membahas segala hal yang terjadi di Indonesia.
+  * [Finfolk](https://open.spotify.com/show/3coiCSZDmmBSREVpo0PpIB) - New ideas about investment in a fun way.
+  
+* Youtube Channel
+  * [GaryVee](https://www.youtube.com/user/GaryVaynerchuk) - Keynote speeches on marketing and business.
+  * [Satu Persen](https://www.youtube.com/channel/UC_eifcIIjgN8Q_8m34nWo3Q) - Mengajarkan hal-hal penting yang sampai saat ini belum diajarkan di sekolah konvensional.
+  * [SuccessBefore30](https://www.youtube.com/user/successbefore30/) - Wadah untuk Belajar Berbisnis dan Mengerti tentang aspek-aspek dari Kesuksesan.
+  * [Merry Riana](https://www.youtube.com/user/merryrianashow) - Menciptakan dampak positif di dalam kehidupan jutaan orang di Indonesia.
+  * [Pagar Kehidupan](https://www.youtube.com/channel/UCRPWx7xrHni4v31AkXE16Fg) - Butuh Inspirasi dan bantuan dalam hidup? Ini adalah channel yang bisa Kamu tuju.
+  * [Chandra Hasyim](https://www.youtube.com/channel/UCFCUdbQNQjbK-7UhKy--chg) - Inspiring and motivational video translations in Indonesia.
+  * [Arry Rahmawan](https://www.youtube.com/user/Arry2201/videos) - Arry Rahmawan adalah seorang trainer dan penulis pengembangan diri yang senang berbagi.
+  * [Kok Bisa?](https://www.youtube.com/channel/UCu0yQD7NFMyLu_-TmKa4Hqg) - Pengalaman belajar sains yang inovatif melalui video-video animasi edukatif.
+
+🎨 For Designer 
+----------------
+
+_(Upcoming!)_
+
+<br>
+
+💻 For Developer
+-----------------
+
+_(Upcoming!)_
+
+<br>
+
+💎 Top Instagram Accounts
+-------------------------
+
+**Catatan** : Pertama-tama Login terlebih dahulu ke akun Instagram anda. Kemudian copy seluruh akun instagram yang ingin anda _follow_ (dibawah). Lalu gunakan tools/generator [ini](https://chrome.google.com/webstore/detail/tools-for-instagram/khnadcdfjbjgojiilfdebbpiepokangj) untuk mem-_follow_ banyak akun sekaligus dalam satu waktu. Selamat! Anda sudah berhasil mem-_follow_ akun-akun Instagram terseleksi dan pilihan.
+
+* Self-Improvement
+1. _(Upcoming!)_
+1. _(Upcoming!)_
+
+* UI/UX Design
+1. @ui__ux
+1. @bungmomo
+1. @juju.branding
+1. @uixninja
+1. @interaction_design_foundation
+1. @uxbites
+1. @ux_meta
+1. @designspective
+1. @ui.markin
+1. @ui.mob
+1. @ransegall
+1. @msdesigns_
+1. @abhinavagr180
+1. @mdeezyn
+1. @brand0ngr0ce
+1. @maitreyee_kal
+1. @alex.presa
+1. @theryanhayward
+1. @usepitchproof
+1. @winart.design
+1. @thejeremymura
+1. @gdaydesignlife
+1. @gdayfrank
+1. @tomrossmedia
+1. @hannawoa_design
+1. @divadsanders
+1. @uxsteven
+1. @domenicosolazzo
+1. @ux.cagla
+1. @lisa.martinovska
+1. @dianagetssocial
+1. @justcreative
+1. @ux_snax
+1. @cantusstar.ux
+1. @kamiltatol
+1. @uxlore
+1. @jeliazkovdsgn
+1. @pieces_of_ux
+1. @ui.helen
+1. @trupsfolio
+1. @ux.by.ana
+1. @_designbytes_
+1. @bydanromero
+1. @the.dsgnr
+1. @misaac85
+1. @kalypsodesigns
+1. @uxgoodies
+1. @ux.patricia
+1. @dainwalker
+1. @morejanda
+1. @lubosvolkov
+1. @anfisign
+1. @tomkoszyk
+
+* Illustration
+1. @dribbble
+1. @behance
+1. @gfx_daily
+1. @gfx.mob
+1. @vector.mob
+1. @motion.mob
+1. @motion.aep
+1. @meghana.design
+1. @weloveillustration
+1. @weloveanimations
+1. @illustratorbee
+1. @illustration_daily
+1. @theillustratordaily
+1. @dopelyillustration
+1. @myvisualcake
+1. @studiomuti
+1. @pixelcart
+1. @pasta_nick
+1. @nick.brito
+1. @emblemo
+1. @asiaorlando_
+1. @samji_illustrator
+1. @danygartman
+1. @adriannewalujo.o
+1. @kalathingal_shaji
+1. @gaspart_illustration
+1. @dmitrijdraws
+1. @mutanthands
+1. @marcyday_
+1. @myfancyfox
+1. @vibrantpunch
+1. @worldscape_wonders
+1. @art.fortress
+1. @danny.fortress
+1. @space_and_fantasy
+1. @scifi.cyber.art
+1. @arborealsoul
+1. @thyriankingdom
+1. @conceptkingdom
+1. @epic.realm
+1. @hummingfluff
+1. @beeple_crap
+1. @iamagco
+1. @loisvb
+1. @snatti89
+1. @polygonrunway
+1. @gebelia
+1. @tiantianxu
+1. @mrsjwignall
+1. @isometricdesign
+1. @ayejay_make_art
+1. @andy_the_illustrator
+1. @jakemorrisonart
+1. @crystalnyam
+1. @simz.art
+1. @namendart
+1. @diberkato
+1. @is.yuniarto
+1. @awsmcolor
+1. @awsmgradient
+1. @colours.cafe
+1. @colorxprez
+1. @mr.pugo
+1. @omegachainoboy
+1. @woostarspixels
+1. @angrysnail
+1. @8pxl_
+1. @venturebit
+1. @watt.designs
+1. @2bitart
+1. @motionmate
+1. @ad0wn
+1. @floortjesart
+1. @cutestintrovert
+1. @logoshift
+1. @dimaphew
+1. @yogaperdana7
+1. @modal_tampang
+1. @rozwell_ramirez
+1. @legiontrashart
+1. @projectdivider
+1. @vector_idn
+1. @vector_vexel
+1. @nahnu.nuno
+1. @kreatifdigital
+1. @alamcreative
+1. @mousely7
+
+<br>
+
+🧰 Top Figma Plugin
+--------------------
+
+_(Upcoming!)_
