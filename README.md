@@ -17,7 +17,7 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 <img src="letsgo.png">
 
 <p align="center">
-	<a href="#💼-mudah-cari-kerja">Mudah Cari Kerja</a>&nbsp;&nbsp;&nbsp;
+	<a href="#mudah-cari-kerja">Mudah Cari Kerja</a>&nbsp;&nbsp;&nbsp;
 	<a href="#⚙️-chrome-extension">Chrome Extension</a>&nbsp;&nbsp;&nbsp;
 	<a href="#📚-self-improvement">Self Improvement</a>&nbsp;&nbsp;&nbsp;
 	<a href="#🎨-for-designer">For Designer</a>&nbsp;&nbsp;&nbsp;
@@ -26,7 +26,8 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 	<a href="#🧰-top-figma plugin">Top Figma Plugin</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-💼 Mudah Cari Kerja
+💼 
+Mudah Cari Kerja
 --------------------
 
 * General
