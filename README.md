@@ -27,6 +27,7 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 </p>
 
 <br>
+
 💼 
 Mudah Cari Kerja
 -----------------
@@ -69,6 +70,7 @@ Mudah Cari Kerja
   * [DesignCrowd](https://jobs.designcrowd.com/jobs/)
 
 <br>
+
 ⚙️
 Chrome Extension
 ----------------
@@ -149,6 +151,7 @@ Chrome Extension
   * [Clever Mute](https://chrome.google.com/webstore/detail/clever-mute/eadinjjkfelcokdlmoechclnmmmjnpdh) - This extension mutes all sites by default.
 
 <br>
+
 📚
 Self Improvement 
 -----------------
@@ -181,6 +184,7 @@ Self Improvement
   * [Kok Bisa?](https://www.youtube.com/channel/UCu0yQD7NFMyLu_-TmKa4Hqg) - Pengalaman belajar sains yang inovatif melalui video-video animasi edukatif.
 
 <br>
+
 🎨
 For Designer 
 -------------
@@ -188,6 +192,7 @@ For Designer
 _(Upcoming!)_
 
 <br>
+
 💻
 For Developer
 --------------
@@ -195,6 +200,7 @@ For Developer
 _(Upcoming!)_
 
 <br>
+
 💎
 Top Instagram Accounts
 -----------------------
@@ -350,6 +356,7 @@ Top Instagram Accounts
 1. @mousely7
 
 <br>
+
 🧰
 Top Figma Plugin
 -----------------
