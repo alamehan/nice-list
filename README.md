@@ -49,6 +49,7 @@ Find a Job
 * Developer
   * [Tech in Asia](https://www.techinasia.com/jobs/search)
   * [Dicoding](https://www.dicoding.com/jobs/list)
+  * [Ekrut](https://careers.ekrut.com/)
   * [Simonas Kominfo](https://simonas.kominfo.go.id/)
   
 * Startup Career
@@ -348,6 +349,20 @@ Incredibly Useful Websites
   * [Medium](https://medium.com/) - Our sole purpose is to help you find compelling ideas, knowledge, and perspectives.
   * [MakeUseOf](https://www.makeuseof.com/) - Learn how to make use of tech and gadgets around you and discover cool stuff on the Internet.
   * [Pretty Awesome Lists](https://www.prettyawesomelists.com/) - Pretty Awesome Lists crawls all these lists, collects interesting information about each link.
+  
+* Expand Your Skills
+  * [Kelas](https://kelas.com/) - Belajar dari para mentor terbaik dibidangnya.
+  * [Skill Academy](https://skillacademy.com/) - Tingkatkan technical & soft skill di berbagai bidang (by Ruangguru).
+  * [IndonesiaX](https://www.indonesiax.co.id/) - Kursus dari universitas peringkat tertinggi di Indonesia dan perusahaan terbaik.
+  * [Alison](https://alison.com/) - Free online education platform that mostly focuses on workplace-based skills.
+  * [Udemy](https://www.udemy.com/) - Study any topic, anytime. Choose from thousands of expert-led courses now.
+  * [Udacity](https://www.udacity.com/) - Advance your career with online courses in programming, data science, and more.
+  * [Coursera](https://www.coursera.org/) - Build skills with online courses from world-class universities and companies.
+  * [Lynda](https://www.lynda.com/) - Learn software, creative, and business skills to achieve your personal and professional goals.
+  * [Skill Share](https://www.skillshare.com/) - Learning platform with online classes taught by the world's best practitioners.
+  * [Plural Sight](https://www.pluralsight.com/) - Gives you confidence you have the skills you need to execute your technology strategy.
+  * [Treehouse](https://teamtreehouse.com/) - Learn to code, gain a new skill, get a new job. Whatever your goal — we'll get you there.
+  * [Codecademy](https://www.codecademy.com/) - Learn the technical skills you need for the job you want.
 
 * Digital Product
   * [Product Hunt](http://www.producthunt.com/) - Discover the latest mobile apps, websites, and technology products.
