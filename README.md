@@ -22,8 +22,8 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 	<a href="#self-improvement">Self Improvement</a>&nbsp;&nbsp;&nbsp;
 	<a href="#for-designer">For Designer</a>&nbsp;&nbsp;&nbsp;
 	<a href="#for-developer">For Developer</a>&nbsp;&nbsp;&nbsp;
-	<a href="#top-instagram-account">Top Instagram Account</a>&nbsp;&nbsp;&nbsp;
-	<a href="#top-figma plugin">Top Figma Plugin</a>&nbsp;&nbsp;&nbsp;
+	<a href="#top-instagram-accounts">Top Instagram Account</a>&nbsp;&nbsp;&nbsp;
+	<a href="#top-figma-plugin">Top Figma Plugin</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -73,7 +73,7 @@ Mudah Cari Kerja
 
 ⚙️
 Chrome Extension
-----------------
+-----------------
 
 * Increase Productivity
   * [Extensify](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - Quickly enable/disable Chrome extensions.
