@@ -135,7 +135,8 @@ Developer Starter Pack
   * [Be Fullstack Developer](https://buku-laravel-vue.com/) - Panduan Hebat untuk Menjadi Fullstack Developer! Laravel & Vue.js.
   * [W3Schools](https://www.w3schools.com/) - Educational website for learning web technologies online.
   * [A Smarter Way](https://www.amazon.com/Mark-Myers/e/B00HNW14T4?ref_=dbs_p_ebk_r00_abau_000000) - Coding, I learned, isn't that hard. Easy way to learn web programming.
-  * [Tutorialspoint](https://www.tutorialspoint.com/index.htm) - Complete collection of programming learning.
+  * [Tutorialspoint](https://www.tutorialspoint.com/index.htm) - Learn to code with free online courses and programming projects #1
+  * [FreeCodeCamp](https://www.freecodecamp.org/) - Learn to code with free online courses and programming projects #2
   
 * Front-End Web Dev
   * [HTML](https://github.com/diegocard/awesome-html5) - HTML Resource
@@ -339,6 +340,7 @@ Incredibly Useful Websites
 * Expand Your Knowledge
   * [Medium](https://medium.com/) - Our sole purpose is to help you find compelling ideas, knowledge, and perspectives.
   * [MakeUseOf](https://www.makeuseof.com/) - Learn how to make use of tech and gadgets around you and discover cool stuff on the Internet.
+  * [Pretty Awesome Lists](https://www.prettyawesomelists.com/) - Pretty Awesome Lists crawls all these lists, collects interesting information about each link.
 
 * Digital Product
   * [Product Hunt](http://www.producthunt.com/) - Discover the latest mobile apps, websites, and technology products.
@@ -353,6 +355,7 @@ Incredibly Useful Websites
   * [Sci-Hub](https://sci-hub.tw/) - The first website in the world to provide mass & public access to research papers.
 
 * Resource & Coupon
+  * [Use FYI](https://usefyi.com/templates/) - Free resources and templates you need to get work done in one place.
   * [CouponCause](https://couponcause.com/) - Find promo codes and online discounts by store and category.
   * [Couponos](https://couponos.ooo/) - Get the latest Udemy Coupon and BitDegree Online Courses. 
   * [Freebies Global](https://freebiesglobal.com/) - Latest freebies, courses, coupons & deals.
@@ -362,6 +365,7 @@ Incredibly Useful Websites
   * [Yify](https://yts.lt/) - YTS was a peer-to-peer release group known for distributing large numbers of movies.
 
 * Useful Web Apps
+  * [LingoJam](https://lingojam.com/) - LingoJam lets you create an online translator (biasanya untuk style text generator).
   * [Text Fixer](https://www.textfixer.com/) - Collection of free online tools for web coding and text conversion
   * [Online Text Tools](https://onlinetexttools.com/) - Online text tools is a collection of useful text processing utilities.
   * [Remove Line Breaks](http://removelinebreaks.net/) - Remove line breaks from blocks of text (solusi untuk copy text dari PDF).
@@ -369,6 +373,8 @@ Incredibly Useful Websites
   * [ttsMP3](https://ttsmp3.com/) - Easily convert your written text into natural sounding voice in up to 50 different languages.
   * [Pastebin](https://pastebin.com/) - Pastebin is a website where you can store text online for a set period of time.
   * [Bitly](https://bitly.com/) - Shorten, create and share trusted, powerful links for your business.
+  * [Small PDF](https://smallpdf.com/) - All-in-one (convert, compress, merge, split and edit) easy-to-use online PDF tools.
+  * [Vector Magic](https://vectormagic.com/) - Easily Convert JPG, PNG, GIF Files to PDF, SVG, EPS Vectors.
   
 <br>
 
