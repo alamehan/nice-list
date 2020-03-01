@@ -26,6 +26,7 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 	<a href="#top-visual-studio-extensions">Top Visual Studio Extensions</a>&nbsp;&nbsp;&nbsp;
 	<a href="#incredibly-useful-websites">Incredibly Useful Websites</a>&nbsp;&nbsp;&nbsp;
 	<a href="#educational-instagram-accounts">Educational Instagram Accounts</a>&nbsp;&nbsp;&nbsp;
+	<a href="#windows-sofware-bundle">Windows Software Bundle</a>&nbsp;&nbsp;&nbsp;	
 </p>
 
 <br>
@@ -348,6 +349,7 @@ Incredibly Useful Websites
 * Expand Your Knowledge
   * [Medium](https://medium.com/) - Our sole purpose is to help you find compelling ideas, knowledge, and perspectives.
   * [MakeUseOf](https://www.makeuseof.com/) - Learn how to make use of tech and gadgets around you and discover cool stuff on the Internet.
+  * [Vice](https://www.vice.com/) - The Definitive Guide To Enlightening Information from every corner of the planet.
   * [Pretty Awesome Lists](https://www.prettyawesomelists.com/) - Pretty Awesome Lists crawls all these lists, collects interesting information about each link.
   
 * Expand Your Skills
@@ -554,3 +556,11 @@ Educational Instagram Accounts
 1. @kreatifdigital
 1. @alamcreative
 1. @mousely7
+
+<br>
+
+💽
+Windows Software Bundle
+------------------------
+
+_(Upcoming!)_
