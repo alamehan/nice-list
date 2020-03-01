@@ -149,14 +149,11 @@ Developer Starter Pack
   * [Laravel](https://github.com/shlomi-noach/awesome-mysql) - PHP Framework
   * [NodeJs](https://github.com/sindresorhus/awesome-nodejs) - **Back-End JavaScript Base**
 
-* Miscellaneous 1
+* Miscellaneous
   * [Pro Git](https://github.com/progit/progit2-id) - Panduan menggunakan Git berbahasa Indonesia.
-  * [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
   * [Awesome Github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness.
   * [Awesome Guideline](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
-  
-* Miscellaneous 2
-  * [Free for Developer](https://github.com/ripienaar/free-for-de) - A curated list of Developer resources.
+  * [Free for Developer](https://github.com/ripienaar/free-for-dev) - A curated list of Developer resources.
   * [Developer Roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps, mostly about software development.
   * [Full-Stack Resources](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development.
   * [Front-End Resources](https://github.com/dypsilon/frontend-dev-bookmarks) - Free resources for learning Front End Web Development.
