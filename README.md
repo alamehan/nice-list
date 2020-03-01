@@ -19,19 +19,19 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 Cari Kerja
 -------------
 * General
-  * [LinkedIn](www.linkedin.com)
-  * [Qerja](www.qerja.com)
-  * [Glints](www.glints.com)
-  * [Urbanhire](www.urbanhire.com)
-  * [Careerjet](www.careerjet.co.id)
-  * [Indeed](www.indeed.com)
-  * [JobStreet](www.jobstreet.co.id)
-  * [Jora](www.jora.com)
-  * [JobFinder](www.jobfinder.co.id)
-  * [Jobs.id](www.jobs.id)
+  * [LinkedIn](https://www.linkedin.com/)
+  * [Qerja](https://www.qerja.com/)
+  * [Glints](https://glints.com/id)
+  * [Urbanhire](https://www.urbanhire.com/)
+  * [Careerjet](https://www.careerjet.co.id/)
+  * [Indeed](https://id.indeed.com/)
+  * [JobStreet](https://www.jobstreet.co.id/)
+  * [Jora](https://www.jora.com/)
+  * [JobFinder](http://www.jobfinder.co.id/)
+  * [Jobs.id](https://www.jobs.id/)
 * Developer
   * [Tech in Asia](https://www.techinasia.com/jobs/search)
-  * [Simonas Kominfo](www.simonas.kominfo.go.id)
+  * [Simonas Kominfo](https://simonas.kominfo.go.id/)
 * Startup Career
   * [Tokopedia](https://www.tokopedia.com/careers/jobs/)
   * [Bukalapak](https://careers.bukalapak.com/browse/Engineering)
