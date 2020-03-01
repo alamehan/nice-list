@@ -23,7 +23,8 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 	<a href="#developer-starter-pack">Developer Starter Pack</a>&nbsp;&nbsp;&nbsp;
 	<a href="#top-chrome-extensions">Top Chrome Extensions</a>&nbsp;&nbsp;&nbsp;
 	<a href="#top-figma-plugins">Top Figma Plugins</a>&nbsp;&nbsp;&nbsp;
-	<a href="#top-edu-instagram-accounts">Top Edu Instagram Accounts</a>&nbsp;&nbsp;&nbsp;
+	<a href="#incredibly-useful-websites">Incredibly Useful Websites</a>&nbsp;&nbsp;&nbsp;
+	<a href="#top-education-instagram-accounts">Top Education Instagram Accounts</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -46,6 +47,7 @@ Find a Job
   
 * Developer
   * [Tech in Asia](https://www.techinasia.com/jobs/search)
+  * [Dicoding](https://www.dicoding.com/jobs/list)
   * [Simonas Kominfo](https://simonas.kominfo.go.id/)
   
 * Startup Career
@@ -119,6 +121,13 @@ _(Upcoming!)_
 Developer Starter Pack
 ----------------------
 
+* Top Udemy Course
+  * [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) - JavaScript Base
+  * [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - JavaScript Base
+  * [The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) - PHP Base
+  * [Master Laravel 6 with Vue.js Fullstack Development](https://www.udemy.com/course/master-laravel-6-with-vuejs-fullstack-development/) - PHP Base
+  * [Brad Traversy Course](https://www.udemy.com/user/brad-traversy/) - For Better Insight
+
 * Full-Stack Web Dev
   * [Dunia Ilkom](https://www.duniailkom.com/) - Situs belajar programming Indonesia, membahas lengkap materi bahasa pemrograman website.
   * [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) - Membahas mengenai teknologi internet dan pengembangan web.  
@@ -126,10 +135,7 @@ Developer Starter Pack
   * [Be Fullstack Developer](https://buku-laravel-vue.com/) - Panduan Hebat untuk Menjadi Fullstack Developer! Laravel & Vue.js.
   * [W3Schools](https://www.w3schools.com/) - Educational website for learning web technologies online.
   * [A Smarter Way](https://www.amazon.com/Mark-Myers/e/B00HNW14T4?ref_=dbs_p_ebk_r00_abau_000000) - Coding, I learned, isn't that hard. Easy way to learn web programming.
-  * [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) - TOP Udemy Videos #1 (JavaScript Base)
-  * [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) -  TOP Udemy Videos #2 (JavaScript Base)
-  * [The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) - TOP Udemy Videos #3 (PHP Base)
-  * [Master Laravel 6 with Vue.js Fullstack Development](https://www.udemy.com/course/master-laravel-6-with-vuejs-fullstack-development/) - TOP Udemy Videos #4 (PHP Base)
+  * [Tutorialspoint](https://www.tutorialspoint.com/index.htm) - Complete collection of programming learning.
   
 * Front-End Web Dev
   * [HTML](https://github.com/diegocard/awesome-html5) - HTML Resource
@@ -323,17 +329,54 @@ Top Figma Plugins
   * [Figmotion](https://www.figma.com/community/plugin/733025261168520714/Figmotion) - Figmotion is an animation tool built right in Figma.
   * [Design Inspo](https://www.figma.com/community/plugin/738775292786594626/Design-Inspo) - The best way to quickly look for design inspiration while you work.
   * [Remove BG](https://www.figma.com/community/plugin/738992712906748191/Remove-BG) - Remove the background of images automatically with just a single click.
+  
+<br>
+
+🌐
+Incredibly Useful Websites
+--------------------------
+
+* Digital Product
+  * [Product Hunt](http://www.producthunt.com/) - Discover the latest mobile apps, websites, and technology products.
+  * [SimiliarWeb](https://www.similarweb.com/) - SimilarWeb is a website which provides web analytics services for businesses.
+  * [Slant](https://www.slant.co/) - Product recommendation community to find the best product, app or game for you.
+  * [YourStack](https://yourstack.com/) - YourStack is for sharing your favorite products with the world.
+ 
+* Discover Books
+  * [Libgen](https://libgen.is/) - Search engine for articles and books on various topics which allows free access.
+  * [Alleng](https://alleng.org/) - Download textbooks, dictionaries, manuals, audio, video etc. 
+  * [PDF Drive](https://www.pdfdrive.com/) - Search engine for PDF files. eBooks for you to download for free.
+  * [Sci-Hub](https://sci-hub.tw/) - The first website in the world to provide mass & public access to research papers.
+
+* Resource & Coupon
+  * [CouponCause](https://couponcause.com/) - Find promo codes and online discounts by store and category.
+  * [Couponos](https://couponos.ooo/) - Get the latest Udemy Coupon and BitDegree Online Courses. 
+  * [Freebies Global](https://freebiesglobal.com/) - Latest freebies, courses, coupons & deals.
+  * [FreeCourseLab](https://freecourselab.com/) - A great place to learn. Download Udemy Courses for Free.
+  * [GfxStudy](https://gfxstudy.com/) - Free AE Template, Videohive, Vector, Stock Image , PSD, Photoshop (1).
+  * [Graphicex](https://graphicex.com/) - Free AE Template, Videohive, Vector, Stock Image , PSD, Photoshop (2).
+  * [Yify](https://yts.lt/) - YTS was a peer-to-peer release group known for distributing large numbers of movies.
+
+* Useful Web Apps
+  * [Text Fixer](https://www.textfixer.com/) - Collection of free online tools for web coding and text conversion
+  * [Online Text Tools](https://onlinetexttools.com/) - Online text tools is a collection of useful text processing utilities.
+  * [Remove Line Breaks](http://removelinebreaks.net/) - Remove line breaks from blocks of text (solusi untuk copy text dari PDF).
+  * [Subtitle Translator](https://www.syedgakbar.com/projects/dst) - Free subtitle translator can quickly translate subtitles from one language to other language.
+  * [ttsMP3](https://ttsmp3.com/) - Easily convert your written text into natural sounding voice in up to 50 different languages.
+  * [Pastebin](https://pastebin.com/) - Pastebin is a website where you can store text online for a set period of time.
+  * [Bitly](https://bitly.com/) - Shorten, create and share trusted, powerful links for your business.
+  
 <br>
 
 💎
-Top Edu Instagram Accounts
---------------------------
+Top Education Instagram Accounts
+--------------------------------
 
 **Catatan** : Pertama-tama Login terlebih dahulu ke akun Instagram anda. Kemudian copy seluruh akun instagram yang ingin anda _follow_ (dibawah). Lalu gunakan tools/generator [ini](https://chrome.google.com/webstore/detail/helper-tools-for-instagra/clibiflfecckdjnjcgcgjdknmbgceail) untuk mem-_follow_ banyak akun sekaligus dalam satu waktu. Selamat! Anda sudah berhasil mem-_follow_ akun-akun Instagram terseleksi dan pilihan.
 
 * Self-Improvement
-1. _(Upcoming!)_
-1. _(Upcoming!)_
+1. **(Upcoming!)**
+1. **(Upcoming!)**
 
 * UI/UX Design
 1. @ui__ux
