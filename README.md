@@ -186,7 +186,7 @@ Top Chrome Extensions
   * [Black Menu for Google](https://chrome.google.com/webstore/detail/black-menu-for-google/eignhdfgaldabilaaegmdfbajngjmoke) - The easiest access to the Google universe.
   * [Checker Plus for Gmail](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj) - Get notifications, read, listen, delete emails without opening Gmail.
   * [InstaClean](https://www.instaclean.app/) - **Bukan extension**, Clean Up your Mailbox with Easy Steps.
-  * [Awesome Screenshot](https://www.awesomescreenshot.com/) - **Thid-party**, share screenshots with your friends or teammates, fast and easily.
+  * [Awesome Screenshot](https://www.awesomescreenshot.com/) - **Third-party**, share screenshots with your friends or teammates, fast and easily.
   * [Element Screenshot](https://chrome.google.com/webstore/detail/element-screenshot/mhbapdljigafafoimcnnhagdclejnkcf) - Take screenshot of any HTML element on a webpage.
   * [Carbon](https://carbon.now.sh/) - **Bukan extension**, easiest way to create and share beautiful images of your source code.
   * [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj) - Copy, paste and translate text from any image, video or PDF.
@@ -205,7 +205,7 @@ Top Chrome Extensions
   * [Highlight This](https://chrome.google.com/webstore/detail/highlight-this-finds-and/aflnhjcbpnknodmnmjjlphgcichcfbak) - Automatically finds and highlights words and phrases on the web page according to your list.
   * [Text Tools](https://chrome.google.com/webstore/detail/text-tools/mpcpnbklkemjinipimjcbgjijefholkd) - Handy text tools a click away (including uppercase, lowercase, count words, count lines, etc).
   * [Bitly](https://chrome.google.com/webstore/detail/bitly-unleash-the-power-o/iabeihobmhlgpkcgjiloemdbofjbdcic) - Shorten, measure, and optimize your links.
-  * [Medium Unlimited](https://manojvivek.github.io/medium-unlimited/) - **Thid-party**, addon to access the medium.com premium articles.
+  * [Medium Unlimited](https://manojvivek.github.io/medium-unlimited/) - **Third-party**, addon to access the medium.com premium articles.
   * [Read Aloud](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp) - Read out loud the current web-page article with one click.
   * [Spreed](https://chrome.google.com/webstore/detail/spreed-speed-read-the-web/ipikiaejjblmdopojhpejjmbedhlibno) - Train yourself to double or triple your reading speed, without sacrificing comprehension.
   
