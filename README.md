@@ -17,20 +17,20 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 <img src="letsgo.png">
 
 <p align="center">
-	<a href="#mudah-cari-kerja">Mudah Cari Kerja</a>&nbsp;&nbsp;&nbsp;
-	<a href="#chrome-extensions">Chrome Extensions</a>&nbsp;&nbsp;&nbsp;
+	<a href="#find-a-job">Find a Job</a>&nbsp;&nbsp;&nbsp;
 	<a href="#self-improvement">Self Improvement</a>&nbsp;&nbsp;&nbsp;
-	<a href="#for-designer">For Designer</a>&nbsp;&nbsp;&nbsp;
-	<a href="#for-developer">For Developer</a>&nbsp;&nbsp;&nbsp;
-	<a href="#top-instagram-accounts">Top Instagram</a>&nbsp;&nbsp;&nbsp;
-	<a href="#top-figma-plugin">Top Figma</a>&nbsp;&nbsp;&nbsp;
+	<a href="#designer-starter-pack">Designer Starter Pack</a>&nbsp;&nbsp;&nbsp;
+	<a href="#developer-starter-pack">Developer Starter Pack</a>&nbsp;&nbsp;&nbsp;
+	<a href="#top-chrome-extensions">Top Chrome Extensions</a>&nbsp;&nbsp;&nbsp;
+	<a href="#top-edu-instagram-accounts">Top Edu Instagram Accounts</a>&nbsp;&nbsp;&nbsp;
+	<a href="#top-figma-plugins">Top Figma Plugins</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
 💼 
-Mudah Cari Kerja
------------------
+Find a Job
+-----------
 
 * General
   * [LinkedIn](https://www.linkedin.com/)
@@ -71,9 +71,58 @@ Mudah Cari Kerja
 
 <br>
 
+📚
+Self Improvement 
+-----------------
+
+* Books and Ideas
+  * [Faster to Master](https://fastertomaster.com/) - Read more, learn faster and wake up productivity.
+  * [Optimize Me](https://www.optimize.me/) - The best Big Ideas from the best optimal living books. More wisdom in less time.
+  * [Design Epic Life](https://designepiclife.com/) - Design your life for high performance and success.
+  * [Gates Notes](https://www.gatesnotes.com/Books) - Recommended and books review by Bill Gates.
+  * [Marc Reclau](https://www.marcreklau.com/) - Author of the international #1 bestselling and award-winning book.
+  
+* Podcast
+  * [GaryVee Podcast](https://www.garyvaynerchuk.com/podcast/) - Keynote speeches on marketing and business.
+  * [HBD IdeaCast](https://open.spotify.com/show/4gtSBBxIAE142ApX6LqsvN) - A weekly podcast featuring the leading thinkers in business and management.
+  * [Podcast Subjective](https://soundcloud.com/iqbalhariadi) - Berbagi kisah, insight, dan tips praktis pengembangan diri.
+  * [Satu Persen Audio Insight](https://open.spotify.com/show/1iIFlumWtP4xI1QEzCBcSY) - Berkembang bersama kami, satu persen setiap harinya.
+  * [Thirty Days of Lunch](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww) - Teman makan siang sekaligus nutrisi untuk pikiran. Ga berat, tapi juga ga receh.
+  * [Makna Talks](https://open.spotify.com/show/1PGN4ilb4aoWKkB7FNSLsx) - A weekly podcast with well known subjects every week talking about what's behind the facts.
+  * [Hiduplah Indonesia Maya](https://open.spotify.com/show/6yUPhJdvDAMRVwApXBpQWd) - Podcast dari Pandji Pragiwaksono, membahas segala hal yang terjadi di Indonesia.
+  * [Finfolk](https://open.spotify.com/show/3coiCSZDmmBSREVpo0PpIB) - New ideas about investment in a fun way.
+  
+* Youtube Channel
+  * [GaryVee](https://www.youtube.com/user/GaryVaynerchuk) - Keynote speeches on marketing and business.
+  * [Satu Persen](https://www.youtube.com/channel/UC_eifcIIjgN8Q_8m34nWo3Q) - Mengajarkan hal-hal penting yang sampai saat ini belum diajarkan di sekolah konvensional.
+  * [SuccessBefore30](https://www.youtube.com/user/successbefore30/) - Wadah untuk Belajar Berbisnis dan Mengerti tentang aspek-aspek dari Kesuksesan.
+  * [Merry Riana](https://www.youtube.com/user/merryrianashow) - Menciptakan dampak positif di dalam kehidupan jutaan orang di Indonesia.
+  * [Pagar Kehidupan](https://www.youtube.com/channel/UCRPWx7xrHni4v31AkXE16Fg) - Butuh Inspirasi dan bantuan dalam hidup? Ini adalah channel yang bisa Kamu tuju.
+  * [Chandra Hasyim](https://www.youtube.com/channel/UCFCUdbQNQjbK-7UhKy--chg) - Inspiring and motivational video translations in Indonesia.
+  * [Arry Rahmawan](https://www.youtube.com/user/Arry2201/videos) - Arry Rahmawan adalah seorang trainer dan penulis pengembangan diri yang senang berbagi.
+  * [Kok Bisa?](https://www.youtube.com/channel/UCu0yQD7NFMyLu_-TmKa4Hqg) - Pengalaman belajar sains yang inovatif melalui video-video animasi edukatif.
+  
+<br>
+
+🎨
+Designer Starter Pack
+---------------------
+
+_(Upcoming!)_
+
+<br>
+
+💻
+Developer Starter Pack
+----------------------
+
+_(Upcoming!)_
+
+<br>
+
 ⚙️ 
-Chrome Extensions
-------------------
+Top Chrome Extensions
+---------------------
 
 * Increase Productivity
   * [Extensify](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - Quickly enable/disable Chrome extensions.
@@ -152,58 +201,9 @@ Chrome Extensions
 
 <br>
 
-📚
-Self Improvement 
------------------
-
-* Books and Ideas
-  * [Faster to Master](https://fastertomaster.com/) - Read more, learn faster and wake up productivity.
-  * [Optimize Me](https://www.optimize.me/) - The best Big Ideas from the best optimal living books. More wisdom in less time.
-  * [Design Epic Life](https://designepiclife.com/) - Design your life for high performance and success.
-  * [Gates Notes](https://www.gatesnotes.com/Books) - Recommended and books review by Bill Gates.
-  * [Marc Reclau](https://www.marcreklau.com/) - Author of the international #1 bestselling and award-winning book.
-  
-* Podcast
-  * [GaryVee Podcast](https://www.garyvaynerchuk.com/podcast/) - Keynote speeches on marketing and business.
-  * [HBD IdeaCast](https://open.spotify.com/show/4gtSBBxIAE142ApX6LqsvN) - A weekly podcast featuring the leading thinkers in business and management.
-  * [Podcast Subjective](https://soundcloud.com/iqbalhariadi) - Berbagi kisah, insight, dan tips praktis pengembangan diri.
-  * [Satu Persen Audio Insight](https://open.spotify.com/show/1iIFlumWtP4xI1QEzCBcSY) - Berkembang bersama kami, satu persen setiap harinya.
-  * [Thirty Days of Lunch](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww) - Teman makan siang sekaligus nutrisi untuk pikiran. Ga berat, tapi juga ga receh.
-  * [Makna Talks](https://open.spotify.com/show/1PGN4ilb4aoWKkB7FNSLsx) - A weekly podcast with well known subjects every week talking about what's behind the facts.
-  * [Hiduplah Indonesia Maya](https://open.spotify.com/show/6yUPhJdvDAMRVwApXBpQWd) - Podcast dari Pandji Pragiwaksono, membahas segala hal yang terjadi di Indonesia.
-  * [Finfolk](https://open.spotify.com/show/3coiCSZDmmBSREVpo0PpIB) - New ideas about investment in a fun way.
-  
-* Youtube Channel
-  * [GaryVee](https://www.youtube.com/user/GaryVaynerchuk) - Keynote speeches on marketing and business.
-  * [Satu Persen](https://www.youtube.com/channel/UC_eifcIIjgN8Q_8m34nWo3Q) - Mengajarkan hal-hal penting yang sampai saat ini belum diajarkan di sekolah konvensional.
-  * [SuccessBefore30](https://www.youtube.com/user/successbefore30/) - Wadah untuk Belajar Berbisnis dan Mengerti tentang aspek-aspek dari Kesuksesan.
-  * [Merry Riana](https://www.youtube.com/user/merryrianashow) - Menciptakan dampak positif di dalam kehidupan jutaan orang di Indonesia.
-  * [Pagar Kehidupan](https://www.youtube.com/channel/UCRPWx7xrHni4v31AkXE16Fg) - Butuh Inspirasi dan bantuan dalam hidup? Ini adalah channel yang bisa Kamu tuju.
-  * [Chandra Hasyim](https://www.youtube.com/channel/UCFCUdbQNQjbK-7UhKy--chg) - Inspiring and motivational video translations in Indonesia.
-  * [Arry Rahmawan](https://www.youtube.com/user/Arry2201/videos) - Arry Rahmawan adalah seorang trainer dan penulis pengembangan diri yang senang berbagi.
-  * [Kok Bisa?](https://www.youtube.com/channel/UCu0yQD7NFMyLu_-TmKa4Hqg) - Pengalaman belajar sains yang inovatif melalui video-video animasi edukatif.
-
-<br>
-
-🎨
-For Designer 
--------------
-
-_(Upcoming!)_
-
-<br>
-
-💻
-For Developer
---------------
-
-_(Upcoming!)_
-
-<br>
-
 💎
-Top Instagram Accounts
------------------------
+Top Edu Instagram Accounts
+--------------------------
 
 **Catatan** : Pertama-tama Login terlebih dahulu ke akun Instagram anda. Kemudian copy seluruh akun instagram yang ingin anda _follow_ (dibawah). Lalu gunakan tools/generator [ini](https://chrome.google.com/webstore/detail/tools-for-instagram/khnadcdfjbjgojiilfdebbpiepokangj) untuk mem-_follow_ banyak akun sekaligus dalam satu waktu. Selamat! Anda sudah berhasil mem-_follow_ akun-akun Instagram terseleksi dan pilihan.
 
@@ -358,7 +358,7 @@ Top Instagram Accounts
 <br>
 
 🧰
-Top Figma Plugin
------------------
+Top Figma Plugins
+------------------
 
 _(Upcoming!)_
