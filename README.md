@@ -80,7 +80,10 @@ Self Improvement
   * [Optimize Me](https://www.optimize.me/) - The best Big Ideas from the best optimal living books. More wisdom in less time.
   * [Design Epic Life](https://designepiclife.com/) - Design your life for high performance and success.
   * [Gates Notes](https://www.gatesnotes.com/Books) - Recommended and books review by Bill Gates.
-  * [Marc Reclau](https://www.marcreklau.com/) - Author of the international #1 bestselling and award-winning book.
+  * [Marc Reclau](https://www.marcreklau.com/) - Author of the #1 Bestseller "30 Days -Change your habits, change your life".
+  * [Hitman System](https://hitmansystem.com/produk) - Satu-satunya Professional Relationship Consultancy di Indonesia
+  * [Dewa Eka Prayoga](https://dewaekaprayoga.com/) - Dewa Selling, hobi jualan, plus ngajarin orang jago jualan.
+  * [Arry Rahmawan](https://arryrahmawan.net/) - Mengikat dan Berbagi Ilmu untuk Generasi Indonesia yang Lebih Baik.
   
 * Podcast
   * [GaryVee Podcast](https://www.garyvaynerchuk.com/podcast/) - Keynote speeches on marketing and business.
@@ -96,10 +99,10 @@ Self Improvement
   * [GaryVee](https://www.youtube.com/user/GaryVaynerchuk) - Keynote speeches on marketing and business.
   * [Satu Persen](https://www.youtube.com/channel/UC_eifcIIjgN8Q_8m34nWo3Q) - Mengajarkan hal-hal penting yang sampai saat ini belum diajarkan di sekolah konvensional.
   * [SuccessBefore30](https://www.youtube.com/user/successbefore30/) - Wadah untuk Belajar Berbisnis dan Mengerti tentang aspek-aspek dari Kesuksesan.
-  * [Merry Riana](https://www.youtube.com/user/merryrianashow) - Menciptakan dampak positif di dalam kehidupan jutaan orang di Indonesia.
   * [Pagar Kehidupan](https://www.youtube.com/channel/UCRPWx7xrHni4v31AkXE16Fg) - Butuh Inspirasi dan bantuan dalam hidup? Ini adalah channel yang bisa Kamu tuju.
   * [Chandra Hasyim](https://www.youtube.com/channel/UCFCUdbQNQjbK-7UhKy--chg) - Inspiring and motivational video translations in Indonesia.
-  * [Arry Rahmawan](https://www.youtube.com/user/Arry2201/videos) - Arry Rahmawan adalah seorang trainer dan penulis pengembangan diri yang senang berbagi.
+  * [Merry Riana](https://www.youtube.com/user/merryrianashow) - Menciptakan dampak positif di dalam kehidupan jutaan orang di Indonesia.
+  * [Dewa Eka Prayoga](https://www.youtube.com/channel/UCx-9wWeG3YcqxXKXxOn3wMA) - Sharing seputar bisnis online, digital marketing, copywriting, dll.
   * [Kok Bisa?](https://www.youtube.com/channel/UCu0yQD7NFMyLu_-TmKa4Hqg) - Pengalaman belajar sains yang inovatif melalui video-video animasi edukatif.
   
 <br>
@@ -122,6 +125,7 @@ Developer Starter Pack
   * [Build With Angga](https://buildwithangga.com/) - Pelajari keahlian baru yang dibutuhkan oleh perusahaan IT terbesar di seluruh dunia.
   * [Be Fullstack Developer](https://buku-laravel-vue.com/) - Panduan Hebat untuk Menjadi Fullstack Developer! Laravel & Vue.js.
   * [W3Schools](https://www.w3schools.com/) - Educational website for learning web technologies online.
+  * [A Smarter Way](https://www.amazon.com/Mark-Myers/e/B00HNW14T4?ref_=dbs_p_ebk_r00_abau_000000) - Coding, I learned, isn't that hard. Easy way to learn web programming.
   * [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) - TOP Udemy Videos #1 (JavaScript Base)
   * [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) -  TOP Udemy Videos #2 (JavaScript Base)
   * [The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) - TOP Udemy Videos #3 (PHP Base)
