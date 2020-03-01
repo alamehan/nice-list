@@ -26,7 +26,7 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 	<a href="#top-visual-studio-extensions">Top Visual Studio Extensions</a>&nbsp;&nbsp;&nbsp;
 	<a href="#incredibly-useful-websites">Incredibly Useful Websites</a>&nbsp;&nbsp;&nbsp;
 	<a href="#educational-instagram-accounts">Educational Instagram Accounts</a>&nbsp;&nbsp;&nbsp;
-	<a href="#windows-sofware-bundle">Windows Software Bundle</a>&nbsp;&nbsp;&nbsp;	
+	<a href="#windows-sofware-bundles">Software Bundles</a>&nbsp;&nbsp;&nbsp;	
 </p>
 
 <br>
@@ -560,7 +560,7 @@ Educational Instagram Accounts
 <br>
 
 💽
-Windows Software Bundle
-------------------------
+Windows Software Bundles
+-------------------------
 
 _(Upcoming!)_
