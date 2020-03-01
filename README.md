@@ -262,7 +262,7 @@ Top Figma Plugins
   * [Project Scaffold](https://www.figma.com/community/plugin/747372158567878238/Project-Scaffold) - This plugin Generates a Scaffold for your Product design project in just 1 click.
   * [Wireframe](https://www.figma.com/community/plugin/742764242781786818/Wireframe) - Creating beautiful user flow prototypes and basic structures.
   * [Interplay](https://www.figma.com/community/plugin/736368164448889527/Interplay) - Imports your design system code repository and lets you design with code components
-  * [Cover Generaotr](https://www.figma.com/community/plugin/745146759001708690/Cover-Generator) - Takes a name, description and status as input and generates a cover Image for your figma file.
+  * [Cover Generator](https://www.figma.com/community/plugin/745146759001708690/Cover-Generator) - Takes a name, description and status as input and generates a cover Image for your figma file.
 
 * About Color
   * [Contrast](https://www.figma.com/community/plugin/748533339900865323/Contrast) - Makes it easy to check the contrast ratios of colors as you work.
