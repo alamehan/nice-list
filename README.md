@@ -22,8 +22,8 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 	<a href="#designer-starter-pack">Designer Starter Pack</a>&nbsp;&nbsp;&nbsp;
 	<a href="#developer-starter-pack">Developer Starter Pack</a>&nbsp;&nbsp;&nbsp;
 	<a href="#top-chrome-extensions">Top Chrome Extensions</a>&nbsp;&nbsp;&nbsp;
-	<a href="#top-edu-instagram-accounts">Top Edu Instagram Accounts</a>&nbsp;&nbsp;&nbsp;
 	<a href="#top-figma-plugins">Top Figma Plugins</a>&nbsp;&nbsp;&nbsp;
+	<a href="#top-edu-instagram-accounts">Top Edu Instagram Accounts</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -116,7 +116,51 @@ _(Upcoming!)_
 Developer Starter Pack
 ----------------------
 
-_(Upcoming!)_
+* Full-Stack Web Dev
+  * [Dunia Ilkom](https://www.duniailkom.com/) - Situs belajar programming Indonesia, membahas lengkap materi bahasa pemrograman website.
+  * [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) - Membahas mengenai teknologi internet dan pengembangan web.  
+  * [Build With Angga](https://buildwithangga.com/) - Pelajari keahlian baru yang dibutuhkan oleh perusahaan IT terbesar di seluruh dunia.
+  * [Be Fullstack Developer](https://buku-laravel-vue.com/) - Panduan Hebat untuk Menjadi Fullstack Developer! Laravel & Vue.js.
+  * [W3Schools](https://www.w3schools.com/) - Educational website for learning web technologies online.
+  * [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) - TOP Udemy Videos #1 (JavaScript Base)
+  * [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) -  TOP Udemy Videos #2 (JavaScript Base)
+  * [The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) - TOP Udemy Videos #3 (PHP Base)
+  * [Master Laravel 6 with Vue.js Fullstack Development](https://www.udemy.com/course/master-laravel-6-with-vuejs-fullstack-development/) - TOP Udemy Videos #4 (PHP Base)
+  
+* Front-End Web Dev
+  * [HTML](https://github.com/diegocard/awesome-html5) - HTML Resource
+  * [CSS](https://github.com/micromata/awesome-css-learning) - CSS Resource #1 (Learn)
+  * [CSS](https://github.com/awesome-css-group/awesome-css) - CSS Resource #2 (Collection)
+  * [BootStrap](https://github.com/pierceoneill/awesome-bootstrap) - CSS Framework
+  * [JavaScript](https://github.com/micromata/awesome-javascript-learning) - JavaScript Resource #1 (Learn)
+  * [JavaScript](https://github.com/sorrycc/awesome-javascript) - JavaScript Resource #2 (Collection)
+  * [JavaScript](https://github.com/addyosmani/es6-tools) - JavaScript Resource #3 (Tools)
+  * [JSON](https://github.com/burningtree/awesome-json) - JSON Resource
+  * [JQuery](https://github.com/petk/awesome-jquery) - JavaScript Library
+  * [Vue.js](https://github.com/vuejs/awesome-vue) - JavaScript Framework #1
+  * [React](https://github.com/enaqx/awesome-react) - JavaScript Framework #2
+  * [Angular](https://github.com/PatrickJS/awesome-angular) - JavaScript Framework #3
+  
+* Back-End Web Dev
+  * [PHP](https://github.com/odan/learn-php) - PHP Resource #1
+  * [PHP](https://github.com/ziadoz/awesome-php) - PHP Resource #2
+  * [REST](https://github.com/marmelab/awesome-rest) - REST Resource
+  * [MySQL](https://github.com/shlomi-noach/awesome-mysql) - MySQL Resource
+  * [Laravel](https://github.com/shlomi-noach/awesome-mysql) - PHP Framework
+  * [NodeJs](https://github.com/sindresorhus/awesome-nodejs) - **Back-End JavaScript Base**
+
+* Miscellaneous 1
+  * [Pro Git](https://github.com/progit/progit2-id) - Panduan menggunakan Git berbahasa Indonesia.
+  * [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
+  * [Awesome Github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness.
+  * [Awesome Guideline](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+  
+* Miscellaneous 2
+  * [Free for Developer](https://github.com/ripienaar/free-for-de) - A curated list of Developer resources.
+  * [Developer Roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps, mostly about software development.
+  * [Full-Stack Resources](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development.
+  * [Front-End Resources](https://github.com/dypsilon/frontend-dev-bookmarks) - Free resources for learning Front End Web Development.
+  * [Back-End Resources](https://github.com/backend-br/awesome-backend) - Free resources for learning Back End Web Development.
 
 <br>
 
@@ -198,6 +242,14 @@ Top Chrome Extensions
   * [Loom](https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb) - Capture, narrate and instantly share videos to communicate faster, clearer and friendlier.
   * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) - Increase your max volume by up to 4 times the loudness.
   * [Clever Mute](https://chrome.google.com/webstore/detail/clever-mute/eadinjjkfelcokdlmoechclnmmmjnpdh) - This extension mutes all sites by default.
+  
+<br>
+
+🧰
+Top Figma Plugins
+------------------
+
+_(Upcoming!)_
 
 <br>
 
@@ -354,11 +406,3 @@ Top Edu Instagram Accounts
 1. @kreatifdigital
 1. @alamcreative
 1. @mousely7
-
-<br>
-
-🧰
-Top Figma Plugins
-------------------
-
-_(Upcoming!)_
