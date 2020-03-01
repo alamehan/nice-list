@@ -19,9 +19,12 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 <p align="center">
 	<a href="#mudah-cari-kerja">Mudah Cari Kerja</a>&nbsp;&nbsp;&nbsp;
 	<a href="#chrome-extension">Chrome Extension</a>&nbsp;&nbsp;&nbsp;
+	<a href="#self-improvement">Self Improvement</a>&nbsp;&nbsp;&nbsp;
+	<a href="#for-designer">For Designer</a>&nbsp;&nbsp;&nbsp;
+	<a href="#for-developer">For Developer</a>&nbsp;&nbsp;&nbsp;
+	<a href="#top-instagram-account">Top Instagram Account</a>&nbsp;&nbsp;&nbsp;
+	<a href="#top-figma plugin">Top Figma Plugin</a>&nbsp;&nbsp;&nbsp;
 </p>
-
-<br>
 
 💼 Mudah Cari Kerja
 --------------------
@@ -62,8 +65,6 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
   * [Fastwork](https://fastwork.id/start-selling)
   * [99designs](https://99designs.com/contests)
   * [DesignCrowd](https://jobs.designcrowd.com/jobs/)
-  
-<br>
 
 ⚙️ Chrome Extension
 --------------------
@@ -142,10 +143,8 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
   * [Loom](https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb) - Capture, narrate and instantly share videos to communicate faster, clearer and friendlier.
   * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) - Increase your max volume by up to 4 times the loudness.
   * [Clever Mute](https://chrome.google.com/webstore/detail/clever-mute/eadinjjkfelcokdlmoechclnmmmjnpdh) - This extension mutes all sites by default.
- 
-<br>
 
-📚 Self-Improvement 
+📚 Self Improvement 
 --------------------
 
 * Books and Ideas
@@ -180,14 +179,10 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 
 _(Upcoming!)_
 
-<br>
-
 💻 For Developer
 -----------------
 
 _(Upcoming!)_
-
-<br>
 
 💎 Top Instagram Accounts
 -------------------------
@@ -341,8 +336,6 @@ _(Upcoming!)_
 1. @kreatifdigital
 1. @alamcreative
 1. @mousely7
-
-<br>
 
 🧰 Top Figma Plugin
 --------------------
