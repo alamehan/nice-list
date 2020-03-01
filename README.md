@@ -18,17 +18,18 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 
 <p align="center">
 	<a href="#mudah-cari-kerja">Mudah Cari Kerja</a>&nbsp;&nbsp;&nbsp;
-	<a href="#⚙️-chrome-extension">Chrome Extension</a>&nbsp;&nbsp;&nbsp;
-	<a href="#📚-self-improvement">Self Improvement</a>&nbsp;&nbsp;&nbsp;
-	<a href="#🎨-for-designer">For Designer</a>&nbsp;&nbsp;&nbsp;
-	<a href="#💻-for-developer">For Developer</a>&nbsp;&nbsp;&nbsp;
-	<a href="#💎-top-instagram-account">Top Instagram Account</a>&nbsp;&nbsp;&nbsp;
-	<a href="#🧰-top-figma plugin">Top Figma Plugin</a>&nbsp;&nbsp;&nbsp;
+	<a href="#chrome-extension">Chrome Extension</a>&nbsp;&nbsp;&nbsp;
+	<a href="#self-improvement">Self Improvement</a>&nbsp;&nbsp;&nbsp;
+	<a href="#for-designer">For Designer</a>&nbsp;&nbsp;&nbsp;
+	<a href="#for-developer">For Developer</a>&nbsp;&nbsp;&nbsp;
+	<a href="#top-instagram-account">Top Instagram Account</a>&nbsp;&nbsp;&nbsp;
+	<a href="#top-figma plugin">Top Figma Plugin</a>&nbsp;&nbsp;&nbsp;
 </p>
 
+<br>
 💼 
 Mudah Cari Kerja
---------------------
+-----------------
 
 * General
   * [LinkedIn](https://www.linkedin.com/)
@@ -67,8 +68,10 @@ Mudah Cari Kerja
   * [99designs](https://99designs.com/contests)
   * [DesignCrowd](https://jobs.designcrowd.com/jobs/)
 
-⚙️ Chrome Extension
---------------------
+<br>
+⚙️
+Chrome Extension
+----------------
 
 * Increase Productivity
   * [Extensify](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - Quickly enable/disable Chrome extensions.
@@ -145,8 +148,10 @@ Mudah Cari Kerja
   * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) - Increase your max volume by up to 4 times the loudness.
   * [Clever Mute](https://chrome.google.com/webstore/detail/clever-mute/eadinjjkfelcokdlmoechclnmmmjnpdh) - This extension mutes all sites by default.
 
-📚 Self Improvement 
---------------------
+<br>
+📚
+Self Improvement 
+-----------------
 
 * Books and Ideas
   * [Faster to Master](https://fastertomaster.com/) - Read more, learn faster and wake up productivity.
@@ -175,18 +180,24 @@ Mudah Cari Kerja
   * [Arry Rahmawan](https://www.youtube.com/user/Arry2201/videos) - Arry Rahmawan adalah seorang trainer dan penulis pengembangan diri yang senang berbagi.
   * [Kok Bisa?](https://www.youtube.com/channel/UCu0yQD7NFMyLu_-TmKa4Hqg) - Pengalaman belajar sains yang inovatif melalui video-video animasi edukatif.
 
-🎨 For Designer 
-----------------
+<br>
+🎨
+For Designer 
+-------------
 
 _(Upcoming!)_
 
-💻 For Developer
------------------
+<br>
+💻
+For Developer
+--------------
 
 _(Upcoming!)_
 
-💎 Top Instagram Accounts
--------------------------
+<br>
+💎
+Top Instagram Accounts
+-----------------------
 
 **Catatan** : Pertama-tama Login terlebih dahulu ke akun Instagram anda. Kemudian copy seluruh akun instagram yang ingin anda _follow_ (dibawah). Lalu gunakan tools/generator [ini](https://chrome.google.com/webstore/detail/tools-for-instagram/khnadcdfjbjgojiilfdebbpiepokangj) untuk mem-_follow_ banyak akun sekaligus dalam satu waktu. Selamat! Anda sudah berhasil mem-_follow_ akun-akun Instagram terseleksi dan pilihan.
 
@@ -338,7 +349,9 @@ _(Upcoming!)_
 1. @alamcreative
 1. @mousely7
 
-🧰 Top Figma Plugin
---------------------
+<br>
+🧰
+Top Figma Plugin
+-----------------
 
 _(Upcoming!)_
