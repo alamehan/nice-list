@@ -23,8 +23,9 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 	<a href="#developer-starter-pack">Developer Starter Pack</a>&nbsp;&nbsp;&nbsp;
 	<a href="#top-chrome-extensions">Top Chrome Extensions</a>&nbsp;&nbsp;&nbsp;
 	<a href="#top-figma-plugins">Top Figma Plugins</a>&nbsp;&nbsp;&nbsp;
+	<a href="#top-visual-studio-extensions">Top Visual Studio Extensions</a>&nbsp;&nbsp;&nbsp;
 	<a href="#incredibly-useful-websites">Incredibly Useful Websites</a>&nbsp;&nbsp;&nbsp;
-	<a href="#top-education-instagram-accounts">Top Education Instagram Accounts</a>&nbsp;&nbsp;&nbsp;
+	<a href="#educational-instagram-accounts">Educational Instagram Accounts</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -253,7 +254,7 @@ Top Chrome Extensions
   
 <br>
 
-🧰
+🔮
 Top Figma Plugins
 ------------------
 
@@ -333,6 +334,14 @@ Top Figma Plugins
   
 <br>
 
+⚔️
+Top Visual Studio Extensions
+----------------------------
+
+_(Upcoming!)_
+  
+<br>
+
 🌐
 Incredibly Useful Websites
 --------------------------
@@ -379,8 +388,8 @@ Incredibly Useful Websites
 <br>
 
 💎
-Top Education Instagram Accounts
---------------------------------
+Educational Instagram Accounts
+------------------------------
 
 **Catatan** : Pertama-tama Login terlebih dahulu ke akun Instagram anda. Kemudian copy seluruh akun instagram yang ingin anda _follow_ (dibawah). Lalu gunakan tools/generator [ini](https://chrome.google.com/webstore/detail/helper-tools-for-instagra/clibiflfecckdjnjcgcgjdknmbgceail) untuk mem-_follow_ banyak akun sekaligus dalam satu waktu. Selamat! Anda sudah berhasil mem-_follow_ akun-akun Instagram terseleksi dan pilihan.
 
