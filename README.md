@@ -142,8 +142,8 @@ Developer Starter Pack
   * [Angular](https://github.com/PatrickJS/awesome-angular) - JavaScript Framework #3
   
 * Back-End Web Dev
-  * [PHP](https://github.com/odan/learn-php) - PHP Resource #1
-  * [PHP](https://github.com/ziadoz/awesome-php) - PHP Resource #2
+  * [PHP](https://github.com/odan/learn-php) - PHP Resource #1 (Learn)
+  * [PHP](https://github.com/ziadoz/awesome-php) - PHP Resource #2 (Collection)
   * [REST](https://github.com/marmelab/awesome-rest) - REST Resource
   * [MySQL](https://github.com/shlomi-noach/awesome-mysql) - MySQL Resource
   * [Laravel](https://github.com/shlomi-noach/awesome-mysql) - PHP Framework
