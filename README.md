@@ -21,8 +21,8 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 	<a href="#chrome-extension">Chrome Extension</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-Mudah Cari Kerja
-----------------
+💼 Mudah Cari Kerja
+--------------------
 
 * General
   * [LinkedIn](https://www.linkedin.com/)
@@ -61,8 +61,8 @@ Mudah Cari Kerja
   * [99designs](https://99designs.com/contests)
   * [DesignCrowd](https://jobs.designcrowd.com/jobs/)
   
-Chrome Extension
-----------------
+⚙️ Chrome Extension
+--------------------
 
 * Increase Productivity
   * [Extensify](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - Quickly enable/disable Chrome extensions.
