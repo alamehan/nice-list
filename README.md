@@ -84,7 +84,7 @@ Self Improvement
   
 * Podcast
   * [GaryVee Podcast](https://www.garyvaynerchuk.com/podcast/) - Keynote speeches on marketing and business.
-  * [HBD IdeaCast](https://open.spotify.com/show/4gtSBBxIAE142ApX6LqsvN) - A weekly podcast featuring the leading thinkers in business and management.
+  * [HBR IdeaCast](https://open.spotify.com/show/4gtSBBxIAE142ApX6LqsvN) - A weekly podcast featuring the leading thinkers in business and management.
   * [Podcast Subjective](https://soundcloud.com/iqbalhariadi) - Berbagi kisah, insight, dan tips praktis pengembangan diri.
   * [Satu Persen Audio Insight](https://open.spotify.com/show/1iIFlumWtP4xI1QEzCBcSY) - Berkembang bersama kami, satu persen setiap harinya.
   * [Thirty Days of Lunch](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww) - Teman makan siang sekaligus nutrisi untuk pikiran. Ga berat, tapi juga ga receh.
@@ -205,7 +205,7 @@ Top Chrome Extensions
 Top Edu Instagram Accounts
 --------------------------
 
-**Catatan** : Pertama-tama Login terlebih dahulu ke akun Instagram anda. Kemudian copy seluruh akun instagram yang ingin anda _follow_ (dibawah). Lalu gunakan tools/generator [ini](https://chrome.google.com/webstore/detail/tools-for-instagram/khnadcdfjbjgojiilfdebbpiepokangj) untuk mem-_follow_ banyak akun sekaligus dalam satu waktu. Selamat! Anda sudah berhasil mem-_follow_ akun-akun Instagram terseleksi dan pilihan.
+**Catatan** : Pertama-tama Login terlebih dahulu ke akun Instagram anda. Kemudian copy seluruh akun instagram yang ingin anda _follow_ (dibawah). Lalu gunakan tools/generator [ini](https://chrome.google.com/webstore/detail/helper-tools-for-instagra/clibiflfecckdjnjcgcgjdknmbgceail) untuk mem-_follow_ banyak akun sekaligus dalam satu waktu. Selamat! Anda sudah berhasil mem-_follow_ akun-akun Instagram terseleksi dan pilihan.
 
 * Self-Improvement
 1. _(Upcoming!)_
