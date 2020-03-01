@@ -40,8 +40,8 @@ Cari Kerja
   * [Gojek](https://career.go-jek.com/job/)
   * [Traveloka](https://www.traveloka.com/en/careers)
   * [Pegipegi](https://www.pegipegi.com/team/career.html)
-  * [Dana](https://web-pre.dana.id/karir/detail/1/Technology)
-  * [KitaBIsa](https://kitabisa.urbanhire.com/)
+  * [Dana](https://www.dana.id/karir)
+  * [KitaBisa](https://kitabisa.urbanhire.com/)
   * [Ruangguru](https://career.ruangguru.com)
 * Freelancer & Project
   * [Freelancer](https://www.freelancer.co.id/search/projects/)
