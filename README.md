@@ -336,6 +336,10 @@ Top Figma Plugins
 Incredibly Useful Websites
 --------------------------
 
+* Expand Your Knowledge
+  * [Medium](https://medium.com/) - Our sole purpose is to help you find compelling ideas, knowledge, and perspectives.
+  * [MakeUseOf](https://www.makeuseof.com/) - Learn how to make use of tech and gadgets around you and discover cool stuff on the Internet.
+
 * Digital Product
   * [Product Hunt](http://www.producthunt.com/) - Discover the latest mobile apps, websites, and technology products.
   * [YourStack](https://yourstack.com/) - YourStack is for sharing your favorite products with the world.
