@@ -17,23 +17,27 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 <img src="letsgo.png">
 
 <p align="center">
-	<a href="#find-a-job">Find a Job</a>&nbsp;&nbsp;&nbsp;
-	<a href="#self-improvement">Self Improvement</a>&nbsp;&nbsp;&nbsp;
-	<a href="#designer-starter-pack">Designer Starter Pack</a>&nbsp;&nbsp;&nbsp;
-	<a href="#developer-starter-pack">Developer Starter Pack</a>&nbsp;&nbsp;&nbsp;
-	<a href="#top-chrome-extensions">Top Chrome Extensions</a>&nbsp;&nbsp;&nbsp;
-	<a href="#top-figma-plugins">Top Figma Plugins</a>&nbsp;&nbsp;&nbsp;
-	<a href="#top-visual-studio-extensions">Top Visual Studio Extensions</a>&nbsp;&nbsp;&nbsp;
-	<a href="#incredibly-useful-websites">Incredibly Useful Websites</a>&nbsp;&nbsp;&nbsp;
-	<a href="#educational-instagram-accounts">Educational Instagram Accounts</a>&nbsp;&nbsp;&nbsp;
-	<a href="#windows-sofware-bundles">Software Bundles</a>&nbsp;&nbsp;&nbsp;	
+	<a href="#find-a-job">Find a Job</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#self-improvement">Self Improvement</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#designer-starter-pack">Designer Starter Pack</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#developer-starter-pack">Developer Starter Pack</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<br>
+	<a href="#top-chrome-extensions">Top Chrome Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#top-figma-plugins">Top Figma Plugins</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#top-visual-studio-extensions">Top Visual Studio Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<br>
+	<a href="#incredibly-useful-websites">Incredibly Useful Websites</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#educational-instagram-accounts">Educational Instagram Accounts</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#windows-sofware-bundles">Software Bundles</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+---
 
 <br>
 
 💼 
 Find a Job
------------
+---
 
 * General
   * [LinkedIn](https://www.linkedin.com/)
@@ -76,9 +80,9 @@ Find a Job
 
 <br>
 
-📚
+📚 
 Self Improvement 
------------------
+---
 
 * Books and Ideas
   * [Faster to Master](https://fastertomaster.com/) - Read more, learn faster and wake up productivity.
@@ -112,17 +116,17 @@ Self Improvement
   
 <br>
 
-🎨
+🎨 
 Designer Starter Pack
----------------------
+---
 
 _(Upcoming!)_
 
 <br>
 
-💻
+💻 
 Developer Starter Pack
-----------------------
+---
 
 * Top Udemy Course
   * [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) - JavaScript Base
@@ -178,7 +182,7 @@ Developer Starter Pack
 
 ⚙️ 
 Top Chrome Extensions
----------------------
+---
 
 * Increase Productivity
   * [Extensify](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - Quickly enable/disable Chrome extensions.
@@ -257,9 +261,9 @@ Top Chrome Extensions
   
 <br>
 
-🔮
+🔮 
 Top Figma Plugins
-------------------
+---
 
 * Project Template
   * [Project Scaffold](https://www.figma.com/community/plugin/747372158567878238/Project-Scaffold) - This plugin Generates a Scaffold for your Product design project in just 1 click.
@@ -335,17 +339,17 @@ Top Figma Plugins
   
 <br>
 
-⚔️
+⚔️ 
 Top Visual Studio Extensions
-----------------------------
+---
 
 _(Upcoming!)_
   
 <br>
 
-🌐
+🌐 
 Incredibly Useful Websites
---------------------------
+---
 
 * Expand Your Knowledge
   * [Medium](https://medium.com/) - Our sole purpose is to help you find compelling ideas, knowledge, and perspectives.
@@ -404,9 +408,9 @@ Incredibly Useful Websites
   
 <br>
 
-💎
+💎 
 Educational Instagram Accounts
-------------------------------
+---
 
 **Catatan** : Pertama-tama Login terlebih dahulu ke akun Instagram anda. Kemudian copy seluruh akun instagram yang ingin anda _follow_ (dibawah). Lalu gunakan tools/generator [ini](https://chrome.google.com/webstore/detail/helper-tools-for-instagra/clibiflfecckdjnjcgcgjdknmbgceail) untuk mem-_follow_ banyak akun sekaligus dalam satu waktu. Selamat! Anda sudah berhasil mem-_follow_ akun-akun Instagram terseleksi dan pilihan.
 
@@ -414,9 +418,9 @@ Educational Instagram Accounts
 
 <br>
 
-💽
+💽 
 Windows Software Bundles
--------------------------
+---
 
 * Driver Installer
   * [DriverPack Solution](https://driverpack.io/) - Help you to download all the required and competitive drivers to your computer.
