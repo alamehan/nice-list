@@ -33,6 +33,8 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 
 ---
 
+<br>
+
 <div id="sec01"></div>
 
 💼 
