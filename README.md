@@ -587,7 +587,7 @@ Windows Software Bundles
   * [uTorrent](https://www.utorrent.com/) - The best torrent downloading app for beginners. Play torrents while you download.
 
 * Security & Optimization
-  * [360 Total Security](https://www.360totalsecurity.com/) - Your Unified Solution For PC Security and Performance.
+  * [360 Total Security](https://www.360totalsecurity.com/) - Your unified solution for PC security and performance.
   * [Malwarebytes](https://www.malwarebytes.com/) - Protects you against malware, ransomware, malicious websites, and other advanced threats.
   * [Austlogics Boostpeed](https://www.auslogics.com/) - A complete checkup of your entire system locating junk files and speed-reducing issues.
   * [Wise Care 365](https://www.wisecleaner.com/wise-care-365.html) - All-in-one system tune up tool. Speed up slow computer. Clean registry and junk files.
