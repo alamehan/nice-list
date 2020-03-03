@@ -28,14 +28,13 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 	<br>
 	<a href="#incredibly-useful-websites">Incredibly Useful Websites</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="#educational-instagram-accounts">Educational Instagram Accounts</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#windows-sofware-bundles">Software Bundles</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#windows-software-bundles">Software Bundles</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
 
-<br>
+💼
 
-💼 
 Find a Job
 ---
 
@@ -77,10 +76,11 @@ Find a Job
   * [Fastwork](https://fastwork.id/start-selling)
   * [99designs](https://99designs.com/contests)
   * [DesignCrowd](https://jobs.designcrowd.com/jobs/)
+  
+---
 
-<br>
+📚
 
-📚 
 Self Improvement 
 ---
 
@@ -113,18 +113,20 @@ Self Improvement
   * [Merry Riana](https://www.youtube.com/user/merryrianashow) - Menciptakan dampak positif di dalam kehidupan jutaan orang di Indonesia.
   * [Dewa Eka Prayoga](https://www.youtube.com/channel/UCx-9wWeG3YcqxXKXxOn3wMA) - Sharing seputar bisnis online, digital marketing, copywriting, dll.
   * [Kok Bisa?](https://www.youtube.com/channel/UCu0yQD7NFMyLu_-TmKa4Hqg) - Pengalaman belajar sains yang inovatif melalui video-video animasi edukatif.
-  
-<br>
 
-🎨 
+---
+
+🎨
+
 Designer Starter Pack
 ---
 
 _(Upcoming!)_
 
-<br>
+---
 
-💻 
+💻
+
 Developer Starter Pack
 ---
 
@@ -178,9 +180,10 @@ Developer Starter Pack
   * [Front-End Resources](https://github.com/dypsilon/frontend-dev-bookmarks) - Free resources for learning Front End Web Development.
   * [Back-End Resources](https://github.com/backend-br/awesome-backend) - Free resources for learning Back End Web Development.
 
-<br>
+---
 
-⚙️ 
+⚙️
+
 Top Chrome Extensions
 ---
 
@@ -258,10 +261,11 @@ Top Chrome Extensions
   * [Loom](https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb) - Capture, narrate and instantly share videos to communicate faster, clearer and friendlier.
   * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) - Increase your max volume by up to 4 times the loudness.
   * [Clever Mute](https://chrome.google.com/webstore/detail/clever-mute/eadinjjkfelcokdlmoechclnmmmjnpdh) - This extension mutes all sites by default.
-  
-<br>
 
-🔮 
+---
+
+🔮
+
 Top Figma Plugins
 ---
 
@@ -336,18 +340,20 @@ Top Figma Plugins
   * [Figmotion](https://www.figma.com/community/plugin/733025261168520714/Figmotion) - Figmotion is an animation tool built right in Figma.
   * [Design Inspo](https://www.figma.com/community/plugin/738775292786594626/Design-Inspo) - The best way to quickly look for design inspiration while you work.
   * [Remove BG](https://www.figma.com/community/plugin/738992712906748191/Remove-BG) - Remove the background of images automatically with just a single click.
-  
-<br>
 
-⚔️ 
+---
+
+⚔️
+
 Top Visual Studio Extensions
 ---
 
 _(Upcoming!)_
-  
-<br>
 
-🌐 
+---
+
+🌐
+
 Incredibly Useful Websites
 ---
 
@@ -405,10 +411,11 @@ Incredibly Useful Websites
   * [Bitly](https://bitly.com/) - Shorten, create and share trusted, powerful links for your business.
   * [Small PDF](https://smallpdf.com/) - All-in-one (convert, compress, merge, split and edit) easy-to-use online PDF tools.
   * [Vector Magic](https://vectormagic.com/) - Easily Convert JPG, PNG, GIF Files to PDF, SVG, EPS Vectors.
-  
-<br>
 
-💎 
+---
+
+💎
+
 Educational Instagram Accounts
 ---
 
@@ -416,9 +423,10 @@ Educational Instagram Accounts
 
 **Buka file** [topinstagram.txt](../master/topinstagram.txt)
 
-<br>
+---
 
-💽 
+💽
+
 Windows Software Bundles
 ---
 
