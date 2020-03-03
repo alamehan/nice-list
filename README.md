@@ -618,7 +618,7 @@ Windows Software Bundles
   * [Audacity](https://www.audacityteam.org/) - Audacity is an easy-to-use, multi-track audio editor and recorder.
   * [Subtitle Edit](https://www.nikse.dk/subtitleedit) - A free (open source) editor for video subtitles - a subtitle editor.
 
-* Graphics Software
+* Designer Tools
   * [Adobe Creative Suite](https://www.adobe.com/creativecloud.html) - Collection of 20+ desktop and mobile apps for photography, design, video, web, UX, etc.
   * [GIMP](https://www.gimp.org/) - GNU Image Manipulation Program. The free, open source and cross-platform Image Editor.
   * [Inkscape](https://inkscape.org/) - A professional vector graphics editor for Linux, Windows and macOS. It's free and open source.
@@ -633,7 +633,7 @@ Windows Software Bundles
   * [Cyotek Palette Editor](https://www.cyotek.com/cyotek-palette-editor) - Allows you to create and work with colour palettes, in a variety of formats.
   * [Icons8](https://www.darktable.org/) - Design stuff for free, for your project - icons, photos, vectors, music, and tools.
   
-* Video Editing Software
+* Producer Tools
   * [VEGAS](http://www.vegascreativesoftware.com/) - The VEGAS range of creative software is all you need for fast, professional and efficient video production.
   * [HitFilm Express](https://fxhome.com/hitfilm-express) - A free video editing software with professional-grade VFX tools and everything you need.
   * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - A professional editing and color grading system that is suitable for everyone.
@@ -644,13 +644,15 @@ Windows Software Bundles
   * [Aseprite](https://www.aseprite.org/) - Create 2D animations for videogames. From sprites, to pixel-art, retro style graphics, and more.
   
 * Developer Tools
-  * **(Upcoming!)**
+  * Code Editor & IDE
+  * Computer Network
+  * Game Developer
   
 * Miscellaneous
   * Useful Apps
-  * CD, DVD, Blue-Ray Tools
-  * HDD Tools
-  * Remote Tools
+  * CD/DVD/Blue-Ray Apps
+  * HDD Apps
+  * Remote Apps
   * Benchmarking Apps
   * Tive-Saving Apps
   * Education Apps
