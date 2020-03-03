@@ -585,21 +585,27 @@ Windows Software Bundles
   * [4K Video Downloader](https://www.4kdownload.com/) - Allows downloading videos, playlists, channels and subtitles in high quality.
   * [Google2SRT](https://sourceforge.net/projects/google2srt/) - Download, save and convert multiple subtitles from YouTube videos.
   * [uTorrent](https://www.utorrent.com/) - The best torrent downloading app for beginners. Play torrents while you download.
-  
-* Document & Office Tools
-  * [Microsoft Office](https://www.office.com/) - Your place to create, communicate, collaborate, and get great work done.
-  * [WPS Office](https://www.wps.com/) - A new generation of office solutions. With powerful PDF, WPS Cloud, OCR, Files Repair, etc.
-  * [Edraw Max](https://www.edrawsoft.com/edraw-max/) - Creating flow chart, mind map, org charts, network diagrams and floor plans with templates.
-  * [XMind](https://www.xmind.net/) - The most professional and popular mind mapping tool.
-  * [PDF Sharper](https://www.pdfshaper.com/) - All-in-one PDF software optimized for better productivity and document security.
-  * [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) - Small, fast, and feature-rich PDF viewer that allows you to open, view, and print any PDF file.
-  * [Evernote](https://evernote.com/) - Take notes anywhere. Find information faster. Share ideas with anyone.
-  
+
 * Security & Optimization
   * [360 Total Security](https://www.360totalsecurity.com/) - Your Unified Solution For PC Security and Performance.
   * [Malwarebytes](https://www.malwarebytes.com/) - Protects you against malware, ransomware, malicious websites, and other advanced threats.
   * [Austlogics Boostpeed](https://www.auslogics.com/) - A complete checkup of your entire system locating junk files and speed-reducing issues.
+  * [Wise Care 365](https://www.wisecleaner.com/wise-care-365.html) - All-in-one system tune up tool. Speed up slow computer. Clean registry and junk files.
   * [CCleaner](https://www.ccleaner.com/) - The No.1 Tool For Cleaning Your PC. Automatic cleaning. Reduce PC startup time.
+  
+* Document & Office Tools
+  * [Microsoft Office](https://www.office.com/) - Your place to create, communicate, collaborate, and get great work done.
+  * [WPS Office](https://www.wps.com/) - A new generation of office solutions. With powerful PDF, WPS Cloud, OCR, Files Repair, etc.
+  * [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) - Small, fast, and feature-rich PDF viewer that allows you to open, view, and print any PDF file.
+  * [Evernote](https://evernote.com/) - Take notes anywhere. Find information faster. Share ideas with anyone.
+  * [Adobe Digital Edition](https://www.adobe.com/solutions/ebook/digital-editions.html) - Ebook reader software program from Adobe Systems, built initially using Adobe Flash.
+  * [Scribus](https://www.scribus.net/) - Free and open-source desktop publishing (DTP) software available for most desktop operating systems.
+  * [PUB HTML5](https://www.scribus.net/) - Publish interactive magazines, catalogs, brochure Online. Create beautiful flipping book in HTML5.
+  * [Edraw Max](https://www.edrawsoft.com/edraw-max/) - Creating flow chart, mind map, org charts, network diagrams and floor plans with templates.
+  * [XMind](https://www.xmind.net/) - The most professional and popular mind mapping tool, to capture ideas, clarify thinking, etc.
+  * [Draw.io](https://www.draw.io/) - A free diagram software for making flowcharts, process diagrams, org charts, UML, ER, etc.
+  * [PDF Sharper](https://www.pdfshaper.com/) - All-in-one PDF software optimized for better productivity and document security.
+  * [eBook Converter Bundle](https://www.ebook-converter.com/) - All in one tools to convert ebook to other format, it support DRM ebook.
   
 * Imaging & Multimedia
   * [IrfanView](https://www.irfanview.com/) - One of the most popular viewers worldwide.
@@ -610,10 +616,42 @@ Windows Software Bundles
   * [Format Factory](http://www.pcfreetime.com/) - Free and multifunctional, multimedia file processing tools by PC Free Time.
   * [HandBrake](https://handbrake.fr/) - Tool for converting video from nearly any format to a selection of modern, widely supported codecs.
   * [Audacity](https://www.audacityteam.org/) - Audacity is an easy-to-use, multi-track audio editor and recorder.
+  * [Subtitle Edit](https://www.nikse.dk/subtitleedit) - A free (open source) editor for video subtitles - a subtitle editor.
 
-* Productivity & Useful Apps
-  * **(Upcoming!)**
-* Graphic & Video Editor
-  * **(Upcoming!)**
+* Graphics Software
+  * [Adobe Creative Suite](https://www.adobe.com/creativecloud.html) - Collection of 20+ desktop and mobile apps for photography, design, video, web, UX, etc.
+  * [GIMP](https://www.gimp.org/) - GNU Image Manipulation Program. The free, open source and cross-platform Image Editor.
+  * [Inkscape](https://inkscape.org/) - A professional vector graphics editor for Linux, Windows and macOS. It's free and open source.
+  * [Gravit Designer](https://www.designer.io/) - A free full-featured vector graphic design app that works on ALL platforms.
+  * [Autodesk SketchBook](https://sketchbook.com/) - A raster graphics software intended for expressive drawing and concept sketching.
+  * [Krita](https://krita.org/) - A professional free painting program. It's made by artists that want to see affordable art tools for everyone.
+  * [Birdfont](https://birdfont.org/) - A free font editor which lets you create vector graphics and export TTF, OTF, EOT and SVG fonts.
+  * [Darktable](https://www.darktable.org/) - An open source photography workflow application and raw developer.
+  * [FastStone Photo Resizer](https://www.faststone.org/FSResizerDetail.htm) - Batch photo editor. An image converter tool - convert, rename, resize, crop, rotate, etc.
+  * [Picosmos Tools](https://www.tigercolor.com/) - A software covering with all kinds of image functions - editing, composing, segmentation, etc.
+  * [ColorImpact](https://www.tigercolor.com/) - An interactive color scheme designer that lets you easily create stunning color schemes.
+  * [Cyotek Palette Editor](https://www.cyotek.com/cyotek-palette-editor) - Allows you to create and work with colour palettes, in a variety of formats.
+  * [Icons8](https://www.darktable.org/) - Design stuff for free, for your project - icons, photos, vectors, music, and tools.
+  
+* Video Editing Software
+  * [VEGAS](http://www.vegascreativesoftware.com/) - The VEGAS range of creative software is all you need for fast, professional and efficient video production.
+  * [HitFilm Express](https://fxhome.com/hitfilm-express) - A free video editing software with professional-grade VFX tools and everything you need.
+  * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - A professional editing and color grading system that is suitable for everyone.
+  * [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming.
+  * [Photopia](https://photopia.nl/) - Your tool to create video slide shows using your photos, videos and illustrations.
+  * [4K Slideshow Maker](https://photopia.nl/) - An extremely easy-to-use app to create slideshows. Save your memories.
+  * [Synfig Studio](https://www.synfig.org/) - A free and open-source 2D vector graphics and timeline-based computer animation program.
+  * [Aseprite](https://www.aseprite.org/) - Create 2D animations for videogames. From sprites, to pixel-art, retro style graphics, and more.
+  
 * Developer Tools
   * **(Upcoming!)**
+  
+* Miscellaneous
+  * Useful Apps
+  * CD, DVD, Blue-Ray Tools
+  * HDD Tools
+  * Remote Tools
+  * Benchmarking Apps
+  * Tive-Saving Apps
+  * Education Apps
+  * Islamic Apps
