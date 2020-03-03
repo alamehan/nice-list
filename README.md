@@ -508,7 +508,7 @@ Windows Software Bundles
   * [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging web and
   cloud app.
   * [XAMPP](https://www.apachefriends.org/index.html) - A completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl.
-  * [Laragon](https://www.sublimetext.com/) - A modern & powerful development environment - easy operation, fast, effective, productive.
+  * [Laragon](https://laragon.org/) - A modern & powerful development environment - easy operation, fast, effective, productive.
   * **for Mobile Developer**
   * [Android Studio](https://developer.android.com/studio) - Android Studio provides the fastest tools for building apps on every type of Android device.
   * [Xcode](https://developer.apple.com/xcode/) - Xcode is an IDE for macOS containing a suite of software development tools developed by Apple.
