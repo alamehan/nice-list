@@ -17,24 +17,25 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 <img src="letsgo.png">
 
 <p align="center">
-	<a href="#find-a-job">Find a Job</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#self-improvement">Self Improvement</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#designer-starter-pack">Designer Starter Pack</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#developer-starter-pack">Developer Starter Pack</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec01">Find a Job</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec02">Self Improvement</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec03">Designer Starter Pack</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec04">Developer Starter Pack</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<br>
-	<a href="#top-chrome-extensions">Top Chrome Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#top-figma-plugins">Top Figma Plugins</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#top-visual-studio-extensions">Top Visual Studio Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec05">Top Chrome Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec06">Top Figma Plugins</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec07">Top Visual Studio Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<br>
-	<a href="#incredibly-useful-websites">Incredibly Useful Websites</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#educational-instagram-accounts">Educational Instagram Accounts</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#windows-software-bundles">Software Bundles</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec08">Incredibly Useful Websites</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec09">Educational Instagram Accounts</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec10">Software Bundles</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
 
-💼
+<div id="sec01"></div>
 
+💼 
 Find a Job
 ---
 
@@ -77,10 +78,11 @@ Find a Job
   * [99designs](https://99designs.com/contests)
   * [DesignCrowd](https://jobs.designcrowd.com/jobs/)
   
----
+<br>
 
-📚
+<div id="sec02"></div>
 
+📚 
 Self Improvement 
 ---
 
@@ -114,19 +116,21 @@ Self Improvement
   * [Dewa Eka Prayoga](https://www.youtube.com/channel/UCx-9wWeG3YcqxXKXxOn3wMA) - Sharing seputar bisnis online, digital marketing, copywriting, dll.
   * [Kok Bisa?](https://www.youtube.com/channel/UCu0yQD7NFMyLu_-TmKa4Hqg) - Pengalaman belajar sains yang inovatif melalui video-video animasi edukatif.
 
----
+<br>
 
-🎨
+<div id="sec03"></div>
 
+🎨 
 Designer Starter Pack
 ---
 
 _(Upcoming!)_
 
----
+<br>
 
-💻
+<div id="sec04"></div>
 
+💻 
 Developer Starter Pack
 ---
 
@@ -180,10 +184,11 @@ Developer Starter Pack
   * [Front-End Resources](https://github.com/dypsilon/frontend-dev-bookmarks) - Free resources for learning Front End Web Development.
   * [Back-End Resources](https://github.com/backend-br/awesome-backend) - Free resources for learning Back End Web Development.
 
----
+<br>
 
-⚙️
+<div id="sec05"></div>
 
+⚙️ 
 Top Chrome Extensions
 ---
 
@@ -262,10 +267,11 @@ Top Chrome Extensions
   * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) - Increase your max volume by up to 4 times the loudness.
   * [Clever Mute](https://chrome.google.com/webstore/detail/clever-mute/eadinjjkfelcokdlmoechclnmmmjnpdh) - This extension mutes all sites by default.
 
----
+<br>
 
-🔮
+<div id="sec06"></div>
 
+🔮 
 Top Figma Plugins
 ---
 
@@ -341,19 +347,21 @@ Top Figma Plugins
   * [Design Inspo](https://www.figma.com/community/plugin/738775292786594626/Design-Inspo) - The best way to quickly look for design inspiration while you work.
   * [Remove BG](https://www.figma.com/community/plugin/738992712906748191/Remove-BG) - Remove the background of images automatically with just a single click.
 
----
+<br>
 
-⚔️
+<div id="sec07"></div>
 
+⚔️ 
 Top Visual Studio Extensions
 ---
 
 _(Upcoming!)_
 
----
+<br>
 
-🌐
+<div id="sec08"></div>
 
+🌐 
 Incredibly Useful Websites
 ---
 
@@ -412,10 +420,11 @@ Incredibly Useful Websites
   * [Small PDF](https://smallpdf.com/) - All-in-one (convert, compress, merge, split and edit) easy-to-use online PDF tools.
   * [Vector Magic](https://vectormagic.com/) - Easily Convert JPG, PNG, GIF Files to PDF, SVG, EPS Vectors.
 
----
+<br>
 
-💎
+<div id="sec09"></div>
 
+💎 
 Educational Instagram Accounts
 ---
 
@@ -423,10 +432,11 @@ Educational Instagram Accounts
 
 **Buka file** [topinstagram.txt](../master/topinstagram.txt)
 
----
+<br>
 
-💽
+<div id="sec10"></div>
 
+💽 
 Windows Software Bundles
 ---
 
