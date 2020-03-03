@@ -644,9 +644,38 @@ Windows Software Bundles
   * [Aseprite](https://www.aseprite.org/) - Create 2D animations for videogames. From sprites, to pixel-art, retro style graphics, and more.
   
 * Developer Tools
-  * Code Editor & IDE
-  * Computer Network
-  * Game Developer
+  * **for Web Developer**
+  * [Git](https://git-scm.com/) - A free and open source distributed version control system - handle projects with speed and efficiency.
+  * [DevDocs Desktop](https://devdocs.egoist.moe/) - Fast, offline, and free documentation browser for developers. Search 100+ docs in one place.
+  * [Notepad++](https://notepad-plus-plus.org/) - A free source code editor and Notepad replacement that supports several languages. 
+  * [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. A lightweight text editor.
+  * [Atom](https://www.sublimetext.com/) - A free and open-source text and source code editor, developed by GitHub.
+  * [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging web and
+  cloud app.
+  * [XAMPP](https://www.apachefriends.org/index.html) - A completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl.
+  * [Laragon](https://www.sublimetext.com/) - A modern & powerful development environment - easy operation, fast, effective, productive.
+  * **for Mobile Developer**
+  * [Android Studio](https://developer.android.com/studio) - Android Studio provides the fastest tools for building apps on every type of Android device.
+  * [Xcode](https://developer.apple.com/xcode/) - Xcode is an IDE for macOS containing a suite of software development tools developed by Apple.
+  * **for Desktop Developer**
+  * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - An integrated development environment (IDE) written in Java for developing computer software.
+  * [Code::Blocks](http://www.codeblocks.org/) - The open source, cross platform, free C, C++ and Fortran IDE. Work with a variety of compilers.
+  * **for Data Science Developer**
+  * [Google Colab](https://colab.research.google.com/) - Write and execute Python in your browser, with zero config required and free access to GPUs.
+  * [Anaconda](https://www.anaconda.com/) - The world's most popular Python/R data science platform. Easy way to work with packages and env.
+  * **for Game Developer**
+  * [DAZ 3D](https://www.daz3d.com/) - Free 3D Software Suite for modeling & rendering realistic characters, clothes and scenes.
+  * [Blender](https://www.blender.org/) - Open source 3D creation. Free to use for any purpose - modeling, animation, motion, etc.
+  * [Unity3D](https://unity3d.com/get-unity/download) - The world’s most popular development platform for creating 2D and 3D multiplatform games.
+  * [Godot Engine](https://godotengine.org/) - A 2D and 3D, cross-platform, free and open-source game engine released under the MIT license.
+  * [Construct](https://www.scirra.com/) - An HTML5-based 2D game editor, developed by Scirra Ltd. It's aimed primarily at non-programmers.
+  * [RPG Maker MV](https://www.rpgmakerweb.com/) - It is a popular game development engine for the development of RPG games.
+  * [Pixel Game Maker MV](https://tkool.jp/act/en/index.html) - Allows you to create thrilling action games with ease - no programming necessary.
+  * **for Network Developer**
+  * [PuTTY](https://www.putty.org/) - A free SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
+  * [NetSpot](https://www.netspotapp.com/) - The only professional app for wireless site surveys, Wi-Fi analysis, and troubleshooting.
+  * [Wireshark](https://www.wireshark.org/) - The world’s foremost and widely-used network protocol analyzer - troubleshooting, analysis, etc.
+  * [Cisco Packet Tracker](https://www.netacad.com/courses/packet-tracer) - A powerful networking simulation tool used for practice, discovery and troubleshooting.
   
 * Miscellaneous
   * Useful Apps
