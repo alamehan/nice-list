@@ -570,7 +570,7 @@ Windows Software Bundles
   * [WinX DVD Ripper](https://www.winxdvd.com/dvd-ripper/) - DVD ripping software to digitize DVD for easier backup, archiving, editing and sharing.
   * [Unstoppable Copier](https://softfamous.com/unstoppable-copier/) - Scan your CD/DVD/hardware used for storage, then you can choose to restore it.
   * [DVDStyler](https://www.dvdstyler.org/) - Free DVD authoring application for the creation of professional-looking DVDs. 
-  * **HDD Apps**
+  * **HDD/SSD Apps**
   * [Hard Disk Sentinel](https://www.hdsentinel.com/) - A multi-OS SSD and HDD monitoring and analysis software - find, test, diagnose and repair.
   * [HDDlife](https://hddlife.com/) - Allowing you to move your data long before the lifespan of your HDD/SSD comes to an end.
   * [DiskSavvy](https://www.disksavvy.com/) - A free, fast and easy-to-use disk space analyzer utility allowing one to analyze disk.
