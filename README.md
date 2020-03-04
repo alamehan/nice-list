@@ -16,6 +16,8 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 
 <img src="letsgo.png">
 
+<div id="daftarisi"></div>
+
 <p align="center">
 	<a href="#sec01">Find a Job</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="#sec02">Self Improvement</a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,6 +42,8 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 💼 
 Find a Job
 ---
+
+<a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
 * General
   * [LinkedIn](https://www.linkedin.com/)
@@ -88,6 +92,8 @@ Find a Job
 Self Improvement 
 ---
 
+<a href="#daftarisi">🡹 Kembali ke daftar isi</a>
+
 * Books and Ideas
   * [Faster to Master](https://fastertomaster.com/) - Read more, learn faster and wake up productivity.
   * [Optimize Me](https://www.optimize.me/) - The best Big Ideas from the best optimal living books. More wisdom in less time.
@@ -126,6 +132,8 @@ Self Improvement
 Designer Starter Pack
 ---
 
+<a href="#daftarisi">🡹 Kembali ke daftar isi</a>
+
 _(Upcoming!)_
 
 <br>
@@ -135,6 +143,8 @@ _(Upcoming!)_
 💻 
 Developer Starter Pack
 ---
+
+<a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
 * Top Udemy Course
   * [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) - JavaScript Base
@@ -193,6 +203,8 @@ Developer Starter Pack
 ⚙️ 
 Top Chrome Extensions
 ---
+
+<a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
 * Increase Productivity
   * [Extensify](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - Quickly enable/disable Chrome extensions.
@@ -277,6 +289,8 @@ Top Chrome Extensions
 Top Figma Plugins
 ---
 
+<a href="#daftarisi">🡹 Kembali ke daftar isi</a>
+
 * Project Template
   * [Project Scaffold](https://www.figma.com/community/plugin/747372158567878238/Project-Scaffold) - This plugin Generates a Scaffold for your Product design project in just 1 click.
   * [Wireframe](https://www.figma.com/community/plugin/742764242781786818/Wireframe) - Creating beautiful user flow prototypes and basic structures.
@@ -357,6 +371,8 @@ Top Figma Plugins
 Top Visual Studio Extensions
 ---
 
+<a href="#daftarisi">🡹 Kembali ke daftar isi</a>
+
 _(Upcoming!)_
 
 <br>
@@ -366,6 +382,8 @@ _(Upcoming!)_
 🌐 
 Incredibly Useful Websites
 ---
+
+<a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
 * Expand Your Knowledge
   * [Medium](https://medium.com/) - Our sole purpose is to help you find compelling ideas, knowledge, and perspectives.
@@ -431,6 +449,8 @@ Incredibly Useful Websites
 Educational Instagram Accounts
 ---
 
+<a href="#daftarisi">🡹 Kembali ke daftar isi</a>
+
 **Catatan** : Pertama-tama Login terlebih dahulu ke akun Instagram anda. Kemudian copy seluruh akun instagram yang ingin anda _follow_ (dibawah). Lalu gunakan tools/generator [ini](https://chrome.google.com/webstore/detail/helper-tools-for-instagra/clibiflfecckdjnjcgcgjdknmbgceail) untuk mem-_follow_ banyak akun sekaligus dalam satu waktu. Selamat! Anda sudah berhasil mem-_follow_ akun-akun Instagram terseleksi dan pilihan.
 
 **Buka file** [topinstagram.txt](../master/topinstagram.txt)
@@ -442,6 +462,8 @@ Educational Instagram Accounts
 💽 
 Windows Software Bundles
 ---
+
+<a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
 * Driver Installer
   * [DriverPack Solution](https://driverpack.io/) - Help you to download all the required and competitive drivers to your computer.
