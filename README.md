@@ -453,7 +453,9 @@ Educational Instagram Accounts
 
 **Catatan** : Pertama-tama Login terlebih dahulu ke akun Instagram anda. Kemudian copy seluruh akun instagram yang ingin anda _follow_ (dibawah). Lalu gunakan tools/generator [ini](https://chrome.google.com/webstore/detail/helper-tools-for-instagra/clibiflfecckdjnjcgcgjdknmbgceail) untuk mem-_follow_ banyak akun sekaligus dalam satu waktu. Selamat! Anda sudah berhasil mem-_follow_ akun-akun Instagram terseleksi dan pilihan.
 
-**Buka file** [topinstagram.txt](../master/topinstagram.txt)
+**Buka file :** <br>
+[topinstagram-gen.txt](../master/topinstagram-gen.txt) - Self improvement, Informatics, UI/UX Design, Illustration <br>
+[topinstagram-pro.txt](../master/topinstagram-pro.txt) - Info umum/terkini, Infografis, Berita, Hobi, Hiburan, Lainnya
 
 <br>
 
