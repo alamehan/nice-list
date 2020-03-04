@@ -432,6 +432,8 @@ Incredibly Useful Websites
   * [LingoJam](https://lingojam.com/) - LingoJam lets you create an online translator (biasanya untuk style text generator).
   * [Text Fixer](https://www.textfixer.com/) - Collection of free online tools for web coding and text conversion
   * [Online Text Tools](https://onlinetexttools.com/) - Online text tools is a collection of useful text processing utilities.
+  * [Tools4Noobs](https://www.tools4noobs.com/online_tools/) - Tools you didn't even know you needed. A collection of useful scripts.
+  * [Sort My List](https://sortmylist.com/) - Online word tool to alphabetize & text sort. Sort numerically or by length and more.
   * [Remove Line Breaks](http://removelinebreaks.net/) - Remove line breaks from blocks of text (solusi untuk copy text dari PDF).
   * [Subtitle Translator](https://www.syedgakbar.com/projects/dst) - Free subtitle translator can quickly translate subtitles from one language to other language.
   * [ttsMP3](https://ttsmp3.com/) - Easily convert your written text into natural sounding voice in up to 50 different languages.
