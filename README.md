@@ -14,9 +14,9 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https
 
 <br>
 
-<img src="letsgo.png">
-
 <div id="daftarisi"></div>
+
+<img src="letsgo.png">
 
 <p align="center">
 	<a href="#sec01">Find a Job</a>&nbsp;&nbsp;&nbsp;&nbsp;
