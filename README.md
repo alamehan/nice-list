@@ -594,6 +594,11 @@ Windows Software Bundles
   * [Absolute Uninstaller](https://www.glarysoft.com/absolute-uninstaller/) - Best solution to uninstall programs completely with high speed and efficiency.
   * [Advanced Renamer](https://www.advancedrenamer.com/) - Batch rename files and folders in a snap. Perfect for any kind of file renaming.
   * [Attribute Changer](https://www.petges.lu/) - Change file and folder properties with ease. A powerful Windows Explorer add-on.
+  * **Education Apps**
+  * [Stellarium](https://stellarium.org/) - Planetarium for your computer. It shows a realistic sky in 3D, just like what you see.
+  * [WorldWide Telescope](http://www.worldwidetelescope.org/webclient/) - A virtual telescope to astronomers, a virtual observatory of the Earth to geo-researchers.
+  * [SketchUp](https://www.sketchup.com/) - 3D design software that truly makes 3D modeling, with a simple to learn yet robust toolset.
+  * [Sweet Home 3D](http://www.sweethome3d.com/) - Interior design app that helps you draw the plan of your house and arrange furniture on it.
   * **Islamic Apps**
   * [Ayat Qur'an](https://play.google.com/store/apps/details?id=sa.edu.ksu.Ayat&hl=in) - Comprehensive Quranic software with unique features.
   * [Qur'an Tafsiriyah](https://play.google.com/store/apps/details?id=com.annabawy.qtt&hl=in) - Al-Qur'an tarjamah tafsiriyah (QTT) An Nabawi oleh Al Ustadz Muhammad Thalib.
@@ -603,5 +608,9 @@ Windows Software Bundles
   * [Hadits Web 7.0](https://ibnumajjah.wordpress.com/2017/10/13/hadits-web-7-0/) - Kumpulan hadits-hadits yang bersumber dari kitab-kitab hadits terpercaya, dan tersusun rapih.
   * [Perpustakaan Islam Digital](https://perpustakaanislamdigital.com/) - Himpunan 800 jilid (3600 judul) kitab kajiam islam klasik dan komtemporer.
   * **Useful Apps**
-  * [PuTTY](https://www.putty.org/) - A free SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
-  * [PuTTY](https://www.putty.org/) - A free SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
+  * [KeyTweak](https://softfamous.com/keytweak/) - KeyTweak allows a computer user to remap the keys on the keyboard to a customized layout. 
+  * [Event Log Ex](https://eventlogxp.com/) - An effective software solution for viewing, analyzing and monitoring events recorded in event logs.
+  * [HJSplit](http://www.hjsplit.org/) - Tool to split and recombine files as large as 100+ gigabytes - split, join, compare, and checksum.
+  * [Cheat Engine](https://www.cheatengine.org/) - Memory scanner/hex editor/debugger for Windows. Mostly used for cheating in computer games.
+  * [Razer Cortex](https://www.cheatengine.org/) - Brings enhanced gaming/system performance, and the ability to discover the best gaming deals.
+  * [Rainmeter](https://www.rainmeter.net/) - Most popular desktop customization software for Windows - customizable desktop skins.
