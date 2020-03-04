@@ -407,7 +407,7 @@ Incredibly Useful Websites
   * [FreeCourseLab](https://freecourselab.com/) - A great place to learn. Download Udemy Courses for Free.
   * [GfxStudy](https://gfxstudy.com/) - Free AE Template, Videohive, Vector, Stock Image , PSD, Photoshop (1).
   * [Graphicex](https://graphicex.com/) - Free AE Template, Videohive, Vector, Stock Image , PSD, Photoshop (2).
-  * [Yify](https://yts.lt/) - YTS was a peer-to-peer release group known for distributing large numbers of movies.
+  * [Yify](https://yts.mx/) - YTS was a peer-to-peer release group known for distributing large numbers of movies.
 
 * Useful Web Apps
   * [Get Emoji](https://getemoji.com/) - ✂️ Copy and 📋 Paste Emoji 👍 No apps required.
@@ -557,11 +557,48 @@ Windows Software Bundles
   * [Cisco Packet Tracker](https://www.netacad.com/courses/packet-tracer) - A powerful networking simulation tool used for practice, discovery and troubleshooting.
   
 * Miscellaneous
-  * Useful Apps
-  * CD/DVD/Blue-Ray Apps
-  * HDD Apps
-  * Remote Apps
-  * Benchmarking Apps
-  * Tive-Saving Apps
-  * Education Apps
-  * Islamic Apps
+  * **Emulators**
+  * [BlueStacks](https://www.bluestacks.com/) - Android emulator for PC. Designed to enable Android applications to run on PCs.
+  * [iPadian](https://ipadian.net/) - iPadian is a simulator, not an emulator. It gives you an impression of using the iOS
+  * [Emulator Zone](https://www.emulator-zone.com/) - Source for the latest emulators for classic video game consoles and home computers.
+  * [Citra](https://citra-emu.org/) - An experimental open-source Nintendo 3DS emulator/debugger written in C++.
+  * [Yuzu](https://yuzu-emu.org/) - An experimental open-source emulator for the Nintendo Switch from the creators of Citra.
+  * **CD/DVD/Blue-Ray Apps**
+  * [DAEMON Tools](https://www.daemon-tools.cc/) - One of the most popular burning tools - mount, copy and create an image.
+  * [AVS Disc Creator](https://www.avs4you.com/avs-free-disc-creator.aspx) - Burn audio, video, images, dvd, blu-ray easily. Make ISO images and create boot discs.
+  * [WinX DVD Ripper](https://www.winxdvd.com/dvd-ripper/) - DVD ripping software to digitize DVD for easier backup, archiving, editing and sharing.
+  * [Unstoppable Copier](https://softfamous.com/unstoppable-copier/) - Scan your CD/DVD/hardware used for storage, then you can choose to restore it.
+  * [DVDStyler](https://www.dvdstyler.org/) - Free DVD authoring application for the creation of professional-looking DVDs. 
+  * **HDD Apps**
+  * [Hard Disk Sentinel](https://www.hdsentinel.com/) - A multi-OS SSD and HDD monitoring and analysis software - find, test, diagnose and repair.
+  * [HDDlife](https://hddlife.com/) - Allowing you to move your data long before the lifespan of your HDD/SSD comes to an end.
+  * [DiskSavvy](https://www.disksavvy.com/) - A free, fast and easy-to-use disk space analyzer utility allowing one to analyze disk.
+  * [MiniTool Power Data Recovery](https://www.minitool.com/data-recovery-software/free-for-windows.html) - Powerful software capable of recovering files lost by human errors, system crash.
+  * [MiniTool Partition Wizard](https://hddlife.com/) - All-inclusive free partition manager to organize disk partitions.
+  * [EaseUS Data Recovery](https://www.easeus.com/datarecoverywizard/free-data-recovery-software.htm) - Data recovery software, your second to none choice for quick but complete file recovery.
+  * [EaseUS Todo Backup](https://www.easeus.com/backup-software/) - Create backup tasks on schedule, automatically run to make copies, and restore instantly.
+  * **Remote Apps**
+  * [TeamViewer](https://www.teamviewer.com/) - Remote control, desktop sharing, online meetings and file transfer between computers.
+  * [Chrome Remote Desktop](https://remotedesktop.google.com/) - A remote desktop software tool. Access your computers from your Android.
+  * [Unified Remote](https://www.unifiedremote.com/) - Turn your smartphone into a universal remote control. The one-and-only.
+  * **Tive-Saving Apps**
+  * [Autosofted](https://www.autosofted.com/) - Automated keyboard pressers/typers/mouse clickers as well as useful programs for organizing files.
+  * [1Clipboard](http://1clipboard.io/) - A universal clipboard managing app that makes it easy to access your clipboard from anywhere.
+  * [GrepWin](https://tools.stefankueng.com/grepWin.html) - A simple search and replace tool which can use regular expressions to do its job.
+  * [WinMerge](https://winmerge.org/) - Compare both folders and files, presenting differences in a visual text format. Easy to handle.
+  * [Phrase Express](https://www.phraseexpress.com/) - Helps you to speed up your typing tasks in any editor by saving lots of keystrokes.
+  * [Free Commander](https://freecommander.com/en/summary/) - An alternative to the standard windows file manager - helps you with daily work in Windows.
+  * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Create window specific profiles for which you can reconfigure your mouse behaviour.
+  * [Pulover's Macro Creator](https://www.macrocreator.com/) - Free automation tool and script generator - multiple automation functions.
+  * [Absolute Uninstaller](https://www.glarysoft.com/absolute-uninstaller/) - Best solution to uninstall programs completely with high speed and efficiency.
+  * [Advanced Renamer](https://www.advancedrenamer.com/) - Batch rename files and folders in a snap. Perfect for any kind of file renaming.
+  * [Attribute Changer](https://www.petges.lu/) - Change file and folder properties with ease. A powerful Windows Explorer add-on.
+  * **Education Apps**
+  * [PuTTY](https://www.putty.org/) - A free SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
+  * [PuTTY](https://www.putty.org/) - A free SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
+  * **Islamic Apps**
+  * [PuTTY](https://www.putty.org/) - A free SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
+  * [PuTTY](https://www.putty.org/) - A free SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
+  * **Useful Apps**
+  * [PuTTY](https://www.putty.org/) - A free SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
+  * [PuTTY](https://www.putty.org/) - A free SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
