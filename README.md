@@ -112,7 +112,7 @@ Self Improvement
   * [Thirty Days of Lunch](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww) - Teman makan siang sekaligus nutrisi untuk pikiran. Ga berat, tapi juga ga receh.
   * [Makna Talks](https://open.spotify.com/show/1PGN4ilb4aoWKkB7FNSLsx) - A weekly podcast with well known subjects every week talking about what's behind the facts.
   * [Hiduplah Indonesia Maya](https://open.spotify.com/show/6yUPhJdvDAMRVwApXBpQWd) - Podcast dari Pandji Pragiwaksono, membahas segala hal yang terjadi di Indonesia.
-  * [Finfolk](https://open.spotify.com/show/3coiCSZDmmBSREVpo0PpIB) - New ideas about investment in a fun way.
+  * [Finfolk](https://open.spotify.com/show/3coiCSZDmmBSREVpo0PpIB) - Rethinking money. New ideas about investment in a fun way.
   
 * Youtube Motivasi
   * [TEDx Talks](https://www.youtube.com/user/TEDxTalks) - American media organization that posts talks online - "ideas worth spreading". 
