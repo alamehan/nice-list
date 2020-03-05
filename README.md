@@ -117,6 +117,7 @@ Self Improvement
 * Youtube Motivasi
   * [TEDx Talks](https://www.youtube.com/user/TEDxTalks) - American media organization that posts talks online - "ideas worth spreading". 
   * [GaryVee](https://www.youtube.com/user/GaryVaynerchuk) - Highly sought after public speaker. Keynote speeches on marketing and business.
+  * [OPTIMIZE](https://www.youtube.com/channel/UCRhEwzsFYLGcMa4m2AbTAoA) - The best Big Ideas from the best optimal living books. More wisdom in less time.
   * [SuccessBefore30](https://www.youtube.com/user/successbefore30/) - Wadah untuk Belajar Berbisnis dan Mengerti tentang aspek-aspek dari Kesuksesan.
   * [Pagar Kehidupan](https://www.youtube.com/channel/UCRPWx7xrHni4v31AkXE16Fg) - Butuh Inspirasi dan bantuan dalam hidup? Ini adalah channel yang bisa Kamu tuju.
   * [Chandra Hasyim](https://www.youtube.com/channel/UCFCUdbQNQjbK-7UhKy--chg) - Inspiring and motivational video translations in Indonesia.
@@ -151,11 +152,11 @@ Self Improvement
   * [Nous ID](https://www.youtube.com/channel/UCNgz9dujmF3kTbmR3yJHmlQ) - Nous ID, sebuah channel edukasi alternatif, yang bergerak melalui platform YouTube.
   * [Mau Tau Banget](https://www.youtube.com/channel/UCMCbTLHW5GXsxKMkOelX6-w) - Channel edukasi yang menyajikan berbagai informasi dan pengetahuan melalui Youtube.
   * [DW Indonesia](https://www.youtube.com/user/DWBahasaIndonesia) - Lembaga penyiaran yang memproduksi siaran TV, radio dan informasi melalui internet.
-  * [Satu Persen](https://www.youtube.com/channel/UC_eifcIIjgN8Q_8m34nWo3Q) - Mengajarkan hal-hal penting yang sampai saat ini belum diajarkan di sekolah konvensional.
   * [Remotivi](https://www.youtube.com/user/remotivi) - Lembaga studi dan pemantauan media, khususnya televisi di Indonesia.
-  * [Zenius Education](https://www.youtube.com/user/ZeniusEduChannel) - Pelopor startup teknologi pendidikan di Indonesia - untuk semua level pendidikan.
-  * [Ruangguru](https://www.youtube.com/channel/UCbc1RY0McnikiEMD8Box5Ig) - Startup bimbel online serta penyedia layanan dan konten pendidikan berbasis teknologi.
-  * [Quipper](https://www.youtube.com/user/QuipperApp) - Pembelajaran dari berbagai materi pelajaran dan topik serta informasi terbaru mengenai Quipper.
+  * [Satu Persen](https://www.youtube.com/channel/UC_eifcIIjgN8Q_8m34nWo3Q) - Mengajarkan hal-hal penting yang sampai saat ini belum diajarkan di sekolah konvensional.
+  * [Creativox](https://www.youtube.com/channel/UC4DogC2xftpKFlF-XgZoRBg) - A multi-platform entertainment media - educational, and motivational experience!
+  * [Froyonion](https://www.youtube.com/channel/UCG1E2hR9KDuAWFoRO0yyE4w) - Froyonion mengajak penonton memikirkan kembali berbagai hal dari sudut pandang lain.
+  * [Gue Punya Cerita](https://www.youtube.com/channel/UCkRNRz9ifB2A04zTb6Y9LYg) - Berbagai cerita yang diangkat dari kisah nyata, dikemas dalam bentuk animasi.
   
 <br>
 
