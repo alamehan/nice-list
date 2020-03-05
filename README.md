@@ -104,7 +104,7 @@ Self Improvement
   * [Dewa Eka Prayoga](https://dewaekaprayoga.com/) - Dewa Selling, hobi jualan, plus ngajarin orang jago jualan.
   * [Arry Rahmawan](https://arryrahmawan.net/) - Mengikat dan Berbagi Ilmu untuk Generasi Indonesia yang Lebih Baik.
   
-* Podcast
+* Podcast and Ideas
   * [GaryVee Podcast](https://www.garyvaynerchuk.com/podcast/) - Keynote speeches on marketing and business.
   * [HBR IdeaCast](https://open.spotify.com/show/4gtSBBxIAE142ApX6LqsvN) - A weekly podcast featuring the leading thinkers in business and management.
   * [Podcast Subjective](https://soundcloud.com/iqbalhariadi) - Berbagi kisah, insight, dan tips praktis pengembangan diri.
@@ -114,16 +114,49 @@ Self Improvement
   * [Hiduplah Indonesia Maya](https://open.spotify.com/show/6yUPhJdvDAMRVwApXBpQWd) - Podcast dari Pandji Pragiwaksono, membahas segala hal yang terjadi di Indonesia.
   * [Finfolk](https://open.spotify.com/show/3coiCSZDmmBSREVpo0PpIB) - New ideas about investment in a fun way.
   
-* Youtube Channel
-  * [GaryVee](https://www.youtube.com/user/GaryVaynerchuk) - Keynote speeches on marketing and business.
-  * [Satu Persen](https://www.youtube.com/channel/UC_eifcIIjgN8Q_8m34nWo3Q) - Mengajarkan hal-hal penting yang sampai saat ini belum diajarkan di sekolah konvensional.
+* Youtube Motivasi
+  * [TEDx Talks](https://www.youtube.com/user/TEDxTalks) - American media organization that posts talks online - "ideas worth spreading". 
+  * [GaryVee](https://www.youtube.com/user/GaryVaynerchuk) - Highly sought after public speaker. Keynote speeches on marketing and business.
   * [SuccessBefore30](https://www.youtube.com/user/successbefore30/) - Wadah untuk Belajar Berbisnis dan Mengerti tentang aspek-aspek dari Kesuksesan.
   * [Pagar Kehidupan](https://www.youtube.com/channel/UCRPWx7xrHni4v31AkXE16Fg) - Butuh Inspirasi dan bantuan dalam hidup? Ini adalah channel yang bisa Kamu tuju.
   * [Chandra Hasyim](https://www.youtube.com/channel/UCFCUdbQNQjbK-7UhKy--chg) - Inspiring and motivational video translations in Indonesia.
   * [Merry Riana](https://www.youtube.com/user/merryrianashow) - Menciptakan dampak positif di dalam kehidupan jutaan orang di Indonesia.
   * [Dewa Eka Prayoga](https://www.youtube.com/channel/UCx-9wWeG3YcqxXKXxOn3wMA) - Sharing seputar bisnis online, digital marketing, copywriting, dll.
+  
+* Youtube Edu Global
+  * [TED-Ed](https://www.youtube.com/user/TEDEducation) - Creating lessons worth sharing is an extension of TED’s mission of spreading great ideas.
+  * [Crash Course](https://www.youtube.com/user/crashcourse) - Tons of awesome courses - sociology, computer science, film history and mythology.
+  * [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt) - We are a small team who want to make science look beautiful. Because it is beautiful.
+  * [Epipheo](https://www.youtube.com/user/epipheo/) - We love stories that reveal truth! We work really hard to create valuable stories for our clients.
+  * [MinuteEarth](https://www.youtube.com/user/minuteearth) - Science and stories about our awesome planet! Helps understand the world around us.
+  * [Minute Physics](https://www.youtube.com/user/minutephysics) - Simply put: cool physics and other sweet science. Helps understand the world around us.
+  * [Stated Clearly](https://www.youtube.com/user/sciencestatedclearly) - We produce animations on genetics, evolution, biology, and chemistry.
+  * [KnowledgeHub](https://www.youtube.com/channel/UC2_KC8lshtCyiLApy27raYw) - A modern philosopher of our time. Except I talk about pretty pointless things.
+  * [AsapSCIENCE](https://www.youtube.com/user/AsapSCIENCE) - The channel produces weekly videos that touch on many different topics of science. 
+  * [SciShow](https://www.youtube.com/user/scishow/) - The scientific subjects that defy our expectations and make us even more curious! 
+  * [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart) - Curious group of atoms in a curious universe, and he's here to tell you how it all works.
+  * [SmarterEveryDay](https://www.youtube.com/user/destinws2) - I explore the world using science.  That's pretty much all there is to it. 
+  * [Up and Atom](https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw) - Making notoriously hard stuff less hard. Math, physics and computer science.
+  * [CGP Grey](https://www.youtube.com/user/CGPGrey) - Short explanatory videos, including politics, geography, economics, history, and culture.
+  * [Vsauce](https://www.youtube.com/user/Vsauce/) - The channels feature videos on scientific, psychological, mathematical, and philosophical topics, etc.
+  
+* Youtube Edu Lokal
+  * [Sisi Terang](https://www.youtube.com/channel/UCSg-Y9uI1E-my-I4WKKioEQ) - Penemuan sains, penjelajahan ruang angkasa, misteri, kisah nyata mengejutkan, psikologi, dst.
   * [Kok Bisa?](https://www.youtube.com/channel/UCu0yQD7NFMyLu_-TmKa4Hqg) - Pengalaman belajar sains yang inovatif melalui video-video animasi edukatif.
-
+  * [Hujan Tanda Tanya](https://www.youtube.com/channel/UC5dn6JdeSgWzcNL7NuvMEKQ) - Rangsangan pemikiran seputar sains, teknologi, dan masyarakat - dikemas dengan ringan.
+  * [Sains Bro](https://www.youtube.com/channel/UCCFY2uB8liUM4cnCCkUC6GA) - Channel edukasi Indonesia yang membantu menjelaskan berbagai hal tentang SAINS.
+  * [Kamu Harus Tahu](https://www.youtube.com/channel/UCLNrxRWWBw-lYOPaibnvSwA) - Channel edukasi yang menyajikan berbagai informasi dan pengetahuan melalui animasi 2D.
+  * [Ayo Mikir](https://www.youtube.com/channel/UCyZa7DYVsdJxnyDw6XmVvCQ) - Channel Edukasi yang menyajikan konten tayangan inspiratif dan edukatif untuk Indonesia.
+  * [House of Infographics](https://www.youtube.com/channel/UCz-lipPZtRjhgLJpZQHczBg) - Menampilkan data secara sederhana, kreatif dan mudah untuk dipahami.
+  * [Nous ID](https://www.youtube.com/channel/UCNgz9dujmF3kTbmR3yJHmlQ) - Nous ID, sebuah channel edukasi alternatif, yang bergerak melalui platform YouTube.
+  * [Mau Tau Banget](https://www.youtube.com/channel/UCMCbTLHW5GXsxKMkOelX6-w) - Channel edukasi yang menyajikan berbagai informasi dan pengetahuan melalui Youtube.
+  * [DW Indonesia](https://www.youtube.com/user/DWBahasaIndonesia) - Lembaga penyiaran yang memproduksi siaran TV, radio dan informasi melalui internet.
+  * [Satu Persen](https://www.youtube.com/channel/UC_eifcIIjgN8Q_8m34nWo3Q) - Mengajarkan hal-hal penting yang sampai saat ini belum diajarkan di sekolah konvensional.
+  * [Remotivi](https://www.youtube.com/user/remotivi) - Lembaga studi dan pemantauan media, khususnya televisi di Indonesia.
+  * [Zenius Education](https://www.youtube.com/user/ZeniusEduChannel) - Pelopor startup teknologi pendidikan di Indonesia - untuk semua level pendidikan.
+  * [Ruangguru](https://www.youtube.com/channel/UCbc1RY0McnikiEMD8Box5Ig) - Startup bimbel online serta penyedia layanan dan konten pendidikan berbasis teknologi.
+  * [Quipper](https://www.youtube.com/user/QuipperApp) - Pembelajaran dari berbagai materi pelajaran dan topik serta informasi terbaru mengenai Quipper.
+  
 <br>
 
 <div id="sec03"></div>
