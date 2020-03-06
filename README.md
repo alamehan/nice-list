@@ -420,6 +420,7 @@ Incredibly Useful Websites
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
 * Expand Your Knowledge
+  * [Wikipedia](https://www.wikipedia.org/) - The free encyclopedia. The largest and most popular general reference work on the World Wide Web.
   * [Medium](https://medium.com/) - Our sole purpose is to help you find compelling ideas, knowledge, and perspectives.
   * [MakeUseOf](https://www.makeuseof.com/) - Learn how to make use of tech and gadgets around you and discover cool stuff on the Internet.
   * [Vice](https://www.vice.com/) - The Definitive Guide To Enlightening Information from every corner of the planet.
@@ -489,9 +490,13 @@ Educational Instagram Accounts
 
 **Catatan** : Pertama-tama Login terlebih dahulu ke akun Instagram anda. Kemudian copy seluruh akun instagram yang ingin anda _follow_ (dibawah). Lalu gunakan tools/generator [ini](https://chrome.google.com/webstore/detail/helper-tools-for-instagra/clibiflfecckdjnjcgcgjdknmbgceail) untuk mem-_follow_ banyak akun sekaligus dalam satu waktu. Selamat! Anda sudah berhasil mem-_follow_ akun-akun Instagram terseleksi dan pilihan.
 
-**Buka file :** <br>
-[topinstagram-gen.txt](../master/topinstagram-gen.txt) - Self improvement, Informatics, UI/UX Design, Illustration <br>
-[topinstagram-pro.txt](../master/topinstagram-pro.txt) - Info umum/terkini, Infografis, Berita, Hobi, Hiburan, Lainnya
+**Kategori :** <br>
+[top-50-akun-ig-insight.txt](../master/top-50-akun-ig-insight.txt) - Fakta global & lokal, berita global & lokal, berita spesifik, infografis dan pembelajaran.<br>
+[top-50-akun-ig-interest.txt](../master/top-50-akun-ig-interest.txt) - Eksplorasi bumi, info untuk developer, info untuk traveler, dan info untuk hobi lainnya.<br>
+[top-50-akun-ig-improve.txt](../master/top-50-akun-ig-improve.txt) - Buku bisnis, pembelajaran bisnis global & lokal, pembelajaran tentang kehidupan.<br>
+[top-60-akun-ig-influencer.txt](../master/top-60-akun-ig-influencer.txt) - Para tokoh komedi, milenial, agama, motivator, berbakat, traveler dan selebgram.<br>
+[top-200-akun-ig-designworld.txt](../master/top-200-akun-ig-designworld.txt) - Skema warna, desain logo, tokoh & publikasi desain, belajar UI/IX, dan ragam ilustrasi. <br>
+
 
 <br>
 
