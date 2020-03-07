@@ -102,15 +102,15 @@ Self Improvement
   * [Optimize Me](https://www.optimize.me/) - The best Big Ideas from the best optimal living books. More wisdom in less time.
   * [The Power Moves](https://thepowermoves.com/start-here/) - E-learning platform, social dynamics, power, and life strategies.
   * [Faster to Master](https://fastertomaster.com/) - Faster to Master. Read more, learn faster and wake up productivity.
-  * [The Book Summary Club](https://booksummaryclub.com/) - Think big, read Small. Short book summaries and reviews for business owners.
+  * [The Book Summary Club](https://booksummaryclub.com/) - Think big, read small. Short book summaries and reviews for business owners.
   * [Paul Minors](https://paulminors.com/resources/) - I can help you to be more effective with your time and get more done.
   * [Nat Eliason](https://www.nateliason.com/notes/) - Most of the important things I’ve learned have come from books, articles, etc.
   * [Sam Thomas](https://www.samuelthomasdavies.com/book-summaries/) - I take brief but concise notes from the best non-fiction books of all-time.  
-  * [Marc Reclau](https://www.marcreklau.com/) - Author of the #1 Bestseller "30 Days -Change your habits, change your life".
+  * [Marc Reclau](https://www.marcreklau.com/) - Author of the #1 Bestseller "30 days change your habits, change your life".
   * [Gates Notes](https://www.gatesnotes.com/Books) - Bill Gates - where I share about the people I meet, the books I'm reading, and what I'm learning.
   * [Design Epic Life](https://designepiclife.com/) - Design your greatest life and unleash the best version of you.
   * [Experience Life](https://experiencelife.com/) - Empowering people to become their happiest - deeply satisfying way of life.
-  * [Hitman System](https://hitmansystem.com/produk) - Satu-satunya Professional Relationship Consultancy di Indonesia.
+  * [Hitman System](https://hitmansystem.com/produk) - Satu-satunya professional relationship consultancy di Indonesia.
   * [Dewa Eka Prayoga](https://dewaekaprayoga.com/) - Dewa Selling, hobi jualan, plus ngajarin orang jago jualan.
   * [Arry Rahmawan](https://arryrahmawan.net/) - Mengikat dan berbagi ilmu untuk generasi Indonesia yang Lebih Baik.
   
