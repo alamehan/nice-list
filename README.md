@@ -99,15 +99,15 @@ Self Improvement
   * [Four Minutes](https://fourminutebooks.com/) - Over 600 free book summaries. You can read each one in just 4 minutes.
   * [The Power Moves](https://thepowermoves.com/best-free-book-summary-websites/) - E-learning platform, social dynamics, power, and life strategies.
   * [Faster to Master](https://fastertomaster.com/) - Read more, learn faster and wake up productivity.
+  * [Optimize Me](https://www.optimize.me/) - The best Big Ideas from the best optimal living books. More wisdom in less time.
   * [Design Epic Life](https://designepiclife.com/) - Design your life for high performance and success.
   * [The Book Summary Club](https://booksummaryclub.com/) - Think big, read Small. Short book summaries and reviews for business owners.
-  * [Optimize Me](https://www.optimize.me/) - The best Big Ideas from the best optimal living books. More wisdom in less time.
+  * [Experience Life](https://experiencelife.com/author/Brian-Johnson/) - Empowering people to become their happiest - deeply satisfying way of life.
   * [Paul Minors](https://paulminors.com/resources/) - I can help you to be more effective with your time and get more done.
   * [Sam Thomas](https://www.samuelthomasdavies.com/) - I take brief but concise notes from the best non-fiction books of all-time.
   * [Nat Eliason](https://www.nateliason.com/notes/) - Most of the important things I’ve learned have come from books, articles, etc.
   * [Marc Reclau](https://www.marcreklau.com/) - Author of the #1 Bestseller "30 Days -Change your habits, change your life".
   * [Gates Notes](https://www.gatesnotes.com/Books) - Recommended and books review by Bill Gates.
-  * [Experience Life](https://experiencelife.com/author/Brian-Johnson/) - Empowering people to become their happiest - deeply satisfying way of life.
   * [Hitman System](https://hitmansystem.com/produk) - Satu-satunya Professional Relationship Consultancy di Indonesia
   * [Dewa Eka Prayoga](https://dewaekaprayoga.com/) - Dewa Selling, hobi jualan, plus ngajarin orang jago jualan.
   * [Arry Rahmawan](https://arryrahmawan.net/) - Mengikat dan Berbagi Ilmu untuk Generasi Indonesia yang Lebih Baik.
