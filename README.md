@@ -452,7 +452,9 @@ Incredibly Useful Websites
   * [Alleng](https://alleng.org/) - Download textbooks, dictionaries, manuals, audio, video etc. 
   * [PDF Drive](https://www.pdfdrive.com/) - Search engine for PDF files. eBooks for you to download for free.
   * [Sci-Hub](https://sci-hub.tw/) - The first website in the world to provide mass & public access to research papers.
-
+  * [DicSity](https://www.docsity.com/) - Access free study contents - study notes, essays, summaries and a lot more!.
+  * [Scribd](http://www.scribd.com/) - Enjoy an unlimited* number of books, audiobooks, magazines, and more.
+   
 * Resource & Coupon
   * [Use FYI](https://usefyi.com/templates/) - Free resources and templates you need to get work done in one place.
   * [CouponCause](https://couponcause.com/) - Find promo codes and online discounts by store and category.
