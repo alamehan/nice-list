@@ -94,23 +94,25 @@ Self Improvement
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
-* Books and Ideas
-  * [12min](https://12min.com/) - You are only a few seconds away from changing your life!
+* Book Summaries and Ideas
+  * [Pimtar](https://pimtar.id/) - Sebentar bacanya, cepat pintarnya. Aplikasi rangkuman buku best seller pertama di Indonesia.
+  * [Blinkist](https://www.blinkist.com/) - Big ideas in small packages. Key takeaways from the world’s best nonfiction books in text and audio.
+  * [12min](https://12min.com/) - The best ideas in your pocket. You are only a few seconds away from changing your life.
   * [Four Minutes](https://fourminutebooks.com/) - Over 600 free book summaries. You can read each one in just 4 minutes.
-  * [The Power Moves](https://thepowermoves.com/best-free-book-summary-websites/) - E-learning platform, social dynamics, power, and life strategies.
-  * [Faster to Master](https://fastertomaster.com/) - Read more, learn faster and wake up productivity.
   * [Optimize Me](https://www.optimize.me/) - The best Big Ideas from the best optimal living books. More wisdom in less time.
-  * [Design Epic Life](https://designepiclife.com/) - Design your life for high performance and success.
+  * [The Power Moves](https://thepowermoves.com/start-here/) - E-learning platform, social dynamics, power, and life strategies.
+  * [Faster to Master](https://fastertomaster.com/) - Faster to Master. Read more, learn faster and wake up productivity.
   * [The Book Summary Club](https://booksummaryclub.com/) - Think big, read Small. Short book summaries and reviews for business owners.
-  * [Experience Life](https://experiencelife.com/author/Brian-Johnson/) - Empowering people to become their happiest - deeply satisfying way of life.
   * [Paul Minors](https://paulminors.com/resources/) - I can help you to be more effective with your time and get more done.
-  * [Sam Thomas](https://www.samuelthomasdavies.com/) - I take brief but concise notes from the best non-fiction books of all-time.
   * [Nat Eliason](https://www.nateliason.com/notes/) - Most of the important things I’ve learned have come from books, articles, etc.
+  * [Sam Thomas](https://www.samuelthomasdavies.com/book-summaries/) - I take brief but concise notes from the best non-fiction books of all-time.  
   * [Marc Reclau](https://www.marcreklau.com/) - Author of the #1 Bestseller "30 Days -Change your habits, change your life".
-  * [Gates Notes](https://www.gatesnotes.com/Books) - Recommended and books review by Bill Gates.
-  * [Hitman System](https://hitmansystem.com/produk) - Satu-satunya Professional Relationship Consultancy di Indonesia
+  * [Gates Notes](https://www.gatesnotes.com/Books) - Bill Gates - where I share about the people I meet, the books I'm reading, and what I'm learning.
+  * [Design Epic Life](https://designepiclife.com/) - Design your greatest life and unleash the best version of you.
+  * [Experience Life](https://experiencelife.com/) - Empowering people to become their happiest - deeply satisfying way of life.
+  * [Hitman System](https://hitmansystem.com/produk) - Satu-satunya Professional Relationship Consultancy di Indonesia.
   * [Dewa Eka Prayoga](https://dewaekaprayoga.com/) - Dewa Selling, hobi jualan, plus ngajarin orang jago jualan.
-  * [Arry Rahmawan](https://arryrahmawan.net/) - Mengikat dan Berbagi Ilmu untuk Generasi Indonesia yang Lebih Baik.
+  * [Arry Rahmawan](https://arryrahmawan.net/) - Mengikat dan berbagi ilmu untuk generasi Indonesia yang Lebih Baik.
   
 * Podcast and Ideas
   * [GaryVee Podcast](https://www.garyvaynerchuk.com/podcast/) - Keynote speeches on marketing and business.
@@ -156,7 +158,7 @@ Self Improvement
   * [Hujan Tanda Tanya](https://www.youtube.com/channel/UC5dn6JdeSgWzcNL7NuvMEKQ) - Rangsangan pemikiran seputar sains, teknologi, dan masyarakat - dikemas dengan ringan.
   * [Sains Bro](https://www.youtube.com/channel/UCCFY2uB8liUM4cnCCkUC6GA) - Channel edukasi Indonesia yang membantu menjelaskan berbagai hal tentang SAINS.
   * [Kamu Harus Tahu](https://www.youtube.com/channel/UCLNrxRWWBw-lYOPaibnvSwA) - Channel edukasi yang menyajikan berbagai informasi dan pengetahuan melalui animasi 2D.
-  * [Ayo Mikir](https://www.youtube.com/channel/UCyZa7DYVsdJxnyDw6XmVvCQ) - Channel Edukasi yang menyajikan konten tayangan inspiratif dan edukatif untuk Indonesia.
+  * [Ayo Mikir](https://www.youtube.com/channel/UCyZa7DYVsdJxnyDw6XmVvCQ) - Channel edukasi yang menyajikan konten tayangan inspiratif dan edukatif untuk Indonesia.
   * [House of Infographics](https://www.youtube.com/channel/UCz-lipPZtRjhgLJpZQHczBg) - Menampilkan data secara sederhana, kreatif dan mudah untuk dipahami.
   * [Nous ID](https://www.youtube.com/channel/UCNgz9dujmF3kTbmR3yJHmlQ) - Nous ID, sebuah channel edukasi alternatif, yang bergerak melalui platform YouTube.
   * [Mau Tau Banget](https://www.youtube.com/channel/UCMCbTLHW5GXsxKMkOelX6-w) - Channel edukasi yang menyajikan berbagai informasi dan pengetahuan melalui Youtube.
@@ -430,8 +432,10 @@ Incredibly Useful Websites
 
 * Expand Your Knowledge
   * [Wikipedia](https://www.wikipedia.org/) - The free encyclopedia. The largest and most popular general reference work on the World Wide Web.
+  * [Wikihow](https://www.wikihow.com/) - The world's most helpful how-to instructions to enable everyone to learn how to do anything.
   * [Medium](https://medium.com/) - Our sole purpose is to help you find compelling ideas, knowledge, and perspectives.
   * [MakeUseOf](https://www.makeuseof.com/) - Learn how to make use of tech and gadgets around you and discover cool stuff on the Internet.
+  * [Reddit](https://www.reddit.com/) - An American social news aggregation, web content rating, and discussion website.
   * [Vice](https://www.vice.com/) - The Definitive Guide To Enlightening Information from every corner of the planet.
   * [Pretty Awesome Lists](https://www.prettyawesomelists.com/) - Pretty Awesome Lists crawls all these lists, collects interesting information about each link.
   
