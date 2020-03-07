@@ -102,7 +102,7 @@ Self Improvement
   * [Design Epic Life](https://designepiclife.com/) - Design your life for high performance and success.
   * [The Book Summary Club](https://booksummaryclub.com/) - Think big, read Small. Short book summaries and reviews for business owners.
   * [Optimize Me](https://www.optimize.me/) - The best Big Ideas from the best optimal living books. More wisdom in less time.
-  * [Paul Minors](https://paulminors.com/resources/ - I can help you to be more effective with your time and get more done.
+  * [Paul Minors](https://paulminors.com/resources/) - I can help you to be more effective with your time and get more done.
   * [Sam Thomas](https://www.samuelthomasdavies.com/) - I take brief but concise notes from the best non-fiction books of all-time.
   * [Nat Eliason](https://www.nateliason.com/notes/) - Most of the important things I’ve learned have come from books, articles, etc.
   * [Marc Reclau](https://www.marcreklau.com/) - Author of the #1 Bestseller "30 Days -Change your habits, change your life".
