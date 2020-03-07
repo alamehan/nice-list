@@ -507,6 +507,8 @@ Educational Instagram Accounts
 **Catatan** : Pertama-tama Login terlebih dahulu ke akun Instagram anda. Kemudian copy seluruh akun instagram yang ingin anda _follow_ (dibawah). Lalu gunakan tools/generator [ini](https://chrome.google.com/webstore/detail/helper-tools-for-instagra/clibiflfecckdjnjcgcgjdknmbgceail) untuk mem-_follow_ banyak akun sekaligus dalam satu waktu. Selamat! Anda sudah berhasil mem-_follow_ akun-akun Instagram terseleksi dan pilihan.
 
 **Kategori :** <br>
+[top-40-akun-ig-mixed.txt](../master/top-40-akun-ig-mixed.txt) - Perkuliahan dan karir, hijrah time, muda-mudi kekinian, olshop dan diskon.<br>
+[top-40-akun-ig-funny.txt](../master/top-40-akun-ig-funny.txt) - Hewan (kucing) lucu, nonton/streaming kartun, komik dan animasi, hiburan lainnya.<br>
 [top-50-akun-ig-insight.txt](../master/top-50-akun-ig-insight.txt) - Fakta global & lokal, berita global & lokal, berita spesifik, infografis dan pembelajaran.<br>
 [top-50-akun-ig-interest.txt](../master/top-50-akun-ig-interest.txt) - Eksplorasi bumi, info untuk developer, info untuk traveler, dan info untuk hobi lainnya.<br>
 [top-50-akun-ig-improve.txt](../master/top-50-akun-ig-improve.txt) - Buku bisnis, pembelajaran bisnis global & lokal, pembelajaran tentang kehidupan.<br>
