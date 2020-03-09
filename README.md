@@ -593,7 +593,7 @@ Windows Software Bundles
   * [Picosmos Tools](https://www.tigercolor.com/) - A software covering with all kinds of image functions - editing, composing, segmentation, etc.
   * [ColorImpact](https://www.tigercolor.com/) - An interactive color scheme designer that lets you easily create stunning color schemes.
   * [Cyotek Palette Editor](https://www.cyotek.com/cyotek-palette-editor) - Allows you to create and work with colour palettes, in a variety of formats.
-  * [Icons8](https://www.darktable.org/) - Design stuff for free, for your project - icons, photos, vectors, music, and tools.
+  * [Icons8](https://icons8.com/) - Design stuff for free, for your project - icons, photos, vectors, music, and tools.
   
 * Producer Tools
   * [VEGAS](http://www.vegascreativesoftware.com/) - The VEGAS range of creative software is all you need for fast, professional and efficient video production.
@@ -656,6 +656,7 @@ Windows Software Bundles
   * [Hard Disk Sentinel](https://www.hdsentinel.com/) - A multi-OS SSD and HDD monitoring and analysis software - find, test, diagnose and repair.
   * [HDDlife](https://hddlife.com/) - Allowing you to move your data long before the lifespan of your HDD/SSD comes to an end.
   * [DiskSavvy](https://www.disksavvy.com/) - A free, fast and easy-to-use disk space analyzer utility allowing one to analyze disk.
+  * [Wondershare Recoverit](https://recoverit.wondershare.com/) - Rescue your deleted files, photos, videos, audios, emails, and many more.
   * [MiniTool Power Data Recovery](https://www.minitool.com/data-recovery-software/free-for-windows.html) - Powerful software capable of recovering files lost by human errors, system crash.
   * [MiniTool Partition Wizard](https://hddlife.com/) - All-inclusive free partition manager to organize disk partitions.
   * [EaseUS Data Recovery](https://www.easeus.com/datarecoverywizard/free-data-recovery-software.htm) - Data recovery software, your second to none choice for quick but complete file recovery.
@@ -690,6 +691,7 @@ Windows Software Bundles
   * [Hadits Web 7.0](https://ibnumajjah.wordpress.com/2017/10/13/hadits-web-7-0/) - Kumpulan hadits-hadits yang bersumber dari kitab-kitab hadits terpercaya, dan tersusun rapih.
   * [Perpustakaan Islam Digital](https://perpustakaanislamdigital.com/) - Himpunan 800 jilid (3600 judul) kitab kajiam islam klasik dan komtemporer.
   * **Useful Apps**
+  * [8GadgetPack](https://8gadgetpack.net/) - 8GadgetPack makes it possible to use gadgets on Windows 10/8.1/7. (Ex gadget : [Days Remaining](http://win7gadgets.com/calendar/days_remaining.html))
   * [KeyTweak](https://softfamous.com/keytweak/) - KeyTweak allows a computer user to remap the keys on the keyboard to a customized layout. 
   * [Event Log Ex](https://eventlogxp.com/) - An effective software solution for viewing, analyzing and monitoring events recorded in event logs.
   * [HJSplit](http://www.hjsplit.org/) - Tool to split and recombine files as large as 100+ gigabytes - split, join, compare, and checksum.
