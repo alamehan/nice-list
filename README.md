@@ -513,7 +513,7 @@ Educational Instagram Accounts
 [top-50-akun-ig-interest.txt](../master/edu-instagram/top-50-akun-ig-interest.txt) - Eksplorasi bumi, info untuk developer, info untuk traveler, dan info untuk hobi lainnya.<br>
 [top-50-akun-ig-improve.txt](../master/edu-instagram/top-50-akun-ig-improve.txt) - Buku bisnis, pembelajaran bisnis global & lokal, pembelajaran tentang kehidupan.<br>
 [top-60-akun-ig-influencer.txt](../master/edu-instagram/top-60-akun-ig-influencer.txt) - Para tokoh komedi, milenial, agama, motivator, berbakat, traveler dan selebgram.<br>
-[top-200-akun-ig-designworld.txt](../master/edu-instagram/top-200-akun-ig-designworld.txt) - Skema warna, desain logo, tokoh & publikasi desain, belajar UI/IX, dan ragam ilustrasi. <br>
+[top-170-akun-ig-skillpackage.txt](../master/edu-instagram/top-170-akun-ig-skillpackage.txt) - Pembelajaran dan inspirasi strategi medsos, developer, ui/ux, desain, art, dan ilustrasi.
 
 <br>
 
