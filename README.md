@@ -477,7 +477,8 @@ Incredibly Useful Websites
   * [GfxStudy](https://gfxstudy.com/) - Free AE Template, Videohive, Vector, Stock Image , PSD, Photoshop (1).
   * [Graphicex](https://graphicex.com/) - Free AE Template, Videohive, Vector, Stock Image , PSD, Photoshop (2).
   * [Yify](https://yts.mx/) - YTS was a peer-to-peer release group known for distributing large numbers of movies.
-
+  * [TubeOffline](https://www.tubeoffline.com/) - Free online downloader for any Twitter video. Best tool that actually works.
+  
 * Useful Web Apps
   * [Get Emoji](https://getemoji.com/) - ✂️ Copy and 📋 Paste Emoji 👍 No apps required.
   * [LingoJam](https://lingojam.com/) - LingoJam lets you create an online translator (biasanya untuk style text generator).
