@@ -435,8 +435,8 @@ Incredibly Useful Websites
   * [Wikihow](https://www.wikihow.com/) - The world's most helpful how-to instructions to enable everyone to learn how to do anything.
   * [Medium](https://medium.com/) - Our sole purpose is to help you find compelling ideas, knowledge, and perspectives.
   * [MakeUseOf](https://www.makeuseof.com/) - Learn how to make use of tech and gadgets around you and discover cool stuff on the Internet.
-  * [Reddit](https://www.reddit.com/) - An American social news aggregation, web content rating, and discussion website.
   * [Vice](https://www.vice.com/) - The Definitive Guide To Enlightening Information from every corner of the planet.
+  * [Reddit](https://www.reddit.com/) - An American social news aggregation, web content rating, and discussion website.
   * [Pretty Awesome Lists](https://www.prettyawesomelists.com/) - Pretty Awesome Lists crawls all these lists, collects interesting information about each link.
   
 * Expand Your Skills
@@ -459,7 +459,7 @@ Incredibly Useful Websites
   * [SimiliarWeb](https://www.similarweb.com/) - SimilarWeb is a website which provides web analytics services for businesses.
   * [Slant](https://www.slant.co/) - Product recommendation community to find the best product, app or game for you.
  
-* Discover Books
+* Discover Documents
   * [Libgen](https://libgen.is/) - Search engine for articles and books on various topics which allows free access.
   * [Alleng](https://alleng.org/) - Download textbooks, dictionaries, manuals, audio, video etc. 
   * [PDF Drive](https://www.pdfdrive.com/) - Search engine for PDF files. eBooks for you to download for free.
@@ -480,6 +480,20 @@ Incredibly Useful Websites
   * [TubeOffline](https://www.tubeoffline.com/) - Free online downloader for any Twitter video. Best tool that actually works.
   
 * Useful Web Apps
+  * [Pdf.io](https://pdf.io/) - Free set of online tools for handling PDF files. Convert and edit your PDF files.
+  * [Convert.io](https://convertio.co/) - Convert your files to any format. 300+ formats supported. Fast and easy.
+  * [Stackshare.io](https://stackshare.io/) - Find the right developer tools and the companies that use them.
+  * [Prototypr.io](https://www.prototypr.io/) - Get the latest daily design news and tools. From UX design to frontend dev.
+  * [Libraries.io](https://libraries.io/) - Discover open source packages, modules and frameworks you can use in your code.
+  * [Veed.io](https://www.veed.io/) - A simple but powerful online video editor. Music, trim, crop, aff effects, images, filter, etc.
+  * [Draw.io](https://www.draw.io/) - A free diagram software for making flowcharts, process diagrams, org charts, UML, ER, etc.
+  * [Designer.io](http://designer.io/) - Create graphics, logos and icons, edit images illustrations & presentations, all for free.
+  * [Zeplin.io](https://zeplin.io/) - Handoff designs and styleguides with accurate specs, assets, code snippets—automatically.
+  * [Codepen.io](http://codepen.io/) - An online code editor. The best place to build, test, and discover front-end code.
+  * [Codeshare.io](https://codeshare.io/) - An online code editor for interviews, troubleshooting, teaching and more.
+  * [Io-games.io](http://io-games.io/) - The best io games site in the world. A list of all new io games and most played games.
+  
+* Useful Web Tools
   * [Get Emoji](https://getemoji.com/) - ✂️ Copy and 📋 Paste Emoji 👍 No apps required.
   * [LingoJam](https://lingojam.com/) - LingoJam lets you create an online translator (biasanya untuk style text generator).
   * [Text Fixer](https://www.textfixer.com/) - Collection of free online tools for web coding and text conversion
