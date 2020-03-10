@@ -455,6 +455,7 @@ Incredibly Useful Websites
 
 * Digital Product
   * [Product Hunt](http://www.producthunt.com/) - Discover the latest mobile apps, websites, and technology products.
+  * [Stackshare](https://stackshare.io/) - Find the right developer tools and the companies that use them.
   * [YourStack](https://yourstack.com/) - YourStack is for sharing your favorite products with the world.
   * [SimiliarWeb](https://www.similarweb.com/) - SimilarWeb is a website which provides web analytics services for businesses.
   * [Slant](https://www.slant.co/) - Product recommendation community to find the best product, app or game for you.
