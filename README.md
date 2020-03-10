@@ -1,7 +1,7 @@
 <img src="sampulrev.png">
 
 ## NiceList
-- **101 Daftar ragam topik menarik** : Navigasi untuk beragam website/produk/jasa yang berkualitas dan dapat diandalkan.<br>
+- **101 Daftar ragam topik menarik** : Navigasi untuk beragam website/produk/jasa yang berkualitas.<br>
 - Merupakan salah satu segmen dari [Alamehan Project](https://medium.com/@alamehan/selamat-datang-di-alamehan-35a43da9d87e) | Selebihnya kunjungi : [alamehan.github.io](https://alamehan.github.io/)
 
 ## Motivasi 
