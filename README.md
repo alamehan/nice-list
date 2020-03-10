@@ -598,6 +598,7 @@ Windows Software Bundles
   
 * Producer Tools
   * [VEGAS](http://www.vegascreativesoftware.com/) - The VEGAS range of creative software is all you need for fast, professional and efficient video production.
+  * [Wondershare Filmora](https://filmora.wondershare.net/) - A video editor for all creators. Empower your stories and imagination with Filmora.
   * [HitFilm Express](https://fxhome.com/hitfilm-express) - A free video editing software with professional-grade VFX tools and everything you need.
   * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - A professional editing and color grading system that is suitable for everyone.
   * [OBS Studio](https://obsproject.com/) - Free and open source software for video recording and live streaming.
