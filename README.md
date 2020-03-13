@@ -493,6 +493,8 @@ Incredibly Useful Websites
   * [Codepen.io](http://codepen.io/) - An online code editor. The best place to build, test, and discover front-end code.
   * [Codeshare.io](https://codeshare.io/) - An online code editor for interviews, troubleshooting, teaching and more.
   * [Io-games.io](http://io-games.io/) - The best io games site in the world. A list of all new io games and most played games.
+  * [Remove.bg](https://www.remove.bg/) - Remove image background 100% automatically in 5 seconds, without a single click.
+  * [Deep-image.ai](https://deep-image.ai/) - Upscale and enhance photo, improve picture quality based on ANN.
   
 * Useful Web Tools
   * [Get Emoji](https://getemoji.com/) - ✂️ Copy and 📋 Paste Emoji 👍 No apps required.
