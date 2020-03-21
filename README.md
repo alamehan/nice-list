@@ -479,6 +479,7 @@ Incredibly Useful Websites
   * [Graphicex](https://graphicex.com/) - Free AE Template, Videohive, Vector, Stock Image , PSD, Photoshop (2).
   * [Yify](https://yts.mx/) - YTS was a peer-to-peer release group known for distributing large numbers of movies.
   * [TubeOffline](https://www.tubeoffline.com/) - Free online downloader for any Twitter video. Best tool that actually works.
+  * [Subscene](https://subscene.com/) - Free download and browse more movies, TV Series, tv shows subtitles.
   
 * Useful Web Apps
   * [Pdf.io](https://pdf.io/) - Free set of online tools for handling PDF files. Convert and edit your PDF files.
@@ -510,7 +511,8 @@ Incredibly Useful Websites
   * [Bitly](https://bitly.com/) - Shorten, create and share trusted, powerful links for your business.
   * [Small PDF](https://smallpdf.com/) - All-in-one (convert, compress, merge, split and edit) easy-to-use online PDF tools.
   * [Vector Magic](https://vectormagic.com/) - Easily Convert JPG, PNG, GIF Files to PDF, SVG, EPS Vectors.
-  * [Google Earth](https://www.google.com/intl/id/earth/) - 3D representation of Earth based primarily on satellite imagery.
+  * [Google Earth](https://www.google.com/intl/id/earth/) - 3D representation of Earth based primarily on satellite imagery - Allows you to "fly".
+  * [IsItDownRightNow?](https://www.isitdownrightnow.com/) - Monitors the status of your favorite web sites and checks whether they are down or not. 
 
 <br>
 
