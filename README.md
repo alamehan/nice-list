@@ -463,6 +463,7 @@ Incredibly Useful Websites
   * [Slant](https://www.slant.co/) - Product recommendation community to find the best product, app or game for you.
  
 * Discover Documents
+  * [Internet Archive](https://archive.org/) - Digital library offering free universal access to books, movies & music.
   * [Libgen](https://libgen.is/) - Search engine for articles and books on various topics which allows free access.
   * [Alleng](https://alleng.org/) - Download textbooks, dictionaries, manuals, audio, video etc. 
   * [PDF Drive](https://www.pdfdrive.com/) - Search engine for PDF files. eBooks for you to download for free.
