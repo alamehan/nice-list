@@ -476,17 +476,28 @@ Incredibly Useful Websites
   * [DocSity](https://www.docsity.com/) - Access free study contents - study notes, essays, summaries and a lot more.
   * [Scribd](http://www.scribd.com/) - Enjoy an unlimited* number of books, audiobooks, magazines, and more.
    
-* Resource & Coupon
+* Various Resources
+  * [Kickass](https://kickass.help/) - You can search for TV shows and TV series, movies, music and games.
+  * [1337x](https://www.1337x.tw/) - Brings you the latest games, movies, tv series, music and software for free.
+  * [Yify](https://yts.mx/) - YTS was a peer-to-peer release group known for distributing large numbers of movies.
+  * [Soap2Day](https://soap2day.ru/) - Watch latest movies and TV series online no ads, we daily update.
+  * [Subscene](https://subscene.com/) - Free download and browse more movies, TV Series, tv shows subtitles.
+  * [TubeOffline](https://www.tubeoffline.com/) - Free online downloader for any Twitter video. Best tool that actually works.
   * [Use FYI](https://usefyi.com/templates/) - Free resources and templates you need to get work done in one place.
-  * [CouponCause](https://couponcause.com/) - Find promo codes and online discounts by store and category.
-  * [Couponos](https://couponos.ooo/) - Get the latest Udemy Coupon and BitDegree Online Courses. 
-  * [Freebies Global](https://freebiesglobal.com/) - Latest freebies, courses, coupons & deals.
-  * [FreeCourseLab](https://freecourselab.com/) - A great place to learn. Download Udemy Courses for Free.
   * [GfxStudy](https://gfxstudy.com/) - Free AE Template, Videohive, Vector, Stock Image , PSD, Photoshop (1).
   * [Graphicex](https://graphicex.com/) - Free AE Template, Videohive, Vector, Stock Image , PSD, Photoshop (2).
-  * [Yify](https://yts.mx/) - YTS was a peer-to-peer release group known for distributing large numbers of movies.
-  * [TubeOffline](https://www.tubeoffline.com/) - Free online downloader for any Twitter video. Best tool that actually works.
-  * [Subscene](https://subscene.com/) - Free download and browse more movies, TV Series, tv shows subtitles.
+  * [Ttorial](http://ttorial.com/) - Obtain & download the best Udemy courses for free.
+  * [FreeCourseLab](https://freecourselab.com/) - A great place to learn. Download Udemy Courses for Free.
+  * [FreeCourseUdemy](https://freecourseudemy.com/) - Premium Udemy tutorials free download.
+  
+* Coupon Hunter
+  * [OzBargain](https://www.ozbargain.com.au/tag/udemy-course) - Hunting community, coupon codes and freebies.
+  * [Freebies Global](https://freebiesglobal.com/) - Latest freebies, courses, coupons & deals.
+  * [Disc Udemy](https://www.discudemy.com/language/english) - Free Udemy courses and zero broken link.
+  * [Coupo Scorpion](https://couponscorpion.com/) - The ultimate resource for 100% free Udemy coupons.
+  * [LearnViral](https://udemycoupon.learnviral.com/) - Free Udemy coupons, get your coupons before they expire.
+  * [CouponCause](https://couponcause.com/) - Find promo codes and online discounts by store and category.
+  * [Couponos](https://couponos.ooo/) - Get the latest Udemy Coupon and BitDegree Online Courses.
   
 * Useful Web Apps
   * [Pdf.io](https://pdf.io/) - Free set of online tools for handling PDF files. Convert and edit your PDF files.
