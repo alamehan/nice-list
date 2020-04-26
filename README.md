@@ -202,6 +202,14 @@ Developer Starter Pack
   * [The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) - PHP Base
   * [Master Laravel 6 with Vue.js Fullstack Development](https://www.udemy.com/course/master-laravel-6-with-vuejs-fullstack-development/) - PHP Base
   * [Brad Traversy Course](https://www.udemy.com/user/brad-traversy/) - For Better Insight
+  
+* Online Tutorials
+  * [Tutorialspoint](https://www.tutorialspoint.com/index.htm) - Free online tutorials, courses and programming projects #1
+  * [Javapoint](https://www.javatpoint.com/) - Free online tutorials, courses and programming projects #2
+  * [FreeCodeCamp](https://www.freecodecamp.org/) - Free online tutorials, courses and programming projects #3
+  * [GeeksForGeeks](https://www.geeksforgeeks.org/) - Free online tutorials, courses and programming projects #4
+  * [Tutorial Kart](https://www.tutorialkart.com/) - Free online tutorials, courses and programming projects #5
+  * [SoloLearn](https://www.sololearn.com/) - Free online tutorials, courses and programming projects #6
 
 * Full-Stack Web Dev
   * [Dunia Ilkom](https://www.duniailkom.com/) - Situs belajar programming Indonesia, membahas lengkap materi bahasa pemrograman website.
@@ -210,8 +218,6 @@ Developer Starter Pack
   * [Be Fullstack Developer](https://buku-laravel-vue.com/) - Panduan Hebat untuk Menjadi Fullstack Developer! Laravel & Vue.js.
   * [W3Schools](https://www.w3schools.com/) - Educational website for learning web technologies online.
   * [A Smarter Way](https://www.amazon.com/Mark-Myers/e/B00HNW14T4?ref_=dbs_p_ebk_r00_abau_000000) - Coding, I learned, isn't that hard. Easy way to learn web programming.
-  * [Tutorialspoint](https://www.tutorialspoint.com/index.htm) - Learn to code with free online courses and programming projects #1
-  * [FreeCodeCamp](https://www.freecodecamp.org/) - Learn to code with free online courses and programming projects #2
   
 * Front-End Web Dev
   * [HTML](https://github.com/diegocard/awesome-html5) - HTML Resource
