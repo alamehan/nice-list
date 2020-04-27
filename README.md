@@ -1,16 +1,16 @@
-<img src="sampulrev.png">
+<img src="sampul.png">
 
 ## NiceList
-- **101 Daftar ragam topik menarik** : Navigasi untuk beragam website/produk/jasa yang berkualitas.<br>
+- Navigasi beragam website dan produk digital yang berkualitas dan terseleksi.<br>
 - Merupakan salah satu segmen dari [Alamehan Project](https://medium.com/@alamehan/selamat-datang-di-alamehan-35a43da9d87e) | Selebihnya kunjungi : [alamehan.github.io](https://alamehan.github.io/)
 
 ## Motivasi 
 
-Dari ragam informasi yang tersebar secara acak di semesta Internet, terdapat "harta karun" tak ternilai yang tersembunyi. Harta karun ini tidak mudah ditemukan, diperlukan sebuah _keyword_ yang tepat pada mesin pencari untuk mendapatkannya. Harta karun ini memuat informasi yang jernih, berkualitas, berbobot, terseleksi dan komprehensif. Dengan harta karun ini, hidup anda akan jauh lebih mudah. Anda akan dibuat manja dengan tidak perlu membuang-buang waktu untuk mencari dan menjelajah suatu topik informasi tertentu yang dapat diandalkan di Internet, berkunjung ke situs sana-sini yang tidak menjamin kualitas kontennya ataupun hanya berisi secuil informasi saja.
+Dari segala macam hal yang tersebar secara acak di Internet, terdapat banyak sekali "harta karun" tak ternilai yang tersembunyi. Harta karun ini tidak mudah ditemukan, diperlukan sebuah _keyword_ yang tepat pada mesin pencari untuk mendapatkannya. Harta karun ini berupa website maupun produk-produk digital yang berkualitas dan dapat diandalkan. Dengan harta karun ini, hidup anda akan jauh lebih mudah, anda akan mendapatkan banyak sekali manfaat didalamnya: informasi yang berbobot, konten yang ga setengah-setengah hingga produk gratisan yang dapat membantu anda dalam mengerjakan pekerjaan sehari-hari, tanpa perlu menghabiskan banyak waktu untuk mencari kesana-kemari. Dan.. semua harta karun yang berhasil saya temukan itu, saya rangkum dalam **NiceList** ini.
 
-Dengan **NiceList** yang terinspirasi dari sebuah proyek bernama [Awesome](https://github.com/sindresorhus/awesome) ini, saya menghabiskan banyak waktu untuk melakukan "penjelahan" secara mendalam di semesta Internet, mencari harta karun yang tersembunyi itu, kemudian mengumpulkan lalu mem-_filter_ dan mengkategorikannya sesuai topik. Tidak lain untuk memudahkan anda untuk mendapatkan informasi maupun _insight_ yang jernih dan tidak menyesatkan (setengah-setengah), serta menghemat waktu. Intinya, **NiceList** digunakan sebagai _navigasi_ yang dapat membantu dan menuntun anda ke ragam website/produk/jasa menarik sesuai topik, tentunya yang berkualitas dan dapat diandalkan.
+Dengan **NiceList** yang terinspirasi dari sebuah proyek besar bernama [Awesome](https://github.com/sindresorhus/awesome), saya menghabiskan banyak sekali waktu untuk melakukan "penjelahan" secara mendalam di semesta Internet. Mencari harta karun yang tersembunyi itu, kemudian mengumpulkan lalu mem-_filter_ dan mengkategorikannya sesuai topik. Tidak lain dan tidak bukan untuk memudahkan anda maupun saya pribadi mendapatkan manfaat nyata dari Internet ini. Intinya, **NiceList** dapat anda gunanan sebagai _navigasi_ yang membantu dan menuntun anda ke ragam website maupun produk-produk digital yang berkualitas dan terseleksi.
 
-**Catatan** : Daftar ragam topik yang tersedia di **NiceList** ini memang tidak banyak dan cenderung lebih ke bidang IT (sesuai dengan _background_ pendidikan saya). Namun demikian, daftar ragam topik ini saya susun berdasarkan pengalaman saya selama bertahun-tahun lamanya mengotak-ngatik, menjelajah, menggali dan memanfaatkan Internet sebagai salah satu sumber belajar, lalu saya merangkumnya dalam **NiceList**. Ini merupakan proyek berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_-nya secara berkala.
+**Catatan** : Topik yang tersedia di **NiceList** ini memang tidak banyak dan cenderung lebih ke bidang IT (sesuai dengan _background_ pendidikan saya). Namun demikian, **NiceList** ini merupakan proyek yang berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_ dan menambahkannya secara berkala, tentunya saat saya menemukan harta karun baru yang layak dimasukkan kedalam daftar.
 
 <br>
 
