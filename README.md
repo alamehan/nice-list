@@ -1,4 +1,4 @@
-<img src="sampul.png">
+<img src="sampulfinal.png">
 
 ## NiceList
 - Navigasi beragam website dan produk digital yang berkualitas dan terseleksi.<br>
@@ -6,9 +6,9 @@
 
 ## Motivasi 
 
-Dari segala macam hal yang tersebar secara acak di Internet, terdapat banyak sekali "harta karun" tak ternilai yang tersembunyi. Harta karun ini tidak mudah ditemukan, diperlukan sebuah _keyword_ yang tepat pada mesin pencari untuk mendapatkannya. Harta karun ini berupa website maupun produk-produk digital yang berkualitas dan dapat diandalkan. Dengan harta karun ini, hidup anda akan jauh lebih mudah, anda akan mendapatkan banyak sekali manfaat didalamnya: informasi yang berbobot, konten yang ga setengah-setengah hingga produk gratisan yang dapat membantu anda dalam mengerjakan pekerjaan sehari-hari, tanpa perlu menghabiskan banyak waktu untuk mencari kesana-kemari. Dan.. semua harta karun yang berhasil saya temukan itu, saya rangkum dalam **NiceList** ini.
+Dari segala hal yang tersebar secara acak di Internet, terdapat banyak sekali "harta karun" tak ternilai yang tersembunyi. Harta karun ini tidak mudah ditemukan, diperlukan sebuah _keyword_ yang tepat pada mesin pencari untuk mendapatkannya. Harta karun ini berupa website maupun produk-produk digital yang berkualitas dan dapat diandalkan. Dengan harta karun ini, hidup anda akan jauh lebih mudah, anda akan mendapatkan banyak sekali manfaat: informasi yang berbobot, konten yang tidak setengah-setengah hingga produk gratisan yang dapat membantu anda dalam mengerjakan pekerjaan sehari-hari. Tentunya tanpa anda perlu menghabiskan banyak waktu untuk mencarinya kesana-kemari di luasnya Internet, karena kabar baiknya.. saya memberikan semua harta karun yang berhasil saya temukan dalam **NiceList** ini. Jadi bersenang-senanglah..
 
-Dengan **NiceList** yang terinspirasi dari sebuah proyek besar bernama [Awesome](https://github.com/sindresorhus/awesome), saya menghabiskan banyak sekali waktu untuk melakukan "penjelahan" secara mendalam di semesta Internet. Mencari harta karun yang tersembunyi itu, kemudian mengumpulkan lalu mem-_filter_ dan mengkategorikannya sesuai topik. Tidak lain dan tidak bukan untuk memudahkan anda maupun saya pribadi mendapatkan manfaat nyata dari Internet ini. Intinya, **NiceList** dapat anda gunanan sebagai _navigasi_ yang membantu dan menuntun anda ke ragam website maupun produk-produk digital yang berkualitas dan terseleksi.
+Dengan **NiceList** yang terinspirasi dari sebuah proyek besar bernama [Awesome](https://github.com/sindresorhus/awesome), saya menghabiskan banyak sekali waktu untuk melakukan "penjelahan" secara mendalam di semesta Internet. Mencari harta karun yang tersembunyi itu, kemudian mengumpulkan lalu mem-_filter_ dan mengkategorikannya sesuai topik. Tidak lain dan tidak bukan untuk memudahkan anda maupun saya pribadi untuk mendapatkan manfaat nyata dari Internet ini. Intinya, **NiceList** dapat anda gunanan sebagai _navigasi_ yang membantu dan menuntun anda ke ragam website maupun produk-produk digital yang berkualitas, terseleksi dan dapat diandalkan.
 
 **Catatan** : Topik yang tersedia di **NiceList** ini memang tidak banyak dan cenderung lebih ke bidang IT (sesuai dengan _background_ pendidikan saya). Namun demikian, **NiceList** ini merupakan proyek yang berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_ dan menambahkannya secara berkala, tentunya saat saya menemukan harta karun baru yang layak dimasukkan kedalam daftar.
 
