@@ -128,6 +128,13 @@ Self Improvement
   * [Hiduplah Indonesia Maya](https://open.spotify.com/show/6yUPhJdvDAMRVwApXBpQWd) - Podcast dari Pandji Pragiwaksono, membahas segala hal yang terjadi di Indonesia.
   * [Finfolk](https://open.spotify.com/show/3coiCSZDmmBSREVpo0PpIB) - Rethinking money. New ideas about investment in a fun way.
   
+* Animated Book Summaries (Youtube)
+  * [OnePercentBetter](https://www.youtube.com/channel/UCRI6t05DNVlV0XhdI7hx_iw/) - Get the key lessons from self-development books in 10 minutes or less.
+  * [Mervan Polat](https://www.youtube.com/channel/UCfr02PiHepExS81u6jRT2Cw) - I tell stories about art, history, technology, philosophy and science.
+  * [Practical Psychology](https://www.youtube.com/channel/UCir93b_ftqInEaDpsWYbo_g) - Giving high-quality and informative videos to everyone who wishes to learn.
+  * [After Skool](https://www.youtube.com/channel/UC1KmNKYC1l0stjctkGswl6g) - A weekly dose of fun and interesting science, ideas, stories, education and more.
+  * [FightMediocrity](https://www.youtube.com/user/phuckmediocrity) - Big Ideas for a better life. The free audiobook or for reading a book.
+  
 * Youtube Motivasi
   * [TEDx Talks](https://www.youtube.com/user/TEDxTalks) - American media organization that posts talks online - "ideas worth spreading". 
   * [OPTIMIZE](https://www.youtube.com/channel/UCRhEwzsFYLGcMa4m2AbTAoA) - The best Big Ideas from the best optimal living books. More wisdom in less time.
