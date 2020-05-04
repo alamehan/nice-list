@@ -111,7 +111,8 @@ Self Improvement
   * [The Book Summary Club](https://booksummaryclub.com/) - Think big, read small. Short book summaries and reviews for business owners.
   * [Paul Minors](https://paulminors.com/resources/) - I can help you to be more effective with your time and get more done.
   * [Nat Eliason](https://www.nateliason.com/notes/) - Most of the important things I’ve learned have come from books, articles, etc.
-  * [Sam Thomas](https://www.samuelthomasdavies.com/book-summaries/) - I take brief but concise notes from the best non-fiction books of all-time.  
+  * [Sam Thomas](https://www.samuelthomasdavies.com/book-summaries/) - I take brief but concise notes from the best non-fiction books of all-time.
+  * [James Clear](https://jamesclear.com/book-summaries) - Book summaries: popular books summarized in 3 sentences or less.
   * [Marc Reclau](https://www.marcreklau.com/) - Author of the #1 Bestseller "30 days change your habits, change your life".
   * [Gates Notes](https://www.gatesnotes.com/Books) - Bill Gates - where I share about the people I meet, the books I'm reading, and what I'm learning.
   * [Mark Manson](https://markmanson.net/best-books) - Lists of the best books to read based on hundreds of hours of reading and research.
