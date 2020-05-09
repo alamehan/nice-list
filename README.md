@@ -96,7 +96,7 @@ Self Improvement
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
 * Book Summaries and Ideas
-  * [LifeClub](https://lifeclub.org/) - Life Club is building a university for life skills.
+  * [LifeClub](https://lifeclub.org/book-categories) - Life Club is building a university for life skills. Like a Wikipedia for life skills.
   * [BookAuthority](https://bookauthority.org/) - The most recommended books on business, technology and science.
   * [Blinkist](https://www.blinkist.com/) - Big ideas in small packages. Key takeaways from the world’s best nonfiction books in text and audio.
   * [12min](https://12min.com/) - The best ideas in your pocket. You are only a few seconds away from changing your life.
