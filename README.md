@@ -96,11 +96,7 @@ Self Improvement
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
 * Book Summaries and Ideas
-  * [Pimtar](https://pimtar.id/) - Sebentar bacanya, cepat pintarnya. Aplikasi rangkuman buku best seller pertama di Indonesia.
-  * [Saputrawhy](https://www.saputrawhy.com/reading-notes/) - Halaman tentang ringkasan buku, berupa poin-poin yang berisi ide atau pelajaran penting.
-  * [Dewa Eka Prayoga](https://dewaekaprayoga.com/) - Dewa Selling, hobi jualan, plus ngajarin orang jago jualan.
-  * [Arry Rahmawan](https://arryrahmawan.net/) - Mengikat dan berbagi ilmu untuk generasi Indonesia yang Lebih Baik.
-  * [Hitman System](https://hitmansystem.com/produk) - Satu-satunya professional relationship consultancy di Indonesia.
+  * [LifeClub](https://lifeclub.org/) - Life Club is building a university for life skills.
   * [BookAuthority](https://bookauthority.org/) - The most recommended books on business, technology and science.
   * [Blinkist](https://www.blinkist.com/) - Big ideas in small packages. Key takeaways from the world’s best nonfiction books in text and audio.
   * [12min](https://12min.com/) - The best ideas in your pocket. You are only a few seconds away from changing your life.
@@ -118,6 +114,11 @@ Self Improvement
   * [Mark Manson](https://markmanson.net/best-books) - Lists of the best books to read based on hundreds of hours of reading and research.
   * [Design Epic Life](https://designepiclife.com/) - Design your greatest life and unleash the best version of you.
   * [Experience Life](https://experiencelife.com/) - Empowering people to become their happiest - deeply satisfying way of life.
+  * [Pimtar](https://pimtar.id/) - Sebentar bacanya, cepat pintarnya. Aplikasi rangkuman buku best seller pertama di Indonesia.
+  * [Saputrawhy](https://www.saputrawhy.com/reading-notes/) - Halaman tentang ringkasan buku, berupa poin-poin yang berisi ide atau pelajaran penting.
+  * [Dewa Eka Prayoga](https://dewaekaprayoga.com/) - Dewa Selling, hobi jualan, plus ngajarin orang jago jualan.
+  * [Arry Rahmawan](https://arryrahmawan.net/) - Mengikat dan berbagi ilmu untuk generasi Indonesia yang Lebih Baik.
+  * [Hitman System](https://hitmansystem.com/produk) - Satu-satunya professional relationship consultancy di Indonesia.
   
 * Podcast and Ideas
   * [GaryVee Podcast](https://www.garyvaynerchuk.com/podcast/) - Keynote speeches on marketing and business.
