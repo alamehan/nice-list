@@ -175,6 +175,7 @@ Useful Websites
   * [YourStack](https://yourstack.com/) - YourStack is for sharing your favorite products with the world.
   * [SimiliarWeb](https://www.similarweb.com/) - SimilarWeb is a website which provides web analytics services for businesses.
   * [Slant](https://www.slant.co/) - Product recommendation community to find the best product, app or game for you.
+  * [Capterra](https://www.capterra.com/) - Search, compare, and choose the right software with confidence.
   * [G2](https://www.g2.com/) - Choose the right software and services based on 1,061,900+ authentic.
 
 * Expand Your Knowledge
@@ -561,9 +562,7 @@ Windows Software Bundles
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
-* Softwares Showcase
-  * [G2](https://www.g2.com/) - Choose the right software and services based on 1,061,900+ authentic.
-  * [Capterra](https://www.capterra.com/) - Search, compare, and choose the right software with confidence.
+**Catatan** : Untuk menjelajah dan membandingkan beragam software anda dapat menggunakan website [Capterra](https://www.capterra.com/) atau [G2](https://www.g2.com/).
   
 * Driver Installer
   * [DriverPack Solution](https://driverpack.io/) - Help you to download all the required and competitive drivers to your computer.
