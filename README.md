@@ -66,7 +66,7 @@ Self Improvement
 * Books and Ideas (ID)
   * [Pimtar](https://pimtar.id/) - Sebentar bacanya, cepat pintarnya. Aplikasi rangkuman buku best seller pertama di Indonesia.
   * [Saputrawhy](https://www.saputrawhy.com/reading-notes/) - Halaman tentang ringkasan buku, berupa poin-poin yang berisi ide atau pelajaran penting.
-  * [Darmawan Aji](https://darmawanaji.com/) - Penulis buku mindful fife, productivity hack, fife by design, hypnoselling, hypnowriting.
+  * [Darmawan Aji](https://darmawanaji.com/) - Penulis buku mindful life, productivity hack, life by design, hypnoselling, hypnowriting.
   * [Dewa Eka Prayoga](https://dewaekaprayoga.com/) - Dewa Selling, hobi jualan, plus ngajarin orang jago jualan.
   * [Arry Rahmawan](https://arryrahmawan.net/) - Mengikat dan berbagi ilmu untuk generasi Indonesia yang Lebih Baik.
   * [Hitman System](https://hitmansystem.com/produk) - Satu-satunya professional relationship consultancy di Indonesia.
@@ -101,13 +101,6 @@ Self Improvement
   * [GaryVee Podcast](https://www.garyvaynerchuk.com/podcast/) - The Garyvee Audio Experience. Keynote speeches on marketing and business.
   * [HBR IdeaCast](https://open.spotify.com/show/4gtSBBxIAE142ApX6LqsvN) - A weekly podcast featuring the leading thinkers in business and management.
   
-* Youtube : Animated Book Summaries (EN)
-  * [OnePercentBetter](https://www.youtube.com/channel/UCRI6t05DNVlV0XhdI7hx_iw/) - Get the key lessons from self-development books in 10 minutes or less.
-  * [Mervan Polat](https://www.youtube.com/channel/UCfr02PiHepExS81u6jRT2Cw) - I tell stories about art, history, technology, philosophy and science.
-  * [Practical Psychology](https://www.youtube.com/channel/UCir93b_ftqInEaDpsWYbo_g) - Giving high-quality and informative videos to everyone who wishes to learn.
-  * [After Skool](https://www.youtube.com/channel/UC1KmNKYC1l0stjctkGswl6g) - A weekly dose of fun and interesting science, ideas, stories, education and more.
-  * [FightMediocrity](https://www.youtube.com/user/phuckmediocrity) - Big Ideas for a better life. The free audiobook or for reading a book.
-  
 * Youtube : Motivation & Inspiration (ID & EN)
   * [TEDx Talks](https://www.youtube.com/user/TEDxTalks) - American media organization that posts talks online - "ideas worth spreading". 
   * [OPTIMIZE](https://www.youtube.com/channel/UCRhEwzsFYLGcMa4m2AbTAoA) - The best Big Ideas from the best optimal living books. More wisdom in less time.
@@ -120,7 +113,14 @@ Self Improvement
   * [Merry Riana](https://www.youtube.com/user/merryrianashow) - Menciptakan dampak positif di dalam kehidupan jutaan orang di Indonesia.
   * [Dewa Eka Prayoga](https://www.youtube.com/channel/UCx-9wWeG3YcqxXKXxOn3wMA) - Sharing seputar bisnis online, digital marketing, copywriting, dll.
   
-* Youtube : Insight (ID)
+* Youtube : Animated Book Summaries (EN)
+  * [OnePercentBetter](https://www.youtube.com/channel/UCRI6t05DNVlV0XhdI7hx_iw/) - Get the key lessons from self-development books in 10 minutes or less.
+  * [Mervan Polat](https://www.youtube.com/channel/UCfr02PiHepExS81u6jRT2Cw) - I tell stories about art, history, technology, philosophy and science.
+  * [Practical Psychology](https://www.youtube.com/channel/UCir93b_ftqInEaDpsWYbo_g) - Giving high-quality and informative videos to everyone who wishes to learn.
+  * [After Skool](https://www.youtube.com/channel/UC1KmNKYC1l0stjctkGswl6g) - A weekly dose of fun and interesting science, ideas, stories, education and more.
+  * [FightMediocrity](https://www.youtube.com/user/phuckmediocrity) - Big Ideas for a better life. The free audiobook or for reading a book.
+  
+* Youtube : Insight, Feed Your Brain (ID)
   * [Sisi Terang](https://www.youtube.com/channel/UCSg-Y9uI1E-my-I4WKKioEQ) - Penemuan sains, penjelajahan ruang angkasa, misteri, kisah nyata mengejutkan, psikologi, dst.
   * [Kok Bisa?](https://www.youtube.com/channel/UCu0yQD7NFMyLu_-TmKa4Hqg) - Pengalaman belajar sains yang inovatif melalui video-video animasi edukatif.
   * [Hujan Tanda Tanya](https://www.youtube.com/channel/UC5dn6JdeSgWzcNL7NuvMEKQ) - Rangsangan pemikiran seputar sains, teknologi, dan masyarakat - dikemas dengan ringan.
@@ -137,7 +137,7 @@ Self Improvement
   * [Froyonion](https://www.youtube.com/channel/UCG1E2hR9KDuAWFoRO0yyE4w) - Froyonion mengajak penonton memikirkan kembali berbagai hal dari sudut pandang lain.
   * [Gue Punya Cerita](https://www.youtube.com/channel/UCkRNRz9ifB2A04zTb6Y9LYg) - Berbagai cerita yang diangkat dari kisah nyata, dikemas dalam bentuk animasi.
   
-* Youtube : Insight (EN)
+* Youtube : Insight, Feed Your Brain (EN)
   * [TED-Ed](https://www.youtube.com/user/TEDEducation) - Creating lessons worth sharing is an extension of TED’s mission of spreading great ideas.
   * [Crash Course](https://www.youtube.com/user/crashcourse) - Tons of awesome courses - sociology, computer science, film history and mythology.
   * [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt) - We are a small team who want to make science look beautiful. Because it is beautiful.
