@@ -97,7 +97,7 @@ Self Improvement
   * [Thirty Days of Lunch](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww) - Teman makan siang sekaligus nutrisi untuk pikiran. Ga berat, tapi juga ga receh.
   * [Makna Talks](https://open.spotify.com/show/1PGN4ilb4aoWKkB7FNSLsx) - A weekly podcast with well known subjects every week talking about what's behind the facts.
   * [Hiduplah Indonesia Maya](https://open.spotify.com/show/6yUPhJdvDAMRVwApXBpQWd) - Podcast dari Pandji Pragiwaksono, membahas segala hal yang terjadi di Indonesia.
-  * [Finfolk](https://open.spotify.com/show/3coiCSZDmmBSREVpo0PpIB) - Rethinking money. New ideas about investment in a fun way.
+  * [Finfolk](https://open.spotify.com/show/3coiCSZDmmBSREVpo0PpIB) - Rethinking money. Sunday chill afternoon. New ideas about investment in a fun way.
   * [GaryVee Podcast](https://www.garyvaynerchuk.com/podcast/) - The Garyvee Audio Experience. Keynote speeches on marketing and business.
   * [HBR IdeaCast](https://open.spotify.com/show/4gtSBBxIAE142ApX6LqsvN) - A weekly podcast featuring the leading thinkers in business and management.
   
