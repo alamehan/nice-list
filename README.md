@@ -167,6 +167,7 @@ Useful Websites
 * Comprehensive Resource
   * Psychology : [Positive Psychology](https://positivepsychology.com/), [Psychology Tools](https://www.psychologytools.com/), [Psychology-Tools](https://psychology-tools.com/), [Living Moxie](https://dawnbarclay.com/)
   * Data Visualization : [Visualization Universe](http://visualizationuniverse.com/), [Dataviz Catalogue](https://datavizcatalogue.com/), [Observable HQ](https://observablehq.com/), [Adioma](https://blog.adioma.com/)
+  * Explorative Visuals : [By Owen](http://byowen.com/), [One Zoom](https://www.onezoom.org/), [Things Made Thinkable](http://www.thingsmadethinkable.com/), [Knowledge Center](http://www.knowledgecenter.com/ions/NoeticMap.html)
   * Powerful Diagramming : [Creately](https://creately.com/), [Draw.io](https://app.diagrams.net/) (Selebihnya Nanti di Section : Designer 101)
   
 * Digital Product Showcase
@@ -181,6 +182,7 @@ Useful Websites
 * Expand Your Knowledge
   * [Wikipedia](https://www.wikipedia.org/) - The free encyclopedia. The largest and most popular general reference work on the World Wide Web.
   * [Wikihow](https://www.wikihow.com/) - The world's most helpful how-to instructions to enable everyone to learn how to do anything.
+  * [Fandom](https://www.fandom.com/) - The entertainment site where fans come first. Source for all things TV, movies, and games, etc.
   * [Medium](https://medium.com/) - Our sole purpose is to help you find compelling ideas, knowledge, and perspectives.
   * [MakeUseOf](https://www.makeuseof.com/) - Learn how to make use of tech and gadgets around you and discover cool stuff on the Internet.
   * [Vice](https://www.vice.com/) - The Definitive Guide To Enlightening Information from every corner of the planet.
