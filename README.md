@@ -21,13 +21,13 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek besar bernama [Awesome]
 <p align="center">
 	<a href="#sec01">Find a Job</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="#sec02">Self Improvement</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec08">Useful Websites</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec05">Top Chrome Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec03">Useful Websites</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec04">Top Chrome Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<br>
-	<a href="#sec03">Designer 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec04">Developer 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec06">Top Figma Plugins</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec07">Top VSCode Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec05">Designer 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec06">Developer 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec07">Top Figma Plugins</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec08">Top VS Code Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<br>
 	<a href="#sec09">Educational Instagram Accounts</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="#sec10">Software Bundles</a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -185,7 +185,7 @@ Self Improvement
   
 <br>
 
-<div id="sec08"></div>
+<div id="sec03"></div>
 
 🌐 
 Useful Websites
@@ -297,7 +297,7 @@ Useful Websites
 
 <br>
 
-<div id="sec05"></div>
+<div id="sec04"></div>
 
 ⚙️ 
 Top Chrome Extensions
@@ -388,7 +388,7 @@ Top Chrome Extensions
 
 <br>
 
-<div id="sec03"></div>
+<div id="sec05"></div>
 
 🎨 
 Designer 101
@@ -400,7 +400,7 @@ _(Upcoming!)_
 
 <br>
 
-<div id="sec04"></div>
+<div id="sec06"></div>
 
 💻 
 Developer 101
@@ -466,7 +466,7 @@ Developer 101
 
 <br>
 
-<div id="sec06"></div>
+<div id="sec07"></div>
 
 🔮 
 Top Figma Plugins
@@ -549,7 +549,7 @@ Top Figma Plugins
 
 <br>
 
-<div id="sec07"></div>
+<div id="sec08"></div>
 
 ⚔️ 
 Top Visual Studio Code Extensions
