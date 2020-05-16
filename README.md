@@ -21,14 +21,14 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek besar bernama [Awesome]
 <p align="center">
 	<a href="#sec01">Find a Job</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="#sec02">Self Improvement</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec08">Useful Websites</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec05">Top Chrome Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<br>
 	<a href="#sec03">Designer Starter Pack</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="#sec04">Developer Starter Pack</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<br>
-	<a href="#sec05">Top Chrome Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="#sec06">Top Figma Plugins</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec07">Top Visual Studio Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec07">Top VSCode Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<br>
-	<a href="#sec08">Incredibly Useful Websites</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="#sec09">Educational Instagram Accounts</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="#sec10">Software Bundles</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
