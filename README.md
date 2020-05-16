@@ -379,6 +379,7 @@ Top Figma Plugins
   * [Dominant Color Toolkit](https://www.figma.com/community/plugin/744725347356614754/Dominant-Color-Toolkit-%F0%9F%8E%A8) - Generate a palette from an image to magically populate your designs.
   
 * About Text
+  * [Better Font Picker](https://www.figma.com/community/plugin/739922281164562258/Better-Font-Picker) - Helps you select fonts with a preview of how it looks. 
   * [Font Scale](https://www.figma.com/community/plugin/741231992144144738/Font-Scale) - Font Scale is a quick tool to generate a harmonious and consistent typography hierarchy.
   * [Font Master](https://www.figma.com/community/plugin/781086314747849337/Font-Master) - Makes it easy to organize your fonts and ensure consistency in your texts.
   * [Find and Replace](https://www.figma.com/community/plugin/735072959812183643/Find-and-Replace) - Search for texts on your page and replace them just like a text editor.
