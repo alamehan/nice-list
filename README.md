@@ -460,6 +460,14 @@ Incredibly Useful Websites
 * Comprehensive Resource
   * Psychology - [1] [Positive Psychology](https://positivepsychology.com/), [2] [Psychology Tools](https://www.psychologytools.com/), [3] [Psychology-Tools](https://psychology-tools.com/), [4] [Living Moxie](https://dawnbarclay.com/)
   * Data Visualization - [1] [Visualization Universe](http://visualizationuniverse.com/), [2] [The Data Visualisation Catalogue](https://datavizcatalogue.com/), [3] [Adioma](https://blog.adioma.com/)
+  
+* Digital Product Showcase
+  * [Product Hunt](http://www.producthunt.com/) - Discover the latest mobile apps, websites, and technology products.
+  * [Stackshare](https://stackshare.io/) - Find the right developer tools and the companies that use them.
+  * [YourStack](https://yourstack.com/) - YourStack is for sharing your favorite products with the world.
+  * [SimiliarWeb](https://www.similarweb.com/) - SimilarWeb is a website which provides web analytics services for businesses.
+  * [Slant](https://www.slant.co/) - Product recommendation community to find the best product, app or game for you.
+  * [G2](https://www.g2.com/) - Choose the right software and services based on 1,061,900+ authentic.
 
 * Expand Your Knowledge
   * [Wikipedia](https://www.wikipedia.org/) - The free encyclopedia. The largest and most popular general reference work on the World Wide Web.
@@ -483,13 +491,6 @@ Incredibly Useful Websites
   * [Plural Sight](https://www.pluralsight.com/) - Gives you confidence you have the skills you need to execute your technology strategy.
   * [Treehouse](https://teamtreehouse.com/) - Learn to code, gain a new skill, get a new job. Whatever your goal — we'll get you there.
   * [Codecademy](https://www.codecademy.com/) - Learn the technical skills you need for the job you want.
-
-* Digital Product
-  * [Product Hunt](http://www.producthunt.com/) - Discover the latest mobile apps, websites, and technology products.
-  * [Stackshare](https://stackshare.io/) - Find the right developer tools and the companies that use them.
-  * [YourStack](https://yourstack.com/) - YourStack is for sharing your favorite products with the world.
-  * [SimiliarWeb](https://www.similarweb.com/) - SimilarWeb is a website which provides web analytics services for businesses.
-  * [Slant](https://www.slant.co/) - Product recommendation community to find the best product, app or game for you.
  
 * Discover Documents
   * [Internet Archive](https://archive.org/) - Digital library offering free universal access to books, movies & music.
