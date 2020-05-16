@@ -459,7 +459,7 @@ Incredibly Useful Websites
 
 * Comprehensive Resource
   * Psychology - [1] [Positive Psychology](https://positivepsychology.com/), [2] [Psychology Tools](https://www.psychologytools.com/), [3] [Psychology-Tools](https://psychology-tools.com/), [4] [Living Moxie](https://dawnbarclay.com/)
-  * Data Visualization - [1] [Visualization Universe](http://visualizationuniverse.com/), [2] [The Data Visualisation Catalogue](https://datavizcatalogue.com/), [3] [Adioma](https://blog.adioma.com/)
+  * Data Visualization - [1] [Visualization Universe](http://visualizationuniverse.com/), [2] [Dataviz Catalogue](https://datavizcatalogue.com/), [3] [Observable HQ](https://observablehq.com/), [4] [Adioma](https://blog.adioma.com/)
   * Powerful Diagramming - [1] [Creately](https://creately.com/), [2] [Draw.io](https://app.diagrams.net/) (Selebihnya Nanti di Section : Designer Starter Pack)
   
 * Digital Product Showcase
