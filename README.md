@@ -45,45 +45,13 @@ Find a Job
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
-* General
-  * [LinkedIn](https://www.linkedin.com/)
-  * [Qerja](https://www.qerja.com/)
-  * [Glints](https://glints.com/id)
-  * [Glassdoor](https://www.glassdoor.com/index.htm)
-  * [Urbanhire](https://www.urbanhire.com/)
-  * [Careerjet](https://www.careerjet.co.id/)
-  * [Indeed](https://id.indeed.com/)
-  * [JobStreet](https://www.jobstreet.co.id/)
-  * [Jora](https://www.jora.com/)
-  * [JobFinder](http://www.jobfinder.co.id/)
-  * [Jobs.id](https://www.jobs.id/)
+* General : [LinkedIn](https://www.linkedin.com/), [Qerja](https://www.qerja.com/), [Glints](https://glints.com/id), [Glassdoor](https://www.glassdoor.com/index.htm), [Urbanhire](https://www.urbanhire.com/), [Careerjet](https://www.careerjet.co.id/), [Indeed](https://id.indeed.com/), [JobStreet](https://www.jobstreet.co.id/), [Jora](https://www.jora.com/), [JobFinder](http://www.jobfinder.co.id/), [Jobs.id](https://www.jobs.id/)
   
-* Developer
-  * [Tech in Asia](https://www.techinasia.com/jobs/search)
-  * [Dicoding](https://www.dicoding.com/jobs/list)
-  * [Ekrut](https://careers.ekrut.com/)
-  * [Simonas Kominfo](https://simonas.kominfo.go.id/)
+* Developer : [Tech in Asia](https://www.techinasia.com/jobs/search), [Dicoding](https://www.dicoding.com/jobs/list), [Ekrut](https://careers.ekrut.com/), [SIMONAS (Sistem Informasi Monitoring Alumni Serttifikasi ) Kominfo](https://simonas.kominfo.go.id/)
   
-* Startup Career
-  * [Tokopedia](https://www.tokopedia.com/careers/jobs/)
-  * [Bukalapak](https://careers.bukalapak.com/browse/Engineering)
-  * [Shopee](https://careers.shopee.co.id/jobs/)
-  * [Blibli](https://www.blibli.com/page/karir/)
-  * [Gojek](https://career.go-jek.com/job/)
-  * [Traveloka](https://www.traveloka.com/en/careers)
-  * [Pegipegi](https://www.pegipegi.com/team/career.html)
-  * [Dana](https://www.dana.id/karir)
-  * [KitaBisa](https://kitabisa.urbanhire.com/)
-  * [Ruangguru](https://career.ruangguru.com)
+* Startup Career : [Tokopedia](https://www.tokopedia.com/careers/jobs/), [Bukalapak](https://careers.bukalapak.com/browse/Engineering), [Shopee](https://careers.shopee.co.id/jobs/), [Blibli](https://www.blibli.com/page/karir/), [Gojek](https://career.go-jek.com/job/), [Traveloka](https://www.traveloka.com/en/careers), [Pegipegi](https://www.pegipegi.com/team/career.html), [Dana](https://www.dana.id/karir), [KitaBisa](https://kitabisa.urbanhire.com/), [Ruangguru](https://career.ruangguru.com)
   
-* Freelancer & Project
-  * [Freelancer](https://www.freelancer.co.id/search/projects/)
-  * [Sribu](https://www.sribu.com/id/contests)
-  * [Sribulancer](https://www.sribulancer.com/id/bj/loker/v3)
-  * [Projects](https://projects.co.id/public/browse_projects/listing)
-  * [Fastwork](https://fastwork.id/start-selling)
-  * [99designs](https://99designs.com/contests)
-  * [DesignCrowd](https://jobs.designcrowd.com/jobs/)
+* Freelancer & Project : [Freelancer](https://www.freelancer.co.id/search/projects/), [Sribu](https://www.sribu.com/id/contests), [Sribulancer](https://www.sribulancer.com/id/bj/loker/v3), [Projects](https://projects.co.id/public/browse_projects/listing), [Fastwork](https://fastwork.id/start-selling), [99designs](https://99designs.com/contests), [DesignCrowd](https://jobs.designcrowd.com/jobs/)
   
 <br>
 
@@ -194,9 +162,9 @@ Useful Websites
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
 * Comprehensive Resource
-  * Psychology - [1] [Positive Psychology](https://positivepsychology.com/), [2] [Psychology Tools](https://www.psychologytools.com/), [3] [Psychology-Tools](https://psychology-tools.com/), [4] [Living Moxie](https://dawnbarclay.com/)
-  * Data Visualization - [1] [Visualization Universe](http://visualizationuniverse.com/), [2] [Dataviz Catalogue](https://datavizcatalogue.com/), [3] [Observable HQ](https://observablehq.com/), [4] [Adioma](https://blog.adioma.com/)
-  * Powerful Diagramming - [1] [Creately](https://creately.com/), [2] [Draw.io](https://app.diagrams.net/) (Selebihnya Nanti di Section : Designer 101)
+  * Psychology : [Positive Psychology](https://positivepsychology.com/), [Psychology Tools](https://www.psychologytools.com/), [Psychology-Tools](https://psychology-tools.com/), [Living Moxie](https://dawnbarclay.com/)
+  * Data Visualization : [Visualization Universe](http://visualizationuniverse.com/), [Dataviz Catalogue](https://datavizcatalogue.com/), [Observable HQ](https://observablehq.com/), [Adioma](https://blog.adioma.com/)
+  * Powerful Diagramming : [Creately](https://creately.com/), [Draw.io](https://app.diagrams.net/) (Selebihnya Nanti di Section : Designer 101)
   
 * Digital Product Showcase
   * [Product Hunt](http://www.producthunt.com/) - Discover the latest mobile apps, websites, and technology products.
