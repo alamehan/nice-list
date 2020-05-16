@@ -457,6 +457,10 @@ Incredibly Useful Websites
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
+* Comprehensive Resource
+  * Psychology - [1] [Positive Psychology](https://positivepsychology.com/), [2] [Psychology Tools](https://www.psychologytools.com/), [3] [Psychology-Tools](https://psychology-tools.com/), [4] [Living Moxie](https://dawnbarclay.com/)
+  * Data Visualization - [1] [Visualization Universe](http://visualizationuniverse.com/), [2] [The Data Visualisation Catalogue](https://datavizcatalogue.com/), [3] [Adioma](https://blog.adioma.com/)
+
 * Expand Your Knowledge
   * [Wikipedia](https://www.wikipedia.org/) - The free encyclopedia. The largest and most popular general reference work on the World Wide Web.
   * [Wikihow](https://www.wikihow.com/) - The world's most helpful how-to instructions to enable everyone to learn how to do anything.
