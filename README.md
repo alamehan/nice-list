@@ -303,9 +303,10 @@ Top Chrome Extensions
   * [Print Friendly & PDF](https://chrome.google.com/webstore/detail/print-friendly-pdf/ohlencieiipommannpdfcmfdpjjmeolj) - Print Friendly removes ads, navigation and junk before your print.
   * [Kami Extension](https://chrome.google.com/webstore/detail/kami-extension-pdf-and-do/ecnphlgnajanjnkcmbpancdjoidceilk) - Best PDF and Document Annotation and Markup Tool.
   * [Google Docs Offline](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi) - Edit, create and view all your documents without Internet access.
-  * [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - View translations easily as you browse the web. By the Google Translate team.
+  * [One Click Translate](https://chrome.google.com/webstore/detail/one-click-translate/anhjddeakbabimdgmonfbnpbainknbfa?hl=en) - Translate your selected text with Google Translate in one click, in a simplest way.
   * [Mate Translate](https://chrome.google.com/webstore/detail/mate-translate-%E2%80%93-translat/ihmgiclibbndffejedjimfjmfoabpcke) - Your all-in-one translator for web pages, highlighted text & Netflix subtitles.
   * [TransOver](https://chrome.google.com/webstore/detail/transover/aggiiclaiamajehmlfpkjmlbadmkledi?hl=en) - Translate word from any language to the language of your choice by pointing or clicking at it.
+  * [Rememberry](https://chrome.google.com/webstore/detail/rememberry-translate-and/dipiagiiohfljcicegpgffpbnjmgjcnf) - Easily replenish your foreign languages dictionary using flashcards.
   * [Copy As Plain Text](https://chrome.google.com/webstore/detail/copy-as-plain-text/eneajgkmdhmjmloiabgkpkiooaejmlpk) - Easily copy the selected text without formatting to the clipboard via right-click menu.
   * [Highlight This](https://chrome.google.com/webstore/detail/highlight-this-finds-and/fgmbnmjmbjenlhbefngfibmjkpbcljaj?hl=en-US) - Automatically finds and highlights words and phrases on the web page according to your list.
   * [Text Tools](https://chrome.google.com/webstore/detail/text-tools/mpcpnbklkemjinipimjcbgjijefholkd) - Handy text tools a click away (including uppercase, lowercase, count words, count lines, etc).
