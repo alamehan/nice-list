@@ -30,7 +30,7 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek besar bernama [Awesome]
 	<a href="#sec08">Top VS Code Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<br>
 	<a href="#sec09">Educational Instagram Accounts</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec10">Software Bundles</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec10">Windows Software Bundles</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
