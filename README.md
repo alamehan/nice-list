@@ -460,6 +460,7 @@ Incredibly Useful Websites
 * Comprehensive Resource
   * Psychology - [1] [Positive Psychology](https://positivepsychology.com/), [2] [Psychology Tools](https://www.psychologytools.com/), [3] [Psychology-Tools](https://psychology-tools.com/), [4] [Living Moxie](https://dawnbarclay.com/)
   * Data Visualization - [1] [Visualization Universe](http://visualizationuniverse.com/), [2] [The Data Visualisation Catalogue](https://datavizcatalogue.com/), [3] [Adioma](https://blog.adioma.com/)
+  * Powerful Diagramming - [1] [Creately](https://creately.com/), [2] [Draw.io](https://app.diagrams.net/), [3] [Adioma](https://blog.adioma.com/)
   
 * Digital Product Showcase
   * [Product Hunt](http://www.producthunt.com/) - Discover the latest mobile apps, websites, and technology products.
@@ -589,6 +590,10 @@ Windows Software Bundles
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
+* Softwares Showcase
+  * [G2](https://www.g2.com/) - Choose the right software and services based on 1,061,900+ authentic.
+  * [Capterra](https://www.capterra.com/) - Search, compare, and choose the right software with confidence.
+  
 * Driver Installer
   * [DriverPack Solution](https://driverpack.io/) - Help you to download all the required and competitive drivers to your computer.
   * [Silent Install Builder](http://www.silentinstall.org/) - Tool for quickly install a set of software on a multiple computers.
@@ -628,6 +633,7 @@ Windows Software Bundles
   * [Scribus](https://www.scribus.net/) - Free and open-source desktop publishing (DTP) software available for most desktop operating systems.
   * [PUB HTML5](https://www.scribus.net/) - Publish interactive magazines, catalogs, brochure Online. Create beautiful flipping book in HTML5.
   * [Edraw Max](https://www.edrawsoft.com/edraw-max/) - Creating flow chart, mind map, org charts, network diagrams and floor plans with templates.
+  * [SmartDraw](https://www.smartdraw.com/) - The smartest way to draw any type of chart, diagram, charts, network diagrams, and more.
   * [XMind](https://www.xmind.net/) - The most professional and popular mind mapping tool, to capture ideas, clarify thinking, etc.
   * [Draw.io](https://www.draw.io/) - A free diagram software for making flowcharts, process diagrams, org charts, UML, ER, etc.
   * [PDF Sharper](https://www.pdfshaper.com/) - All-in-one PDF software optimized for better productivity and document security.
