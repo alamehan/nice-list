@@ -45,7 +45,7 @@ Find a Job
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
-* General : [LinkedIn](https://www.linkedin.com/), [Qerja](https://www.qerja.com/), [Glints](https://glints.com/id), [Glassdoor](https://www.glassdoor.com/index.htm), [Urbanhire](https://www.urbanhire.com/), [Careerjet](https://www.careerjet.co.id/), [Indeed](https://id.indeed.com/), [JobStreet](https://www.jobstreet.co.id/), [Jora](https://www.jora.com/), [JobFinder](http://www.jobfinder.co.id/), [Jobs.id](https://www.jobs.id/)
+* General : [LinkedIn](https://www.linkedin.com/), [Qerja](https://www.qerja.com/), [Glints](https://glints.com/id), [Glassdoor](https://www.glassdoor.com/index.htm), [Urbanhire](https://www.urbanhire.com/), [Careerjet](https://www.careerjet.co.id/), [Indeed](https://id.indeed.com/), [TheMuse](https://www.themuse.com/), [JobStreet](https://www.jobstreet.co.id/), [Jora](https://www.jora.com/), [JobFinder](http://www.jobfinder.co.id/), [Jobs.id](https://www.jobs.id/)
   
 * Developer : [Tech in Asia](https://www.techinasia.com/jobs/search), [Dicoding](https://www.dicoding.com/jobs/list), [Ekrut](https://careers.ekrut.com/), [SIMONAS (Sistem Informasi Monitoring Alumni Serttifikasi ) Kominfo](https://simonas.kominfo.go.id/)
   
@@ -167,6 +167,7 @@ Useful Websites
   * [Vector Magic](https://vectormagic.com/) - Easily Convert JPG, PNG, GIF Files to PDF, SVG, EPS Vectors.
   * [Google Earth](https://www.google.com/intl/id/earth/) - 3D representation of Earth based primarily on satellite imagery - Allows you to "fly".
   * [IsItDownRightNow?](https://www.isitdownrightnow.com/) - Monitors the status of your favorite web sites and checks whether they are down or not. 
+  * [HaveIBeenPwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach.
 
 <br>
 
@@ -205,6 +206,7 @@ Self Improvement
   * [Mark Manson](https://markmanson.net/best-books) - Lists of the best books to read based on hundreds of hours of reading and research.
   * [Design Epic Life](https://designepiclife.com/) - Design your greatest life and unleash the best version of you.
   * [Experience Life](https://experiencelife.com/) - Empowering people to become their happiest - deeply satisfying way of life.
+  * [Success.com](https://www.success.com/) - Magazine that focuses on people who take full responsibility for their own dev and income.
 
 * Podcast and Ideas (ID & EN)
   * [Podcast Subjective](https://soundcloud.com/iqbalhariadi) - Berbagi kisah, insight, dan tips praktis pengembangan diri.
