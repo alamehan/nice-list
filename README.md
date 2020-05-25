@@ -574,12 +574,13 @@ Windows Software Bundles
   * [Silent Install Builder](http://www.silentinstall.org/) - Tool for quickly install a set of software on a multiple computers.
  
 * First-Install
-  * [Clover 3](http://en.ejie.me/) - Add multi-tab functionality Windows Explorer similar to Google Chrome browser.
+  * [Clover 3](http://en.ejie.me/) - Add multi-tab functionality W.Explorer similar to Google Chrome browser.
   * [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly. Everything.
   * [TeraCopy](https://www.codesector.com/teracopy) - A free utility designed to copy files faster and more secure.
   * [Speecy](https://www.ccleaner.com/speccy) - Fast, lightweight, advanced system information tool for your PC.
   * [SHAREit](https://shareit.one/pc/) - Allows you to share all kind of files from one device to another.
   * [WinRar](https://www.win-rar.com/) - Windows data compression tool that focuses on the RAR and ZIP formats.
+  * [Actual Multiple Monitor](https://www.actualtools.com/multiplemonitors/) - Improves Windows UI when working with several monitors at once.
   
 * Internet & Browsers
   * [Google Chrome](https://www.google.com/chrome/) - A cross-platform web browser developed by Google.
