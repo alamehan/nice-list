@@ -688,6 +688,7 @@ Windows Software Bundles
   
 * Miscellaneous
   * **Emulators**
+  * [GenyMotion](https://www.genymotion.com/fun-zone/) - Cross-platform Android emulator for developers & QA engineers.
   * [BlueStacks](https://www.bluestacks.com/) - Android emulator for PC. Designed to enable Android applications to run on PCs.
   * [iPadian](https://ipadian.net/) - iPadian is a simulator, not an emulator. It gives you an impression of using the iOS
   * [Emulator Zone](https://www.emulator-zone.com/) - Source for the latest emulators for classic video game consoles and home computers.
