@@ -1,4 +1,4 @@
-<img src="sampulfinal.png">
+<img src="sampul.png">
 
 ## NiceList
 - Navigasi beragam website dan produk digital yang berkualitas dan terseleksi<br>
