@@ -64,7 +64,7 @@ Useful Websites
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
 * Comprehensive Resource
-  * Web Development Journey (The Right Way) : [W3Docs](https://www.w3docs.com/), [W3Schools](https://www.w3schools.com/), [DevDocs](https://devdocs.io/) (Sebelum masuk ke framework, dll)
+  * Web Dev Journey (The Right Way) : [W3Docs](https://www.w3docs.com/), [W3Schools](https://www.w3schools.com/), [DevDocs](https://devdocs.io/) (Sebelum masuk ke framework, dll)
   * Psychology : [Positive Psychology](https://positivepsychology.com/), [Psychology Tools](https://www.psychologytools.com/), [Psychology-Tools](https://psychology-tools.com/), [Living Moxie](https://dawnbarclay.com/)
   * Data Visualization : [Visualization Universe](http://visualizationuniverse.com/), [Dataviz Catalogue](https://datavizcatalogue.com/), [Observable HQ](https://observablehq.com/), [Adioma](https://blog.adioma.com/)
   * Explorative Visuals : [By Owen](http://byowen.com/), [One Zoom](https://www.onezoom.org/), [Things Made Thinkable](http://www.thingsmadethinkable.com/), [Knowledge Center](http://www.knowledgecenter.com/ions/NoeticMap.html)
