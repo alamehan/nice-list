@@ -434,6 +434,7 @@ Developer 101
 * Miscellaneous
   * [RegexOne](https://regexone.com/) - Learn Regular Expressions with simple, interactive exercises.
   * [Pro Git](https://github.com/progit/progit2-id) - Panduan menggunakan Git lengkap, berbahasa Indonesia.
+  * [Oh Shit, Git!?!](https://ohshitgit.com/) - Ragam permasalahan saat bekerja dengan Git beserta solusinya.
   * [Awesome Github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness.
   * [Awesome Guideline](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
   * [Free for Developer](https://github.com/ripienaar/free-for-dev) - A curated list of Developer resources.
