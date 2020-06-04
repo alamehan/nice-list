@@ -587,7 +587,7 @@ Windows Software Bundles
   * [WinRar](https://www.win-rar.com/) - Windows data compression tool that focuses on the RAR and ZIP formats.
   * [Folder Lock](https://www.newsoftwares.net/download/) - Complete Data security software with military grade encryption.
   * [Folder Guard](http://www.folder-guard.com/) - Lock a folder with password & restrict a file or folder.
-  * [Free EXE Lock](http://freeexelock.com/) - Lock software and EXE files with password. Works like AppLock on Android.
+  * [Gilisoft EXE Lock](http://www.gilisoft.com/product-exe-lock.htm) - Lock software and EXE files with password. Works like AppLock on Android.
   * [Actual Multiple Monitor](https://www.actualtools.com/multiplemonitors/) - Improves Windows UI when working with several monitors at once.
   
 * Internet & Browsers
