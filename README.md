@@ -591,7 +591,7 @@ Windows Software Bundles
   * [Encrypto](https://macpaw.com/encrypto) - Drop a file into Encrypto, set a password, and then send it with added security.
   * [Folder Lock](https://www.newsoftwares.net/download/) - Complete Data security software with military grade encryption.
   * [Folder Guard](http://www.folder-guard.com/) - Lock a folder with password & restrict a file or folder.
-  * [WinUtilities EXE Protector](https://winutilities-exe-protector.software.informer.com/) - Lock software and EXE files with password.
+  * [Gilisoft EXE Lock](https://www.youtube.com/watch?v=1nN77WlQmpU) - Lock software and EXE files with password.
   
 * Internet & Browsers
   * [Google Chrome](https://www.google.com/chrome/) - A cross-platform web browser developed by Google.
