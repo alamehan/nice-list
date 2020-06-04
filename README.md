@@ -600,6 +600,7 @@ Windows Software Bundles
   * [4K Video Downloader](https://www.4kdownload.com/) - Allows downloading videos, playlists, channels and subtitles in high quality.
   * [Google2SRT](https://sourceforge.net/projects/google2srt/) - Download, save and convert multiple subtitles from YouTube videos.
   * [uTorrent](https://www.utorrent.com/) - The best torrent downloading app for beginners. Play torrents while you download.
+  * [Discord](https://discord.com/) - A new way to chat with your communities and friends. Voice, video, text, and more.
 
 * Security & Optimization
   * [360 Total Security](https://www.360totalsecurity.com/) - Your unified solution for PC security and performance.
