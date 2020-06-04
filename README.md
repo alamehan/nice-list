@@ -585,8 +585,9 @@ Windows Software Bundles
   * [Speecy](https://www.ccleaner.com/speccy) - Fast, lightweight, advanced system information tool for your PC.
   * [SHAREit](https://shareit.one/pc/) - Allows you to share all kind of files from one device to another.
   * [WinRar](https://www.win-rar.com/) - Windows data compression tool that focuses on the RAR and ZIP formats.
-  * [Folder Lock](https://www.newsoftwares.net/download/) - Data security software with military grade encryption.
+  * [Folder Lock](https://www.newsoftwares.net/download/) - Complete Data security software with military grade encryption.
   * [Folder Guard](http://www.folder-guard.com/) - Lock a folder with a password & restrict a file or a folder.
+  * [Gilisoft EXE Lock](http://www.gilisoft.com/product-exe-lock.htm) - Lock a EXE file with a password. Works like AppLock on Android.
   * [Actual Multiple Monitor](https://www.actualtools.com/multiplemonitors/) - Improves Windows UI when working with several monitors at once.
   
 * Internet & Browsers
