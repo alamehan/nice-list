@@ -666,8 +666,9 @@ Windows Software Bundles
   
 * Developer Tools
   * **for Web Developer**
+   * [DevDocs Desktop](https://devdocs.egoist.moe/) - Fast, offline, and free documentation browser for developers. Search 100+ docs in one place.
   * [Git](https://git-scm.com/) - A free and open source distributed version control system - handle projects with speed and efficiency.
-  * [DevDocs Desktop](https://devdocs.egoist.moe/) - Fast, offline, and free documentation browser for developers. Search 100+ docs in one place.
+  * [GitKraken](https://www.gitkraken.com/) - Three developer productivity tools: Git GUI client, Kanban Boards & Timelines for project milestones.
   * [Notepad++](https://notepad-plus-plus.org/) - A free source code editor and Notepad replacement that supports several languages. 
   * [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. A lightweight text editor.
   * [Atom](https://www.sublimetext.com/) - A free and open-source text and source code editor, developed by GitHub.
