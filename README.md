@@ -338,9 +338,10 @@ Developer 101
   * [NodeJs](https://github.com/sindresorhus/awesome-nodejs) - **Back-End JavaScript Base**
 
 * Miscellaneous
-  * [RegexOne](https://regexone.com/) - Learn Regular Expressions with simple, interactive exercises.
-  * [Pro Git](https://github.com/progit/progit2-id) - Panduan menggunakan Git lengkap, berbahasa Indonesia.
+  * [Learn Git](http://try.github.io/) - Resources to learn Git (handbook, cheat sheet, branching, etc).
   * [Oh Shit, Git!?!](https://ohshitgit.com/) - Ragam permasalahan saat bekerja dengan Git beserta solusinya.
+  * [RegexOne](https://regexone.com/) - Interactive lessons and exercises to help you learn regular expressions.
+  * [Markdown Tutorial](https://www.markdowntutorial.com/) - A way to write content for the web (for documentation, etc).
   * [Awesome Github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness. Very useful.
   * [Awesome Guideline](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
   * [Free for Developer](https://github.com/ripienaar/free-for-dev) - A curated list of Developer resources. Very useful.
