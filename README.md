@@ -22,13 +22,14 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek besar bernama [Awesome]
 	<a href="#sec01">Find a Job</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="#sec02">Useful Websites</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="#sec03">Self Improvement</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec04">Top Chrome Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<br>
-	<a href="#sec05">Designer 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec06">Developer 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec04">Designer 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec05">Developer 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="#sec06">Resource 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec08">Top Figma Plugins</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec09">Top VS Code Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<br>
+	<a href="#sec07">Top Chrome Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec08">Top VS Code Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec09">Top Figma Plugins</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<br>
 	<a href="#sec10">Educational Instagram Accounts</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="#sec11">Windows Software Bundles</a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -270,6 +271,106 @@ Self Improvement
 
 <div id="sec04"></div>
 
+🎨 
+Designer 101
+---
+
+<a href="#daftarisi">🡹 Kembali ke daftar isi</a>
+
+_(Upcoming!)_
+
+<br>
+
+<div id="sec05"></div>
+
+💻 
+Developer 101
+---
+
+<a href="#daftarisi">🡹 Kembali ke daftar isi</a>
+
+* Top Udemy Course
+  * [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) - JavaScript Base
+  * [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - JavaScript Base
+  * [The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) - PHP Base
+  * [Master Laravel 6 with Vue.js Fullstack Development](https://www.udemy.com/course/master-laravel-6-with-vuejs-fullstack-development/) - PHP Base
+  * [Brad Traversy Course](https://www.udemy.com/user/brad-traversy/) - For Better Insight
+  
+* Online Tutorials
+  * [Tutorialspoint](https://www.tutorialspoint.com/index.htm) - Free online tutorials, courses and programming projects #1
+  * [Javapoint](https://www.javatpoint.com/) - Free online tutorials, courses and programming projects #2
+  * [FreeCodeCamp](https://www.freecodecamp.org/) - Free online tutorials, courses and programming projects #3
+  * [GeeksForGeeks](https://www.geeksforgeeks.org/) - Free online tutorials, courses and programming projects #4
+  * [Tutorial Kart](https://www.tutorialkart.com/) - Free online tutorials, courses and programming projects #5
+  * [SoloLearn](https://www.sololearn.com/) - Free online tutorials, courses and programming projects #6
+
+* Full-Stack Web Dev
+  * [Dunia Ilkom](https://www.duniailkom.com/) - Situs belajar programming Indonesia, membahas lengkap materi bahasa pemrograman website.
+  * [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) - Membahas mengenai teknologi internet dan pengembangan web.  
+  * [Build With Angga](https://buildwithangga.com/) - Pelajari keahlian baru yang dibutuhkan oleh perusahaan IT terbesar di seluruh dunia.
+  * [Be Fullstack Developer](https://buku-laravel-vue.com/) - Panduan Hebat untuk Menjadi Fullstack Developer! Laravel & Vue.js.
+  * [W3Schools](https://www.w3schools.com/) - Educational website for learning web technologies online.
+  * [A Smarter Way](https://www.amazon.com/Mark-Myers/e/B00HNW14T4?ref_=dbs_p_ebk_r00_abau_000000) - Coding, I learned, isn't that hard. Easy way to learn web programming.
+  
+* Front-End Web Dev
+  * [HTML](https://github.com/diegocard/awesome-html5) - HTML Resource
+  * [CSS](https://github.com/micromata/awesome-css-learning) - CSS Resource #1 (Learn)
+  * [CSS](https://github.com/awesome-css-group/awesome-css) - CSS Resource #2 (Collection)
+  * [BootStrap](https://github.com/pierceoneill/awesome-bootstrap) - CSS Framework
+  * [JavaScript](https://github.com/micromata/awesome-javascript-learning) - JavaScript Resource #1 (Learn)
+  * [JavaScript](https://github.com/sorrycc/awesome-javascript) - JavaScript Resource #2 (Collection)
+  * [JavaScript](https://github.com/addyosmani/es6-tools) - JavaScript Resource #3 (Tools)
+  * [JSON](https://github.com/burningtree/awesome-json) - JSON Resource
+  * [JQuery](https://github.com/petk/awesome-jquery) - JavaScript Library
+  * [Vue.js](https://github.com/vuejs/awesome-vue) - JavaScript Framework #1
+  * [React](https://github.com/enaqx/awesome-react) - JavaScript Framework #2
+  * [Angular](https://github.com/PatrickJS/awesome-angular) - JavaScript Framework #3
+  
+* Back-End Web Dev
+  * [PHP](https://github.com/odan/learn-php) - PHP Resource #1 (Learn)
+  * [PHP](https://github.com/ziadoz/awesome-php) - PHP Resource #2 (Collection)
+  * [REST](https://github.com/marmelab/awesome-rest) - REST Resource
+  * [MySQL](https://github.com/shlomi-noach/awesome-mysql) - MySQL Resource
+  * [Laravel](https://github.com/shlomi-noach/awesome-mysql) - PHP Framework
+  * [NodeJs](https://github.com/sindresorhus/awesome-nodejs) - **Back-End JavaScript Base**
+
+* Miscellaneous
+  * [RegexOne](https://regexone.com/) - Learn Regular Expressions with simple, interactive exercises.
+  * [Pro Git](https://github.com/progit/progit2-id) - Panduan menggunakan Git lengkap, berbahasa Indonesia.
+  * [Oh Shit, Git!?!](https://ohshitgit.com/) - Ragam permasalahan saat bekerja dengan Git beserta solusinya.
+  * [Awesome Github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness.
+  * [Awesome Guideline](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+  * [Free for Developer](https://github.com/ripienaar/free-for-dev) - A curated list of Developer resources.
+  * [Developer Roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps, mostly about software development.
+  * [Full-Stack Resources](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development.
+  * [Front-End Resources](https://github.com/dypsilon/frontend-dev-bookmarks) - Free resources for learning Front End Web Development.
+  * [Back-End Resources](https://github.com/backend-br/awesome-backend) - Free resources for learning Back End Web Development.
+
+<br>
+
+<div id="sec06"></div>
+
+📂 
+Resource 101
+---
+
+<a href="#daftarisi">🡹 Kembali ke daftar isi</a>
+
+* The Right Way
+  * Web Dev : [GitKrakenDocs](https://www.gitkraken.com/resources/devops-report-2020), [W3Docs](https://www.w3docs.com/), [W3Schools](https://www.w3schools.com/), [DevDocs](https://devdocs.io/) (Sebelum ke framework, dll)
+  * Know Your Self : _(Upcoming!)_
+  * Learn English : _(Upcoming!)_
+
+* Good Resources
+  * Psychology : [Positive Psychology](https://positivepsychology.com/), [Psychology Tools](https://www.psychologytools.com/), [Psychology-Tools](https://psychology-tools.com/), [Living Moxie](https://dawnbarclay.com/)
+  * Data Visualization : [Visualization Universe](http://visualizationuniverse.com/), [Dataviz Catalogue](https://datavizcatalogue.com/), [Observable HQ](https://observablehq.com/), [Adioma](https://blog.adioma.com/)
+  * Explorative Visuals : [By Owen](http://byowen.com/), [One Zoom](https://www.onezoom.org/), [Things Made Thinkable](http://www.thingsmadethinkable.com/), [Knowledge Center](http://www.knowledgecenter.com/ions/NoeticMap.html)
+  * Powerful Diagramming : [Creately](https://creately.com/), [Draw.io](https://app.diagrams.net/) (Selebihnya ada di section : Designer 101)
+
+<br>
+
+<div id="sec07"></div>
+
 ⚙️ 
 Top Chrome Extensions
 ---
@@ -360,10 +461,10 @@ Top Chrome Extensions
 
 <br>
 
-<div id="sec05"></div>
+<div id="sec08"></div>
 
-🎨 
-Designer 101
+⚔️ 
+Top Visual Studio Code Extensions
 ---
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
@@ -372,95 +473,7 @@ _(Upcoming!)_
 
 <br>
 
-<div id="sec06"></div>
-
-💻 
-Developer 101
----
-
-<a href="#daftarisi">🡹 Kembali ke daftar isi</a>
-
-* Top Udemy Course
-  * [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) - JavaScript Base
-  * [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - JavaScript Base
-  * [The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) - PHP Base
-  * [Master Laravel 6 with Vue.js Fullstack Development](https://www.udemy.com/course/master-laravel-6-with-vuejs-fullstack-development/) - PHP Base
-  * [Brad Traversy Course](https://www.udemy.com/user/brad-traversy/) - For Better Insight
-  
-* Online Tutorials
-  * [Tutorialspoint](https://www.tutorialspoint.com/index.htm) - Free online tutorials, courses and programming projects #1
-  * [Javapoint](https://www.javatpoint.com/) - Free online tutorials, courses and programming projects #2
-  * [FreeCodeCamp](https://www.freecodecamp.org/) - Free online tutorials, courses and programming projects #3
-  * [GeeksForGeeks](https://www.geeksforgeeks.org/) - Free online tutorials, courses and programming projects #4
-  * [Tutorial Kart](https://www.tutorialkart.com/) - Free online tutorials, courses and programming projects #5
-  * [SoloLearn](https://www.sololearn.com/) - Free online tutorials, courses and programming projects #6
-
-* Full-Stack Web Dev
-  * [Dunia Ilkom](https://www.duniailkom.com/) - Situs belajar programming Indonesia, membahas lengkap materi bahasa pemrograman website.
-  * [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) - Membahas mengenai teknologi internet dan pengembangan web.  
-  * [Build With Angga](https://buildwithangga.com/) - Pelajari keahlian baru yang dibutuhkan oleh perusahaan IT terbesar di seluruh dunia.
-  * [Be Fullstack Developer](https://buku-laravel-vue.com/) - Panduan Hebat untuk Menjadi Fullstack Developer! Laravel & Vue.js.
-  * [W3Schools](https://www.w3schools.com/) - Educational website for learning web technologies online.
-  * [A Smarter Way](https://www.amazon.com/Mark-Myers/e/B00HNW14T4?ref_=dbs_p_ebk_r00_abau_000000) - Coding, I learned, isn't that hard. Easy way to learn web programming.
-  
-* Front-End Web Dev
-  * [HTML](https://github.com/diegocard/awesome-html5) - HTML Resource
-  * [CSS](https://github.com/micromata/awesome-css-learning) - CSS Resource #1 (Learn)
-  * [CSS](https://github.com/awesome-css-group/awesome-css) - CSS Resource #2 (Collection)
-  * [BootStrap](https://github.com/pierceoneill/awesome-bootstrap) - CSS Framework
-  * [JavaScript](https://github.com/micromata/awesome-javascript-learning) - JavaScript Resource #1 (Learn)
-  * [JavaScript](https://github.com/sorrycc/awesome-javascript) - JavaScript Resource #2 (Collection)
-  * [JavaScript](https://github.com/addyosmani/es6-tools) - JavaScript Resource #3 (Tools)
-  * [JSON](https://github.com/burningtree/awesome-json) - JSON Resource
-  * [JQuery](https://github.com/petk/awesome-jquery) - JavaScript Library
-  * [Vue.js](https://github.com/vuejs/awesome-vue) - JavaScript Framework #1
-  * [React](https://github.com/enaqx/awesome-react) - JavaScript Framework #2
-  * [Angular](https://github.com/PatrickJS/awesome-angular) - JavaScript Framework #3
-  
-* Back-End Web Dev
-  * [PHP](https://github.com/odan/learn-php) - PHP Resource #1 (Learn)
-  * [PHP](https://github.com/ziadoz/awesome-php) - PHP Resource #2 (Collection)
-  * [REST](https://github.com/marmelab/awesome-rest) - REST Resource
-  * [MySQL](https://github.com/shlomi-noach/awesome-mysql) - MySQL Resource
-  * [Laravel](https://github.com/shlomi-noach/awesome-mysql) - PHP Framework
-  * [NodeJs](https://github.com/sindresorhus/awesome-nodejs) - **Back-End JavaScript Base**
-
-* Miscellaneous
-  * [RegexOne](https://regexone.com/) - Learn Regular Expressions with simple, interactive exercises.
-  * [Pro Git](https://github.com/progit/progit2-id) - Panduan menggunakan Git lengkap, berbahasa Indonesia.
-  * [Oh Shit, Git!?!](https://ohshitgit.com/) - Ragam permasalahan saat bekerja dengan Git beserta solusinya.
-  * [Awesome Github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness.
-  * [Awesome Guideline](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
-  * [Free for Developer](https://github.com/ripienaar/free-for-dev) - A curated list of Developer resources.
-  * [Developer Roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps, mostly about software development.
-  * [Full-Stack Resources](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development.
-  * [Front-End Resources](https://github.com/dypsilon/frontend-dev-bookmarks) - Free resources for learning Front End Web Development.
-  * [Back-End Resources](https://github.com/backend-br/awesome-backend) - Free resources for learning Back End Web Development.
-
-<br>
-
-<div id="sec07"></div>
-
-🌐 
-Resource 101
----
-
-<a href="#daftarisi">🡹 Kembali ke daftar isi</a>
-
-* The Right Way
-  * Web Dev : [GitKrakenDocs](https://www.gitkraken.com/resources/devops-report-2020), [W3Docs](https://www.w3docs.com/), [W3Schools](https://www.w3schools.com/), [DevDocs](https://devdocs.io/) (Sebelum ke framework, dll)
-  * Know Your Self : _(Upcoming!)_
-  * Learn English : _(Upcoming!)_
-
-* Good Resources
-  * Psychology : [Positive Psychology](https://positivepsychology.com/), [Psychology Tools](https://www.psychologytools.com/), [Psychology-Tools](https://psychology-tools.com/), [Living Moxie](https://dawnbarclay.com/)
-  * Data Visualization : [Visualization Universe](http://visualizationuniverse.com/), [Dataviz Catalogue](https://datavizcatalogue.com/), [Observable HQ](https://observablehq.com/), [Adioma](https://blog.adioma.com/)
-  * Explorative Visuals : [By Owen](http://byowen.com/), [One Zoom](https://www.onezoom.org/), [Things Made Thinkable](http://www.thingsmadethinkable.com/), [Knowledge Center](http://www.knowledgecenter.com/ions/NoeticMap.html)
-  * Powerful Diagramming : [Creately](https://creately.com/), [Draw.io](https://app.diagrams.net/) (Selebihnya ada di section : Designer 101)
-
-<br>
-
-<div id="sec08"></div>
+<div id="sec09"></div>
 
 🔮 
 Top Figma Plugins
@@ -541,18 +554,6 @@ Top Figma Plugins
   * [Figmotion](https://www.figma.com/community/plugin/733025261168520714/Figmotion) - Figmotion is an animation tool built right in Figma.
   * [Design Inspo](https://www.figma.com/community/plugin/738775292786594626/Design-Inspo) - The best way to quickly look for design inspiration while you work.
   * [Remove BG](https://www.figma.com/community/plugin/738992712906748191/Remove-BG) - Remove the background of images automatically with just a single click.
-
-<br>
-
-<div id="sec09"></div>
-
-⚔️ 
-Top Visual Studio Code Extensions
----
-
-<a href="#daftarisi">🡹 Kembali ke daftar isi</a>
-
-_(Upcoming!)_
 
 <br>
 
