@@ -314,7 +314,7 @@ Developer 101
   * [W3Docs](https://www.w3schools.com/) - We are trying to provide useful and concise materials for the programming enthusiasts.
   * [A Smarter Way](https://www.amazon.com/Mark-Myers/e/B00HNW14T4?ref_=dbs_p_ebk_r00_abau_000000) - Coding, I learned, isn't that hard. Easy way to learn web programming.
   
-* Front-End Web Dev
+* Frontend Web Dev
   * [HTML](https://github.com/diegocard/awesome-html5) - HTML Resource
   * [CSS](https://github.com/micromata/awesome-css-learning) - CSS Resource #1 (Learn)
   * [CSS](https://github.com/awesome-css-group/awesome-css) - CSS Resource #2 (Collection)
@@ -328,7 +328,7 @@ Developer 101
   * [React](https://github.com/enaqx/awesome-react) - JavaScript Framework #2
   * [Angular](https://github.com/PatrickJS/awesome-angular) - JavaScript Framework #3
   
-* Back-End Web Dev
+* Backend Web Dev
   * [PHP](https://github.com/odan/learn-php) - PHP Resource #1 (Learn)
   * [PHP](https://github.com/ziadoz/awesome-php) - PHP Resource #2 (Collection)
   * [REST](https://github.com/marmelab/awesome-rest) - REST Resource
@@ -340,13 +340,13 @@ Developer 101
   * [RegexOne](https://regexone.com/) - Learn Regular Expressions with simple, interactive exercises.
   * [Pro Git](https://github.com/progit/progit2-id) - Panduan menggunakan Git lengkap, berbahasa Indonesia.
   * [Oh Shit, Git!?!](https://ohshitgit.com/) - Ragam permasalahan saat bekerja dengan Git beserta solusinya.
-  * [Awesome Github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness.
+  * [Awesome Github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness. Very useful.
   * [Awesome Guideline](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
-  * [Free for Developer](https://github.com/ripienaar/free-for-dev) - A curated list of Developer resources.
+  * [Free for Developer](https://github.com/ripienaar/free-for-dev) - A curated list of Developer resources. Very useful.
   * [Developer Roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps, mostly about software development.
   * [Full-Stack Resources](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development.
-  * [Front-End Resources](https://github.com/dypsilon/frontend-dev-bookmarks) - Free resources for learning Front End Web Development.
-  * [Back-End Resources](https://github.com/backend-br/awesome-backend) - Free resources for learning Back End Web Development.
+  * [Frontend Resources](https://github.com/dypsilon/frontend-dev-bookmarks) - Free resources for learning Front End Web Development.
+  * [Backend Resources](https://github.com/backend-br/awesome-backend) - Free resources for learning Back End Web Development.
 
 <br>
 
@@ -557,7 +557,32 @@ Top Visual Studio Code Extensions
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
-_(Upcoming!)_
+* General
+  * [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu) - A simple theme with bright colors and comes in three version - dark, light and mirage.
+  * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter. Parsing your code and re-printing it with its own rules.
+  * [Formatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle) - Allows you to toggle the formatter (Prettier, Beautify, …) ON and OFF with a simple click.
+  * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - Override user/workspace settings with settings found in .editorconfig files. 
+  * [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - This extension highlights matching opening and/or closing tags.
+  * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Automatically add HTML/XML close tag, same as Visual Studio IDE does.
+  * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
+  * [Comment Divider](https://marketplace.visualstudio.com/items?itemName=stackbreak.comment-divider) - Provides commands for generating comment-wrapped separators from line content.
+  * [Comment Anchors](https://marketplace.visualstudio.com/items?itemName=ExodiusStudios.comment-anchors) - Place anchor tags within comments for easy file & workspace navigation.
+  * [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align) - Align your code by colon (:), assignment (=,+=,-=,*=,/=) and arrow (=>).
+  * [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) - Shows image preview in the gutter and on hover. Fast and useful.
+  * [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your repository, and perform Git actions from the graph.
+  * [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Allows you to review and manage GitHub pull requests and issues.
+  
+* Frontend
+  * [htmltagwrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap) - Wraps your selection in HTML tags (inline selections and selections that span multiple lines).
+  * [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) - Class attribute completion, Id attribute completion, supports remote css files, etc.
+  * [JavaScript (ES6) Code Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Code snippets for JavaScript in ES6 syntax for Visual Studio Code.
+  * [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools.
+  * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static & dynamic pages.
+  * [Live SASS Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) - Compile/transpile your SASS/SCSS files to CSS files at realtime with live browser reload.
+  * _(Upcoming!)_
+  
+* Backend
+  * _(Upcoming!)_
 
 <br>
 
