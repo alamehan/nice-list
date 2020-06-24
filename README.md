@@ -16,7 +16,7 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek besar bernama [Awesome]
 
 <div id="daftarisi"></div>
 
-<img src="images/daftarisi.png">
+<img src="images/img-daftarisi.png">
 
 <p>Daftar isi (section) :</p>
 <p align="left">
@@ -35,7 +35,7 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek besar bernama [Awesome]
 
 <br>
 
-<img src="images/letsgo.png">
+<img src="images/img-letsgo.png">
 
 <br>
 
