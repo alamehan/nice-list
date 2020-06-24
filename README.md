@@ -584,13 +584,11 @@ Top Visual Studio Code Extensions
   * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static & dynamic pages.
   * [Live SASS Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) - Compile/transpile your SASS/SCSS files to CSS files at realtime with live browser reload.
   * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - Allows you to send HTTP request and view the response in Visual Studio Code directly.
-  * _(Upcoming!)_
   
 * Backend
-  * [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) - Advanced Autocompletion and Refactoring support for PHP. You need at least PHP 7 installed.
-  * [PHP Intellisense for Codeigniter](https://marketplace.visualstudio.com/items?itemName=small.php-ci) - Code completion for PHP Codeigniter framework. Completion, go to definition, etc.
+  * [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) - Advanced Autocompletion and Refactoring support for PHP (at least PHP 7).
+  * [PHP Intellisense for Codeigniter](https://marketplace.visualstudio.com/items?itemName=small.php-ci) - Code completion for PHP Codeigniter framework, go to definition, etc.
   * [Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-extension-pack) - Includes the basic extensions to get started with Laravel development in VS Code.
-  * _(Upcoming!)_
 
 <br>
 
@@ -737,6 +735,8 @@ Windows Software Bundles
   * **for Data Science Developer**
   * [Google Colab](https://colab.research.google.com/) - Write and execute Python in your browser, with zero config required and free access to GPUs.
   * [Anaconda](https://www.anaconda.com/) - The world's most popular Python/R data science platform, work with packages and env.
+  * [Matlab](https://www.mathworks.com/products/matlab.html) - Whether you’re analyzing data, developing algorithms, or creating models.
+  * [GNU Octave](https://www.gnu.org/software/octave/) - Powerful mathematics-oriented syntax with built-in plotting and visualization tools.
   * **for Game Developer**
   * [DAZ 3D](https://www.daz3d.com/) - Free 3D Software Suite for modeling & rendering realistic characters, clothes and scenes.
   * [Blender](https://www.blender.org/) - Open source 3D creation. Free to use for any purpose - modeling, animation, motion, etc.
