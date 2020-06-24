@@ -382,14 +382,14 @@ Top Chrome Extensions
   * [Extensify](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - Tool for lightning fast enabling/disabling all your extensions for Chrome.
   * [Infinity New Tab](https://chrome.google.com/webstore/detail/infinity-new-tab-producti/dbfmnekepjoapopniengjbcpnbljalfg) - Replaces the original new tab with variety of quick and useful features.
   * [Muzli 2](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc) - The freshest links about design and interactive, from around the web.
-  * [Bookmark Sidebar](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh) - Adds a toggleable sidebar with all your bookmarks at the edge of your browser window.
+  * [Bookmark Sidebar](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh) - Toggleable sidebar with all your bookmarks at the edge of your browser window.
   * [Tabli](https://chrome.google.com/webstore/detail/tabli/igeehkedfibbnhbfponhjjplpkeomghi) - A simple and powerful tab manager that provides fast switching between windows.
-  * [Sticky Notes](https://chrome.google.com/webstore/detail/sticky-notes-just-popped/plpdjbappofmfbgdmhoaabefbobddchk) - Most beautiful, easiest, fastest note taking experience.
+  * [Sticky Notes](https://chrome.google.com/webstore/detail/sticky-notes-just-popped/plpdjbappofmfbgdmhoaabefbobddchk) - A perfect tool for taking quick notes. Its fast, secure, and private. A must tool for everyone. 
   * [Application Launcher for Drive](https://chrome.google.com/webstore/detail/application-launcher-for/lmjegmlicamnimmfhcmpkclmigmmcbeh) - Open Drive files directly from your browser in compatible applications.
-  * [Black Menu for Google](https://chrome.google.com/webstore/detail/black-menu-for-google/eignhdfgaldabilaaegmdfbajngjmoke) - The easiest access to the Google universe.
+  * [Black Menu for Google](https://chrome.google.com/webstore/detail/black-menu-for-google/eignhdfgaldabilaaegmdfbajngjmoke) - Quick access to your favorite Google services with a convenient drop-down menu.
   * [Checker Plus for Gmail](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj) - Get notifications, read, listen, delete emails without opening Gmail.
-  * [InstaClean](https://www.instaclean.app/) - **Bukan extension**, Clean Up your Mailbox with Easy Steps.
-  * [Awesome Screenshot](https://www.awesomescreenshot.com/) - **Third-party**, share screenshots with your friends or teammates, fast and easily.
+  * [InstaClean](https://www.instaclean.app/) - **Bukan extension**, Instantly clear out all unwanted mails & bulk unsubscribe newsletters.
+  * [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=id) - Share screenshots with your friends or teammates, fast and easily.
   * [Nimbus Screenshot](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj) - Screen capture full web page or any part & record screencasts.
   * [Element Screenshot](https://chrome.google.com/webstore/detail/element-screenshot/mhbapdljigafafoimcnnhagdclejnkcf) - Take screenshot of any HTML element on a webpage.
   * [Carbon](https://carbon.now.sh/) - **Bukan extension**, easiest way to create and share beautiful images of your source code.
@@ -413,11 +413,11 @@ Top Chrome Extensions
   * [Text Tools](https://chrome.google.com/webstore/detail/text-tools/mpcpnbklkemjinipimjcbgjijefholkd) - Handy text tools a click away (including uppercase, lowercase, count words, count lines, etc).
   * [Bitly](https://chrome.google.com/webstore/detail/bitly-unleash-the-power-o/iabeihobmhlgpkcgjiloemdbofjbdcic) - Copy, customize, shorten, measure, optimize and share your links straight from your browser. 
   * [Medium Unlimited](https://manojvivek.github.io/medium-unlimited/) - **Third-party**, addon to access the medium.com premium articles.
-  * [Read Aloud](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp) - Read out loud the current web-page article with one click.
+  * [Read Aloud](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp) - Read out loud the current web-page article with one click. Supports 40+ languages.
   * [Spreed](https://chrome.google.com/webstore/detail/spreed-speed-read-the-web/ipikiaejjblmdopojhpejjmbedhlibno) - Train yourself to double or triple your reading speed, without sacrificing comprehension.
   
 * Better Browsing
-  * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Finally, an efficient blocker. Easy on CPU and memory.
+  * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Finally, an efficient blocker and content-filtering. Easy on CPU and memory.
   * [Adblock for Youtube](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk) - A content filtering and ad blocking which blocks all ads on Youtube.
   * [Open link in same tab](https://chrome.google.com/webstore/detail/open-link-in-same-tab-pop/jmphljmgnagblkombahigniilhnbadca) - Forces Chrome to open new tabs instead of pop-up windows/links in the same tab.
   * [Click to Remove Element](https://chrome.google.com/webstore/detail/click-to-remove-element/jcgpghgjhhahcefnfpbncdmhhddedhnk) - Remove annoying elements with a single click.
@@ -425,10 +425,10 @@ Top Chrome Extensions
   * [Simple Allow Copy](https://chrome.google.com/webstore/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc) - Enable copy and right-click on sites that blocked them.
   
 * Downloader
-  * [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj) - Browse and download images on a web page.
+  * [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj) - Browse and download bulk images from a web page. Always be free.
   * [One-Click Video Downloader](https://chrome.google.com/webstore/detail/one-click-video-downloade/bhepgcoaibmmehlmckhlmbdgcemhidcg) - We are the simplest and fastest way to download videos from any website.
   * [Video DownloaderHelper](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk) - The most complete Web video downloader. The popular Video Downloader.
-  * [SVG Export](https://chrome.google.com/webstore/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp) - Download SVGs from websites as SVGs, PNGs or JPEGs.
+  * [SVG Export](https://chrome.google.com/webstore/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp) - Download SVGs from websites as SVGs, PNGs or JPEGs. Bulk export, resize, etc.
   * [SVG-Grabber](https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg) - A tool to quickly preview and get all the svg assets from a website.
   * [Get Favicon](https://chrome.google.com/webstore/detail/get-favicon/gpipahagclehninhhjkhbkliinfofnhe) - Displays the current page's favicon as well as the favicon's URL and dimensions.
   
@@ -437,15 +437,15 @@ Top Chrome Extensions
   * [JSFiddle](https://codepen.io/) - **Bukan extension**, test your JavaScript, CSS, HTML or CoffeeScript online.
   * [GitZip for Github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn) - It can make the sub-directories and files of github repository as zip and download it.
   * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Adds a toolbar button with various web developer tools.
-  * [Live editor for CSS](https://chrome.google.com/webstore/detail/live-editor-for-css-less/ifhikkcafabcgolfjegfcgloomalapol) - Live preview of CSS/Less/Sass code changes.
+  * [Live editor for CSS](https://chrome.google.com/webstore/detail/live-editor-for-css-less/ifhikkcafabcgolfjegfcgloomalapol) - Live preview of CSS/Less/Sass code changes. Live edit CSS files.
   * [Bootstrap Viewport](https://chrome.google.com/webstore/detail/bootstrap-viewport/kflgmkikmbklpikoicfhonemdcemkdia) - Determines browser window width and which bootstrap viewport is in use.
-  * [Bootstrap 3 Helper](https://chrome.google.com/webstore/detail/bootstrap-3-helper-resize/bnkadmnhdpkpbfmaehgjeijgopkjinbl) - Show the current Bootstrap 3 breakpoint.
+  * [Bootstrap 3 Helper](https://chrome.google.com/webstore/detail/bootstrap-3-helper-resize/bnkadmnhdpkpbfmaehgjeijgopkjinbl) - Show the current Bootstrap 3 breakpoint. Help developers in their projects.
   * [Viewport Resizer](https://chrome.google.com/webstore/detail/viewport-resizer-%E2%80%93-respon/kapnjjcfcncngkadhpmijlkblpibdcgm) -Responsive design testing tool to test any website’s responsiveness.
   * [Responsive Test Tool](http://responsivetesttool.com/) - **Bukan extension**, the best responsive test tools for check your website resolutions.
   * [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) - Outlining each element to better see placement on the page.
   * [Z-Context](https://chrome.google.com/webstore/detail/z-context/jigamimbjojkdgnlldajknogfgncplbh) - Displays stacking contexts and z-index values in the elements panel.
   * [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme) - Draw a ruler to get pixel dimensions, positioning, and measure elements.
-  * [Dimensions](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj) - A tool for designers to measure screen dimensions.
+  * [Dimensions](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj) - A tool for designers to measure screen dimensions. Measures the dimensions.
   * [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) - This extension helps develop your websites with pixel perfect accuracy.
   * [Visual Inspector](https://chrome.google.com/webstore/detail/visual-inspector/efaejpgmekdkcngpbghnpcmbpbngoclc) - Collaboration tool for website feedback and fixing design bugs.
   * [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha) - Stylebot lets you manipulate the appearance of any website with custom CSS.
@@ -587,7 +587,7 @@ Windows Software Bundles
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
-**Catatan** : Untuk menjelajah dan membandingkan beragam software anda dapat menggunakan website [Capterra](https://www.capterra.com/) atau [G2](https://www.g2.com/).
+**Catatan** : Untuk membandingkan beragam software anda dapat menggunakan website [Capterra](https://www.capterra.com/) atau [G2](https://www.g2.com/).
   
 * Driver Installer
   * [DriverPack Solution](https://driverpack.io/) - Help you to download all the required and competitive drivers to your computer.
