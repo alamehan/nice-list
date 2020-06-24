@@ -569,19 +569,25 @@ Top Visual Studio Code Extensions
   * [Comment Anchors](https://marketplace.visualstudio.com/items?itemName=ExodiusStudios.comment-anchors) - Place anchor tags within comments for easy file & workspace navigation.
   * [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align) - Align your code by colon (:), assignment (=,+=,-=,*=,/=) and arrow (=>).
   * [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) - Shows image preview in the gutter and on hover. Fast and useful.
+  * [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - Take beautiful screenshots of your code in VS Code. Quickly save, line numbers, etc.
   * [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your repository, and perform Git actions from the graph.
   * [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Allows you to review and manage GitHub pull requests and issues.
   
 * Frontend
-  * [htmltagwrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap) - Wraps your selection in HTML tags (inline selections and selections that span multiple lines).
+  * [HTMLTagWrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap) - Wraps your selection in HTML tags (inline selections and selections that span multiple lines).
   * [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) - Class attribute completion, Id attribute completion, supports remote css files, etc.
+  * [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - Allow peeking to CSS ID and Class strings as definitions from html files to respective CSS.
   * [JavaScript (ES6) Code Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Code snippets for JavaScript in ES6 syntax for Visual Studio Code.
+  * [ES6 String HTML](https://marketplace.visualstudio.com/items?itemName=hjb2012.vscode-es6-string-html) - Adds syntax highlight support for HTML placed in ES6 multiline strings.
+  * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code. Node js (server-side JavaScript) required.
   * [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools.
   * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static & dynamic pages.
   * [Live SASS Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) - Compile/transpile your SASS/SCSS files to CSS files at realtime with live browser reload.
+  * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - Allows you to send HTTP request and view the response in Visual Studio Code directly.
   * _(Upcoming!)_
   
 * Backend
+  * [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) - Advanced Autocompletion and Refactoring support for PHP. You need at least PHP 7 installed.
   * _(Upcoming!)_
 
 <br>
