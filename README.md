@@ -19,20 +19,20 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek besar bernama [Awesome]
 <img src="letsgo.png">
 
 <p align="center">
-	<a href="#sec01">➊ Find a Job</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec02">➋ Useful Websites</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec03">➌ Self Improvement</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec01">➔ Find a Job</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec02">➔ Useful Websites</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec03">➔ Self Improvement</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<br>
-	<a href="#sec04">➍ Designer 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec05">➎ Developer 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec06">➏ Resource 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec04">➔ Designer 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec05">➔ Developer 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec06">➔ Resource 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<br>
-	<a href="#sec07">➐ Chrome Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec08">➑ Figma Plugins</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec09">➒ VS Code Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec07">➔ Chrome Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec08">➔ Figma Plugins</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec09">➔ VS Code Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<br>
-	<a href="#sec10">◉ Educational Instagram Accounts</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec11">◉ Windows Software Bundles</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec10">➔ Educational Instagram Accounts</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec11">➔ Windows Software Bundles</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
