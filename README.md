@@ -28,8 +28,8 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek besar bernama [Awesome]
 	<a href="#sec06">Resource 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<br>
 	<a href="#sec07">Chrome Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec09">Figma Plugins</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec08">VS Code Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec08">Figma Plugins</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec09">VS Code Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<br>
 	<a href="#sec10">Educational Instagram Accounts</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="#sec11">Windows Software Bundles</a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -75,14 +75,14 @@ Useful Websites
   * [G2](https://www.g2.com/) - Choose the right software and services based on 1,061,900+ authentic.
 
 * Expand Your Knowledge
-  * [Wikipedia](https://www.wikipedia.org/) - The free encyclopedia. The largest and most popular general reference work on the World Wide Web.
+  * [Wikipedia](https://www.wikipedia.org/) - Encyclopedia. The largest and most popular general reference work on the World Wide Web.
   * [Wikihow](https://www.wikihow.com/) - The world's most helpful how-to instructions to enable everyone to learn how to do anything.
   * [Fandom](https://www.fandom.com/) - The entertainment site where fans come first. Source for all things TV, movies, and games, etc.
   * [Medium](https://medium.com/) - Our sole purpose is to help you find compelling ideas, knowledge, and perspectives.
   * [MakeUseOf](https://www.makeuseof.com/) - Learn how to make use of tech and gadgets around you and discover cool stuff on the Internet.
   * [Vice](https://www.vice.com/) - The Definitive Guide To Enlightening Information from every corner of the planet.
   * [Reddit](https://www.reddit.com/) - An American social news aggregation, web content rating, and discussion website.
-  * [Pretty Awesome Lists](https://www.prettyawesomelists.com/) - Pretty Awesome Lists crawls all these lists, collects interesting information about each link.
+  * [Pretty Awesome Lists](https://www.prettyawesomelists.com/) - Pretty Awesome Lists crawls all these lists, collects interesting information.
   
 * Expand Your Skills
   * [Kelas](https://kelas.com/) - Belajar dari para mentor terbaik dibidangnya.
@@ -155,7 +155,7 @@ Useful Websites
   * [Tools4Noobs](https://www.tools4noobs.com/online_tools/) - Tools you didn't even know you needed. A collection of useful scripts (Count lines, etc).
   * [Sort My List](https://sortmylist.com/) - Online word tool to alphabetize & text sort. Sort numerically or by length and more.
   * [Remove Line Breaks](http://removelinebreaks.net/) - Remove line breaks from blocks of text (solusi untuk copy text dari PDF).
-  * [Subtitle Translator](https://www.syedgakbar.com/projects/dst) - Free subtitle translator can quickly translate subtitles from one language to other language.
+  * [Subtitle Translator](https://www.syedgakbar.com/projects/dst) - Quickly translate subtitles from one language to other language.
   * [ttsMP3](https://ttsmp3.com/) - Easily convert your written text into natural sounding voice in up to 50 different languages.
   * [Pastebin](https://pastebin.com/) - Pastebin is a website where you can store text online for a set period of time.
   * [Bitly](https://bitly.com/) - Shorten, create and share trusted, powerful links for your business.
@@ -198,7 +198,7 @@ Self Improvement
   * [Sam Thomas](https://www.samuelthomasdavies.com/book-summaries/) - I take brief but concise notes from the best non-fiction books of all-time.
   * [James Clear](https://jamesclear.com/book-summaries) - Book summaries: popular books summarized in 3 sentences or less.
   * [Marc Reclau](https://www.marcreklau.com/) - Author of the #1 Bestseller "30 days change your habits, change your life".
-  * [Gates Notes](https://www.gatesnotes.com/Books) - Bill Gates - where I share about the people I meet, the books I'm reading, and what I'm learning.
+  * [Gates Notes](https://www.gatesnotes.com/Books) - Where Gates shared about the people he met, the books he read, and what he learned.
   * [Mark Manson](https://markmanson.net/best-books) - Lists of the best books to read based on hundreds of hours of reading and research.
   * [Design Epic Life](https://designepiclife.com/) - Design your greatest life and unleash the best version of you.
   * [Experience Life](https://experiencelife.com/) - Empowering people to become their happiest - deeply satisfying way of life.
@@ -236,9 +236,9 @@ Self Improvement
 * Youtube : Insight, Feed Your Brain (ID)
   * [Sisi Terang](https://www.youtube.com/channel/UCSg-Y9uI1E-my-I4WKKioEQ) - Penemuan sains, penjelajahan ruang angkasa, misteri, kisah nyata mengejutkan, psikologi, dst.
   * [Kok Bisa?](https://www.youtube.com/channel/UCu0yQD7NFMyLu_-TmKa4Hqg) - Pengalaman belajar sains yang inovatif melalui video-video animasi edukatif.
-  * [Hujan Tanda Tanya](https://www.youtube.com/channel/UC5dn6JdeSgWzcNL7NuvMEKQ) - Rangsangan pemikiran seputar sains, teknologi, dan masyarakat - dikemas dengan ringan.
+  * [Hujan Tanda Tanya](https://www.youtube.com/channel/UC5dn6JdeSgWzcNL7NuvMEKQ) - Rangsangan pemikiran seputar sains, teknologi, dan masyarakat.
   * [Sains Bro](https://www.youtube.com/channel/UCCFY2uB8liUM4cnCCkUC6GA) - Channel edukasi Indonesia yang membantu menjelaskan berbagai hal tentang SAINS.
-  * [Kamu Harus Tahu](https://www.youtube.com/channel/UCLNrxRWWBw-lYOPaibnvSwA) - Channel edukasi yang menyajikan berbagai informasi dan pengetahuan melalui animasi 2D.
+  * [Kamu Harus Tahu](https://www.youtube.com/channel/UCLNrxRWWBw-lYOPaibnvSwA) - Channel edukasi yang menyajikan beragam pengetahuan melalui animasi 2D.
   * [Ayo Mikir](https://www.youtube.com/channel/UCyZa7DYVsdJxnyDw6XmVvCQ) - Channel edukasi yang menyajikan konten tayangan inspiratif dan edukatif untuk Indonesia.
   * [House of Infographics](https://www.youtube.com/channel/UCz-lipPZtRjhgLJpZQHczBg) - Menampilkan data secara sederhana, kreatif dan mudah untuk dipahami.
   * [Nous ID](https://www.youtube.com/channel/UCNgz9dujmF3kTbmR3yJHmlQ) - Nous ID, sebuah channel edukasi alternatif, yang bergerak melalui platform YouTube.
@@ -261,7 +261,7 @@ Self Improvement
   * [KnowledgeHub](https://www.youtube.com/channel/UC2_KC8lshtCyiLApy27raYw) - A modern philosopher of our time. Except I talk about pretty pointless things.
   * [AsapSCIENCE](https://www.youtube.com/user/AsapSCIENCE) - The channel produces weekly videos that touch on many different topics of science. 
   * [SciShow](https://www.youtube.com/user/scishow/) - The scientific subjects that defy our expectations and make us even more curious! 
-  * [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart) - Curious group of atoms in a curious universe, and he's here to tell you how it all works.
+  * [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart) - Curious group of atoms in a curious universe—tell you how it all works.
   * [SmarterEveryDay](https://www.youtube.com/user/destinws2) - I explore the world using science.  That's pretty much all there is to it. 
   * [Up and Atom](https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw) - Making notoriously hard stuff less hard. Math, physics and computer science.
   * [CGP Grey](https://www.youtube.com/user/CGPGrey) - Short explanatory videos, including politics, geography, economics, history, and culture.
@@ -305,11 +305,12 @@ Developer 101
   * [SoloLearn](https://www.sololearn.com/) - Free online tutorials, courses and programming projects #6
 
 * Full-Stack Web Dev
-  * [Dunia Ilkom](https://www.duniailkom.com/) - Situs belajar programming Indonesia, membahas lengkap materi bahasa pemrograman website.
+  * [Dunia Ilkom](https://www.duniailkom.com/) - Situs yang membahas lengkap materi pembelajaran bahasa pemrograman website.
   * [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) - Membahas mengenai teknologi internet dan pengembangan web.  
   * [Build With Angga](https://buildwithangga.com/) - Pelajari keahlian baru yang dibutuhkan oleh perusahaan IT terbesar di seluruh dunia.
   * [Be Fullstack Developer](https://buku-laravel-vue.com/) - Panduan Hebat untuk Menjadi Fullstack Developer! Laravel & Vue.js.
-  * [W3Schools](https://www.w3schools.com/) - Educational website for learning web technologies online.
+  * [W3Schools](https://www.w3schools.com/) - The world's largest web developer site. Tutorials and references relating to web dev.
+  * [W3Docs](https://www.w3schools.com/) - We are trying to provide useful and concise materials for the programming enthusiasts.
   * [A Smarter Way](https://www.amazon.com/Mark-Myers/e/B00HNW14T4?ref_=dbs_p_ebk_r00_abau_000000) - Coding, I learned, isn't that hard. Easy way to learn web programming.
   
 * Front-End Web Dev
@@ -473,14 +474,14 @@ Top Figma Plugins
   * [Project Scaffold](https://www.figma.com/community/plugin/747372158567878238/Project-Scaffold) - This plugin Generates a Scaffold for your Product design project in just 1 click.
   * [Wireframe](https://www.figma.com/community/plugin/742764242781786818/Wireframe) - Creating beautiful user flow prototypes and basic structures.
   * [Interplay](https://www.figma.com/community/plugin/736368164448889527/Interplay) - Imports your design system code repository and lets you design with code components
-  * [Cover Generator](https://www.figma.com/community/plugin/745146759001708690/Cover-Generator) - Takes a name, description and status as input and generates a cover Image for your figma file.
+  * [Cover Generator](https://www.figma.com/community/plugin/745146759001708690/Cover-Generator) - Takes a name, description and status and generates a cover for your figma file.
 
 * About Color
   * [Contrast](https://www.figma.com/community/plugin/748533339900865323/Contrast) - Makes it easy to check the contrast ratios of colors as you work.
   * [Color Palettes](https://www.figma.com/community/plugin/740832935938649295/Color-Palettes) - Find the best color palette from the huge list of best color palettes.
   * [uiGradients](https://www.figma.com/community/plugin/744909029427810418/uiGradients) - Adds gradients to groups, text and frames in single click.
   * [Color Designer](https://www.figma.com/community/plugin/739475857305927370/Color-Designer) - Generates shades, tints, and color harmonies based on select layers or local styles.
-  * [Chromatic Figma](https://www.figma.com/community/plugin/759433498184507623/Chromatic-Figma) - Lets you use other color spaces than RGB, such as Lab and Lch, to create good-looking color.
+  * [Chromatic Figma](https://www.figma.com/community/plugin/759433498184507623/Chromatic-Figma) - Lets you use other color spaces than RGB, to create good-looking color.
   * [Color Filters](https://www.figma.com/community/plugin/735658738614175372/Color-filters...) - Simple plugin that allows you to quick convert all the colors in you selected layers or frames.
   * [Image Palette](https://www.figma.com/community/plugin/731841207668879837/Image-Palette) - Extracts a colour palette of 5 different colours from the selected images.
   * [Dominant Color Toolkit](https://www.figma.com/community/plugin/744725347356614754/Dominant-Color-Toolkit-%F0%9F%8E%A8) - Generate a palette from an image to magically populate your designs.
@@ -504,7 +505,7 @@ Top Figma Plugins
   * [Chart](https://www.figma.com/community/plugin/734590934750866002/Chart) - Uses real or random data to create the most popular charts.
   * [Make Blob](https://www.figma.com/community/plugin/740172168964577201/Make-blob) - Make random blob and add it on your page. Set your complexity and contrast.
   * [Metaball](https://www.figma.com/community/plugin/743754408199479204/Metaball) - Metaball plugin generates 2D-Metaball shapes from circle objects.
-  * [Arrow Auto](https://www.figma.com/community/plugin/751007211632768205/Arrow-Auto) - With Arrow Auto, you never need to manually draw arrows between interfaces for UI flow diagrams.
+  * [Arrow Auto](https://www.figma.com/community/plugin/751007211632768205/Arrow-Auto) - Automatically draw arrows between interfaces for UI flow diagrams.
   * [Humaaans for Figma](https://www.figma.com/community/plugin/739503328703046360/Humaaans-for-Figma) - Brings the amazing illustations library called Humaaans by Pablo Stanley to Figma.
   * [Hero Patterns for Figma](https://www.figma.com/community/plugin/743134103711120154/Hero-Patterns-for-Figma) - Brings the amazing collection of patterns called Hero patterns by Steve Schoger.
 
@@ -525,10 +526,10 @@ Top Figma Plugins
   * [Unsplash](https://www.figma.com/community/plugin/738454987945972471/Unsplash) - Insert beautiful images from Unsplash straight into your designs.
   * [Vectary 3D](https://www.figma.com/community/plugin/769588393361258724/Vectary-3D) - Vectary 3D plugin for Figma is adding the missing third dimension to your 2D designs.
   * [Content Reel](https://www.figma.com/community/plugin/731627216655469013/Content-Reel) - Content Reel helps you easily pull text strings, avatars and icons into your designs.
-  * [Iconify](https://www.figma.com/community/plugin/735098390272716381/Iconify) - Import Material Design Icons, FontAwesome, Jam Icons, EmojiOne, Twitter Emoji and many other icons.
+  * [Iconify](https://www.figma.com/community/plugin/735098390272716381/Iconify) - Import Material Design Icons, FontAwesome, Jam Icons, EmojiOne, and many other icons.
   * [Feather Icons](https://www.figma.com/community/plugin/744047966581015514/Feather-Icons) - Collection of simply beautiful open source icons. Quick access to Feather icons in Figma. 
   * [Font Awesome Icons](https://www.figma.com/community/plugin/774202616885508874/Font-Awesome-Icons) - This is the unofficial plugin for the Font Awesome Icon Collection.
-  * [Material Design Icons](https://www.figma.com/community/plugin/740272380439725040/Material-Design-Icons) - This plugins provides you instant easy access to the entire Material Design Icons library.
+  * [Material Design Icons](https://www.figma.com/community/plugin/740272380439725040/Material-Design-Icons) - Provides you instant easy access to the entire Material Design Icons library.
   * [Logo Creator](https://www.figma.com/community/plugin/768094929040207895/Logo-Creator) - Craft a beautiful logo from prebuild collections of 300+ logos.
   * [Avatars Generaotr](https://www.figma.com/community/plugin/746656816456492537/Avatars-generator) - Avatars Generator creates unique, AI-generated photos of a fictional persons.
   * [Map Maker](https://www.figma.com/community/plugin/731312569747199418/Map-Maker) - Map Maker allows you to make a customized map blazing fast.
@@ -623,7 +624,7 @@ Windows Software Bundles
 * Security & Optimization
   * [360 Total Security](https://www.360totalsecurity.com/) - Your unified solution for PC security and performance.
   * [Malwarebytes](https://www.malwarebytes.com/) - Protects you against malware, ransomware, malicious websites, and other advanced threats.
-  * [Austlogics Boostpeed](https://www.auslogics.com/) - A complete checkup of your entire system locating junk files and speed-reducing issues.
+  * [Austlogics Boostpeed](https://www.auslogics.com/) - A complete checkup of your system locating junk files and speed-reducing issues.
   * [Wise Care 365](https://www.wisecleaner.com/wise-care-365.html) - All-in-one system tune up tool. Speed up slow computer. Clean registry and junk files.
   * [CCleaner](https://www.ccleaner.com/) - The No.1 Tool For Cleaning Your PC. Automatic cleaning. Reduce PC startup time.
   
@@ -633,8 +634,8 @@ Windows Software Bundles
   * [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) - Small, fast, and feature-rich PDF viewer that allows you to open, view, and print any PDF file.
   * [Evernote](https://evernote.com/) - Take notes anywhere. Find information faster. Share ideas with anyone.
   * [Adobe Digital Edition](https://www.adobe.com/solutions/ebook/digital-editions.html) - Ebook reader software program from Adobe Systems, built initially using Adobe Flash.
-  * [Scribus](https://www.scribus.net/) - Free and open-source desktop publishing (DTP) software available for most desktop operating systems.
-  * [PUB HTML5](https://www.scribus.net/) - Publish interactive magazines, catalogs, brochure Online. Create beautiful flipping book in HTML5.
+  * [Scribus](https://www.scribus.net/) - Free desktop publishing (DTP) software available for most desktop operating systems.
+  * [PUB HTML5](https://www.scribus.net/) - Publish interactive magazines or catalogs Online. Create beautiful flipping book in HTML5.
   * [Edraw Max](https://www.edrawsoft.com/edraw-max/) - Creating flow chart, mind map, org charts, network diagrams and floor plans with templates.
   * [SmartDraw](https://www.smartdraw.com/) - The smartest way to draw any type of chart, diagram, charts, network diagrams, and more.
   * [XMind](https://www.xmind.net/) - The most professional and popular mind mapping tool, to capture ideas, clarify thinking, etc.
@@ -649,27 +650,27 @@ Windows Software Bundles
   * [Spotify](https://www.spotify.com/) - Digital music (and podcast) service that gives you access to millions of songs.
   * [VLC Media Player](https://www.videolan.org/vlc/) - Multimedia player that plays most multimedia files, and various streaming protocols.
   * [Format Factory](http://www.pcfreetime.com/) - Free and multifunctional, multimedia file processing tools by PC Free Time.
-  * [HandBrake](https://handbrake.fr/) - Tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+  * [HandBrake](https://handbrake.fr/) - Tool for converting video from nearly any format to a selection of modern.
   * [Audacity](https://www.audacityteam.org/) - Audacity is an easy-to-use, multi-track audio editor and recorder.
   * [Subtitle Edit](https://www.nikse.dk/subtitleedit) - A free (open source) editor for video subtitles - a subtitle editor.
 
 * Designer Tools
-  * [Adobe Creative Suite](https://www.adobe.com/creativecloud.html) - Collection of 20+ desktop and mobile apps for photography, design, video, web, UX, etc.
+  * [Adobe Creative Suite](https://www.adobe.com/creativecloud.html) - Collection of 20+ desktop & mobile apps for photography, design, video, UX, etc.
   * [GIMP](https://www.gimp.org/) - GNU Image Manipulation Program. The free, open source and cross-platform Image Editor.
   * [Inkscape](https://inkscape.org/) - A professional vector graphics editor for Linux, Windows and macOS. It's free and open source.
   * [Gravit Designer](https://www.designer.io/) - A free full-featured vector graphic design app that works on ALL platforms.
   * [Autodesk SketchBook](https://sketchbook.com/) - A raster graphics software intended for expressive drawing and concept sketching.
-  * [Krita](https://krita.org/) - A professional free painting program. It's made by artists that want to see affordable art tools for everyone.
+  * [Krita](https://krita.org/) - A pro free painting program. It's made by artists that want to see affordable art tools for everyone.
   * [Birdfont](https://birdfont.org/) - A free font editor which lets you create vector graphics and export TTF, OTF, EOT and SVG fonts.
   * [Darktable](https://www.darktable.org/) - An open source photography workflow application and raw developer.
-  * [FastStone Photo Resizer](https://www.faststone.org/FSResizerDetail.htm) - Batch photo editor. An image converter tool - convert, rename, resize, crop, rotate, etc.
-  * [Picosmos Tools](https://www.tigercolor.com/) - A software covering with all kinds of image functions - editing, composing, segmentation, etc.
+  * [FastStone Photo Resizer](https://www.faststone.org/FSResizerDetail.htm) - Batch photo editor and converter tool - convert, resize, crop, rotate, etc.
+  * [Picosmos Tools](https://www.tigercolor.com/) - Covering all kinds of image functions - editing, composing, segmentation, etc.
   * [ColorImpact](https://www.tigercolor.com/) - An interactive color scheme designer that lets you easily create stunning color schemes.
   * [Cyotek Palette Editor](https://www.cyotek.com/cyotek-palette-editor) - Allows you to create and work with colour palettes, in a variety of formats.
   * [Icons8](https://icons8.com/) - Design stuff for free, for your project - icons, photos, vectors, music, and tools.
   
 * Producer Tools
-  * [VEGAS](http://www.vegascreativesoftware.com/) - The VEGAS range of creative software is all you need for fast, professional and efficient video production.
+  * [VEGAS](http://www.vegascreativesoftware.com/) - Creative software ll you need for fast, professional and efficient video production.
   * [Wondershare Filmora](https://filmora.wondershare.net/) - A video editor for all creators. Empower your stories and imagination with Filmora.
   * [HitFilm Express](https://fxhome.com/hitfilm-express) - A free video editing software with professional-grade VFX tools and everything you need.
   * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - A professional editing and color grading system that is suitable for everyone.
@@ -681,9 +682,9 @@ Windows Software Bundles
   
 * Developer Tools
   * **for Web Developer**
-   * [DevDocs Desktop](https://devdocs.egoist.moe/) - Fast, offline, and free documentation browser for developers. Search 100+ docs in one place.
+  * [DevDocs Desktop](https://devdocs.egoist.moe/) - Fast, offline, and free documentation for developers. Search 100+ docs in one place.
   * [Git](https://git-scm.com/) - A free and open source distributed version control system - handle projects with speed and efficiency.
-  * [GitKraken](https://www.gitkraken.com/) - Three developer productivity tools: Git GUI client, Kanban Boards & Timelines for project milestones.
+  * [GitKraken](https://www.gitkraken.com/) - Three developer productivity tools: Git GUI client, Kanban Boards & Timelines.
   * [Notepad++](https://notepad-plus-plus.org/) - A free source code editor and Notepad replacement that supports several languages. 
   * [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. A lightweight text editor.
   * [Atom](https://www.sublimetext.com/) - A free and open-source text and source code editor, developed by GitHub.
@@ -695,24 +696,24 @@ Windows Software Bundles
   * [Android Studio](https://developer.android.com/studio) - Android Studio provides the fastest tools for building apps on every type of Android device.
   * [Xcode](https://developer.apple.com/xcode/) - Xcode is an IDE for macOS containing a suite of software development tools developed by Apple.
   * **for Desktop Developer**
-  * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - An integrated development environment (IDE) written in Java for developing computer software.
+  * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - An integrated development environment (IDE) for developing computer software.
   * [Code::Blocks](http://www.codeblocks.org/) - The open source, cross platform, free C, C++ and Fortran IDE. Work with a variety of compilers.
   * **for Data Science Developer**
   * [Google Colab](https://colab.research.google.com/) - Write and execute Python in your browser, with zero config required and free access to GPUs.
-  * [Anaconda](https://www.anaconda.com/) - The world's most popular Python/R data science platform. Easy way to work with packages and env.
+  * [Anaconda](https://www.anaconda.com/) - The world's most popular Python/R data science platform, work with packages and env.
   * **for Game Developer**
   * [DAZ 3D](https://www.daz3d.com/) - Free 3D Software Suite for modeling & rendering realistic characters, clothes and scenes.
   * [Blender](https://www.blender.org/) - Open source 3D creation. Free to use for any purpose - modeling, animation, motion, etc.
   * [Unity3D](https://unity3d.com/get-unity/download) - The world’s most popular development platform for creating 2D and 3D multiplatform games.
-  * [Godot Engine](https://godotengine.org/) - A 2D and 3D, cross-platform, free and open-source game engine released under the MIT license.
-  * [Construct](https://www.scirra.com/) - An HTML5-based 2D game editor, developed by Scirra Ltd. It's aimed primarily at non-programmers.
+  * [Godot Engine](https://godotengine.org/) - A 2D/3D free and open-source game engine released under the MIT license.
+  * [Construct](https://www.scirra.com/) - An HTML5-based 2D game editor. It's aimed primarily at non-programmers.
   * [RPG Maker MV](https://www.rpgmakerweb.com/) - It is a popular game development engine for the development of RPG games.
   * [Pixel Game Maker MV](https://tkool.jp/act/en/index.html) - Allows you to create thrilling action games with ease - no programming necessary.
   * **for Network Developer**
   * [PuTTY](https://www.putty.org/) - A free SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
   * [NetSpot](https://www.netspotapp.com/) - The only professional app for wireless site surveys, Wi-Fi analysis, and troubleshooting.
   * [Wireshark](https://www.wireshark.org/) - The world’s foremost and widely-used network protocol analyzer - troubleshooting, analysis, etc.
-  * [Cisco Packet Tracker](https://www.netacad.com/courses/packet-tracer) - A powerful networking simulation tool used for practice, discovery and troubleshooting.
+  * [Cisco Packet Tracker](https://www.netacad.com/courses/packet-tracer) - A networking simulation tool used for practice, discovery and troubleshooting.
   
 * Miscellaneous
   * **Emulators**
@@ -729,48 +730,48 @@ Windows Software Bundles
   * [Unstoppable Copier](https://softfamous.com/unstoppable-copier/) - Scan your CD/DVD/hardware used for storage, then you can choose to restore it.
   * [DVDStyler](https://www.dvdstyler.org/) - Free DVD authoring application for the creation of professional-looking DVDs. 
   * **HDD/SSD Apps**
-  * [Hard Disk Sentinel](https://www.hdsentinel.com/) - A multi-OS SSD and HDD monitoring and analysis software - find, test, diagnose and repair.
+  * [Hard Disk Sentinel](https://www.hdsentinel.com/) - A SSD/HDD monitoring and analysis software - find, test, diagnose and repair.
   * [HDDlife](https://hddlife.com/) - Allowing you to move your data long before the lifespan of your HDD/SSD comes to an end.
   * [DiskSavvy](https://www.disksavvy.com/) - A free, fast and easy-to-use disk space analyzer utility allowing one to analyze disk.
   * [Wondershare Recoverit](https://recoverit.wondershare.com/) - Rescue your deleted files, photos, videos, audios, emails, and many more.
-  * [MiniTool Power Data Recovery](https://www.minitool.com/data-recovery-software/free-for-windows.html) - Powerful software capable of recovering files lost by human errors, system crash.
+  * [MiniTool Power Data Recovery](https://www.minitool.com/data-recovery-software/free-for-windows.html) - Powerful for recovering files lost by human errors, system crash.
   * [MiniTool Partition Wizard](https://hddlife.com/) - All-inclusive free partition manager to organize disk partitions.
-  * [EaseUS Data Recovery](https://www.easeus.com/datarecoverywizard/free-data-recovery-software.htm) - Data recovery software, your second to none choice for quick but complete file recovery.
-  * [EaseUS Todo Backup](https://www.easeus.com/backup-software/) - Create backup tasks on schedule, automatically run to make copies, and restore instantly.
+  * [EaseUS Data Recovery](https://www.easeus.com/datarecoverywizard/free-data-recovery-software.htm) - Your second to none choice for quick but complete file recovery.
+  * [EaseUS Todo Backup](https://www.easeus.com/backup-software/) - Backup tasks on schedule, automatically run to make copies, and restore instantly.
   * **Remote Apps**
   * [TeamViewer](https://www.teamviewer.com/) - Remote control, desktop sharing, online meetings and file transfer between computers.
   * [Chrome Remote Desktop](https://remotedesktop.google.com/) - A remote desktop software tool. Access your computers from your Android.
   * [Unified Remote](https://www.unifiedremote.com/) - Turn your smartphone into a universal remote control. The one-and-only.
   * **Tive-Saving Apps**
-  * [Autosofted](https://www.autosofted.com/) - Automated keyboard pressers/typers/mouse clickers as well as useful programs for organizing files.
+  * [Autosofted](https://www.autosofted.com/) - Automated keyboard pressers/typers/mouse clickers & useful programs for organizing files.
   * [1Clipboard](http://1clipboard.io/) - A universal clipboard managing app that makes it easy to access your clipboard from anywhere.
   * [GrepWin](https://tools.stefankueng.com/grepWin.html) - A simple search and replace tool which can use regular expressions to do its job.
   * [WinMerge](https://winmerge.org/) - Compare both folders and files, presenting differences in a visual text format. Easy to handle.
   * [Phrase Express](https://www.phraseexpress.com/) - Helps you to speed up your typing tasks in any editor by saving lots of keystrokes.
-  * [Free Commander](https://freecommander.com/en/summary/) - An alternative to the standard windows file manager - helps you with daily work in Windows.
-  * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Create window specific profiles for which you can reconfigure your mouse behaviour.
+  * [Free Commander](https://freecommander.com/en/summary/) - An alternative to the standard windows file manager - for your daily work in Windows.
+  * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Create window specific profiles of your mouse behaviour.
   * [Pulover's Macro Creator](https://www.macrocreator.com/) - Free automation tool and script generator - multiple automation functions.
   * [Absolute Uninstaller](https://www.glarysoft.com/absolute-uninstaller/) - Best solution to uninstall programs completely with high speed and efficiency.
   * [Advanced Renamer](https://www.advancedrenamer.com/) - Batch rename files and folders in a snap. Perfect for any kind of file renaming.
   * [Attribute Changer](https://www.petges.lu/) - Change file and folder properties with ease. A powerful Windows Explorer add-on.
   * **Education Apps**
   * [Stellarium](https://stellarium.org/) - Planetarium for your computer. It shows a realistic sky in 3D, just like what you see.
-  * [WorldWide Telescope](http://www.worldwidetelescope.org/webclient/) - A virtual telescope to astronomers, a virtual observatory of the Earth to geo-researchers.
+  * [WorldWide Telescope](http://www.worldwidetelescope.org/webclient/) - A virtual telescope to astronomers, observatory of the Earth to geo-researchers.
   * [SketchUp](https://www.sketchup.com/) - 3D design software that truly makes 3D modeling, with a simple to learn yet robust toolset.
   * [Sweet Home 3D](http://www.sweethome3d.com/) - Interior design app that helps you draw the plan of your house and arrange furniture on it.
   * **Islamic Apps**
   * [Ayat Qur'an](https://play.google.com/store/apps/details?id=sa.edu.ksu.Ayat&hl=in) - Comprehensive Quranic software with unique features.
   * [Qur'an Tafsiriyah](https://play.google.com/store/apps/details?id=com.annabawy.qtt&hl=in) - Al-Qur'an tarjamah tafsiriyah (QTT) An Nabawi oleh Al Ustadz Muhammad Thalib.
-  * [Tafsir Qur'an Ibnu Katsir](https://islamdownload.net/123997-download-tafsir-ibnu-katsir.html) - Ibnu Katsir adalah seorang pemberi fatwa, ahli hadits, ilmuan, ahli fiqih dan ahli tafsir.
+  * [Tafsir Qur'an Ibnu Katsir](https://islamdownload.net/123997-download-tafsir-ibnu-katsir.html) - Ibnu Katsir adalah seorang ahli hadits, ahli fiqih dan ahli tafsir.
   * [HaditsSoft](https://archive.org/details/SetupHaditsSoft) - Aplikasi Hadits yang saat ini berisi kitab-kitab - Bukhari, Muslim, Tirmidzi, dll.
   * [Ensiklopedi Hadits](https://store.lidwa.com/get/) - Aplikasi hadits terlengkap, 62 ribu hadits dari 9 Imam. Belajar dari Nabi jadi lebih mudah.
-  * [Hadits Web 7.0](https://ibnumajjah.wordpress.com/2017/10/13/hadits-web-7-0/) - Kumpulan hadits-hadits yang bersumber dari kitab-kitab hadits terpercaya, dan tersusun rapih.
+  * [Hadits Web 7.0](https://ibnumajjah.wordpress.com/2017/10/13/hadits-web-7-0/) - Kumpulan hadits dari kitab-kitab hadits terpercaya, tersusun dengan rapih.
   * [Perpustakaan Islam Digital](https://perpustakaanislamdigital.com/) - Himpunan 800 jilid (3600 judul) kitab kajiam islam klasik dan komtemporer.
   * **Useful Apps**
-  * [8GadgetPack](https://8gadgetpack.net/) - 8GadgetPack makes it possible to use gadgets on Windows 10/8.1/7. (Ex gadget : [Days Remaining](http://win7gadgets.com/calendar/days_remaining.html))
+  * [8GadgetPack](https://8gadgetpack.net/) - Allows you to use gadgets on Windows 10/8.1/7. (Ex gadget : [Days Remaining](http://win7gadgets.com/calendar/days_remaining.html))
   * [KeyTweak](https://softfamous.com/keytweak/) - KeyTweak allows a computer user to remap the keys on the keyboard to a customized layout. 
-  * [Event Log Ex](https://eventlogxp.com/) - An effective software solution for viewing, analyzing and monitoring events recorded in event logs.
+  * [Event Log Ex](https://eventlogxp.com/) - A software solution for viewing, analyzing and monitoring events recorded in event logs.
   * [HJSplit](http://www.hjsplit.org/) - Tool to split and recombine files as large as 100+ gigabytes - split, join, compare, and checksum.
-  * [Cheat Engine](https://www.cheatengine.org/) - Memory scanner/hex editor/debugger for Windows. Mostly used for cheating in computer games.
-  * [Razer Cortex](https://www.cheatengine.org/) - Brings enhanced gaming/system performance, and the ability to discover the best gaming deals.
+  * [Cheat Engine](https://www.cheatengine.org/) - Memory scanner/hex editor/debugger. Mostly used for cheating in computer games.
+  * [Razer Cortex](https://www.cheatengine.org/) - Brings enhanced gaming performance, and the ability to discover the best gaming deals.
   * [Rainmeter](https://www.rainmeter.net/) - Most popular desktop customization software for Windows - customizable desktop skins.
