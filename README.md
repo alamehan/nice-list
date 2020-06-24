@@ -27,9 +27,9 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek besar bernama [Awesome]
 	<a href="#sec05">Developer 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="#sec06">Resource 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<br>
-	<a href="#sec07">Top Chrome Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec08">Top VS Code Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec09">Top Figma Plugins</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec07">Chrome Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec09">Figma Plugins</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec08">VS Code Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<br>
 	<a href="#sec10">Educational Instagram Accounts</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="#sec11">Windows Software Bundles</a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -463,18 +463,6 @@ Top Chrome Extensions
 
 <div id="sec08"></div>
 
-⚔️ 
-Top Visual Studio Code Extensions
----
-
-<a href="#daftarisi">🡹 Kembali ke daftar isi</a>
-
-_(Upcoming!)_
-
-<br>
-
-<div id="sec09"></div>
-
 🔮 
 Top Figma Plugins
 ---
@@ -554,6 +542,18 @@ Top Figma Plugins
   * [Figmotion](https://www.figma.com/community/plugin/733025261168520714/Figmotion) - Figmotion is an animation tool built right in Figma.
   * [Design Inspo](https://www.figma.com/community/plugin/738775292786594626/Design-Inspo) - The best way to quickly look for design inspiration while you work.
   * [Remove BG](https://www.figma.com/community/plugin/738992712906748191/Remove-BG) - Remove the background of images automatically with just a single click.
+
+<br>
+
+<div id="sec09"></div>
+
+⚔️ 
+Top Visual Studio Code Extensions
+---
+
+<a href="#daftarisi">🡹 Kembali ke daftar isi</a>
+
+_(Upcoming!)_
 
 <br>
 
