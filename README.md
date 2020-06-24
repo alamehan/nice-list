@@ -121,6 +121,7 @@ Useful Websites
   * [Ttorial](http://ttorial.com/) - Obtain & download the best online courses for free, from 100+ leading institutions.
   * [FreeCourseLab](https://freecourselab.com/) - A great place to learn. Download Udemy Courses for Free.
   * [FreeCourseUdemy](https://freecourseudemy.com/) - Premium Udemy tutorials free download.
+  * [KeBioskop21](http://103.194.171.185/) - Streaming film online gratis subtitle Indo.
   
 * Coupon Hunter
   * [OzBargain](https://www.ozbargain.com.au/tag/udemy-course) - Hunting community, coupon codes and freebies.
@@ -366,7 +367,7 @@ Resource 101
   * Psychology : [Positive Psychology](https://positivepsychology.com/), [Psychology Tools](https://www.psychologytools.com/), [Psychology-Tools](https://psychology-tools.com/), [Living Moxie](https://dawnbarclay.com/)
   * Data Visualization : [Visualization Universe](http://visualizationuniverse.com/), [Dataviz Catalogue](https://datavizcatalogue.com/), [Observable HQ](https://observablehq.com/), [Adioma](https://blog.adioma.com/)
   * Explorative Visuals : [By Owen](http://byowen.com/), [One Zoom](https://www.onezoom.org/), [Things Made Thinkable](http://www.thingsmadethinkable.com/), [Knowledge Center](http://www.knowledgecenter.com/ions/NoeticMap.html)
-  * Powerful Diagramming : [Creately](https://creately.com/), [Draw.io](https://app.diagrams.net/) (Selebihnya ada di section : Designer 101)
+  * Powerful Diagramming : [Creately](https://creately.com/), [Draw.io](https://app.diagrams.net/), [MindMeister](https://www.mindmeister.com/) (Selebihnya di : Designer 101)
 
 <br>
 
