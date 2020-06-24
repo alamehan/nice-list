@@ -26,11 +26,12 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek besar bernama [Awesome]
 	<br>
 	<a href="#sec05">Designer 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="#sec06">Developer 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec07">Top Figma Plugins</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec08">Top VS Code Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec06">Resource 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec08">Top Figma Plugins</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec09">Top VS Code Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<br>
-	<a href="#sec09">Educational Instagram Accounts</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec10">Windows Software Bundles</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec10">Educational Instagram Accounts</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#sec11">Windows Software Bundles</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -45,7 +46,7 @@ Find a Job
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
-* General : [LinkedIn](https://www.linkedin.com/), [Qerja](https://www.qerja.com/), [Glints](https://glints.com/id), [Glassdoor](https://www.glassdoor.com/index.htm), [Urbanhire](https://www.urbanhire.com/), [Careerjet](https://www.careerjet.co.id/), [Indeed](https://id.indeed.com/), [TheMuse](https://www.themuse.com/), [JobStreet](https://www.jobstreet.co.id/), [Jora](https://www.jora.com/), [JobFinder](http://www.jobfinder.co.id/), [Jobs.id](https://www.jobs.id/)
+* General : [LinkedIn](https://www.linkedin.com/), [Qerja](https://www.qerja.com/), [Glints](https://glints.com/id), [Glassdoor](https://www.glassdoor.com/index.htm), [Urbanhire](https://www.urbanhire.com/), [Careerjet](https://www.careerjet.co.id/), [Indeed](https://id.indeed.com/), [TheMuse](https://www.themuse.com/), [JobStreet](https://www.jobstreet.co.id/), [Jora](https://www.jora.com/), [JobFinder](http://www.jobfinder.co.id/)
   
 * Developer : [Tech in Asia](https://www.techinasia.com/jobs/search), [Dicoding](https://www.dicoding.com/jobs/list), [Ekrut](https://careers.ekrut.com/), [SIMONAS (Sistem Informasi Monitoring Alumni Sertifikasi ) Kominfo](https://simonas.kominfo.go.id/)
   
@@ -63,16 +64,6 @@ Useful Websites
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
-* ⭐ The Right Way
-  * Web Dev : [GitKrakenDocs](https://www.gitkraken.com/resources/devops-report-2020), [W3Docs](https://www.w3docs.com/), [W3Schools](https://www.w3schools.com/), [DevDocs](https://devdocs.io/) (Sebelum ke framework, dll)
-  * Know Your Self : _(Upcoming!)_
-
-* ⭐ Comprehensive Resource
-  * Psychology : [Positive Psychology](https://positivepsychology.com/), [Psychology Tools](https://www.psychologytools.com/), [Psychology-Tools](https://psychology-tools.com/), [Living Moxie](https://dawnbarclay.com/)
-  * Data Visualization : [Visualization Universe](http://visualizationuniverse.com/), [Dataviz Catalogue](https://datavizcatalogue.com/), [Observable HQ](https://observablehq.com/), [Adioma](https://blog.adioma.com/)
-  * Explorative Visuals : [By Owen](http://byowen.com/), [One Zoom](https://www.onezoom.org/), [Things Made Thinkable](http://www.thingsmadethinkable.com/), [Knowledge Center](http://www.knowledgecenter.com/ions/NoeticMap.html)
-  * Powerful Diagramming : [Creately](https://creately.com/), [Draw.io](https://app.diagrams.net/) (Selebihnya nanti di section : Designer 101)
-  
 * Digital Product Showcase
   * [Product Hunt](http://www.producthunt.com/) - Discover the latest mobile apps, websites, and technology products.
   * [Stackshare](https://stackshare.io/) - Find the right developer tools and the companies that use them.
@@ -450,6 +441,27 @@ Developer 101
 
 <div id="sec07"></div>
 
+🌐 
+Resource 101
+---
+
+<a href="#daftarisi">🡹 Kembali ke daftar isi</a>
+
+* The Right Way
+  * Web Dev : [GitKrakenDocs](https://www.gitkraken.com/resources/devops-report-2020), [W3Docs](https://www.w3docs.com/), [W3Schools](https://www.w3schools.com/), [DevDocs](https://devdocs.io/) (Sebelum ke framework, dll)
+  * Know Your Self : _(Upcoming!)_
+  * Learn English : _(Upcoming!)_
+
+* Good Resources
+  * Psychology : [Positive Psychology](https://positivepsychology.com/), [Psychology Tools](https://www.psychologytools.com/), [Psychology-Tools](https://psychology-tools.com/), [Living Moxie](https://dawnbarclay.com/)
+  * Data Visualization : [Visualization Universe](http://visualizationuniverse.com/), [Dataviz Catalogue](https://datavizcatalogue.com/), [Observable HQ](https://observablehq.com/), [Adioma](https://blog.adioma.com/)
+  * Explorative Visuals : [By Owen](http://byowen.com/), [One Zoom](https://www.onezoom.org/), [Things Made Thinkable](http://www.thingsmadethinkable.com/), [Knowledge Center](http://www.knowledgecenter.com/ions/NoeticMap.html)
+  * Powerful Diagramming : [Creately](https://creately.com/), [Draw.io](https://app.diagrams.net/) (Selebihnya ada di section : Designer 101)
+
+<br>
+
+<div id="sec08"></div>
+
 🔮 
 Top Figma Plugins
 ---
@@ -532,7 +544,7 @@ Top Figma Plugins
 
 <br>
 
-<div id="sec08"></div>
+<div id="sec09"></div>
 
 ⚔️ 
 Top Visual Studio Code Extensions
@@ -544,7 +556,7 @@ _(Upcoming!)_
 
 <br>
 
-<div id="sec09"></div>
+<div id="sec10"></div>
 
 💎 
 Educational Instagram Accounts
@@ -565,7 +577,7 @@ Educational Instagram Accounts
 
 <br>
 
-<div id="sec10"></div>
+<div id="sec11"></div>
 
 💽 
 Windows Software Bundles
