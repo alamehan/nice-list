@@ -1,4 +1,4 @@
-<img src="sampul.png">
+<img src="images/img-sampul.png">
 
 ## NiceList
 - Navigasi beragam website dan produk digital yang berkualitas dan terseleksi<br>
@@ -16,7 +16,7 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek besar bernama [Awesome]
 
 <div id="daftarisi"></div>
 
-<img src="letsgo.png">
+<img src="images/daftarisi.png">
 
 <p>Daftar isi (section) :</p>
 <p align="left">
@@ -33,7 +33,9 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek besar bernama [Awesome]
 	<a href="#sec11">➔ 11. Windows Software Bundles</a>&nbsp;<br>
 </p>
 
----
+<br>
+
+<img src="images/letsgo.png">
 
 <br>
 
