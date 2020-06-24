@@ -1,7 +1,7 @@
 <img src="images/img-sampul.png">
 
 ## NiceList
-- Navigasi beragam website dan produk digital yang berkualitas dan terseleksi<br>
+- Navigasi beragam website dan produk digital yang berkualitas, terseleksi dan dapat diandalkan<br>
 - Merupakan salah satu segmen dari [Alamehan Project](https://medium.com/@alamehan/selamat-datang-di-alamehan-35a43da9d87e) | Selebihnya kunjungi : [alamehan.github.io](https://alamehan.github.io/)
 
 ## Motivasi 
