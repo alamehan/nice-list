@@ -604,13 +604,13 @@ Educational Instagram Accounts
 **Catatan** : Pertama-tama Login terlebih dahulu ke akun Instagram anda. Kemudian copy seluruh akun instagram yang ingin anda _follow_ (dibawah). Lalu gunakan tools/generator [ini](https://chrome.google.com/webstore/detail/helper-tools-for-instagra/clibiflfecckdjnjcgcgjdknmbgceail) untuk mem-_follow_ banyak akun sekaligus dalam satu waktu. Selamat! Anda sudah berhasil mem-_follow_ akun-akun Instagram terseleksi dan pilihan.
 
 **Kategori :** <br>
-[top-40-akun-ig-mixed.txt](../master/edu-instagram/top-40-akun-ig-mixed.txt) - Perkuliahan dan karir, hijrah time, muda-mudi kekinian, olshop dan diskon.<br>
-[top-40-akun-ig-funny.txt](../master/edu-instagram/top-40-akun-ig-funny.txt) - Hewan (kucing) lucu, nonton/streaming kartun, komik dan animasi, hiburan lainnya.<br>
-[top-50-akun-ig-insight.txt](../master/edu-instagram/top-50-akun-ig-insight.txt) - Fakta global & lokal, berita global & lokal, berita spesifik, infografis dan pembelajaran.<br>
-[top-50-akun-ig-interest.txt](../master/edu-instagram/top-50-akun-ig-interest.txt) - Eksplorasi bumi, info untuk developer, info untuk traveler, dan info untuk hobi lainnya.<br>
-[top-50-akun-ig-improve.txt](../master/edu-instagram/top-50-akun-ig-improve.txt) - Buku bisnis, pembelajaran bisnis global & lokal, pembelajaran tentang kehidupan.<br>
-[top-60-akun-ig-influencer.txt](../master/edu-instagram/top-60-akun-ig-influencer.txt) - Para tokoh komedi, milenial, agama, motivator, berbakat, traveler dan selebgram.<br>
-[top-170-akun-ig-skillpackage.txt](../master/edu-instagram/top-170-akun-ig-skillpackage.txt) - Pembelajaran dan inspirasi strategi medsos, developer, ui/ux, desain, art, dan ilustrasi.
+[top-40-akun-ig-mixed.txt](../master/instagram/top-40-akun-ig-mixed.txt) - Perkuliahan dan karir, hijrah time, muda-mudi kekinian, olshop dan diskon.<br>
+[top-40-akun-ig-funny.txt](../master/instagram/top-40-akun-ig-funny.txt) - Hewan (kucing) lucu, nonton/streaming kartun, komik dan animasi, hiburan lainnya.<br>
+[top-50-akun-ig-insight.txt](../master/instagram/top-50-akun-ig-insight.txt) - Fakta global & lokal, berita global & lokal, berita spesifik, infografis dan pembelajaran.<br>
+[top-50-akun-ig-interest.txt](../master/instagram/top-50-akun-ig-interest.txt) - Eksplorasi bumi, info untuk developer, info untuk traveler, dan info untuk hobi lainnya.<br>
+[top-50-akun-ig-improve.txt](../master/instagram/top-50-akun-ig-improve.txt) - Buku bisnis, pembelajaran bisnis global & lokal, pembelajaran tentang kehidupan.<br>
+[top-60-akun-ig-influencer.txt](../master/instagram/top-60-akun-ig-influencer.txt) - Para tokoh komedi, milenial, agama, motivator, berbakat, traveler dan selebgram.<br>
+[top-170-akun-ig-skillpackage.txt](../master/instagram/top-170-akun-ig-skillpackage.txt) - Pembelajaran dan inspirasi strategi medsos, developer, ui/ux, desain, art, dan ilustrasi.
 
 <br>
 
