@@ -18,21 +18,19 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek besar bernama [Awesome]
 
 <img src="letsgo.png">
 
-<p align="center">
-	<a href="#sec01">➔ Find a Job</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec02">➔ Useful Websites</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec03">➔ Self Improvement</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<br>
-	<a href="#sec04">➔ Designer 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec05">➔ Developer 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec06">➔ Resource 101</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<br>
-	<a href="#sec07">➔ Chrome Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec08">➔ Figma Plugins</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec09">➔ VS Code Extensions</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<br>
-	<a href="#sec10">➔ Educational Instagram Accounts</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#sec11">➔ Windows Software Bundles</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p>Daftar isi (section) :</p>
+<p align="left">
+	<a href="#sec01">➔ 1. Find a Job</a>&nbsp;<br>
+	<a href="#sec02">➔ 2. Useful Websites</a>&nbsp;<br>
+	<a href="#sec03">➔ 3. Self Improvement</a>&nbsp;<br>
+	<a href="#sec04">➔ 4. Designer 101</a>&nbsp;<br>
+	<a href="#sec05">➔ 5. Developer 101</a>&nbsp;<br>
+	<a href="#sec06">➔ 6. Resource 101</a>&nbsp;<br>
+	<a href="#sec07">➔ 7. Chrome Extensions</a>&nbsp;<br>
+	<a href="#sec08">➔ 8. Figma Plugins</a>&nbsp;<br>
+	<a href="#sec09">➔ 9. VS Code Extensions</a>&nbsp;<br>
+	<a href="#sec10">➔ 10. Educational Instagram Accounts</a>&nbsp;<br>
+	<a href="#sec11">➔ 11. Windows Software Bundles</a>&nbsp;<br>
 </p>
 
 ---
