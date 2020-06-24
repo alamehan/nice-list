@@ -26,9 +26,9 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek besar bernama [Awesome]
 	<a href="#sec04">➔ 4. Designer 101</a>&nbsp;<br>
 	<a href="#sec05">➔ 5. Developer 101</a>&nbsp;<br>
 	<a href="#sec06">➔ 6. Resource 101</a>&nbsp;<br>
-	<a href="#sec07">➔ 7. Chrome Extensions</a>&nbsp;<br>
-	<a href="#sec08">➔ 8. Figma Plugins</a>&nbsp;<br>
-	<a href="#sec09">➔ 9. VS Code Extensions</a>&nbsp;<br>
+	<a href="#sec07">➔ 7. Top Chrome Extensions</a>&nbsp;<br>
+	<a href="#sec08">➔ 8. Top Figma Plugins</a>&nbsp;<br>
+	<a href="#sec09">➔ 9. Top Visual Studio Code Extensions</a>&nbsp;<br>
 	<a href="#sec10">➔ 10. Educational Instagram Accounts</a>&nbsp;<br>
 	<a href="#sec11">➔ 11. Windows Software Bundles</a>&nbsp;<br>
 </p>
