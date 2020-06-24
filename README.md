@@ -588,6 +588,8 @@ Top Visual Studio Code Extensions
   
 * Backend
   * [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) - Advanced Autocompletion and Refactoring support for PHP. You need at least PHP 7 installed.
+  * [PHP Intellisense for Codeigniter](https://marketplace.visualstudio.com/items?itemName=small.php-ci) - Code completion for PHP Codeigniter framework. Completion, go to definition, etc.
+  * [Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-extension-pack) - Includes the basic extensions to get started with Laravel development in VS Code.
   * _(Upcoming!)_
 
 <br>
