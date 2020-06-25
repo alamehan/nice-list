@@ -573,6 +573,7 @@ Top Visual Studio Code Extensions
   * [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align) - Align your code by colon (:), assignment (=,+=,-=,*=,/=) and arrow (=>).
   * [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) - Shows image preview in the gutter and on hover. Fast and useful.
   * [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - Take beautiful screenshots of your code in VS Code. Quickly save, line numbers, etc.
+  * [Git Tags](https://marketplace.visualstudio.com/items?itemName=howardzuo.vscode-git-tags) - Quick manage tags for a git repo. Fast synchronization to remote repositories.
   * [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your repository, and perform Git actions from the graph.
   * [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Allows you to review and manage GitHub pull requests and issues.
   
