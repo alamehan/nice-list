@@ -12,7 +12,7 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek _curated list_ yang beg
 
 **Catatan** : 
 
-Topik yang tersedia di **NiceList** ini memang tidak banyak dan cenderung lebih ke topik design, pemrograman dan pengembangan diri. Namun demikian, **NiceList** ini merupakan proyek yang berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_ dan menambahkannya secara berkala, tentunya saat saya menemukan harta karun baru yang layak dimasukkan kedalam daftar. Hingga saat ini **NiceList memiliki 11 kategori & 1020 daftar** (per 27/06/2020). 
+Topik yang tersedia di **NiceList** ini memang tidak banyak dan cenderung lebih ke topik design, pemrograman dan pengembangan diri. Namun demikian, **NiceList** ini merupakan proyek yang berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_ dan menambahkannya secara berkala, tentunya saat saya menemukan harta karun baru yang layak dimasukkan kedalam daftar. Hingga saat ini **NiceList memiliki 11 kategori & 1023 daftar** (per 30/06/2020). 
 
 _So, have fun!_
 
@@ -371,6 +371,7 @@ Resource 101
 
 * Good Resources
   * Psychology : [Positive Psychology](https://positivepsychology.com/), [Psychology Tools](https://www.psychologytools.com/), [Psychology-Tools](https://psychology-tools.com/), [Living Moxie](https://dawnbarclay.com/)
+  * 16 MBTI Personalities : [16Personalities](https://www.16personalities.com/), [PersonalityClub](https://www.personalityclub.com/), [The Personality Database](https://personality-database.com/)
   * Data Visualization : [Visualization Universe](http://visualizationuniverse.com/), [Dataviz Catalogue](https://datavizcatalogue.com/), [Observable HQ](https://observablehq.com/), [Adioma](https://blog.adioma.com/)
   * Explorative Visuals : [By Owen](http://byowen.com/), [One Zoom](https://www.onezoom.org/), [Things Made Thinkable](http://www.thingsmadethinkable.com/), [Knowledge Center](http://www.knowledgecenter.com/ions/NoeticMap.html)
   * Powerful Diagramming : [Creately](https://creately.com/), [Draw.io](https://app.diagrams.net/), [MindMeister](https://www.mindmeister.com/) (Selebihnya di : Designer 101)
