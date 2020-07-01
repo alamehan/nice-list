@@ -308,13 +308,13 @@ Developer 101
   * [Brad Traversy Course](https://www.udemy.com/user/brad-traversy/) - Web Dev • Good for Beginners
   * [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) - Web Dev • JavaScript Base
   * [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - Web Dev • JavaScript Base
-  * [The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) - Web Dev: PHP Base
+  * [The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) - Web Dev • PHP Base
   * [Master Laravel 6 with Vue.js Fullstack Development](https://www.udemy.com/course/master-laravel-6-with-vuejs-fullstack-development/) - Web Dev • PHP Base
   * [The Complete Android 10 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/) - Android Dev • Kotlin Base
   * [The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/) - Mobile Dev • Flutter Base
   * [The Complete React Native + Hooks Course 2020 Edition](https://www.udemy.com/course/the-complete-react-native-and-redux-course/) - Mobile Dev • React Native Base
  
-* Full-Stack Web Dev
+* Web Dev : Full-Stack
   * [Dunia Ilkom](https://www.duniailkom.com/) - Situs yang membahas lengkap materi pembelajaran bahasa pemrograman website.
   * [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) - Membahas mengenai teknologi internet dan pengembangan web.  
   * [Build With Angga](https://buildwithangga.com/) - Pelajari keahlian baru yang dibutuhkan oleh perusahaan IT terbesar di seluruh dunia.
@@ -322,9 +322,9 @@ Developer 101
   * [W3Schools](https://www.w3schools.com/) - The world's largest web developer site. Tutorials and references relating to web dev.
   * [W3Docs](https://www.w3schools.com/) - We are trying to provide useful and concise materials for the programming enthusiasts.
   * [A Smarter Way](https://www.amazon.com/Mark-Myers/e/B00HNW14T4?ref_=dbs_p_ebk_r00_abau_000000) - Coding, I learned, isn't that hard. Easy way to learn web programming.
-  * [Full-Stack Web Dev Resources](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development.
+  * [Full-Stack Web Dev Resources](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Full-Stack Resources.
   
-* Frontend Web Dev
+* Web Dev : Frontend
   * [HTML](https://github.com/diegocard/awesome-html5) - HTML Resource
   * [CSS](https://github.com/micromata/awesome-css-learning) - CSS Resource #1 (Learn)
   * [CSS](https://github.com/awesome-css-group/awesome-css) - CSS Resource #2 (Collection)
@@ -337,16 +337,16 @@ Developer 101
   * [Vue.js](https://github.com/vuejs/awesome-vue) - JavaScript Framework #1
   * [React](https://github.com/enaqx/awesome-react) - JavaScript Framework #2
   * [Angular](https://github.com/PatrickJS/awesome-angular) - JavaScript Framework #3
-  * [Frontend Web Dev Resources](https://github.com/dypsilon/frontend-dev-bookmarks) - Free resources for learning Front End Web Development.
+  * [Frontend Web Dev Resources](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend Resources.
   
-* Backend Web Dev
+* Web Dev : Backend
   * [PHP](https://github.com/odan/learn-php) - PHP Resource #1 (Learn)
   * [PHP](https://github.com/ziadoz/awesome-php) - PHP Resource #2 (Collection)
   * [REST](https://github.com/marmelab/awesome-rest) - REST Resource
   * [MySQL](https://github.com/shlomi-noach/awesome-mysql) - MySQL Resource
   * [Laravel](https://github.com/shlomi-noach/awesome-mysql) - PHP Framework
   * [NodeJs](https://github.com/sindresorhus/awesome-nodejs) - **Backend JavaScript Base**
-  * [Backend Web Dev Resources](https://github.com/backend-br/awesome-backend) - Free resources for learning Back End Web Development.
+  * [Backend Web Dev Resources](https://github.com/backend-br/awesome-backend) - Backend Resources.
 
 * Mobile Dev
   * [Awesome Android](https://github.com/JStumpp/awesome-android) - Android Dev Resource #1
