@@ -12,7 +12,7 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek _curated list_ yang beg
 
 **Catatan** : 
 
-Topik yang tersedia di **NiceList** ini memang tidak banyak dan cenderung lebih ke topik design, pemrograman dan pengembangan diri. Namun demikian, **NiceList** ini merupakan proyek yang berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_ dan menambahkannya secara berkala, tentunya saat saya menemukan harta karun baru yang layak dimasukkan kedalam daftar. Hingga saat ini **NiceList memiliki 11 kategori & 1025 daftar** (per 30/06/2020). 
+Topik yang tersedia di **NiceList** ini memang tidak banyak dan cenderung lebih ke topik design, pemrograman dan pengembangan diri. Namun demikian, **NiceList** ini merupakan proyek yang berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_ dan menambahkannya secara berkala, tentunya saat saya menemukan harta karun baru yang layak dimasukkan kedalam daftar. Hingga saat ini **NiceList memiliki 11 kategori & 1034 daftar** (per 02/07/2020). 
 
 _So, have fun!_
 
@@ -296,13 +296,6 @@ Developer 101
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
-* Top Udemy Course
-  * [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) - JavaScript Base
-  * [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - JavaScript Base
-  * [The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) - PHP Base
-  * [Master Laravel 6 with Vue.js Fullstack Development](https://www.udemy.com/course/master-laravel-6-with-vuejs-fullstack-development/) - PHP Base
-  * [Brad Traversy Course](https://www.udemy.com/user/brad-traversy/) - For Better Insight
-  
 * Online Tutorials
   * [Tutorialspoint](https://www.tutorialspoint.com/index.htm) - Free online tutorials, courses and programming projects #1
   * [Javapoint](https://www.javatpoint.com/) - Free online tutorials, courses and programming projects #2
@@ -311,6 +304,16 @@ Developer 101
   * [Tutorial Kart](https://www.tutorialkart.com/) - Free online tutorials, courses and programming projects #5
   * [SoloLearn](https://www.sololearn.com/) - Free online tutorials, courses and programming projects #6
 
+* Top Udemy Course
+  * [Brad Traversy Course](https://www.udemy.com/user/brad-traversy/) - Web Dev • Good for Beginners
+  * [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) - Web Dev • JavaScript Base
+  * [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - Web Dev • JavaScript Base
+  * [The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) - Web Dev: PHP Base
+  * [Master Laravel 6 with Vue.js Fullstack Development](https://www.udemy.com/course/master-laravel-6-with-vuejs-fullstack-development/) - Web Dev • PHP Base
+  * [The Complete Android 10 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/) - Android Dev • Kotlin Base
+  * [The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/) - Mobile Dev • Flutter Base
+  * [The Complete React Native + Hooks Course 2020 Edition](https://www.udemy.com/course/the-complete-react-native-and-redux-course/) - Mobile Dev • React Native Base
+ 
 * Full-Stack Web Dev
   * [Dunia Ilkom](https://www.duniailkom.com/) - Situs yang membahas lengkap materi pembelajaran bahasa pemrograman website.
   * [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) - Membahas mengenai teknologi internet dan pengembangan web.  
@@ -319,6 +322,7 @@ Developer 101
   * [W3Schools](https://www.w3schools.com/) - The world's largest web developer site. Tutorials and references relating to web dev.
   * [W3Docs](https://www.w3schools.com/) - We are trying to provide useful and concise materials for the programming enthusiasts.
   * [A Smarter Way](https://www.amazon.com/Mark-Myers/e/B00HNW14T4?ref_=dbs_p_ebk_r00_abau_000000) - Coding, I learned, isn't that hard. Easy way to learn web programming.
+  * [Full-Stack Web Dev Resources](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development.
   
 * Frontend Web Dev
   * [HTML](https://github.com/diegocard/awesome-html5) - HTML Resource
@@ -333,6 +337,7 @@ Developer 101
   * [Vue.js](https://github.com/vuejs/awesome-vue) - JavaScript Framework #1
   * [React](https://github.com/enaqx/awesome-react) - JavaScript Framework #2
   * [Angular](https://github.com/PatrickJS/awesome-angular) - JavaScript Framework #3
+  * [Frontend Web Dev Resources](https://github.com/dypsilon/frontend-dev-bookmarks) - Free resources for learning Front End Web Development.
   
 * Backend Web Dev
   * [PHP](https://github.com/odan/learn-php) - PHP Resource #1 (Learn)
@@ -340,20 +345,26 @@ Developer 101
   * [REST](https://github.com/marmelab/awesome-rest) - REST Resource
   * [MySQL](https://github.com/shlomi-noach/awesome-mysql) - MySQL Resource
   * [Laravel](https://github.com/shlomi-noach/awesome-mysql) - PHP Framework
-  * [NodeJs](https://github.com/sindresorhus/awesome-nodejs) - **Back-End JavaScript Base**
+  * [NodeJs](https://github.com/sindresorhus/awesome-nodejs) - **Backend JavaScript Base**
+  * [Backend Web Dev Resources](https://github.com/backend-br/awesome-backend) - Free resources for learning Back End Web Development.
+
+* Mobile Dev
+  * [Awesome Android](https://github.com/JStumpp/awesome-android) - Android Dev Resource #1
+  * [Awesome Android Libraries](https://github.com/wasabeef/awesome-android-libraries) - Android Dev Resource #2
+  * [Awesome Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui) - Android Dev Resource #3
+  * [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS Dev Resource #1
+  * [Awesome iOS UI/UX Libraries](https://github.com/cjwirth/awesome-ios-ui) - iOS Dev Resource #2
 
 * Miscellaneous
   * [Learn Git](http://try.github.io/) - Resources to learn Git (handbook, cheat sheet, branching, etc).
   * [Oh Shit, Git!?!](https://ohshitgit.com/) - Ragam permasalahan saat bekerja dengan Git beserta solusinya.
   * [RegexOne](https://regexone.com/) - Interactive lessons and exercises to help you learn regular expressions.
   * [Markdown Tutorial](https://www.markdowntutorial.com/) - A way to write content for the web (for documentation, etc).
-  * [Awesome Github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness. Very useful.
-  * [Awesome Guideline](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
   * [Free for Developer](https://github.com/ripienaar/free-for-dev) - A curated list of Developer resources. Very useful.
   * [Developer Roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps, mostly about software development.
-  * [Full-Stack Resources](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development.
-  * [Frontend Resources](https://github.com/dypsilon/frontend-dev-bookmarks) - Free resources for learning Front End Web Development.
-  * [Backend Resources](https://github.com/backend-br/awesome-backend) - Free resources for learning Back End Web Development.
+  * [Awesome Github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness. Very useful.
+  * [Awesome Guideline](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+  * [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - Kumpulan group pemrograman Telegram Indonesia.
 
 <br>
 
