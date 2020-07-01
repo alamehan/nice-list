@@ -2,7 +2,7 @@
 
 ## NiceList
 - Navigasi beragam website dan produk digital yang berkualitas, terseleksi dan dapat diandalkan<br>
-- Merupakan salah satu segmen dari [Alamehan Project](https://medium.com/@alamehan/selamat-datang-di-alamehan-35a43da9d87e) | Selebihnya kunjungi : [alamehan.github.io](https://alamehan.github.io/)
+- Merupakan salah satu personal project dari [alamehan.github.io](https://alamehan.github.io/) yang berfokus pada _curated list_
 
 ## Motivasi 
 
@@ -12,7 +12,7 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek _curated list_ yang beg
 
 **Catatan** : 
 
-Topik yang tersedia di **NiceList** ini memang tidak banyak dan cenderung lebih ke topik design, pemrograman dan pengembangan diri. Namun demikian, **NiceList** ini merupakan proyek yang berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_ dan menambahkannya secara berkala, tentunya saat saya menemukan harta karun baru yang layak dimasukkan kedalam daftar. Hingga saat ini **NiceList memiliki 11 kategori & 1034 daftar** (per 02/07/2020). 
+Topik yang tersedia di **NiceList** ini memang tidak banyak dan cenderung lebih ke topik design, pemrograman dan pengembangan diri. Namun demikian, **NiceList** ini merupakan proyek yang berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_ dan menambahkannya secara berkala, tentunya saat saya menemukan harta karun baru yang layak dimasukkan kedalam daftar. Hingga saat ini **NiceList memiliki 11 kategori & 1037 daftar** (per 02/07/2020). 
 
 _So, have fun!_
 
@@ -147,8 +147,6 @@ Useful Websites
   * [Draw.io](https://www.draw.io/) - A free diagram software for making flowcharts, process diagrams, org charts, UML, ER, etc.
   * [Designer.io](http://designer.io/) - Create graphics, logos and icons, edit images illustrations & presentations, all for free.
   * [Zeplin.io](https://zeplin.io/) - Handoff designs and styleguides with accurate specs, assets, code snippets—automatically.
-  * [Codepen.io](http://codepen.io/) - An online code editor. The best place to build, test, and discover front-end code.
-  * [Codeshare.io](https://codeshare.io/) - An online code editor for interviews, troubleshooting, teaching and more.
   * [Io-games.io](http://io-games.io/) - The best io games site in the world. A list of all new io games and most played games.
   * [Remove.bg](https://www.remove.bg/) - Remove image background 100% automatically in 5 seconds, without a single click.
   * [Deep-image.ai](https://deep-image.ai/) - Upscale and enhance photo, improve picture quality based on ANN.
@@ -355,14 +353,25 @@ Developer 101
   * [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS Dev Resource #1
   * [Awesome iOS UI/UX Libraries](https://github.com/cjwirth/awesome-ios-ui) - iOS Dev Resource #2
 
+* Useful Tools
+  * [Carbon](https://carbon.now.sh/) - Easiest way to create and share beautiful images of your source code.
+  * [Codeshare](https://codeshare.io/) - An online code editor for interviews, troubleshooting, teaching and more.
+  * [Responsive Test Tool](http://responsivetesttool.com/) - The best responsive test tools for check your website resolutions.
+  * [Scrimba](https://scrimba.com/) - Fast-track your career with hands-on coding courses (**playground & learn!**).
+  * [StackBlitz](https://stackblitz.com/) - The same editing experience, now in your browser (playground #1).
+  * [CodeSandbox](https://codesandbox.io/) - An instant IDE and prototyping tool for rapid web development (playground #2).
+  * [Codepen](https://codepen.io/) - An online code editor and community for frontend dev (playground #3).
+  * [JSFiddle](https://codepen.io/) - Test your JavaScript, CSS, HTML or CoffeeScript online (playground #4).
+  * [JS Bin](https://jsbin.com/) - Collaborative JavaScript Debugging (playground #5).
+  
 * Miscellaneous
   * [Learn Git](http://try.github.io/) - Resources to learn Git (handbook, cheat sheet, branching, etc).
   * [Oh Shit, Git!?!](https://ohshitgit.com/) - Ragam permasalahan saat bekerja dengan Git beserta solusinya.
-  * [RegexOne](https://regexone.com/) - Interactive lessons and exercises to help you learn regular expressions.
   * [Markdown Tutorial](https://www.markdowntutorial.com/) - A way to write content for the web (for documentation, etc).
-  * [Free for Developer](https://github.com/ripienaar/free-for-dev) - A curated list of Developer resources. Very useful.
+  * [RegexOne](https://regexone.com/) - Interactive lessons and exercises to help you learn regular expressions.
   * [Developer Roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps, mostly about software development.
-  * [Awesome Github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness. Very useful.
+  * [Free for Developer](https://github.com/ripienaar/free-for-dev) - A curated list of Developer resources. Free for Developer!
+  * [Awesome Github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness. Huge curated list project!
   * [Awesome Guideline](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
   * [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - Kumpulan group pemrograman Telegram Indonesia.
 
@@ -408,11 +417,10 @@ Top Chrome Extensions
   * [Application Launcher for Drive](https://chrome.google.com/webstore/detail/application-launcher-for/lmjegmlicamnimmfhcmpkclmigmmcbeh) - Open Drive files directly from your browser in compatible applications.
   * [Black Menu for Google](https://chrome.google.com/webstore/detail/black-menu-for-google/eignhdfgaldabilaaegmdfbajngjmoke) - Quick access to your favorite Google services with a convenient drop-down menu.
   * [Checker Plus for Gmail](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj) - Get notifications, read, listen, delete emails without opening Gmail.
-  * [InstaClean](https://www.instaclean.app/) - **Bukan extension**, Instantly clear out all unwanted mails & bulk unsubscribe newsletters.
+  * [InstaClean](https://www.instaclean.app/) - Instantly clear out all unwanted mails & bulk unsubscribe newsletters (_**Bukan extension**_).
   * [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=id) - Share screenshots with your friends or teammates, fast and easily.
   * [Nimbus Screenshot](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj) - Screen capture full web page or any part & record screencasts.
   * [Element Screenshot](https://chrome.google.com/webstore/detail/element-screenshot/mhbapdljigafafoimcnnhagdclejnkcf) - Take screenshot of any HTML element on a webpage.
-  * [Carbon](https://carbon.now.sh/) - **Bukan extension**, easiest way to create and share beautiful images of your source code.
   * [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj) - Copy, paste and translate text from any image, video or PDF.
   * [Image Reader (OCR)](https://chrome.google.com/webstore/detail/image-reader-ocr/cakcfocedphbadddjpalejbkhflfbhmf) - Easily get words out of an image with OCR engine.
   
@@ -433,7 +441,7 @@ Top Chrome Extensions
   * [Weava Highlighter](https://chrome.google.com/webstore/detail/weava-highlighter-pdf-web/cbnaodkpfinfiipjblikofhlhlcickei) - Highlight & organize your research with Weava online Web & PDF highlighter.
   * [Text Tools](https://chrome.google.com/webstore/detail/text-tools/mpcpnbklkemjinipimjcbgjijefholkd) - Handy text tools a click away (including uppercase, lowercase, count words, count lines, etc).
   * [Bitly](https://chrome.google.com/webstore/detail/bitly-unleash-the-power-o/iabeihobmhlgpkcgjiloemdbofjbdcic) - Copy, customize, shorten, measure, optimize and share your links straight from your browser. 
-  * [Medium Unlimited](https://manojvivek.github.io/medium-unlimited/) - **Third-party**, addon to access the medium.com premium articles.
+  * [Medium Unlimited](https://manojvivek.github.io/medium-unlimited/) - Addon to access the medium.com premium articles (_**Third-party**_). 
   * [Read Aloud](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp) - Read out loud the current web-page article with one click. Supports 40+ languages.
   * [Spreed](https://chrome.google.com/webstore/detail/spreed-speed-read-the-web/ipikiaejjblmdopojhpejjmbedhlibno) - Train yourself to double or triple your reading speed, without sacrificing comprehension.
   
@@ -455,15 +463,12 @@ Top Chrome Extensions
   * [Get Favicon](https://chrome.google.com/webstore/detail/get-favicon/gpipahagclehninhhjkhbkliinfofnhe) - Displays the current page's favicon as well as the favicon's URL and dimensions.
   
 * Frontend Developer
-  * [Codepen](https://codepen.io/) - **Bukan extension**, an online code editor and community for frontend dev.
-  * [JSFiddle](https://codepen.io/) - **Bukan extension**, test your JavaScript, CSS, HTML or CoffeeScript online.
   * [GitZip for Github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn) - It can make the sub-directories and files of github repository as zip and download it.
   * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Adds a toolbar button with various web developer tools.
   * [Live editor for CSS](https://chrome.google.com/webstore/detail/live-editor-for-css-less/ifhikkcafabcgolfjegfcgloomalapol) - Live preview of CSS/Less/Sass code changes. Live edit CSS files.
   * [Bootstrap Viewport](https://chrome.google.com/webstore/detail/bootstrap-viewport/kflgmkikmbklpikoicfhonemdcemkdia) - Determines browser window width and which bootstrap viewport is in use.
   * [Bootstrap 3 Helper](https://chrome.google.com/webstore/detail/bootstrap-3-helper-resize/bnkadmnhdpkpbfmaehgjeijgopkjinbl) - Show the current Bootstrap 3 breakpoint. Help developers in their projects.
   * [Viewport Resizer](https://chrome.google.com/webstore/detail/viewport-resizer-%E2%80%93-respon/kapnjjcfcncngkadhpmijlkblpibdcgm) -Responsive design testing tool to test any website’s responsiveness.
-  * [Responsive Test Tool](http://responsivetesttool.com/) - **Bukan extension**, the best responsive test tools for check your website resolutions.
   * [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) - Outlining each element to better see placement on the page.
   * [Z-Context](https://chrome.google.com/webstore/detail/z-context/jigamimbjojkdgnlldajknogfgncplbh) - Displays stacking contexts and z-index values in the elements panel.
   * [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme) - Draw a ruler to get pixel dimensions, positioning, and measure elements.
