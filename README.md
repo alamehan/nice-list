@@ -12,7 +12,7 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek _curated list_ yang beg
 
 **Catatan** : 
 
-Topik yang tersedia di **NiceList** ini memang tidak banyak dan cenderung lebih ke topik design, pemrograman dan pengembangan diri. Namun demikian, **NiceList** ini merupakan proyek yang berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_ dan menambahkannya secara berkala, tentunya saat saya menemukan harta karun baru yang layak dimasukkan kedalam daftar. Hingga saat ini **NiceList memiliki 11 kategori & 1037 daftar** (per 02/07/2020). 
+Topik yang tersedia di **NiceList** ini memang tidak banyak dan cenderung lebih ke topik design, pemrograman dan pengembangan diri. Namun demikian, **NiceList** ini merupakan proyek yang berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_ dan menambahkannya secara berkala, tentunya saat saya menemukan harta karun baru yang layak dimasukkan kedalam daftar. Hingga saat ini **NiceList memiliki 11 kategori & 1039 daftar** (per 02/07/2020). 
 
 _So, have fun!_
 
@@ -522,6 +522,7 @@ Top Figma Plugins
   * [Arc](https://www.figma.com/community/plugin/762070688792833472/arc) - Curve your text upward, downward or into a circle. Adjust the slider and preview the result.
 
 * Shape Manipulation
+  * [Stark](https://www.figma.com/community/plugin/732603254453395948/Stark) - Design products that are accessible, ethical, and inclusive. All based on WCAG guidelines.
   * [Pixel Perfect](https://www.figma.com/community/plugin/741300632449121669/Pixel-Perfect) - Move everything back onto the pixel grid, round position and dimentions.
   * [SkewDat](https://www.figma.com/community/plugin/741472919529947576/SkewDat) - You can skew anything & everything in sight within the comfort of everyone's.
   * [Shadow Picker](https://www.figma.com/community/plugin/744987207861965946/Shadow-picker) - Stunt & flex with these drop shadows instead, or tweak them to your liking. 
@@ -533,9 +534,9 @@ Top Figma Plugins
   * [Make Blob](https://www.figma.com/community/plugin/740172168964577201/Make-blob) - Make random blob and add it on your page. Set your complexity and contrast.
   * [Metaball](https://www.figma.com/community/plugin/743754408199479204/Metaball) - Metaball plugin generates 2D-Metaball shapes from circle objects.
   * [Arrow Auto](https://www.figma.com/community/plugin/751007211632768205/Arrow-Auto) - Automatically draw arrows between interfaces for UI flow diagrams.
-  * [Humaaans for Figma](https://www.figma.com/community/plugin/739503328703046360/Humaaans-for-Figma) - Brings the amazing illustations library called Humaaans by Pablo Stanley to Figma.
   * [Hero Patterns for Figma](https://www.figma.com/community/plugin/743134103711120154/Hero-Patterns-for-Figma) - Brings the amazing collection of patterns called Hero patterns by Steve Schoger.
-
+  * [Humaaans for Figma](https://www.figma.com/community/plugin/739503328703046360/Humaaans-for-Figma) - Brings the amazing illustations library called Humaaans by Pablo Stanley to Figma.
+  * [LottieFiles](https://www.figma.com/community/plugin/809860933081065308/LottieFiles) - Figma Animations designed for Web and Mobile. Drag and drop, 1000+ of free animations.
 * Shape Exploration
   * [Roto](https://www.figma.com/community/plugin/733184376355671573/Roto) - Roto extrudes and rotates shapes in 3D. Select a shape, run Roto and play with Roto's properties. 
   * [To Path](https://www.figma.com/community/plugin/751576264585242935/To-Path) - Put any objects or text on a path. Make a curve, select an object, and watch the magic happen.
@@ -558,7 +559,7 @@ Top Figma Plugins
   * [Font Awesome Icons](https://www.figma.com/community/plugin/774202616885508874/Font-Awesome-Icons) - This is the unofficial plugin for the Font Awesome Icon Collection.
   * [Material Design Icons](https://www.figma.com/community/plugin/740272380439725040/Material-Design-Icons) - Provides you instant easy access to the entire Material Design Icons library.
   * [Logo Creator](https://www.figma.com/community/plugin/768094929040207895/Logo-Creator) - Craft a beautiful logo from prebuild collections of 300+ logos.
-  * [Avatars Generaotr](https://www.figma.com/community/plugin/746656816456492537/Avatars-generator) - Avatars Generator creates unique, AI-generated photos of a fictional persons.
+  * [Avatars Generator](https://www.figma.com/community/plugin/746656816456492537/Avatars-generator) - Avatars Generator creates unique, AI-generated photos of a fictional persons.
   * [Map Maker](https://www.figma.com/community/plugin/731312569747199418/Map-Maker) - Map Maker allows you to make a customized map blazing fast.
   * [QR Code Generator](https://www.figma.com/community/plugin/735650288109030027/QR-Code-Generator) - QR Code Generator helps you to quickly create a Vector QR code.
   * [Sigils](https://www.figma.com/community/plugin/755929849994721127/sigils) - Sigils are avatars generated for Urbit IDs, which can be thought of as IP addresses.
