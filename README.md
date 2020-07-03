@@ -716,7 +716,7 @@ Windows Software Bundles
   * [Subtitle Edit](https://www.nikse.dk/subtitleedit) - A free (open source) editor for video subtitles - a subtitle editor.
 
 * Designer Tools
-  * [Adobe Creative Suite](https://www.adobe.com/creativecloud.html) - Collection of 20+ desktop & mobile apps for photography, design, video, UX, etc.
+  * [Adobe Creative Suite](https://www.adobe.com/creativecloud.html) - 20+ most popular Adobe apps. Watch all 50+ Adobe apps explained in [Youtube](https://www.youtube.com/watch?v=7W0ISI3yqwo).
   * [GIMP](https://www.gimp.org/) - GNU Image Manipulation Program. The free, open source and cross-platform Image Editor.
   * [PhotoGIMP](https://www.youtube.com/watch?v=57DNUsf4A-0) - A simple Patch for GIMP 2.10+ to help all Photoshop Users. GIMP look like Photoshop.
   * [SLOS-GIMPainter](https://www.youtube.com/watch?v=GKsuUl4i4AU) - A brush package for GIMP 2.10.20 or Later. Brushes are displayed as Icons, etc.
