@@ -12,7 +12,7 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek _curated list_ yang beg
 
 **Catatan** : 
 
-Topik yang tersedia di **NiceList** ini memang tidak banyak dan cenderung lebih ke topik design, pemrograman dan pengembangan diri. Namun demikian, **NiceList** ini merupakan proyek yang berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_ dan menambahkannya secara berkala, tentunya saat saya menemukan harta karun baru yang layak dimasukkan kedalam daftar. Hingga saat ini **NiceList memiliki 11 kategori & 1039 daftar** (per 02/07/2020). 
+Topik yang tersedia di **NiceList** ini memang tidak banyak dan cenderung lebih ke topik design, pemrograman dan pengembangan diri. Namun demikian, **NiceList** ini merupakan proyek yang berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_ dan menambahkannya secara berkala, tentunya saat saya menemukan harta karun baru yang layak dimasukkan kedalam daftar. Hingga saat ini **NiceList memiliki 11 kategori & 1041 daftar** (per 03/07/2020). 
 
 _So, have fun!_
 
@@ -718,6 +718,8 @@ Windows Software Bundles
 * Designer Tools
   * [Adobe Creative Suite](https://www.adobe.com/creativecloud.html) - Collection of 20+ desktop & mobile apps for photography, design, video, UX, etc.
   * [GIMP](https://www.gimp.org/) - GNU Image Manipulation Program. The free, open source and cross-platform Image Editor.
+  * [PhotoGIMP](https://www.youtube.com/watch?v=57DNUsf4A-0) - A simple Patch for GIMP 2.10+ to help all Photoshop Users. GIMP look like Photoshop.
+  * [SLOS-GIMPainter](https://www.youtube.com/watch?v=GKsuUl4i4AU) - A brush package for GIMP 2.10.20 or Later. Brushes are displayed as Icons, etc.
   * [Inkscape](https://inkscape.org/) - A professional vector graphics editor for Linux, Windows and macOS. It's free and open source.
   * [Gravit Designer](https://www.designer.io/) - A free full-featured vector graphic design app that works on ALL platforms.
   * [Autodesk SketchBook](https://sketchbook.com/) - A raster graphics software intended for expressive drawing and concept sketching.
