@@ -391,7 +391,7 @@ Resource 101
   * Learn English : _(Upcoming!)_
 
 * Good Resources
-  * Psychology : [Positive Psychology](https://positivepsychology.com/), [CCI Health](https://www.cci.health.wa.gov.au/Resources/Overview), [Psychology Tools](https://www.psychologytools.com/), [P-Tools](https://psychology-tools.com/), [Living Moxie](https://dawnbarclay.com/)
+  * Psychology : [Positive Psychology](https://positivepsychology.com/), [CCI Health](https://www.cci.health.wa.gov.au/Resources/Overview), [Psychology Tools](https://www.psychologytools.com/), [P-Tools](https://psychology-tools.com/), [Simply Psychology](https://www.simplypsychology.org/)
   * 16 MBTI Personalities : [16Personalities](https://www.16personalities.com/), [PersonalityClub](https://www.personalityclub.com/), [The Personality Database](https://personality-database.com/)
   * Data Visualization : [Visualization Universe](http://visualizationuniverse.com/), [Dataviz Catalogue](https://datavizcatalogue.com/), [Observable HQ](https://observablehq.com/), [Adioma](https://blog.adioma.com/)
   * Explorative Visuals : [By Owen](http://byowen.com/), [One Zoom](https://www.onezoom.org/), [Things Made Thinkable](http://www.thingsmadethinkable.com/), [Knowledge Center](http://www.knowledgecenter.com/ions/NoeticMap.html)
