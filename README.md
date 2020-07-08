@@ -12,7 +12,7 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek _curated list_ yang beg
 
 **Catatan** : 
 
-Topik yang tersedia di **NiceList** ini memang tidak banyak dan cenderung lebih ke topik design, pemrograman dan pengembangan diri. Namun demikian, **NiceList** ini merupakan proyek yang berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_ dan menambahkannya secara berkala, tentunya saat saya menemukan harta karun baru yang layak dimasukkan kedalam daftar. Hingga saat ini **NiceList memiliki 11 kategori & 1041 daftar** (per 03/07/2020). 
+Topik yang tersedia di **NiceList** ini memang tidak banyak dan cenderung lebih ke topik design, pemrograman dan pengembangan diri. Namun demikian, **NiceList** ini merupakan proyek yang berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_ dan menambahkannya secara berkala, tentunya saat saya menemukan harta karun baru yang layak dimasukkan kedalam daftar. Hingga saat ini **NiceList memiliki 11 kategori & 1042 daftar** (per 03/07/2020). 
 
 _So, have fun!_
 
@@ -483,6 +483,7 @@ Top Chrome Extensions
   * [Vue.js Devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - Chrome and Firefox DevTools extension for debugging Vue.js applications.
   
 * Miscellaneous
+  * [Set Password for Your Browser (Chrome Lock)](https://chrome.google.com/webstore/detail/set-password-for-your-bro/cjmjgijhapgicbhmniemjkjeaedanank) - Allow users to set password for the browser.
   * [Loom](https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb) - Capture, narrate and instantly share videos to communicate faster, clearer and friendlier.
   * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) - Increase your max volume by up to 4 times the loudness.
   * [Clever Mute](https://chrome.google.com/webstore/detail/clever-mute/eadinjjkfelcokdlmoechclnmmmjnpdh) - You can mute or unmute any site just by clicking the extension icon.
@@ -674,7 +675,6 @@ Windows Software Bundles
   * [Google Chrome](https://www.google.com/chrome/) - A cross-platform web browser developed by Google.
   * [Mozilla Firefox](https://www.mozilla.org/firefox/) - A free and open-source web browser developed by the Mozilla Foundation.
   * [NetBalancer](https://netbalancer.com/) - Windows application for local network traffic control and monitoring.
-  * [NetLimiter](https://www.netlimiter.com/) - An ultimate internet traffic control and monitoring tool designed for Windows.
   * [K9 Web Protection](https://softfamous.com/k9-web-protection/) - Content-control software to help parents protect their children while using the Internet.
   * [Acrylic Wi-Fi](https://www.acrylicwifi.com/en/wlan-wifi-wireless-network-software-tools/wlan-scanner-acrylic-wifi-free/) - View real-time status of your Wi-Fi. Detects other networks, signal levels, channels.
   * [Internet Download Manager](https://www.internetdownloadmanager.com/) - Tool to increase download speeds by up to 5 times.
