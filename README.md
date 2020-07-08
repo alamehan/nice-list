@@ -153,7 +153,8 @@ Useful Websites
   
 * Useful Web Tools
   * [Get Emoji](https://getemoji.com/) - ✂️ Copy and 📋 paste emoji 👍 no apps required 😀 😃 😄 😁 😆 😅 😂.
-  * [Cool Symbol](https://coolsymbol.com/) - Symbol, emoji, text art, cool fonts collection ★ ✤ ✈ ✎ ♜ ♞.
+  * [Emojipedia](https://emojipedia.org/) - A fast emoji search experience with options to browse every emoji by name or category.
+  * [Cool Symbol](https://coolsymbol.com/) - A symbol & picture text collection that provides access to many special fancy text symbols.
   * [LingoJam](https://lingojam.com/) - LingoJam lets you create an online translator (biasanya untuk style text generator).
   * [Text Fixer](https://www.textfixer.com/) - Collection of free online tools for web coding and text conversion
   * [Online Text Tools](https://onlinetexttools.com/) - Online text tools is a collection of useful text utilities (Add line number, etc).
@@ -164,6 +165,7 @@ Useful Websites
   * [ttsMP3](https://ttsmp3.com/) - Easily convert your written text into natural sounding voice in up to 50 different languages.
   * [Pastebin](https://pastebin.com/) - Pastebin is a website where you can store text online for a set period of time.
   * [Bitly](https://bitly.com/) - Shorten, create and share trusted, powerful links for your business.
+  * [Linktree](https://linktr.ee/) - free bio link tool used by the world's best brands, creators and influencers.
   * [Small PDF](https://smallpdf.com/) - All-in-one (convert, compress, merge, split and edit) easy-to-use online PDF tools.
   * [Vector Magic](https://vectormagic.com/) - Easily Convert JPG, PNG, GIF Files to PDF, SVG, EPS Vectors.
   * [Google Earth](https://www.google.com/intl/id/earth/) - 3D representation of Earth based primarily on satellite imagery - Allows you to "fly".
@@ -336,6 +338,14 @@ Developer 101
   * [React](https://github.com/enaqx/awesome-react) - JavaScript Framework #2
   * [Angular](https://github.com/PatrickJS/awesome-angular) - JavaScript Framework #3
   * [Frontend Web Dev Resources](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend Resources.
+
+* Web Dev : Gift for Frontend Developer 🎁
+  * [CSSDB](https://cssdb.co/) - A collection of the world's best CSS, Sass, LESS libraries.
+  * [JavaScripting](https://www.javascripting.com/) - A collection of the world's best JavaScript libraries.
+  * [CodyHouse](https://codyhouse.co/ds/components) - Production-ready components and tools. UI Frameworks.
+  * [Free Frontend](https://freefrontend.com/) - Hand-picked HTML, CSS and JavaScript code examples #1.
+  * [CSS Script](https://www.cssscript.com/) - Hand-picked HTML, CSS and JavaScript code examples #2.
+  * [jQuery Script](https://www.jqueryscript.net/) - Hand-picked HTML, CSS and JavaScript code examples #3.
   
 * Web Dev : Backend
   * [PHP](https://github.com/odan/learn-php) - PHP Resource #1 (Learn)
@@ -346,7 +356,7 @@ Developer 101
   * [NodeJs](https://github.com/sindresorhus/awesome-nodejs) - **Backend JavaScript Base**
   * [Backend Web Dev Resources](https://github.com/backend-br/awesome-backend) - Backend Resources.
 
-* Mobile Dev
+* Mobile Dev : Frontend & Backend
   * [Awesome Android](https://github.com/JStumpp/awesome-android) - Android Dev Resource #1
   * [Awesome Android Libraries](https://github.com/wasabeef/awesome-android-libraries) - Android Dev Resource #2
   * [Awesome Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui) - Android Dev Resource #3
@@ -588,6 +598,8 @@ Top Visual Studio Code Extensions
   * [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) - Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code.
   * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter. Parsing your code and re-printing it with its own rules.
   * [Formatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle) - Allows you to toggle the formatter (Prettier, Beautify, …) ON and OFF with a simple click.
+  * [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) - Easily switch between projects. It helps you to easily access your projects.
+  * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames (code completion).
   * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - Override user/workspace settings with settings found in .editorconfig files. 
   * [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - This extension highlights matching opening and/or closing tags.
   * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Automatically add HTML/XML close tag, same as Visual Studio IDE does.
