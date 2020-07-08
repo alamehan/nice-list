@@ -674,6 +674,7 @@ Windows Software Bundles
   * [Google Chrome](https://www.google.com/chrome/) - A cross-platform web browser developed by Google.
   * [Mozilla Firefox](https://www.mozilla.org/firefox/) - A free and open-source web browser developed by the Mozilla Foundation.
   * [NetBalancer](https://netbalancer.com/) - Windows application for local network traffic control and monitoring.
+  * [NetLimiter](https://www.netlimiter.com/) - an ultimate internet traffic control and monitoring tool designed for Windows.
   * [K9 Web Protection](https://softfamous.com/k9-web-protection/) - Content-control software to help parents protect their children while using the Internet.
   * [Acrylic Wi-Fi](https://www.acrylicwifi.com/en/wlan-wifi-wireless-network-software-tools/wlan-scanner-acrylic-wifi-free/) - View real-time status of your Wi-Fi. Detects other networks, signal levels, channels.
   * [Internet Download Manager](https://www.internetdownloadmanager.com/) - Tool to increase download speeds by up to 5 times.
