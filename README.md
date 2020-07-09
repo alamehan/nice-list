@@ -516,24 +516,41 @@ Top Figma Plugins (per 10/07/2020)
   * [Product Planner](https://www.figma.com/community/plugin/766652281834442616/Product-Planner) - 15 product manager templates & 12 product planner templates.
   * [Project Notes](https://www.figma.com/community/plugin/814117528089546244/Project-Notes) - Easy to access titles, footnotes and stickies for all your artboards.
   * [Status Annitations](https://www.figma.com/community/plugin/795096273369409539/Status-Annotations) - Quickly indicate the status of your designes when collaborating with your team.
-  
-* Layer Plugin
+  * [Todo](https://www.figma.com/community/plugin/747822968977461925/Todo) - Simple todo list plugin to check off your tasks inside Figma!
+  * [Notepad](https://www.figma.com/community/plugin/739527655081183968/Notepad) - Use Notepad to add a place for notes to your Figma documents.
+  * [Marvel Prototyping](https://www.figma.com/community/plugin/733702238760085035/Marvel-Prototyping) - Seamlessly sync frames from Figma to new or existing Marvel projects.
+  * [Useberry](https://www.figma.com/community/plugin/788799088384104964/Useberry) - An online user-testing tool that helps UI/UX designers get rich user feedback.
+  * [Minimap](https://www.figma.com/community/plugin/772952119002135124/Minimap) - Navigate your canvas like an adventure at sea, with a map in hand.
+  * [Time Machine](https://www.figma.com/community/plugin/734492262527930956/Time-Machine) - Time Machine saves and organizes work that you want to look back on.
+
+* Useful Plugin
   * [Clean Document](https://www.figma.com/community/plugin/767379019764649932/Clean-Document) - Automagically organize and clean up your Figma document. Smart rename, sort, etc.
   * [Layer Names Transfom](https://www.figma.com/community/plugin/734746297902924375/Layer-Names-Transfom) - This plugin will help you to quickly transform the names of your layers.
   * [Reset Text Layer Name](https://www.figma.com/community/plugin/768671547563304036/Reset-Text-Layer-Name) - Ever end up wanting to reset your layer names? This plugin will help you.
+  * [Design Inspo](https://www.figma.com/community/plugin/738775292786594626/Design-Inspo) - The best way to quickly look for design inspiration while you work.
+  * [Inspyre](https://www.figma.com/community/plugin/788238141732031933/Inspyre) - The perfect icon, inspiration for a logo, or the perfect component.
+  * [Figmotion](https://www.figma.com/community/plugin/733025261168520714/Figmotion) - Figmotion is an animation tool built right in Figma. Makes the entry into animation easier.
+  * [LottieFiles](https://www.figma.com/community/plugin/809860933081065308/LottieFiles) - Figma Animations designed for Web and Mobile. 1000+ of free animations.
+  * [Figma Chat](https://www.figma.com/community/plugin/742073255743594050/Figma-Chat) - This plugin helps you to interact inside your files with other peoples.
+  * [Yasou](https://www.figma.com/community/plugin/835158600797781836/Yasou---Team-Video-Calls) - Enables teams that work together on a file to do audio or video calls.
   
 * Layout Plugin
+  * [Viewports](https://www.figma.com/community/plugin/732240841094697441/Viewports) - Browse the most popular display sizes and apply them to frames.
+  * [Responsify ⚡️](https://www.figma.com/community/plugin/743654854885744527/Responsify-%E2%9A%A1%EF%B8%8F) - A Figma plugin to quickly test your designs across multiple device sizes.
+  * [Responsive](https://www.figma.com/community/plugin/840727678445998968/Responsive) - Preview your responsive designs inside Figma.
   * [Guides inspector](https://www.figma.com/community/plugin/763500131554051614/Guides-inspector) - Complete control over the guides. Create & delete guides, generate grids, etc.
   * [Guide Mate](https://www.figma.com/community/plugin/739342962452731553/Guide-Mate) - Helps you add complex guides, great companion for grid based design systems. 
   * [Clear Guides](https://www.figma.com/community/plugin/753903260307779121/Clear-Guides) - If you have one or more frames selected it will clear the guides in those frames.
   * [Snap to Grid](https://www.figma.com/community/plugin/773875667263247070/Snap-to-Grid) - Helper with which it is even easier to arrange elements on the grid.
   * [Grids Generator](https://www.figma.com/community/plugin/841313026689642442/Grids-Generator) - Apply any frame with grid styles config inspired from Chrome's element inspector.
   * [Auto Grid](https://www.figma.com/community/plugin/817474150404549708/AutoGrid) - Define rows, columns and padding and let AutoGrid do the rest.
+  * [LilGrid](https://www.figma.com/community/plugin/795397421598343178/LilGrid) - LilGrid takes elements and arranges them into a grid automatically.
   * [Dot Grid](https://www.figma.com/community/plugin/795474715778185230/Dot-Grid) - Easily generate beautiful dot grids for your Figma designs.
   * [Pixel Perfect](https://www.figma.com/community/plugin/741300632449121669/Pixel-Perfect) - Move everything back onto the pixel grid, round position and dimentions.
   * [Breakpoints](https://www.figma.com/community/plugin/824289601590456356/Breakpoints) - A resizable native frame that works even without the opened plugin window.
   * [Wireframe](https://www.figma.com/community/plugin/742764242781786818/Wireframe) - Creating beautiful user flow prototypes and basic structures. Over 350+ build graphics.
   * [Wireframer](https://www.figma.com/community/plugin/787660853629435276/Wireframer) - Generate cool SVG placeholder text for your next wireframe.
+  * [Wire Box](https://www.figma.com/community/plugin/764471577604277919/Wire-Box) - Sometimes, however, you need to step back into lo-fi wireframes.
 
 * Component Plugin
   * [Interplay](https://www.figma.com/community/plugin/736368164448889527/Interplay) - Imports your design system code repository and lets you design with code components.
@@ -551,7 +568,7 @@ Top Figma Plugins (per 10/07/2020)
 * Color Plugin
   * [Anywhere Picker](https://www.figma.com/community/plugin/769033212122764418/Anywhere-Picker) - A color picker that will let you choose a color anywhere on your desktop.
   * [Color Palettes](https://www.figma.com/community/plugin/740832935938649295/Color-Palettes) - 1500+ meaningful color palettes for your next creative projects.
-  * [Compliments](https://www.figma.com/community/plugin/741291546405622147/Compliments) - Find complementary, split complementary, triad, tetrad, monochromatic, and analogous colors.
+  * [Compliments](https://www.figma.com/community/plugin/741291546405622147/Compliments) - Find complementary, split complementary, triad, tetrad, analogous colors, etc.
   * [uiGradients](https://www.figma.com/community/plugin/744909029427810418/uiGradients) - Adds gradients to groups, text and frames in single click.
   * [CoolHue](https://www.figma.com/community/plugin/807561639084281386/CoolHue---Gradient-Color-Palette) - Coolest handpicked gradient palette with 60+ ready to use gradients.
   * [Chromatic Figma](https://www.figma.com/community/plugin/759433498184507623/Chromatic-Figma) - Lets you use other color spaces than RGB, to create good-looking color.
@@ -600,8 +617,9 @@ Top Figma Plugins (per 10/07/2020)
   * [Third](https://www.figma.com/community/plugin/772499949564209716/Third) - Lets you import, lit, use and render 3D models right there in Figma.
 
 * Shape Maker
-  * [Chart](https://www.figma.com/community/plugin/734590934750866002/Chart) - Uses real or random data to create the most popular charts. 16 types of charts.
   * [Geometric](https://www.figma.com/community/plugin/816329785694858088/Geometric) - Make math shapes and curves. Make complex patterns with ease.
+  * [Charts](https://www.figma.com/community/plugin/731451122947612104/Charts) - Allows you to generate charts that can be added and edited within your Figma document.
+  * [Chart](https://www.figma.com/community/plugin/734590934750866002/Chart) - Uses real or random data to create the most popular charts. 16 types of charts.
   * [Make Blob](https://www.figma.com/community/plugin/740172168964577201/Make-blob) - Make random blob and add it on your page. Set your complexity and contrast.
   * [Metaball](https://www.figma.com/community/plugin/743754408199479204/Metaball) - Metaball plugin generates 2D-Metaball shapes from circle objects.
   * [Autoflow](https://www.figma.com/community/plugin/733902567457592893/Autoflow) - Draw beautiful flows in Figma automagically. Autoflow makes it easy to draw flows.
@@ -633,16 +651,6 @@ Top Figma Plugins (per 10/07/2020)
   * [Mapsicle](https://www.figma.com/community/plugin/736458162635847353/Mapsicle) - Never take a screenshot of a map again! Quickly and seamlessly place maps in your mockups.
   * [QR Code Generator](https://www.figma.com/community/plugin/735650288109030027/QR-Code-Generator) - QR Code Generator helps you to quickly create a Vector QR code.
   * [Sigils](https://www.figma.com/community/plugin/755929849994721127/sigils) - Sigils are avatars generated for Urbit IDs, which can be thought of as IP addresses.
-
-* Miscellaneous
-  * [Todo](https://www.figma.com/community/plugin/747822968977461925/Todo) - Simple todo list plugin to check off your tasks inside Figma!
-  * [Notepad](https://www.figma.com/community/plugin/739527655081183968/Notepad) - Use Notepad to add a place for notes to your Figma documents.
-  * [Figma Chat](https://www.figma.com/community/plugin/742073255743594050/Figma-Chat) - This plugin helps you to interact inside your files with other peoples.
-  * [Yasou](https://www.figma.com/community/plugin/835158600797781836/Yasou---Team-Video-Calls) - Enables teams that work together on a file to do audio or video calls.
-  * [Design Inspo](https://www.figma.com/community/plugin/738775292786594626/Design-Inspo) - The best way to quickly look for design inspiration while you work.
-  * [Inspyre](https://www.figma.com/community/plugin/788238141732031933/Inspyre) - The perfect icon, inspiration for a logo, or the perfect component.
-  * [Figmotion](https://www.figma.com/community/plugin/733025261168520714/Figmotion) - Figmotion is an animation tool built right in Figma. Makes the entry into animation easier.
-  * [LottieFiles](https://www.figma.com/community/plugin/809860933081065308/LottieFiles) - Figma Animations designed for Web and Mobile. 1000+ of free animations.
 
 <br>
 
