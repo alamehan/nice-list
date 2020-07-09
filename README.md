@@ -198,7 +198,7 @@ _(Upcoming!)_
 <hr>
 <div id="sec05"></div>
 
-📚 
+💡 
 Self Improvement : Perluas Ide & Wawasan
 ---
 
@@ -651,7 +651,7 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Sigils](https://www.figma.com/community/plugin/755929849994721127/sigils) - Sigils are avatars generated for Urbit IDs, which can be thought of as IP addresses.
   
 <hr>
-<div id="sec010"></div>
+<div id="sec10"></div>
 
 ⚔️ 
 Top Visual Studio Code Extensions : Hadiah Untuk Developer
