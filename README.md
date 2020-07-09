@@ -14,6 +14,10 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek _curated list_ yang beg
 
 <img src="images/img-daftarisi.png">
 
+**Catatan** : 
+
+Topik yang tersedia di NiceList ini memang tidak banyak dan cenderung lebih ke topik design, pemrograman dan pengembangan diri. Namun demikian, NiceList ini merupakan proyek yang berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_ dan menambahkannya secara berkala, tentunya saat saya menemukan harta karun baru yang layak dimasukkan kedalam daftar. Hingga saat ini **NiceList memiliki 11 kategori & ... daftar** (per 10/07/2020).
+
 **Daftar isi (section) :**
 
 <p align="left">
@@ -30,10 +34,6 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek _curated list_ yang beg
 	<a href="#sec11">➔ 11. Windows Software Bundles (154)</a>&nbsp;<br>
 </p>
 
-**Catatan** : 
-
-Topik yang tersedia di NiceList ini memang tidak banyak dan cenderung lebih ke topik design, pemrograman dan pengembangan diri. Namun demikian, NiceList ini merupakan proyek yang berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_ dan menambahkannya secara berkala, tentunya saat saya menemukan harta karun baru yang layak dimasukkan kedalam daftar. Hingga saat ini **NiceList memiliki 11 kategori & ... daftar** (per 10/07/2020).
-
 <img src="images/img-letsgo.png">
 
 <div id="sec01"></div>
@@ -43,6 +43,8 @@ Find a Job
 ---
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
+
+**Catatan** : ...
 
 * General : [LinkedIn](https://www.linkedin.com/), [Qerja](https://www.qerja.com/), [Glints](https://glints.com/id), [Glassdoor](https://www.glassdoor.com/index.htm), [Urbanhire](https://www.urbanhire.com/), [Careerjet](https://www.careerjet.co.id/), [Indeed](https://id.indeed.com/), [TheMuse](https://www.themuse.com/), [JobStreet](https://www.jobstreet.co.id/), [Jora](https://www.jora.com/), [JobFinder](http://www.jobfinder.co.id/)
   
@@ -60,6 +62,8 @@ Useful Websites
 ---
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
+
+**Catatan** : ...
 
 * Digital Product Showcase
   * [Product Hunt](http://www.producthunt.com/) - Discover the latest mobile apps, websites, and technology products.
@@ -173,6 +177,8 @@ Self Improvement
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
+**Catatan** : ...
+
 * Books and Ideas (ID)
   * [Pimtar](https://pimtar.id/) - Sebentar bacanya, cepat pintarnya. Aplikasi rangkuman buku best seller pertama di Indonesia.
   * [Saputrawhy](https://www.saputrawhy.com/reading-notes/) - Halaman tentang ringkasan buku, berupa poin-poin yang berisi ide atau pelajaran penting.
@@ -274,6 +280,8 @@ Designer 101
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
+**Catatan** : ...
+
 _(Upcoming!)_
 
 <hr>
@@ -284,6 +292,8 @@ Developer 101
 ---
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
+
+**Catatan** : ...
 
 * Online Tutorials
   * [Tutorialspoint](https://www.tutorialspoint.com/index.htm) - Free online tutorials, courses and programming projects #1
@@ -386,6 +396,8 @@ Resource 101
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
+**Catatan** : ...
+
 * The Right Way
   * Web Dev : [GitKrakenDocs](https://www.gitkraken.com/resources/devops-report-2020), [W3Docs](https://www.w3docs.com/), [W3Schools](https://www.w3schools.com/), [DevDocs](https://devdocs.io/) (Sebelum ke framework, dll)
   * Know Your Self : _(Upcoming!)_
@@ -406,6 +418,8 @@ Top Chrome Extensions
 ---
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
+
+**Catatan** : ...
 
 * Increase Productivity
   * [Extensify](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - Tool for lightning fast enabling/disabling all your extensions for Chrome.
@@ -496,6 +510,8 @@ Top Figma Plugins (per 10/07/2020)
 ---
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
+
+**Catatan** : ...
 
 * Project Starter
   * [Project Scaffold](https://www.figma.com/community/plugin/747372158567878238/Project-Scaffold) - This plugin Generates a Scaffold for your Product design project in just 1 click.
@@ -646,6 +662,8 @@ Top Visual Studio Code Extensions (per 10/07/2020)
 ---
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
+
+**Catatan** : ...
 
 * General
   * [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu) - A simple theme with bright colors and comes in three version - dark, light and mirage.
