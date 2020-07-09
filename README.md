@@ -340,6 +340,9 @@ Developer 101
   * [Frontend Web Dev Resources](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend Resources.
 
 * Web Dev : Gift for Frontend Developer 🎁
+  * [Colorlib - Website Templates Archives](https://colorlib.com/wp/category/website-templates/) - Free starter templates.
+  * [LayoutIt](https://layoutit.com/) - CSS Grid playground and code generator (for layouting #1).
+  * [Flexy Boxes](https://the-echoplex.net/flexyboxes/) - Flexbox playground and code generator (for layouting #2).
   * [CSSDB](https://cssdb.co/) - A collection of the world's best CSS, Sass, LESS libraries.
   * [JavaScripting](https://www.javascripting.com/) - A collection of the world's best JavaScript libraries.
   * [CodyHouse](https://codyhouse.co/ds/components) - Production-ready components and tools. UI Frameworks.
