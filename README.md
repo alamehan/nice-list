@@ -14,7 +14,7 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek _curated list_ yang beg
 
 <img src="images/img-daftarisi.png">
 
-Topik yang tersedia di NiceList ini memang tidak banyak dan cenderung lebih ke topik design, pemrograman dan pengembangan diri. Namun demikian, NiceList ini merupakan proyek yang berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_ dan menambahkannya secara berkala, tentunya saat saya menemukan harta karun baru yang layak dimasukkan kedalam daftar. Hingga saat ini **NiceList memiliki 11 kategori & ... daftar** (per 10/07/2020).
+Topik yang tersedia di NiceList ini memang tidak banyak dan cenderung lebih ke topik design, pemrograman dan pengembangan diri. Namun demikian, NiceList ini merupakan proyek yang berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_ dan menambahkannya secara berkala, tentunya saat saya menemukan harta karun baru yang layak dimasukkan kedalam daftar. Hingga saat ini **NiceList memiliki 12 kategori & ... daftar** (per 10/07/2020).
 
 ## Daftar isi (section) :
 
@@ -26,8 +26,8 @@ Topik yang tersedia di NiceList ini memang tidak banyak dan cenderung lebih ke t
 	<a href="#sec05">➔ 5. Self Improvement (78)</a>&nbsp;<br>
 	<a href="#sec06">➔ 6. Top Chrome Extensions (69)</a>&nbsp;<br>
 	<a href="#sec07">➔ 7. Designer 101 (...)</a>&nbsp;<br>
-	<a href="#sec08">➔ 8. Top Figma Plugins (...)</a>&nbsp;<br>
-	<a href="#sec09">➔ 9. Developer 101 (74)</a>&nbsp;<br>
+	<a href="#sec08">➔ 8. Developer 101 (74)</a>&nbsp;<br>
+	<a href="#sec09">➔ 9. Top Figma Plugins (...)</a>&nbsp;<br>
 	<a href="#sec10">➔ 10. Top Visual Studio Code Extensions (31)</a>&nbsp;<br>
 	<a href="#sec11">➔ 11. Educational Instagram Accounts (460)</a>&nbsp;<br>
 	<a href="#sec12">➔ 12. Windows Software Bundles (154)</a>&nbsp;<br>
