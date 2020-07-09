@@ -16,8 +16,6 @@ Topik yang tersedia di **NiceList** ini memang tidak banyak dan cenderung lebih 
 
 _So, have fun!_
 
-<br>
-
 <div id="daftarisi"></div>
 
 <img src="images/img-daftarisi.png">
@@ -37,11 +35,7 @@ _So, have fun!_
 	<a href="#sec11">➔ 11. Windows Software Bundles</a>&nbsp;<br>
 </p>
 
-<br>
-
 <img src="images/img-letsgo.png">
-
-<br>
 
 <div id="sec01"></div>
 
@@ -58,9 +52,8 @@ Find a Job
 * Startup Career : [Tokopedia](https://www.tokopedia.com/careers/jobs/), [Bukalapak](https://careers.bukalapak.com/browse/Engineering), [Shopee](https://careers.shopee.co.id/jobs/), [Blibli](https://www.blibli.com/page/karir/), [Gojek](https://career.go-jek.com/job/), [Traveloka](https://www.traveloka.com/en/careers), [Pegipegi](https://www.pegipegi.com/team/career.html), [Dana](https://www.dana.id/karir), [KitaBisa](https://kitabisa.urbanhire.com/), [Ruangguru](https://career.ruangguru.com)
   
 * Freelancer & Project : [Freelancer](https://www.freelancer.co.id/search/projects/), [Sribu](https://www.sribu.com/id/contests), [Sribulancer](https://www.sribulancer.com/id/bj/loker/v3), [Projects](https://projects.co.id/public/browse_projects/listing), [Fastwork](https://fastwork.id/start-selling), [99designs](https://99designs.com/contests), [DesignCrowd](https://jobs.designcrowd.com/jobs/)
-  
-<br>
 
+<hr>
 <div id="sec02"></div>
 
 🌐 
@@ -172,8 +165,7 @@ Useful Websites
   * [IsItDownRightNow?](https://www.isitdownrightnow.com/) - Monitors the status of your favorite web sites and checks whether they are down or not. 
   * [HaveIBeenPwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach.
 
-<br>
-
+<hr>
 <div id="sec03"></div>
 
 📚 
@@ -274,8 +266,7 @@ Self Improvement
   * [CGP Grey](https://www.youtube.com/user/CGPGrey) - Short explanatory videos, including politics, geography, economics, history, and culture.
   * [Vsauce](https://www.youtube.com/user/Vsauce/) - The channels feature videos on scientific, psychological, mathematical, and philosophical topics, etc.
   
-<br>
-
+<hr>
 <div id="sec04"></div>
 
 🎨 
@@ -286,8 +277,7 @@ Designer 101
 
 _(Upcoming!)_
 
-<br>
-
+<hr>
 <div id="sec05"></div>
 
 💻 
@@ -388,8 +378,7 @@ Developer 101
   * [Awesome Guideline](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
   * [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - Kumpulan group pemrograman Telegram Indonesia.
 
-<br>
-
+<hr>
 <div id="sec06"></div>
 
 📂 
@@ -410,8 +399,7 @@ Resource 101
   * Explorative Visuals : [By Owen](http://byowen.com/), [One Zoom](https://www.onezoom.org/), [Things Made Thinkable](http://www.thingsmadethinkable.com/), [Knowledge Center](http://www.knowledgecenter.com/ions/NoeticMap.html)
   * Powerful Diagramming : [Creately](https://creately.com/), [Draw.io](https://app.diagrams.net/), [MindMeister](https://www.mindmeister.com/) (Selebihnya di : Designer 101)
 
-<br>
-
+<hr>
 <div id="sec07"></div>
 
 ⚙️ 
@@ -501,8 +489,7 @@ Top Chrome Extensions
   * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) - Increase your max volume by up to 4 times the loudness.
   * [Clever Mute](https://chrome.google.com/webstore/detail/clever-mute/eadinjjkfelcokdlmoechclnmmmjnpdh) - You can mute or unmute any site just by clicking the extension icon.
 
-<br>
-
+<hr>
 <div id="sec08"></div>
 
 🔮 
@@ -651,9 +638,8 @@ Top Figma Plugins (per 10/07/2020)
   * [Mapsicle](https://www.figma.com/community/plugin/736458162635847353/Mapsicle) - Never take a screenshot of a map again! Quickly and seamlessly place maps in your mockups.
   * [QR Code Generator](https://www.figma.com/community/plugin/735650288109030027/QR-Code-Generator) - QR Code Generator helps you to quickly create a Vector QR code.
   * [Sigils](https://www.figma.com/community/plugin/755929849994721127/sigils) - Sigils are avatars generated for Urbit IDs, which can be thought of as IP addresses.
-
-<br>
-
+  
+<hr>
 <div id="sec09"></div>
 
 ⚔️ 
@@ -699,8 +685,7 @@ Top Visual Studio Code Extensions (per 10/07/2020)
   * [PHP Intellisense for Codeigniter](https://marketplace.visualstudio.com/items?itemName=small.php-ci) - Code completion for PHP Codeigniter framework, go to definition, etc.
   * [Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-extension-pack) - Includes the basic extensions to get started with Laravel development in VS Code.
 
-<br>
-
+<hr>
 <div id="sec10"></div>
 
 💎 
@@ -720,8 +705,7 @@ Educational Instagram Accounts
 [top-60-akun-ig-influencer.txt](../master/instagram/top-60-akun-ig-influencer.txt) - Para tokoh komedi, milenial, agama, motivator, berbakat, traveler dan selebgram.<br>
 [top-170-akun-ig-skillpackage.txt](../master/instagram/top-170-akun-ig-skillpackage.txt) - Pembelajaran dan inspirasi strategi medsos, developer, ui/ux, desain, art, dan ilustrasi.
 
-<br>
-
+<hr>
 <div id="sec11"></div>
 
 💽 
