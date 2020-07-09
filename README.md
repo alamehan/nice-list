@@ -10,30 +10,29 @@ Dari tak terhitungnya jumlah konten di internet, terdapat konten "harta karun" y
 
 Dengan **NiceList** yang terinspirasi dari sebuah proyek _curated list_ yang begitu populer bernama [Awesome](https://github.com/sindresorhus/awesome), saya menghabiskan banyak sekali waktu untuk melakukan "penjelahan" secara mendalam di semesta Internet dari waktu ke waktu. Mencari harta karun yang tersembunyi itu, kemudian mengumpulkannya, lalu mem-_filter_ dan mengkategorikan nya sesuai topik. Gak lain dan gak bukan, tujuan utamanya untuk memudahkan anda maupun saya pribadi dalam mendapatkan konten bermutu dengan mudah. Intinya, **NiceList** dapat digunanan sebagai _navigasi_ yang membantu dan menuntun anda ke beragam website maupun produk digital yang berkualitas, terseleksi dan dapat diandalkan. Bisa anda manfaatkan sebagai sumber informasi, sumber belajar maupun rekomendasi tools berguna yang bahkan manfaatnya belum pernah terpikirkan oleh anda sebelumnya.
 
-**Catatan** : 
-
-Topik yang tersedia di **NiceList** ini memang tidak banyak dan cenderung lebih ke topik design, pemrograman dan pengembangan diri. Namun demikian, **NiceList** ini merupakan proyek yang berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_ dan menambahkannya secara berkala, tentunya saat saya menemukan harta karun baru yang layak dimasukkan kedalam daftar. Hingga saat ini **NiceList memiliki 11 kategori & 1042 daftar** (per 03/07/2020). 
-
-_So, have fun!_
-
 <div id="daftarisi"></div>
 
 <img src="images/img-daftarisi.png">
 
-<p>Daftar isi (section) :</p>
+**Daftar isi (section) :**
+
 <p align="left">
-	<a href="#sec01">➔ 1. Find a Job</a>&nbsp;<br>
-	<a href="#sec02">➔ 2. Useful Websites</a>&nbsp;<br>
-	<a href="#sec03">➔ 3. Self Improvement</a>&nbsp;<br>
-	<a href="#sec04">➔ 4. Designer 101</a>&nbsp;<br>
-	<a href="#sec05">➔ 5. Developer 101</a>&nbsp;<br>
-	<a href="#sec06">➔ 6. Resource 101</a>&nbsp;<br>
-	<a href="#sec07">➔ 7. Top Chrome Extensions</a>&nbsp;<br>
-	<a href="#sec08">➔ 8. Top Figma Plugins</a>&nbsp;<br>
-	<a href="#sec09">➔ 9. Top Visual Studio Code Extensions</a>&nbsp;<br>
-	<a href="#sec10">➔ 10. Educational Instagram Accounts</a>&nbsp;<br>
-	<a href="#sec11">➔ 11. Windows Software Bundles</a>&nbsp;<br>
+	<a href="#sec01">➔ 1. Find a Job (32)</a>&nbsp;<br>
+	<a href="#sec02">➔ 2. Useful Websites (87)</a>&nbsp;<br>
+	<a href="#sec03">➔ 3. Self Improvement (78)</a>&nbsp;<br>
+	<a href="#sec04">➔ 4. Designer 101 (...)</a>&nbsp;<br>
+	<a href="#sec05">➔ 5. Developer 101 (74)</a>&nbsp;<br>
+	<a href="#sec06">➔ 6. Resource 101 (23)</a>&nbsp;<br>
+	<a href="#sec07">➔ 7. Top Chrome Extensions (69)</a>&nbsp;<br>
+	<a href="#sec08">➔ 8. Top Figma Plugins (...)</a>&nbsp;<br>
+	<a href="#sec09">➔ 9. Top Visual Studio Code Extensions (31)</a>&nbsp;<br>
+	<a href="#sec10">➔ 10. Educational Instagram Accounts (460)</a>&nbsp;<br>
+	<a href="#sec11">➔ 11. Windows Software Bundles (154)</a>&nbsp;<br>
 </p>
+
+**Catatan** : 
+
+Topik yang tersedia di NiceList ini memang tidak banyak dan cenderung lebih ke topik design, pemrograman dan pengembangan diri. Namun demikian, NiceList ini merupakan proyek yang berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_ dan menambahkannya secara berkala, tentunya saat saya menemukan harta karun baru yang layak dimasukkan kedalam daftar. Hingga saat ini **NiceList memiliki 11 kategori & ... daftar** (per 10/07/2020).
 
 <img src="images/img-letsgo.png">
 
