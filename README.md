@@ -580,24 +580,24 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Colorizer](https://www.figma.com/community/plugin/816889819624434639/Colorizer) - Sort colors by their hue value.
   * [Adjustments](https://www.figma.com/community/plugin/798711644668166520/Adjustments) - HSL color adjustments allow you to tweak hue, saturation and lightness values.
   
-* Icons & Logos
-  * [Iconify](https://www.figma.com/community/plugin/735098390272716381/Iconify) - Import Material Design Icons, FontAwesome, Jam Icons, EmojiOne, and many other icons.
-  * [Icons8](https://www.figma.com/community/plugin/791103617505812222/Icons8) - Access the entire Icons8 icon library. 120,000 icons!
-  * [Font Awesome Icons](https://www.figma.com/community/plugin/774202616885508874/Font-Awesome-Icons) - This is the unofficial plugin for the Font Awesome Icon Collection.
-  * [Flaticons](https://www.figma.com/community/plugin/785492935463158906/Flaticons) - Allows you to insert icons from flaticon.com to figma fast and easy.
-  * [Streamline](https://www.figma.com/community/plugin/852192486284901337/Streamline) - The world's largest icon pack. Browse, search and insert. 30,000 icons!
-  * [Ionicons](https://www.figma.com/community/plugin/777817104312450242/Ionicons) - Browse, find, use All 600+ icons from ionicons.com right from inside Figma.
-  * [Feather Icons](https://www.figma.com/community/plugin/744047966581015514/Feather-Icons) - Collection of simply beautiful open source icons. Quick access to Feather icons in Figma.
-  * [Material Design Icons](https://www.figma.com/community/plugin/740272380439725040/Material-Design-Icons) - Provides you instant easy access to the entire Material Design Icons library.
-  
-* Illustration
-  * [Blush](https://www.figma.com/community/plugin/838959511417581040/Blush) - Create and customize illustrations in your designs with Blush.
-  * [Humaaans for Figma](https://www.figma.com/community/plugin/739503328703046360/Humaaans-for-Figma) - Brings the amazing illustations library called Humaaans by Pablo Stanley to Figma.
+* Illustration & Logos
   * [Illustrations](https://www.figma.com/community/plugin/781441863578182316/Illustrations) - Free Illustration library for everyone. 250+ illustrations by pablo stanley.
-  * [Brandfetch](https://www.figma.com/community/plugin/733590967040604714/Brandfetch) - Enter a company name and instantly get its corresponding brand assets into Figma.
-  * [Logo Creator](https://www.figma.com/community/plugin/768094929040207895/Logo-Creator) - Craft a beautiful logo from prebuild collections of 300+ logos.
+  * [Blush](https://www.figma.com/community/plugin/838959511417581040/Blush) - Create and customize illustrations in your designs with Blush (**Paid**).
+  * [Handz 3D Illustration](https://www.figma.com/community/plugin/856130306757736209/Handz-3D-Illustration) - Brings the amazing 3D illustations library called HANDZ.
   * [Iconscout](https://www.figma.com/community/plugin/744098704933821409/Iconscout) - Allows you to insert millions of high quality icons, illustrations and stock photos.
+  * [Logo Creator](https://www.figma.com/community/plugin/768094929040207895/Logo-Creator) - Craft a beautiful logo from prebuild collections of 300+ logos.
+  * [Brandfetch](https://www.figma.com/community/plugin/733590967040604714/Brandfetch) - Enter a company name and instantly get its corresponding brand assets into Figma.
   
+* Icons Pack
+  * [Iconify](https://www.figma.com/community/plugin/735098390272716381/Iconify) - Over 50,000 icons from 60 icon sets for your Figma designs.
+  * [Icons8](https://www.figma.com/community/plugin/791103617505812222/Icons8) - Access 120,000 icons and 32 styles from Icons8 library.
+  * [Ionicons](https://www.figma.com/community/plugin/777817104312450242/Ionicons) - Browse, find, use All 1200+ icons from ionicons.com right from inside Figma.
+  * [Flaticons](https://www.figma.com/community/plugin/785492935463158906/Flaticons) - 3083500+ Free vector icons in the largest database of flaticon.com
+  * [Feather Icons](https://www.figma.com/community/plugin/744047966581015514/Feather-Icons) - Browse, find, use All 280+ icons from feathericons.com right from inside Figma.
+  * [Streamline](https://www.figma.com/community/plugin/852192486284901337/Streamline) - The world's largest icon pack. Browse, search and insert. 30,000 icons!
+  * [Font Awesome Icons](https://www.figma.com/community/plugin/774202616885508874/Font-Awesome-Icons) - This is the unofficial plugin for the Font Awesome Icon Collection.
+  * [Material Design Icons](https://www.figma.com/community/plugin/740272380439725040/Material-Design-Icons) - Provides you instant easy access to the entire Material Design Icons library.
+ 
 * Image Tools
   * [Photos](https://www.figma.com/community/plugin/745428728979155171/Photos) - Search and insert photos (from Unsplash, Pixabay and Flickr) into your Figma files. 
   * [Unsplash](https://www.figma.com/community/plugin/738454987945972471/Unsplash) - Insert beautiful images from Unsplash straight into your designs.
