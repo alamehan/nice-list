@@ -516,21 +516,20 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Status Annitations](https://www.figma.com/community/plugin/795096273369409539/Status-Annotations) - Quickly indicate the status of your designes when collaborating with your team.
   * [Todo](https://www.figma.com/community/plugin/747822968977461925/Todo) - Simple todo list plugin to check off your tasks inside Figma!
   * [Notepad](https://www.figma.com/community/plugin/739527655081183968/Notepad) - Use Notepad to add a place for notes to your Figma documents.
-  * [Marvel Prototyping](https://www.figma.com/community/plugin/733702238760085035/Marvel-Prototyping) - Seamlessly sync frames from Figma to new or existing Marvel projects.
-  * [Useberry](https://www.figma.com/community/plugin/788799088384104964/Useberry) - An online user-testing tool that helps UI/UX designers get rich user feedback.
-  * [Minimap](https://www.figma.com/community/plugin/772952119002135124/Minimap) - Navigate your canvas like an adventure at sea, with a map in hand.
-  * [Time Machine](https://www.figma.com/community/plugin/734492262527930956/Time-Machine) - Time Machine saves and organizes work that you want to look back on.
-
-* Useful Plugin
+  
+* Organizer & Tools
+  * [Easy Units](https://www.figma.com/community/plugin/835063877729335093/Easy-Units) - Convert your shape and text from pixels to inches, rem, cm, ft.
+  * [Super Select](https://www.figma.com/community/plugin/750783568176946334/Super-Select) - Select All Siblings and Invert Siblings support multiple layer selections.
+  * [Style Organizer](https://www.figma.com/community/plugin/816627069580757929/Style-Organizer) - Display and organize all color styles in the page. Relink unlinked styles.
+  * [Batch Styler](https://www.figma.com/community/plugin/818203235789864127/Batch-Styler) - Change multiple text & color styles at once, no matter if 2 or 30 styles.
+  * [Design System Organizer](https://www.figma.com/community/plugin/802579985985331070/Design-System-Organizer) - Say goodbye to endless naming schemes with "/" for Components and Styles. 
   * [Clean Document](https://www.figma.com/community/plugin/767379019764649932/Clean-Document) - Automagically organize and clean up your Figma document. Smart rename, sort, etc.
-  * [Layer Names Transfom](https://www.figma.com/community/plugin/734746297902924375/Layer-Names-Transfom) - This plugin will help you to quickly transform the names of your layers.
+  * [Fix Your Mess](https://www.figma.com/community/plugin/817773666528183444/Fix-Your-Mess) - Fix Your Mess scans your Figma designs and helps you tidy up your work.
   * [Reset Text Layer Name](https://www.figma.com/community/plugin/768671547563304036/Reset-Text-Layer-Name) - Ever end up wanting to reset your layer names? This plugin will help you.
-  * [Design Inspo](https://www.figma.com/community/plugin/738775292786594626/Design-Inspo) - The best way to quickly look for design inspiration while you work.
-  * [Inspyre](https://www.figma.com/community/plugin/788238141732031933/Inspyre) - The perfect icon, inspiration for a logo, or the perfect component.
-  * [Figmotion](https://www.figma.com/community/plugin/733025261168520714/Figmotion) - Figmotion is an animation tool built right in Figma. Makes the entry into animation easier.
-  * [LottieFiles](https://www.figma.com/community/plugin/809860933081065308/LottieFiles) - Figma Animations designed for Web and Mobile. 1000+ of free animations.
-  * [Figma Chat](https://www.figma.com/community/plugin/742073255743594050/Figma-Chat) - This plugin helps you to interact inside your files with other peoples.
-  * [Yasou](https://www.figma.com/community/plugin/835158600797781836/Yasou---Team-Video-Calls) - Enables teams that work together on a file to do audio or video calls.
+  * [Redlines](https://www.figma.com/community/plugin/781354942292031141/Redlines) - Generate redlines from a selection of objects with ease. Quickly measure and plot dimensions.
+  * [Snap Master 3000](https://www.figma.com/community/plugin/822303390338504468/Snap-Master-3000) - Do you ever dream to make widths in your design consistent? Already here.
+  * [Spacing Manager](https://www.figma.com/community/plugin/809099681305129697/Spacing-Manager) - Say goodbye to endless naming schemes with "/" for Components and Styles. 
+  * [Round it!](https://www.figma.com/community/plugin/777919055291347154/Round-it!) - Round all properties to the nearest multiplier of 8, 10, or your custom value.
   
 * Layout Plugin
   * [Viewports](https://www.figma.com/community/plugin/732240841094697441/Viewports) - Browse the most popular display sizes and apply them to frames.
@@ -543,8 +542,6 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Grids Generator](https://www.figma.com/community/plugin/841313026689642442/Grids-Generator) - Apply any frame with grid styles config inspired from Chrome's element inspector.
   * [Auto Grid](https://www.figma.com/community/plugin/817474150404549708/AutoGrid) - Define rows, columns and padding and let AutoGrid do the rest.
   * [LilGrid](https://www.figma.com/community/plugin/795397421598343178/LilGrid) - LilGrid takes elements and arranges them into a grid automatically.
-  * [Dot Grid](https://www.figma.com/community/plugin/795474715778185230/Dot-Grid) - Easily generate beautiful dot grids for your Figma designs.
-  * [Pixel Perfect](https://www.figma.com/community/plugin/741300632449121669/Pixel-Perfect) - Move everything back onto the pixel grid, round position and dimentions.
   * [Breakpoints](https://www.figma.com/community/plugin/824289601590456356/Breakpoints) - A resizable native frame that works even without the opened plugin window.
   * [Wireframe](https://www.figma.com/community/plugin/742764242781786818/Wireframe) - Creating beautiful user flow prototypes and basic structures. Over 350+ build graphics.
   * [Wireframer](https://www.figma.com/community/plugin/787660853629435276/Wireframer) - Generate cool SVG placeholder text for your next wireframe.
@@ -553,12 +550,15 @@ Top Figma Plugins : Hadiah Untuk Designer
 * Component Plugin
   * [Interplay](https://www.figma.com/community/plugin/736368164448889527/Interplay) - Imports your design system code repository and lets you design with code components.
   * [Ready Components](https://www.figma.com/community/plugin/830533738628941885/Ready-Components) - Provides ready-made components, can be used in any of the UI design.
+  * [Master](https://www.figma.com/community/plugin/767721682134156281/Master) - Create, attach, clone and move components in a couple of clicks without losing overrides.
+  * [Link to Documentation](https://www.figma.com/community/plugin/748783469068559194/Link-to-Documentation) - Open documentation pages from your components.
   
 * Text Plugin
   * [Better Font Picker](https://www.figma.com/community/plugin/739922281164562258/Better-Font-Picker) - Helps you select fonts with a preview of how it looks. 
   * [Font Scale](https://www.figma.com/community/plugin/741231992144144738/Font-Scale) - Font Scale is a quick tool to generate a harmonious and consistent typography hierarchy.
   * [Font Master](https://www.figma.com/community/plugin/781086314747849337/Font-Master) - Makes it easy to organize your fonts and ensure consistency in your texts.
   * [Typescales](https://www.figma.com/community/plugin/739825414752646970/Typescales) - Quickly generate a simple typescale/modular scale. A visual rhythm in font sizes.
+  * [Truncate Lines](https://www.figma.com/community/plugin/856491403215301428/Truncate-Lines) - Limit the numner of lines of text that appear in your design.
   * [Find and Replace](https://www.figma.com/community/plugin/735072959812183643/Find-and-Replace) - Search for texts on your page and replace them just like a text editor.
   * [Substrate for Text](https://www.figma.com/community/plugin/739517744595900126/Substrate-for-text) - Highlight text by adding the cool substrate with this simple plugin.
   * [Arc](https://www.figma.com/community/plugin/762070688792833472/arc) - Curve your text upward, downward or into a circle. Adjust the slider and preview the result.
@@ -592,16 +592,18 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Feather Icons](https://www.figma.com/community/plugin/744047966581015514/Feather-Icons) - Collection of simply beautiful open source icons. Quick access to Feather icons in Figma.
   * [Material Design Icons](https://www.figma.com/community/plugin/740272380439725040/Material-Design-Icons) - Provides you instant easy access to the entire Material Design Icons library.
   
-* Illustration Plugin
+* Illustration & Logo Plugin
   * [Blush](https://www.figma.com/community/plugin/838959511417581040/Blush) - Create and customize illustrations in your designs with Blush.
   * [Humaaans for Figma](https://www.figma.com/community/plugin/739503328703046360/Humaaans-for-Figma) - Brings the amazing illustations library called Humaaans by Pablo Stanley to Figma.
   * [Illustrations](https://www.figma.com/community/plugin/781441863578182316/Illustrations) - Free Illustration library for everyone. 250+ illustrations by pablo stanley.
+  * [Brandfetch](https://www.figma.com/community/plugin/733590967040604714/Brandfetch) - Enter a company name and instantly get its corresponding brand assets into Figma.
   * [Logo Creator](https://www.figma.com/community/plugin/768094929040207895/Logo-Creator) - Craft a beautiful logo from prebuild collections of 300+ logos.
   * [Iconscout](https://www.figma.com/community/plugin/744098704933821409/Iconscout) - Allows you to insert millions of high quality icons, illustrations and stock photos.
   
 * Image Plugin
   * [Photos](https://www.figma.com/community/plugin/745428728979155171/Photos) - Search and insert photos (from Unsplash, Pixabay and Flickr) into your Figma files. 
   * [Unsplash](https://www.figma.com/community/plugin/738454987945972471/Unsplash) - Insert beautiful images from Unsplash straight into your designs.
+  * [EasyMask](https://www.figma.com/community/plugin/781317794301477536/EasyMask) - Create a mask from the top selected layer. Similiar to how Adobe AI does making.
   * [Remove BG](https://www.figma.com/community/plugin/738992712906748191/Remove-BG) - Remove the background of images automatically with just a single click.
   * [TinyImage Compressor](https://www.figma.com/community/plugin/789009980664807964/TinyImage-Compressor) - Export compressed JPG, PNG, SVG, WebP, GIF and PDF image files.
 
@@ -620,6 +622,7 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Chart](https://www.figma.com/community/plugin/734590934750866002/Chart) - Uses real or random data to create the most popular charts. 16 types of charts.
   * [Make Blob](https://www.figma.com/community/plugin/740172168964577201/Make-blob) - Make random blob and add it on your page. Set your complexity and contrast.
   * [Metaball](https://www.figma.com/community/plugin/743754408199479204/Metaball) - Metaball plugin generates 2D-Metaball shapes from circle objects.
+  * [Dot Grid](https://www.figma.com/community/plugin/795474715778185230/Dot-Grid) - Easily generate beautiful dot grids for your Figma designs.
   * [Autoflow](https://www.figma.com/community/plugin/733902567457592893/Autoflow) - Draw beautiful flows in Figma automagically. Autoflow makes it easy to draw flows.
   * [Arrow Auto](https://www.figma.com/community/plugin/751007211632768205/Arrow-Auto) - Automatically draw arrows between interfaces for UI flow diagrams.
   * [Flowkit](https://www.figma.com/community/plugin/777287184344500379/Flowkit) - Quick and easy flow creation. Smart resizing rules, intelligently-named, etc.
@@ -640,6 +643,8 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Easometric](https://www.figma.com/community/plugin/750743440401413268/Easometric) - With Easometric it is really easy to create isometric layers & groups.
   * [Shadow Picker](https://www.figma.com/community/plugin/744987207861965946/Shadow-picker) - Stunt & flex with these drop shadows instead, or tweak them to your liking.
   * [SmoothShadow](https://www.figma.com/community/plugin/788830704169694737/SmoothShadow) - Create really smooth, layered shadows with easing curvers, friend.
+  * [Pixel Perfect](https://www.figma.com/community/plugin/741300632449121669/Pixel-Perfect) - Move everything back onto the pixel grid, round position and dimentions.
+  * [Swap](https://www.figma.com/community/plugin/739493471028643540/Swap) - Easily swap two selected objects. Keeps the original size of objects and their position.
   * [Aspects](https://www.figma.com/community/plugin/739222456238688882/Aspects) - A little plugin that helps resize selected elements to fit a certain aspect ratio.
   * [Proportional Scale](https://www.figma.com/community/plugin/756895186298946525/Proportional-Scale) - Easily resize your shapes with all other attributes resizing proportionally.
   
@@ -649,6 +654,22 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Mapsicle](https://www.figma.com/community/plugin/736458162635847353/Mapsicle) - Never take a screenshot of a map again! Quickly and seamlessly place maps in your mockups.
   * [QR Code Generator](https://www.figma.com/community/plugin/735650288109030027/QR-Code-Generator) - QR Code Generator helps you to quickly create a Vector QR code.
   * [Sigils](https://www.figma.com/community/plugin/755929849994721127/sigils) - Sigils are avatars generated for Urbit IDs, which can be thought of as IP addresses.
+
+* Miscellaneous
+  * [Design Inspo](https://www.figma.com/community/plugin/738775292786594626/Design-Inspo) - The best way to quickly look for design inspiration while you work.
+  * [Inspyre](https://www.figma.com/community/plugin/788238141732031933/Inspyre) - The perfect icon, inspiration for a logo, or the perfect component.
+  * [Minimap](https://www.figma.com/community/plugin/772952119002135124/Minimap) - Navigate your canvas like an adventure at sea, with a map in hand.
+  * [Time Machine](https://www.figma.com/community/plugin/734492262527930956/Time-Machine) - Time Machine saves and organizes work that you want to look back on.
+  * [Figma Chat](https://www.figma.com/community/plugin/742073255743594050/Figma-Chat) - This plugin helps you to interact inside your files with other peoples.
+  * [Yasou](https://www.figma.com/community/plugin/835158600797781836/Yasou---Team-Video-Calls) - Enables teams that work together on a file to do audio or video calls.
+  * [Anima](https://www.figma.com/community/plugin/857346721138427857/Anima) - Design rich prototypes in minutes, publish live websites, and export HTML.
+  * [Live Preview](https://www.figma.com/community/plugin/849390271196300773/Live-Preview) - Easily share a live preview of your Figma prototype with others.
+  * [Marvel Prototyping](https://www.figma.com/community/plugin/733702238760085035/Marvel-Prototyping) - Seamlessly sync frames from Figma to new or existing Marvel projects.
+  * [Useberry](https://www.figma.com/community/plugin/788799088384104964/Useberry) - An online user-testing tool that helps UI/UX designers get rich user feedback.
+  * [Figmotion](https://www.figma.com/community/plugin/733025261168520714/Figmotion) - Figmotion is an animation tool built right in Figma. Makes the entry into animation easier.
+  * [LottieFiles](https://www.figma.com/community/plugin/809860933081065308/LottieFiles) - Figma Animations designed for Web and Mobile. 1000+ of free animations.
+  * [VisualEyes](https://www.figma.com/community/plugin/740542057689267294/VisualEyes) - Understand how users look in your prototypes and how clear pleasing are your designs. 
+  * [Design Lint](https://www.figma.com/community/plugin/801195587640428208/Design-Lint) - Finds missing styles within your designs on all your layers.
   
 <hr>
 <div id="sec10"></div>
