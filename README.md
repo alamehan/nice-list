@@ -543,19 +543,23 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Ready Components](https://www.figma.com/community/plugin/830533738628941885/Ready-Components) - Provides ready-made components, can be used in any of the UI design.
   * [Spacing Manager](https://www.figma.com/community/plugin/809099681305129697/Spacing-Manager) - Say goodbye to endless naming schemes with "/" for Components and Styles. 
   * [Style Organizer](https://www.figma.com/community/plugin/816627069580757929/Style-Organizer) - Display and organize all color styles in the page. Relink unlinked styles.
-  * [Batch Styler](https://www.figma.com/community/plugin/818203235789864127/Batch-Styler) - Change multiple text & color styles at once, no matter if 2 or 30 styles.
+  * [Batch Styler](https://www.figma.com/community/plugin/818203235789864127/Batch-Styler) - Change multiple **text & color styles** at once, no matter if 2 or 30 styles.
   * [Design System Organizer](https://www.figma.com/community/plugin/802579985985331070/Design-System-Organizer) - Say goodbye to endless naming schemes with "/" for Components and Styles.
   * [Automatic Style Guides](https://www.figma.com/community/plugin/838622388628773312/Automatic-Style-Guides) - Preparing formal style guide documentation from your local styles.
   
 * Text Plugin
   * [Better Font Picker](https://www.figma.com/community/plugin/739922281164562258/Better-Font-Picker) - Helps you select fonts with a preview of how it looks. 
   * [Font Scale](https://www.figma.com/community/plugin/741231992144144738/Font-Scale) - Font Scale is a quick tool to generate a harmonious and consistent typography hierarchy.
-  * [Font Master](https://www.figma.com/community/plugin/781086314747849337/Font-Master) - Makes it easy to organize your fonts and ensure consistency in your texts.
-  * [Typescales](https://www.figma.com/community/plugin/739825414752646970/Typescales) - Quickly generate a simple typescale/modular scale. A visual rhythm in font sizes.
-  * [Truncate Lines](https://www.figma.com/community/plugin/856491403215301428/Truncate-Lines) - Limit the numner of lines of text that appear in your design.
+  * [Textyles](https://www.figma.com/community/plugin/804843548882105498/Textyles) - Textyles speeds up your typographic workflow by generating Text Styles quickly.
+  * [Nisa Text Splitter](https://www.figma.com/community/plugin/739048247603902878/Nisa-Text-Splitter) - Easy way to split your text/list into small text pieces.
   * [Find and Replace](https://www.figma.com/community/plugin/735072959812183643/Find-and-Replace) - Search for texts on your page and replace them just like a text editor.
-  * [Substrate for Text](https://www.figma.com/community/plugin/739517744595900126/Substrate-for-text) - Highlight text by adding the cool substrate with this simple plugin.
+  * [Add Numbers to Texts](https://www.figma.com/community/plugin/738791203005929386/Add-numbers-to-texts) - Numbers, aplhabetical numbering, roman numerals, math expressions, etc.
+  * [Text Prettier](https://www.figma.com/community/plugin/783077214649465682/Text-Prettier) - Improve your typography and helps you make your texts legible and readable.
+  * [Truncate Lines](https://www.figma.com/community/plugin/856491403215301428/Truncate-Lines) - Limit the numner of lines of text that appear in your design.
   * [Arc](https://www.figma.com/community/plugin/762070688792833472/arc) - Curve your text upward, downward or into a circle. Adjust the slider and preview the result.
+  * [TextWrap](https://www.figma.com/community/plugin/760113603535822095/TextWrap) - A way to wrap your text around a circle. Excellent for badges, etc.
+  * [Substrate for Text](https://www.figma.com/community/plugin/739517744595900126/Substrate-for-text) - Highlight text by adding the cool substrate with this simple plugin.
+  * [Text From Image](https://www.figma.com/community/plugin/825603645067095312/Text-From-Image) - Use OCR to copy text from an image fill. The magic of optical character recognition.
 
 * Color Plugin
   * [Anywhere Picker](https://www.figma.com/community/plugin/769033212122764418/Anywhere-Picker) - A color picker that will let you choose a color anywhere on your desktop.
