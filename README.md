@@ -27,8 +27,8 @@ Topik yang tersedia di NiceList ini memang tidak banyak dan cenderung lebih ke t
 	<a href="#sec06">➔ 6. Top Chrome Extensions (69)</a>&nbsp;<br>
 	<a href="#sec07">➔ 7. Designer 101 (...)</a>&nbsp;<br>
 	<a href="#sec08">➔ 8. Developer 101 (75)</a>&nbsp;<br>
-	<a href="#sec09">➔ 9. Top Figma Plugins (133)</a>&nbsp;<br>
-	<a href="#sec10">➔ 10. Top Visual Studio Code Extensions (31)</a>&nbsp;<br>
+	<a href="#sec09">➔ 9. Top Figma Plugins (130)</a>&nbsp;<br>
+	<a href="#sec10">➔ 10. Top Visual Studio Code Extensions (33)</a>&nbsp;<br>
 	<a href="#sec11">➔ 11. Educational Instagram Accounts (460)</a>&nbsp;<br>
 	<a href="#sec12">➔ 12. Windows Software Bundles (154)</a>&nbsp;<br>
 </p>
@@ -706,6 +706,8 @@ Top Visual Studio Code Extensions : Hadiah Untuk Developer
   * [HTMLTagWrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap) - Wraps your selection in HTML tags (inline selections and selections that span multiple lines).
   * [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) - Class attribute completion, Id attribute completion, supports remote css files, etc.
   * [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) - Allow peeking to CSS ID and Class strings as definitions from html files to respective CSS.
+  * [CSS Responsive](https://marketplace.visualstudio.com/items?itemName=mrezechi3l.css-responsive) - Parse CSS and add vendor prefixes automatically, rules by Can I Use (caniuse.com).
+  * [Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer) - Simple yet amazing extension to convert a division to percent for CSS based files.
   * [JavaScript (ES6) Code Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - Code snippets for JavaScript in ES6 syntax for Visual Studio Code.
   * [ES6 String HTML](https://marketplace.visualstudio.com/items?itemName=hjb2012.vscode-es6-string-html) - Adds syntax highlight support for HTML placed in ES6 multiline strings.
   * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code. Node js (server-side JavaScript) required.
