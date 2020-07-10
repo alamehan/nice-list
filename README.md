@@ -16,7 +16,7 @@ Dengan **NiceList** yang terinspirasi dari sebuah proyek _curated list_ yang beg
 
 Topik yang tersedia di NiceList ini memang tidak banyak dan cenderung lebih ke topik design, pemrograman dan pengembangan diri. Namun demikian, NiceList ini merupakan proyek yang berkepanjangan, sehingga dari waktu ke waktu saya akan meng-_update_ dan menambahkannya secara berkala, tentunya saat saya menemukan harta karun baru yang layak dimasukkan kedalam daftar. Hingga saat ini **NiceList memiliki 12 kategori & ... daftar** (per 10/07/2020).
 
-## Daftar isi (section) :
+## Daftar Isi (Section) :
 
 <p align="left">
 	<a href="#sec01">➔ 1. Find a Job (32)</a>&nbsp;<br>
@@ -300,7 +300,7 @@ Self Improvement : Perluas Ide & Wawasan
 <div id="sec06"></div>
 
 ⚙️ 
-Top Chrome Extensions : Upgrade Kemampuan Browser
+Top Chrome Extensions : Tingkatkan Kemampuan Browser
 ---
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
