@@ -516,6 +516,13 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Status Annitations](https://www.figma.com/community/plugin/795096273369409539/Status-Annotations) - Quickly indicate the status of your designes when collaborating with your team.
   * [Notepad](https://www.figma.com/community/plugin/739527655081183968/Notepad) - Use Notepad to add a place for notes to your Figma documents.
   
+* Web Safe Guide
+  * [A11y - Color Contrast Checker](https://www.figma.com/community/plugin/733159460536249875/A11y---Color-Contrast-Checker) - Design products that are accessible, ethical, and inclusive. All based on WCAG guidelines.
+  * [Contrast](https://www.figma.com/community/plugin/748533339900865323/Contrast) - Makes it easy to check the contrast ratios of colors as you work.
+  * [Color Blind](https://www.figma.com/community/plugin/733343906244951586/Color-Blind) - allows you to view your designs in the 8 different types of color vision deficiencies.
+  * [VisualEyes](https://www.figma.com/community/plugin/740542057689267294/VisualEyes) - Understand how users look in your prototypes and how clear pleasing are your designs.
+  * [Design Lint](https://www.figma.com/community/plugin/801195587640428208/Design-Lint) - Finds missing styles within your designs on all your layers.
+  
 * Tools & Tidy Up
   * [Easy Units](https://www.figma.com/community/plugin/835063877729335093/Easy-Units) - Convert your shape and text from pixels to inches, rem, cm, ft.
   * [Super Select](https://www.figma.com/community/plugin/750783568176946334/Super-Select) - Select All Siblings and Invert Siblings support multiple layer selections.
@@ -538,6 +545,7 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Wireframe](https://www.figma.com/community/plugin/742764242781786818/Wireframe) - Creating beautiful user flow prototypes and basic structures. Over 350+ build graphics.
   * [Wireframer](https://www.figma.com/community/plugin/787660853629435276/Wireframer) - Generate cool SVG placeholder text for your next wireframe.
   * [Wire Box](https://www.figma.com/community/plugin/764471577604277919/Wire-Box) - Sometimes, however, you need to step back into lo-fi wireframes.
+  * [Social Media Image](https://www.figma.com/community/plugin/750116735703341112/Social-Media-Image) - Cheat sheet on Social Media image sizes. All in one place!
   * [Master](https://www.figma.com/community/plugin/767721682134156281/Master) - Create, attach, clone and move components in a couple of clicks without losing overrides.
   * [Interplay](https://www.figma.com/community/plugin/736368164448889527/Interplay) - Imports your design system code repository and lets you design with code components.
   * [Ready Components](https://www.figma.com/community/plugin/830533738628941885/Ready-Components) - Provides ready-made components, can be used in any of the UI design.
@@ -547,7 +555,7 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Design System Organizer](https://www.figma.com/community/plugin/802579985985331070/Design-System-Organizer) - Say goodbye to endless naming schemes with "/" for Components and Styles.
   * [Automatic Style Guides](https://www.figma.com/community/plugin/838622388628773312/Automatic-Style-Guides) - Preparing formal style guide documentation from your local styles.
   
-* Text Plugin
+* Font & Text
   * [Better Font Picker](https://www.figma.com/community/plugin/739922281164562258/Better-Font-Picker) - Helps you select fonts with a preview of how it looks. 
   * [Font Scale](https://www.figma.com/community/plugin/741231992144144738/Font-Scale) - Font Scale is a quick tool to generate a harmonious and consistent typography hierarchy.
   * [Textyles](https://www.figma.com/community/plugin/804843548882105498/Textyles) - Textyles speeds up your typographic workflow by generating Text Styles quickly.
@@ -559,27 +567,20 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Arc](https://www.figma.com/community/plugin/762070688792833472/arc) - Curve your text upward, downward or into a circle. Adjust the slider and preview the result.
   * [TextWrap](https://www.figma.com/community/plugin/760113603535822095/TextWrap) - A way to wrap your text around a circle. Excellent for badges, etc.
   * [Substrate for Text](https://www.figma.com/community/plugin/739517744595900126/Substrate-for-text) - Highlight text by adding the cool substrate with this simple plugin.
-  * [Text From Image](https://www.figma.com/community/plugin/825603645067095312/Text-From-Image) - Use OCR to copy text from an image fill. The magic of optical character recognition.
 
-* Color Plugin
-  * [Anywhere Picker](https://www.figma.com/community/plugin/769033212122764418/Anywhere-Picker) - A color picker that will let you choose a color anywhere on your desktop.
+* Color & Gradient
   * [Color Palettes](https://www.figma.com/community/plugin/740832935938649295/Color-Palettes) - 1500+ meaningful color palettes for your next creative projects.
-  * [Compliments](https://www.figma.com/community/plugin/741291546405622147/Compliments) - Find complementary, split complementary, triad, tetrad, analogous colors, etc.
+  * [Brands Colors](https://www.figma.com/community/plugin/740232388085828578/Brands-Colors) - Find the best color from the world's best brands and cool apps.
+  * [Color Search](https://www.figma.com/community/plugin/768550475442788437/Color-Search) - Choose your favorite an add it to your local styles in seconds.
+  * [Webgradients](https://www.figma.com/community/plugin/802147585857776440/Webgradients) - Powerful functional gradient plugin that you can use as content backdrops.
   * [uiGradients](https://www.figma.com/community/plugin/744909029427810418/uiGradients) - Adds gradients to groups, text and frames in single click.
-  * [CoolHue](https://www.figma.com/community/plugin/807561639084281386/CoolHue---Gradient-Color-Palette) - Coolest handpicked gradient palette with 60+ ready to use gradients.
-  * [Chromatic Figma](https://www.figma.com/community/plugin/759433498184507623/Chromatic-Figma) - Lets you use other color spaces than RGB, to create good-looking color.
   * [Color Designer](https://www.figma.com/community/plugin/739475857305927370/Color-Designer) - Generates shades, tints, and color harmonies based on select layers or local styles.
+  * [Chromatic Figma](https://www.figma.com/community/plugin/759433498184507623/Chromatic-Figma) - Lets you use other color spaces than RGB, to create good-looking color.
+  * [Chroma Colors](https://www.figma.com/community/plugin/739237058450529919/Chroma-Colors) - Create bulk color styles from selection.
+  * [Colorizer](https://www.figma.com/community/plugin/816889819624434639/Colorizer) - Sort colors by their hue value.
   * [Adjustments](https://www.figma.com/community/plugin/798711644668166520/Adjustments) - HSL color adjustments allow you to tweak hue, saturation and lightness values.
-  * [Color Overlay](https://www.figma.com/community/plugin/786223450940846289/Color-Overlay) - Recolor PNGs right in Figma, saving minutes of precious time.
-  * [Color Filters](https://www.figma.com/community/plugin/735658738614175372/Color-filters...) - Simple plugin that allows you to quick convert all the colors in you selected layers or frames.
-  * [Filter](https://www.figma.com/community/plugin/792025380269016893/Filter) - At the moment, there are more than 30 customizable filters available.
-  * [Dither](https://www.figma.com/community/plugin/752462766270432644/Dither) - Add dithering effects to your images right there in Figma. Faster Image processing.
-  * [Dominant Color Toolkit](https://www.figma.com/community/plugin/744725347356614754/Dominant-Color-Toolkit-%F0%9F%8E%A8) - Generate a palette from an image to magically populate your designs.
-  * [Image Palette](https://www.figma.com/community/plugin/731841207668879837/Image-Palette) - Extracts a colour palette of 5 different colours from the selected images.
-  * [Contrast](https://www.figma.com/community/plugin/748533339900865323/Contrast) - Makes it easy to check the contrast ratios of colors as you work.
-  * [Stark](https://www.figma.com/community/plugin/732603254453395948/Stark) - Design products that are accessible, ethical, and inclusive. All based on WCAG guidelines.
-
-* Icons Plugin
+  
+* Icons & Logos
   * [Iconify](https://www.figma.com/community/plugin/735098390272716381/Iconify) - Import Material Design Icons, FontAwesome, Jam Icons, EmojiOne, and many other icons.
   * [Icons8](https://www.figma.com/community/plugin/791103617505812222/Icons8) - Access the entire Icons8 icon library. 120,000 icons!
   * [Font Awesome Icons](https://www.figma.com/community/plugin/774202616885508874/Font-Awesome-Icons) - This is the unofficial plugin for the Font Awesome Icon Collection.
@@ -589,7 +590,7 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Feather Icons](https://www.figma.com/community/plugin/744047966581015514/Feather-Icons) - Collection of simply beautiful open source icons. Quick access to Feather icons in Figma.
   * [Material Design Icons](https://www.figma.com/community/plugin/740272380439725040/Material-Design-Icons) - Provides you instant easy access to the entire Material Design Icons library.
   
-* Illustration & Logo Plugin
+* Illustration
   * [Blush](https://www.figma.com/community/plugin/838959511417581040/Blush) - Create and customize illustrations in your designs with Blush.
   * [Humaaans for Figma](https://www.figma.com/community/plugin/739503328703046360/Humaaans-for-Figma) - Brings the amazing illustations library called Humaaans by Pablo Stanley to Figma.
   * [Illustrations](https://www.figma.com/community/plugin/781441863578182316/Illustrations) - Free Illustration library for everyone. 250+ illustrations by pablo stanley.
@@ -597,14 +598,23 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Logo Creator](https://www.figma.com/community/plugin/768094929040207895/Logo-Creator) - Craft a beautiful logo from prebuild collections of 300+ logos.
   * [Iconscout](https://www.figma.com/community/plugin/744098704933821409/Iconscout) - Allows you to insert millions of high quality icons, illustrations and stock photos.
   
-* Image Plugin
+* Image Tools
   * [Photos](https://www.figma.com/community/plugin/745428728979155171/Photos) - Search and insert photos (from Unsplash, Pixabay and Flickr) into your Figma files. 
   * [Unsplash](https://www.figma.com/community/plugin/738454987945972471/Unsplash) - Insert beautiful images from Unsplash straight into your designs.
   * [EasyMask](https://www.figma.com/community/plugin/781317794301477536/EasyMask) - Create a mask from the top selected layer. Similiar to how Adobe AI does making.
   * [Remove BG](https://www.figma.com/community/plugin/738992712906748191/Remove-BG) - Remove the background of images automatically with just a single click.
   * [TinyImage Compressor](https://www.figma.com/community/plugin/789009980664807964/TinyImage-Compressor) - Export compressed JPG, PNG, SVG, WebP, GIF and PDF image files.
+  * [Text From Image](https://www.figma.com/community/plugin/825603645067095312/Text-From-Image) - Use OCR to copy text from an image fill. The magic of optical character recognition.
+  * [Image Tracer](https://www.figma.com/community/plugin/735707089415755407/Image-tracer) - Traces black & white bitmap images, and turns them into a vector layer.
+  
+* Images Filter
+  * [Filter](https://www.figma.com/community/plugin/792025380269016893/Filter) - 30+ Customizable filters : Brightness, contrast, hue saturation, exposure, sepia, etc.
+  * [Color Overlay](https://www.figma.com/community/plugin/786223450940846289/Color-Overlay) - Recolor PNGs right in Figma, saving minutes of precious time.
+  * [Color Filters](https://www.figma.com/community/plugin/735658738614175372/Color-filters...) - Simple plugin that allows you to quick convert all the colors in you selected layers or frames.
+  * [Dither](https://www.figma.com/community/plugin/752462766270432644/Dither) - Add dithering effects to your images right there in Figma. Faster Image processing.
+  * [Dominant Color Toolkit](https://www.figma.com/community/plugin/744725347356614754/Dominant-Color-Toolkit-%F0%9F%8E%A8) - Generate a palette from an image to magically populate your designs.
 
-* Mockup Plugin
+* Mockup Bundle
   * [Artboard Studio Mockups](https://www.figma.com/community/plugin/750673765607708804/Artboard-Studio-Mockups) - Access to thousands of world-class quality Artboard Studio mockup.
   * [Mockuuups Studio](https://www.figma.com/community/plugin/786250770157843670/Mockuuups-Studio) - A super-easy mockup generator with over 500 various scenes.
   * [Vectary 3D](https://www.figma.com/community/plugin/769588393361258724/Vectary-3D) - Vectary 3D plugin for Figma is adding the missing third dimension to your 2D designs.
@@ -664,8 +674,6 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Useberry](https://www.figma.com/community/plugin/788799088384104964/Useberry) - An online user-testing tool that helps UI/UX designers get rich user feedback.
   * [Figmotion](https://www.figma.com/community/plugin/733025261168520714/Figmotion) - Figmotion is an animation tool built right in Figma. Makes the entry into animation easier.
   * [LottieFiles](https://www.figma.com/community/plugin/809860933081065308/LottieFiles) - Figma Animations designed for Web and Mobile. 1000+ of free animations.
-  * [VisualEyes](https://www.figma.com/community/plugin/740542057689267294/VisualEyes) - Understand how users look in your prototypes and how clear pleasing are your designs. 
-  * [Design Lint](https://www.figma.com/community/plugin/801195587640428208/Design-Lint) - Finds missing styles within your designs on all your layers.
   
 <hr>
 <div id="sec10"></div>
