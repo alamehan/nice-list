@@ -27,7 +27,7 @@ Topik yang tersedia di NiceList ini memang tidak banyak dan cenderung lebih ke t
 	<a href="#sec06">➔ 6. Top Chrome Extensions (69)</a>&nbsp;<br>
 	<a href="#sec07">➔ 7. Designer 101 (...)</a>&nbsp;<br>
 	<a href="#sec08">➔ 8. Developer 101 (75)</a>&nbsp;<br>
-	<a href="#sec09">➔ 9. Top Figma Plugins (130)</a>&nbsp;<br>
+	<a href="#sec09">➔ 9. Top Figma Plugins (131)</a>&nbsp;<br>
 	<a href="#sec10">➔ 10. Top Visual Studio Code Extensions (33)</a>&nbsp;<br>
 	<a href="#sec11">➔ 11. Educational Instagram Accounts (460)</a>&nbsp;<br>
 	<a href="#sec12">➔ 12. Windows Software Bundles (154)</a>&nbsp;<br>
@@ -508,10 +508,11 @@ Top Figma Plugins : Hadiah Untuk Designer
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
-**Terakhir Update** : 10/07/2020
+**Catatan** : Daftar plugin dibawah merupakan hasil filter dari total 600+ figma plugins. Terakhir Update : 10/07/2020.
 
 * Project Starter
   * [Project Scaffold](https://www.figma.com/community/plugin/747372158567878238/Project-Scaffold) - This plugin Generates a Scaffold for your Product design project in just 1 click.
+  * [Quick Thumbnail](https://www.figma.com/community/plugin/861544263629766272/Quick-Thumbnail) - Quick help to build a beautiful thumbnail for your figma files.
   * [Product Planner](https://www.figma.com/community/plugin/766652281834442616/Product-Planner) - 15 product manager templates & 12 product planner templates.
   * [Status Annitations](https://www.figma.com/community/plugin/795096273369409539/Status-Annotations) - Quickly indicate the status of your designes when collaborating with your team.
   * [Notepad](https://www.figma.com/community/plugin/739527655081183968/Notepad) - Use Notepad to add a place for notes to your Figma documents.
@@ -680,7 +681,7 @@ Top Visual Studio Code Extensions : Hadiah Untuk Developer
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
-**Terakhir Update** : 10/07/2020
+**Catatan** : Daftar extensions dibawah sudah teruji dan sangat berguna. Terakhir Update : 10/07/2020.
 
 * General
   * [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu) - A simple theme with bright colors and comes in three version - dark, light and mirage.
