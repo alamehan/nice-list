@@ -508,7 +508,7 @@ Top Figma Plugins : Hadiah Untuk Designer
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
-**Catatan** : Daftar plugin dibawah merupakan hasil filter dari total 600+ figma plugins. Terakhir Update : 10/07/2020.
+**Catatan** : Daftar plugin dibawah merupakan hasil filter dari total 600+ figma plugins. _**Terakhir Update** : 10/07/2020_
 
 * Project Starter
   * [Project Scaffold](https://www.figma.com/community/plugin/747372158567878238/Project-Scaffold) - This plugin Generates a Scaffold for your Product design project in just 1 click.
@@ -681,7 +681,7 @@ Top Visual Studio Code Extensions : Hadiah Untuk Developer
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
-**Catatan** : Daftar extensions dibawah sudah teruji dan sangat berguna. Terakhir Update : 10/07/2020.
+_**Terakhir Update** : 10/07/2020_
 
 * General
   * [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu) - A simple theme with bright colors and comes in three version - dark, light and mirage.
@@ -731,7 +731,7 @@ Educational Instagram Accounts : Instragram Sumber Belajar
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
-**Terakhir Update** : 09/03/2020
+_**Terakhir Update** : 09/03/2020_
 
 [top-40-akun-ig-mixed.txt](../master/instagram/top-40-akun-ig-mixed.txt) - Perkuliahan dan karir, hijrah time, muda-mudi kekinian, olshop dan diskon.<br>
 [top-40-akun-ig-funny.txt](../master/instagram/top-40-akun-ig-funny.txt) - Hewan (kucing) lucu, nonton/streaming kartun, komik dan animasi, hiburan lainnya.<br>
