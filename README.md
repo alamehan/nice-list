@@ -512,36 +512,29 @@ Top Figma Plugins : Hadiah Untuk Designer
 * Project Starter
   * [Project Scaffold](https://www.figma.com/community/plugin/747372158567878238/Project-Scaffold) - This plugin Generates a Scaffold for your Product design project in just 1 click.
   * [Product Planner](https://www.figma.com/community/plugin/766652281834442616/Product-Planner) - 15 product manager templates & 12 product planner templates.
-  * [Project Notes](https://www.figma.com/community/plugin/814117528089546244/Project-Notes) - Easy to access titles, footnotes and stickies for all your artboards.
   * [Status Annitations](https://www.figma.com/community/plugin/795096273369409539/Status-Annotations) - Quickly indicate the status of your designes when collaborating with your team.
   * [Todo](https://www.figma.com/community/plugin/747822968977461925/Todo) - Simple todo list plugin to check off your tasks inside Figma!
   * [Notepad](https://www.figma.com/community/plugin/739527655081183968/Notepad) - Use Notepad to add a place for notes to your Figma documents.
   
 * Organizer & Tools
   * [Easy Units](https://www.figma.com/community/plugin/835063877729335093/Easy-Units) - Convert your shape and text from pixels to inches, rem, cm, ft.
+  * [Redlines](https://www.figma.com/community/plugin/781354942292031141/Redlines) - Generate redlines from a selection of objects with ease. Quickly measure and plot dimensions.
   * [Super Select](https://www.figma.com/community/plugin/750783568176946334/Super-Select) - Select All Siblings and Invert Siblings support multiple layer selections.
   * [Style Organizer](https://www.figma.com/community/plugin/816627069580757929/Style-Organizer) - Display and organize all color styles in the page. Relink unlinked styles.
   * [Batch Styler](https://www.figma.com/community/plugin/818203235789864127/Batch-Styler) - Change multiple text & color styles at once, no matter if 2 or 30 styles.
   * [Design System Organizer](https://www.figma.com/community/plugin/802579985985331070/Design-System-Organizer) - Say goodbye to endless naming schemes with "/" for Components and Styles. 
   * [Clean Document](https://www.figma.com/community/plugin/767379019764649932/Clean-Document) - Automagically organize and clean up your Figma document. Smart rename, sort, etc.
+  * [Pixel Perfect](https://www.figma.com/community/plugin/741300632449121669/Pixel-Perfect) - Move everything back onto the pixel grid, round position and dimentions.
+  * [Round it!](https://www.figma.com/community/plugin/777919055291347154/Round-it!) - Round all properties to the nearest multiplier of 8, 10, or your custom value.
   * [Fix Your Mess](https://www.figma.com/community/plugin/817773666528183444/Fix-Your-Mess) - Fix Your Mess scans your Figma designs and helps you tidy up your work.
   * [Reset Text Layer Name](https://www.figma.com/community/plugin/768671547563304036/Reset-Text-Layer-Name) - Ever end up wanting to reset your layer names? This plugin will help you.
-  * [Redlines](https://www.figma.com/community/plugin/781354942292031141/Redlines) - Generate redlines from a selection of objects with ease. Quickly measure and plot dimensions.
-  * [Snap Master 3000](https://www.figma.com/community/plugin/822303390338504468/Snap-Master-3000) - Do you ever dream to make widths in your design consistent? Already here.
-  * [Spacing Manager](https://www.figma.com/community/plugin/809099681305129697/Spacing-Manager) - Say goodbye to endless naming schemes with "/" for Components and Styles. 
-  * [Round it!](https://www.figma.com/community/plugin/777919055291347154/Round-it!) - Round all properties to the nearest multiplier of 8, 10, or your custom value.
   
 * Layout Plugin
   * [Viewports](https://www.figma.com/community/plugin/732240841094697441/Viewports) - Browse the most popular display sizes and apply them to frames.
   * [Responsify ⚡️](https://www.figma.com/community/plugin/743654854885744527/Responsify-%E2%9A%A1%EF%B8%8F) - A Figma plugin to quickly test your designs across multiple device sizes.
-  * [Responsive](https://www.figma.com/community/plugin/840727678445998968/Responsive) - Preview your responsive designs inside Figma.
-  * [Guides inspector](https://www.figma.com/community/plugin/763500131554051614/Guides-inspector) - Complete control over the guides. Create & delete guides, generate grids, etc.
-  * [Guide Mate](https://www.figma.com/community/plugin/739342962452731553/Guide-Mate) - Helps you add complex guides, great companion for grid based design systems. 
-  * [Clear Guides](https://www.figma.com/community/plugin/753903260307779121/Clear-Guides) - If you have one or more frames selected it will clear the guides in those frames.
   * [Snap to Grid](https://www.figma.com/community/plugin/773875667263247070/Snap-to-Grid) - Helper with which it is even easier to arrange elements on the grid.
   * [Grids Generator](https://www.figma.com/community/plugin/841313026689642442/Grids-Generator) - Apply any frame with grid styles config inspired from Chrome's element inspector.
   * [Auto Grid](https://www.figma.com/community/plugin/817474150404549708/AutoGrid) - Define rows, columns and padding and let AutoGrid do the rest.
-  * [LilGrid](https://www.figma.com/community/plugin/795397421598343178/LilGrid) - LilGrid takes elements and arranges them into a grid automatically.
   * [Breakpoints](https://www.figma.com/community/plugin/824289601590456356/Breakpoints) - A resizable native frame that works even without the opened plugin window.
   * [Wireframe](https://www.figma.com/community/plugin/742764242781786818/Wireframe) - Creating beautiful user flow prototypes and basic structures. Over 350+ build graphics.
   * [Wireframer](https://www.figma.com/community/plugin/787660853629435276/Wireframer) - Generate cool SVG placeholder text for your next wireframe.
@@ -551,6 +544,7 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Interplay](https://www.figma.com/community/plugin/736368164448889527/Interplay) - Imports your design system code repository and lets you design with code components.
   * [Ready Components](https://www.figma.com/community/plugin/830533738628941885/Ready-Components) - Provides ready-made components, can be used in any of the UI design.
   * [Master](https://www.figma.com/community/plugin/767721682134156281/Master) - Create, attach, clone and move components in a couple of clicks without losing overrides.
+  * [Spacing Manager](https://www.figma.com/community/plugin/809099681305129697/Spacing-Manager) - Say goodbye to endless naming schemes with "/" for Components and Styles. 
   * [Link to Documentation](https://www.figma.com/community/plugin/748783469068559194/Link-to-Documentation) - Open documentation pages from your components.
   
 * Text Plugin
@@ -642,7 +636,6 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Easometric](https://www.figma.com/community/plugin/750743440401413268/Easometric) - With Easometric it is really easy to create isometric layers & groups.
   * [Shadow Picker](https://www.figma.com/community/plugin/744987207861965946/Shadow-picker) - Stunt & flex with these drop shadows instead, or tweak them to your liking.
   * [SmoothShadow](https://www.figma.com/community/plugin/788830704169694737/SmoothShadow) - Create really smooth, layered shadows with easing curvers, friend.
-  * [Pixel Perfect](https://www.figma.com/community/plugin/741300632449121669/Pixel-Perfect) - Move everything back onto the pixel grid, round position and dimentions.
   * [Swap](https://www.figma.com/community/plugin/739493471028643540/Swap) - Easily swap two selected objects. Keeps the original size of objects and their position.
   * [Aspects](https://www.figma.com/community/plugin/739222456238688882/Aspects) - A little plugin that helps resize selected elements to fit a certain aspect ratio.
   * [Proportional Scale](https://www.figma.com/community/plugin/756895186298946525/Proportional-Scale) - Easily resize your shapes with all other attributes resizing proportionally.
