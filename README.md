@@ -517,7 +517,7 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Notepad](https://www.figma.com/community/plugin/739527655081183968/Notepad) - Use Notepad to add a place for notes to your Figma documents.
   
 * Web Safe Guide
-  * [A11y - Color Contrast Checker](https://www.figma.com/community/plugin/733159460536249875/A11y---Color-Contrast-Checker) - Design products that are accessible, ethical, and inclusive. All based on WCAG guidelines.
+  * [A11y](https://www.figma.com/community/plugin/733159460536249875/A11y---Color-Contrast-Checker) - Design products that are accessible, ethical, and inclusive. All based on WCAG guidelines.
   * [Contrast](https://www.figma.com/community/plugin/748533339900865323/Contrast) - Makes it easy to check the contrast ratios of colors as you work.
   * [Color Blind](https://www.figma.com/community/plugin/733343906244951586/Color-Blind) - allows you to view your designs in the 8 different types of color vision deficiencies.
   * [VisualEyes](https://www.figma.com/community/plugin/740542057689267294/VisualEyes) - Understand how users look in your prototypes and how clear pleasing are your designs.
