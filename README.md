@@ -27,7 +27,7 @@ Topik yang tersedia di NiceList ini memang tidak banyak dan cenderung lebih ke t
 	<a href="#sec06">➔ 6. Top Chrome Extensions (69)</a>&nbsp;<br>
 	<a href="#sec07">➔ 7. Designer 101 (...)</a>&nbsp;<br>
 	<a href="#sec08">➔ 8. Developer 101 (74)</a>&nbsp;<br>
-	<a href="#sec09">➔ 9. Top Figma Plugins (...)</a>&nbsp;<br>
+	<a href="#sec09">➔ 9. Top Figma Plugins (133)</a>&nbsp;<br>
 	<a href="#sec10">➔ 10. Top Visual Studio Code Extensions (31)</a>&nbsp;<br>
 	<a href="#sec11">➔ 11. Educational Instagram Accounts (460)</a>&nbsp;<br>
 	<a href="#sec12">➔ 12. Windows Software Bundles (154)</a>&nbsp;<br>
@@ -572,7 +572,6 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Chromatic Figma](https://www.figma.com/community/plugin/759433498184507623/Chromatic-Figma) - Lets you use other color spaces than RGB, to create good-looking color.
   * [Color Designer](https://www.figma.com/community/plugin/739475857305927370/Color-Designer) - Generates shades, tints, and color harmonies based on select layers or local styles.
   * [Adjustments](https://www.figma.com/community/plugin/798711644668166520/Adjustments) - HSL color adjustments allow you to tweak hue, saturation and lightness values.
-  * [Color Overlay](https://www.figma.com/community/plugin/786223450940846289/Color-Overlay) - Recolor PNGs right in Figma, saving minutes of precious time.
   * [Color Overlay](https://www.figma.com/community/plugin/786223450940846289/Color-Overlay) - Recolor PNGs right in Figma, saving minutes of precious time.
   * [Color Filters](https://www.figma.com/community/plugin/735658738614175372/Color-filters...) - Simple plugin that allows you to quick convert all the colors in you selected layers or frames.
   * [Filter](https://www.figma.com/community/plugin/792025380269016893/Filter) - At the moment, there are more than 30 customizable filters available.
