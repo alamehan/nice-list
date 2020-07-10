@@ -26,7 +26,7 @@ Topik yang tersedia di NiceList ini memang tidak banyak dan cenderung lebih ke t
 	<a href="#sec05">➔ 5. Self Improvement (78)</a>&nbsp;<br>
 	<a href="#sec06">➔ 6. Top Chrome Extensions (69)</a>&nbsp;<br>
 	<a href="#sec07">➔ 7. Designer 101 (...)</a>&nbsp;<br>
-	<a href="#sec08">➔ 8. Developer 101 (74)</a>&nbsp;<br>
+	<a href="#sec08">➔ 8. Developer 101 (75)</a>&nbsp;<br>
 	<a href="#sec09">➔ 9. Top Figma Plugins (133)</a>&nbsp;<br>
 	<a href="#sec10">➔ 10. Top Visual Studio Code Extensions (31)</a>&nbsp;<br>
 	<a href="#sec11">➔ 11. Educational Instagram Accounts (460)</a>&nbsp;<br>
@@ -450,7 +450,8 @@ Developer 101 : Paket Komplit Developer
   * [Frontend Web Dev Resources](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend Resources.
 
 * Web Dev : Gift for Frontend Developer 🎁
-  * [Colorlib - Website Templates Archives](https://colorlib.com/wp/category/website-templates/) - Free starter templates.
+  * [Colorlib - Website Templates Archives](https://colorlib.com/wp/category/website-templates/) - Free starter templates #1.
+  * [HTML5 Up - Responsive Site Templates](https://html5up.net/) - Free starter templates #2.
   * [LayoutIt](https://layoutit.com/) - CSS Grid playground and code generator (for layouting #1).
   * [Flexy Boxes](https://the-echoplex.net/flexyboxes/) - Flexbox playground and code generator (for layouting #2).
   * [CSSDB](https://cssdb.co/) - A collection of the world's best CSS, Sass, LESS libraries.
@@ -513,39 +514,38 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Project Scaffold](https://www.figma.com/community/plugin/747372158567878238/Project-Scaffold) - This plugin Generates a Scaffold for your Product design project in just 1 click.
   * [Product Planner](https://www.figma.com/community/plugin/766652281834442616/Product-Planner) - 15 product manager templates & 12 product planner templates.
   * [Status Annitations](https://www.figma.com/community/plugin/795096273369409539/Status-Annotations) - Quickly indicate the status of your designes when collaborating with your team.
-  * [Todo](https://www.figma.com/community/plugin/747822968977461925/Todo) - Simple todo list plugin to check off your tasks inside Figma!
   * [Notepad](https://www.figma.com/community/plugin/739527655081183968/Notepad) - Use Notepad to add a place for notes to your Figma documents.
   
-* Organizer & Tools
+* Tools & Tidy Up
   * [Easy Units](https://www.figma.com/community/plugin/835063877729335093/Easy-Units) - Convert your shape and text from pixels to inches, rem, cm, ft.
-  * [Redlines](https://www.figma.com/community/plugin/781354942292031141/Redlines) - Generate redlines from a selection of objects with ease. Quickly measure and plot dimensions.
   * [Super Select](https://www.figma.com/community/plugin/750783568176946334/Super-Select) - Select All Siblings and Invert Siblings support multiple layer selections.
-  * [Style Organizer](https://www.figma.com/community/plugin/816627069580757929/Style-Organizer) - Display and organize all color styles in the page. Relink unlinked styles.
-  * [Batch Styler](https://www.figma.com/community/plugin/818203235789864127/Batch-Styler) - Change multiple text & color styles at once, no matter if 2 or 30 styles.
-  * [Design System Organizer](https://www.figma.com/community/plugin/802579985985331070/Design-System-Organizer) - Say goodbye to endless naming schemes with "/" for Components and Styles. 
   * [Clean Document](https://www.figma.com/community/plugin/767379019764649932/Clean-Document) - Automagically organize and clean up your Figma document. Smart rename, sort, etc.
+  * [Reset Text Layer Name](https://www.figma.com/community/plugin/768671547563304036/Reset-Text-Layer-Name) - Ever end up wanting to reset your layer names? This plugin will help you.
+  * [Redlines](https://www.figma.com/community/plugin/781354942292031141/Redlines) - Generate redlines from a selection of objects with ease. Quickly measure and plot dimensions.
   * [Pixel Perfect](https://www.figma.com/community/plugin/741300632449121669/Pixel-Perfect) - Move everything back onto the pixel grid, round position and dimentions.
   * [Round it!](https://www.figma.com/community/plugin/777919055291347154/Round-it!) - Round all properties to the nearest multiplier of 8, 10, or your custom value.
   * [Fix Your Mess](https://www.figma.com/community/plugin/817773666528183444/Fix-Your-Mess) - Fix Your Mess scans your Figma designs and helps you tidy up your work.
-  * [Reset Text Layer Name](https://www.figma.com/community/plugin/768671547563304036/Reset-Text-Layer-Name) - Ever end up wanting to reset your layer names? This plugin will help you.
   
-* Layout Plugin
+* Canvas & Responsive
   * [Viewports](https://www.figma.com/community/plugin/732240841094697441/Viewports) - Browse the most popular display sizes and apply them to frames.
   * [Responsify ⚡️](https://www.figma.com/community/plugin/743654854885744527/Responsify-%E2%9A%A1%EF%B8%8F) - A Figma plugin to quickly test your designs across multiple device sizes.
   * [Snap to Grid](https://www.figma.com/community/plugin/773875667263247070/Snap-to-Grid) - Helper with which it is even easier to arrange elements on the grid.
   * [Grids Generator](https://www.figma.com/community/plugin/841313026689642442/Grids-Generator) - Apply any frame with grid styles config inspired from Chrome's element inspector.
   * [Auto Grid](https://www.figma.com/community/plugin/817474150404549708/AutoGrid) - Define rows, columns and padding and let AutoGrid do the rest.
   * [Breakpoints](https://www.figma.com/community/plugin/824289601590456356/Breakpoints) - A resizable native frame that works even without the opened plugin window.
+  
+* Layout & Component
   * [Wireframe](https://www.figma.com/community/plugin/742764242781786818/Wireframe) - Creating beautiful user flow prototypes and basic structures. Over 350+ build graphics.
   * [Wireframer](https://www.figma.com/community/plugin/787660853629435276/Wireframer) - Generate cool SVG placeholder text for your next wireframe.
   * [Wire Box](https://www.figma.com/community/plugin/764471577604277919/Wire-Box) - Sometimes, however, you need to step back into lo-fi wireframes.
-
-* Component Plugin
+  * [Master](https://www.figma.com/community/plugin/767721682134156281/Master) - Create, attach, clone and move components in a couple of clicks without losing overrides.
   * [Interplay](https://www.figma.com/community/plugin/736368164448889527/Interplay) - Imports your design system code repository and lets you design with code components.
   * [Ready Components](https://www.figma.com/community/plugin/830533738628941885/Ready-Components) - Provides ready-made components, can be used in any of the UI design.
-  * [Master](https://www.figma.com/community/plugin/767721682134156281/Master) - Create, attach, clone and move components in a couple of clicks without losing overrides.
   * [Spacing Manager](https://www.figma.com/community/plugin/809099681305129697/Spacing-Manager) - Say goodbye to endless naming schemes with "/" for Components and Styles. 
-  * [Link to Documentation](https://www.figma.com/community/plugin/748783469068559194/Link-to-Documentation) - Open documentation pages from your components.
+  * [Style Organizer](https://www.figma.com/community/plugin/816627069580757929/Style-Organizer) - Display and organize all color styles in the page. Relink unlinked styles.
+  * [Batch Styler](https://www.figma.com/community/plugin/818203235789864127/Batch-Styler) - Change multiple text & color styles at once, no matter if 2 or 30 styles.
+  * [Design System Organizer](https://www.figma.com/community/plugin/802579985985331070/Design-System-Organizer) - Say goodbye to endless naming schemes with "/" for Components and Styles.
+  * [Automatic Style Guides](https://www.figma.com/community/plugin/838622388628773312/Automatic-Style-Guides) - Preparing formal style guide documentation from your local styles.
   
 * Text Plugin
   * [Better Font Picker](https://www.figma.com/community/plugin/739922281164562258/Better-Font-Picker) - Helps you select fonts with a preview of how it looks. 
