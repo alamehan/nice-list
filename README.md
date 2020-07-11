@@ -19,18 +19,18 @@ Topik yang tersedia di NiceList ini memang tidak banyak dan cenderung lebih ke t
 ## Daftar Isi (Section) :
 
 <p align="left">
-	<a href="#sec01">➔ 1. Find a Job (32)</a>&nbsp;<br>
-	<a href="#sec02">➔ 2. Useful Websites (87)</a>&nbsp;<br>
-	<a href="#sec03">➔ 3. Internet Library (23)</a>&nbsp;<br>
-	<a href="#sec04">➔ 4. Wikipedia Uncover (...)</a>&nbsp;<br>
-	<a href="#sec05">➔ 5. Self Improvement (78)</a>&nbsp;<br>
-	<a href="#sec06">➔ 6. Top Chrome Extensions (69)</a>&nbsp;<br>
-	<a href="#sec07">➔ 7. Designer 101 (...)</a>&nbsp;<br>
-	<a href="#sec08">➔ 8. Developer 101 (75)</a>&nbsp;<br>
-	<a href="#sec09">➔ 9. Top Figma Plugins (131)</a>&nbsp;<br>
-	<a href="#sec10">➔ 10. Top Visual Studio Code Extensions (33)</a>&nbsp;<br>
-	<a href="#sec11">➔ 11. Educational Instagram Accounts (460)</a>&nbsp;<br>
-	<a href="#sec12">➔ 12. Windows Software Bundles (154)</a>&nbsp;<br>
+	<a href="#sec01">1. Find a Job (32)</a>&nbsp;<br>
+	<a href="#sec02">2. Useful Websites (87)</a>&nbsp;<br>
+	<a href="#sec03">3. Internet Library (23)</a>&nbsp;<br>
+	<a href="#sec04">4. Wikipedia Uncover (...)</a>&nbsp;<br>
+	<a href="#sec05">5. Self Improvement (78)</a>&nbsp;<br>
+	<a href="#sec06">6. Top Chrome Extensions (69)</a>&nbsp;<br>
+	<a href="#sec07">7. Designer 101 (...)</a>&nbsp;<br>
+	<a href="#sec08">8. Developer 101 (75)</a>&nbsp;<br>
+	<a href="#sec09">9. Top Figma Plugins (131)</a>&nbsp;<br>
+	<a href="#sec10">10. Top Visual Studio Code Extensions (33)</a>&nbsp;<br>
+	<a href="#sec11">11. Educational Instagram Accounts (460)</a>&nbsp;<br>
+	<a href="#sec12">12. Windows Software Bundles (154)</a>&nbsp;<br>
 </p>
 
 <img src="images/img-letsgo.png">
@@ -91,7 +91,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [Skill Share](https://www.skillshare.com/) - Learning platform with online classes taught by the world's best practitioners.
   * [Plural Sight](https://www.pluralsight.com/) - Gives you confidence you have the skills you need to execute your technology strategy.
   * [Treehouse](https://teamtreehouse.com/) - Learn to code, gain a new skill, get a new job. Whatever your goal — we'll get you there.
-  * [Codecademy](https://www.codecademy.com/) - Learn the technical skills you need for the job you want.
+  * [Codecademy](https://www.codecademy.com/) - Learn the technical skills you need for the job you want. An online interactive platform.
  
 * Discover Documents
   * [Internet Archive](https://archive.org/) - Digital library offering free universal access to books, movies & music.
@@ -116,13 +116,13 @@ Useful Websites : Jelajah Manfaat Internet
   * [Graphicex](https://graphicex.com/) - Free AE Template, Videohive, Vector, Stock Image , PSD, Photoshop (2).
   * [Ttorial](http://ttorial.com/) - Obtain & download the best online courses for free, from 100+ leading institutions.
   * [FreeCourseLab](https://freecourselab.com/) - A great place to learn. Download Udemy Courses for Free.
-  * [FreeCourseUdemy](https://freecourseudemy.com/) - Premium Udemy tutorials free download.
-  * [KeBioskop21](http://103.194.171.185/) - Streaming film online gratis subtitle Indo.
+  * [FreeCourseUdemy](https://freecourseudemy.com/) - Premium Udemy tutorials free download. Top udemy courses. 
+  * [KeBioskop21](http://103.194.171.185/) - Streaming film maupun tv series online gratis, subtitle Indonesia.
   
 * Coupon Hunter
   * [OzBargain](https://www.ozbargain.com.au/tag/udemy-course) - Hunting community, coupon codes and freebies.
   * [Freebies Global](https://freebiesglobal.com/) - Latest freebies, courses, coupons & deals.
-  * [Disc Udemy](https://www.discudemy.com/language/english) - Free Udemy courses and zero broken link.
+  * [Disc Udemy](https://www.discudemy.com/language/english) - The only website where expired courses are deleted.
   * [Coupo Scorpion](https://couponscorpion.com/) - The ultimate resource for 100% free Udemy coupons.
   * [LearnViral](https://udemycoupon.learnviral.com/) - Free Udemy coupons, get your coupons before they expire.
   * [CouponCause](https://couponcause.com/) - Find promo codes and online discounts by store and category.
@@ -143,11 +143,11 @@ Useful Websites : Jelajah Manfaat Internet
   * [Deep-image.ai](https://deep-image.ai/) - Upscale and enhance photo, improve picture quality based on ANN.
   
 * Useful Web Tools
-  * [Get Emoji](https://getemoji.com/) - ✂️ Copy and 📋 paste emoji 👍 no apps required 😀 😃 😄 😁 😆 😅 😂.
+  * [Get Emoji](https://getemoji.com/) - Copy and paste emoji no apps required 😀 😃 😄 😁 😆 🍎 🍐 🍊 🍋 🍌.
   * [Emojipedia](https://emojipedia.org/) - A fast emoji search experience with options to browse every emoji by name or category.
   * [Cool Symbol](https://coolsymbol.com/) - A symbol & picture text collection that provides access to many special fancy text symbols.
   * [LingoJam](https://lingojam.com/) - LingoJam lets you create an online translator (biasanya untuk style text generator).
-  * [Text Fixer](https://www.textfixer.com/) - Collection of free online tools for web coding and text conversion
+  * [Text Fixer](https://www.textfixer.com/) - A Helpful collection of free online tools for web coding and text conversion.
   * [Online Text Tools](https://onlinetexttools.com/) - Online text tools is a collection of useful text utilities (Add line number, etc).
   * [Tools4Noobs](https://www.tools4noobs.com/online_tools/) - Tools you didn't even know you needed. A collection of useful scripts (Count lines, etc).
   * [Sort My List](https://sortmylist.com/) - Online word tool to alphabetize & text sort. Sort numerically or by length and more.
@@ -155,12 +155,12 @@ Useful Websites : Jelajah Manfaat Internet
   * [Subtitle Translator](https://www.syedgakbar.com/projects/dst) - Quickly translate subtitles from one language to other language.
   * [ttsMP3](https://ttsmp3.com/) - Easily convert your written text into natural sounding voice in up to 50 different languages.
   * [Pastebin](https://pastebin.com/) - Pastebin is a website where you can store text online for a set period of time.
-  * [Bitly](https://bitly.com/) - Shorten, create and share trusted, powerful links for your business.
+  * [Bitly](https://bitly.com/) - Shorten, create and share trusted, powerful links for your business. Create click-worthy links.
   * [Linktree](https://linktr.ee/) - free bio link tool used by the world's best brands, creators and influencers.
   * [Small PDF](https://smallpdf.com/) - All-in-one (convert, compress, merge, split and edit) easy-to-use online PDF tools.
-  * [Vector Magic](https://vectormagic.com/) - Easily Convert JPG, PNG, GIF Files to PDF, SVG, EPS Vectors.
+  * [Vector Magic](https://vectormagic.com/) - The world's best full-color auto-tracer. Easily convert JPG/PNG/GIF to PDF/SVG/EPS Vectors.
   * [Google Earth](https://www.google.com/intl/id/earth/) - 3D representation of Earth based primarily on satellite imagery - Allows you to "fly".
-  * [IsItDownRightNow?](https://www.isitdownrightnow.com/) - Monitors the status of your favorite web sites and checks whether they are down or not. 
+  * [IsItDownRightNow?](https://www.isitdownrightnow.com/) - Monitors the status of websites and checks whether they are down or not. 
   * [HaveIBeenPwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach.
  
 <hr>
@@ -173,9 +173,8 @@ Internet Library : Eksplorasi Beragam Topik
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
 * The Right Way
-  * Web Dev : [GitKrakenDocs](https://www.gitkraken.com/resources/devops-report-2020), [W3Docs](https://www.w3docs.com/), [W3Schools](https://www.w3schools.com/), [DevDocs](https://devdocs.io/) (Sebelum ke framework, dll)
-  * Know Your Self : _(Upcoming!)_
-  * Learn English : _(Upcoming!)_
+  * Web Development : [Developer Roadmaps](https://roadmap.sh/), [GitKrakenDocs](https://www.gitkraken.com/resources/devops-report-2020), [W3Docs](https://www.w3docs.com/), [W3Schools](https://www.w3schools.com/), [DevDocs](https://devdocs.io/)
+  * Know Yourself : _(Upcoming!)_ & Learn English : _(Upcoming!)_
 
 * Good Resources
   * Psychology : [Positive Psychology](https://positivepsychology.com/), [Simply Psychology](https://www.simplypsychology.org/), [CCI Health](https://www.cci.health.wa.gov.au/Resources/Overview), [Psychology Tools](https://www.psychologytools.com/), [Tools](https://psychology-tools.com/)
@@ -208,20 +207,20 @@ Self Improvement : Perluas Ide & Wawasan
   * [Pimtar](https://pimtar.id/) - Sebentar bacanya, cepat pintarnya. Aplikasi rangkuman buku best seller pertama di Indonesia.
   * [Saputrawhy](https://www.saputrawhy.com/reading-notes/) - Halaman tentang ringkasan buku, berupa poin-poin yang berisi ide atau pelajaran penting.
   * [Darmawan Aji](https://darmawanaji.com/) - Penulis buku mindful life, productivity hack, life by design, hypnoselling, hypnowriting.
-  * [Dewa Eka Prayoga](https://dewaekaprayoga.com/) - Dewa Selling, hobi jualan, plus ngajarin orang jago jualan.
+  * [Dewa Eka Prayoga](https://dewaekaprayoga.com/) - Business owner, moslem internet marketer, author, founder Jago Jualan.
   * [Arry Rahmawan](https://arryrahmawan.net/) - Mengikat dan berbagi ilmu untuk generasi Indonesia yang Lebih Baik.
   * [Hitman System](https://hitmansystem.com/produk) - Satu-satunya professional relationship consultancy di Indonesia.
 
 * Books and Ideas (EN)
   * [LifeClub](https://lifeclub.org/book-categories) - Life Club is building a university for life skills. Like a Wikipedia for life skills.
   * [BookAuthority](https://bookauthority.org/) - The most recommended books on business, technology and science.
-  * [Blinkist](https://www.blinkist.com/) - Big ideas in small packages. Key takeaways from the world’s best nonfiction books in text and audio.
+  * [Blinkist](https://www.blinkist.com/) - Big ideas in small packages. Key takeaways from best nonfiction books in text and audio.
   * [12min](https://12min.com/) - The best ideas in your pocket. You are only a few seconds away from changing your life.
   * [Four Minutes](https://fourminutebooks.com/) - Over 600 free book summaries. You can read each one in just 4 minutes.
   * [Optimize Me](https://www.optimize.me/) - The best Big Ideas from the best optimal living books. More wisdom in less time.
   * [The Power Moves](https://thepowermoves.com/start-here/) - E-learning platform, social dynamics, power, and life strategies.
   * [Faster to Master](https://fastertomaster.com/) - Faster to Master. Read more, learn faster and wake up productivity.
-  * [The Book Summary Club](https://booksummaryclub.com/) - Think big, read small. Short book summaries and reviews for business owners.
+  * [The Book Summary Club](https://booksummaryclub.com/) - Think big, read small. Short book summaries for business owners.
   * [Paul Minors](https://paulminors.com/resources/) - I can help you to be more effective with your time and get more done.
   * [Nat Eliason](https://www.nateliason.com/notes/) - Most of the important things I’ve learned have come from books, articles, etc.
   * [Sam Thomas](https://www.samuelthomasdavies.com/book-summaries/) - I take brief but concise notes from the best non-fiction books of all-time.
@@ -229,13 +228,13 @@ Self Improvement : Perluas Ide & Wawasan
   * [Marc Reclau](https://www.marcreklau.com/) - Author of the #1 Bestseller "30 days change your habits, change your life".
   * [Gates Notes](https://www.gatesnotes.com/Books) - Where Gates shared about the people he met, the books he read, and what he learned.
   * [Mark Manson](https://markmanson.net/best-books) - Lists of the best books to read based on hundreds of hours of reading and research.
-  * [Design Epic Life](https://designepiclife.com/) - Design your greatest life and unleash the best version of you.
+  * [Design Epic Life](https://designepiclife.com/) - Design your greatest life and unleash the best version of you. Design your epic life.
   * [Experience Life](https://experiencelife.com/) - Empowering people to become their happiest - deeply satisfying way of life.
-  * [Success.com](https://www.success.com/) - Magazine that focuses on people who take full responsibility for their own dev and income.
+  * [Success.com](https://www.success.com/) - Focuses on people who take full responsibility for their own dev and income.
 
 * Podcast and Ideas (ID & EN)
-  * [Podcast Subjective](https://soundcloud.com/iqbalhariadi) - Berbagi kisah, insight, dan tips praktis pengembangan diri.
-  * [Satu Persen Audio Insight](https://open.spotify.com/show/1iIFlumWtP4xI1QEzCBcSY) - Berkembang bersama kami, satu persen setiap harinya.
+  * [Podcast Subjective](https://soundcloud.com/iqbalhariadi) - Millennials opinion & stories. Berbagi kisah, insight, dan tips praktis pengembangan diri.
+  * [Satu Persen Audio Insight](https://open.spotify.com/show/1iIFlumWtP4xI1QEzCBcSY) - Berkembang bersama kami, satu persen setiap harinya #MaksimalkanHidupmu.
   * [Thirty Days of Lunch](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww) - Teman makan siang sekaligus nutrisi untuk pikiran. Ga berat, tapi juga ga receh.
   * [Makna Talks](https://open.spotify.com/show/1PGN4ilb4aoWKkB7FNSLsx) - A weekly podcast with well known subjects every week talking about what's behind the facts.
   * [Hiduplah Indonesia Maya](https://open.spotify.com/show/6yUPhJdvDAMRVwApXBpQWd) - Podcast dari Pandji Pragiwaksono, membahas segala hal yang terjadi di Indonesia.
@@ -251,21 +250,21 @@ Self Improvement : Perluas Ide & Wawasan
   * [Evan Carmichael](https://www.youtube.com/user/ModelingTheMasters) - An introvert entrepreneur. Working to solve the world's biggest problem.
   * [SuccessBefore30](https://www.youtube.com/user/successbefore30/) - Wadah untuk Belajar Berbisnis dan Mengerti tentang aspek-aspek dari Kesuksesan.
   * [Pagar Kehidupan](https://www.youtube.com/channel/UCRPWx7xrHni4v31AkXE16Fg) - Butuh Inspirasi dan bantuan dalam hidup? Ini adalah channel yang bisa Kamu tuju.
-  * [Chandra Hasyim](https://www.youtube.com/channel/UCFCUdbQNQjbK-7UhKy--chg) - Inspiring and motivational video translations in Indonesia.
+  * [Chandra Hasyim](https://www.youtube.com/channel/UCFCUdbQNQjbK-7UhKy--chg) - Inspiring and motivational video translations in Indonesia. Feed your mind.
   * [Merry Riana](https://www.youtube.com/user/merryrianashow) - Menciptakan dampak positif di dalam kehidupan jutaan orang di Indonesia.
   * [Dewa Eka Prayoga](https://www.youtube.com/channel/UCx-9wWeG3YcqxXKXxOn3wMA) - Sharing seputar bisnis online, digital marketing, copywriting, dll.
   
 * Youtube : Animated Book Summaries (EN)
   * [OnePercentBetter](https://www.youtube.com/channel/UCRI6t05DNVlV0XhdI7hx_iw/) - Get the key lessons from self-development books in 10 minutes or less.
-  * [Mervan Polat](https://www.youtube.com/channel/UCfr02PiHepExS81u6jRT2Cw) - I tell stories about art, history, technology, philosophy and science.
+  * [Mervan Polat](https://www.youtube.com/channel/UCfr02PiHepExS81u6jRT2Cw) - I tell stories about art, history, technology, philosophy and science. Book summaries.
   * [Practical Psychology](https://www.youtube.com/channel/UCir93b_ftqInEaDpsWYbo_g) - Giving high-quality and informative videos to everyone who wishes to learn.
   * [After Skool](https://www.youtube.com/channel/UC1KmNKYC1l0stjctkGswl6g) - A weekly dose of fun and interesting science, ideas, stories, education and more.
   * [FightMediocrity](https://www.youtube.com/user/phuckmediocrity) - Big Ideas for a better life. The free audiobook or for reading a book.
   
 * Youtube : Insight, Feed Your Brain (ID)
-  * [Sisi Terang](https://www.youtube.com/channel/UCSg-Y9uI1E-my-I4WKKioEQ) - Penemuan sains, penjelajahan ruang angkasa, misteri, kisah nyata mengejutkan, psikologi, dst.
+  * [Sisi Terang](https://www.youtube.com/channel/UCSg-Y9uI1E-my-I4WKKioEQ) - Penemuan sains, ruang angkasa, misteri, kisah nyata mengejutkan, psikologi, dll.
   * [Kok Bisa?](https://www.youtube.com/channel/UCu0yQD7NFMyLu_-TmKa4Hqg) - Pengalaman belajar sains yang inovatif melalui video-video animasi edukatif.
-  * [Hujan Tanda Tanya](https://www.youtube.com/channel/UC5dn6JdeSgWzcNL7NuvMEKQ) - Rangsangan pemikiran seputar sains, teknologi, dan masyarakat.
+  * [Hujan Tanda Tanya](https://www.youtube.com/channel/UC5dn6JdeSgWzcNL7NuvMEKQ) - Rangsangan pemikiran seputar sains, teknologi, dan masyarakat, dikemas secara ringan.
   * [Sains Bro](https://www.youtube.com/channel/UCCFY2uB8liUM4cnCCkUC6GA) - Channel edukasi Indonesia yang membantu menjelaskan berbagai hal tentang SAINS.
   * [Kamu Harus Tahu](https://www.youtube.com/channel/UCLNrxRWWBw-lYOPaibnvSwA) - Channel edukasi yang menyajikan beragam pengetahuan melalui animasi 2D.
   * [Ayo Mikir](https://www.youtube.com/channel/UCyZa7DYVsdJxnyDw6XmVvCQ) - Channel edukasi yang menyajikan konten tayangan inspiratif dan edukatif untuk Indonesia.
@@ -273,7 +272,7 @@ Self Improvement : Perluas Ide & Wawasan
   * [Nous ID](https://www.youtube.com/channel/UCNgz9dujmF3kTbmR3yJHmlQ) - Nous ID, sebuah channel edukasi alternatif, yang bergerak melalui platform YouTube.
   * [Mau Tau Banget](https://www.youtube.com/channel/UCMCbTLHW5GXsxKMkOelX6-w) - Channel edukasi yang menyajikan berbagai informasi dan pengetahuan melalui Youtube.
   * [DW Indonesia](https://www.youtube.com/user/DWBahasaIndonesia) - Lembaga penyiaran yang memproduksi siaran TV, radio dan informasi melalui internet.
-  * [Remotivi](https://www.youtube.com/user/remotivi) - Lembaga studi dan pemantauan media, khususnya televisi di Indonesia.
+  * [Remotivi](https://www.youtube.com/user/remotivi) - Remotivi adalah lembaga studi dan pemantauan media, khususnya televisi di Indonesia.
   * [Satu Persen](https://www.youtube.com/channel/UC_eifcIIjgN8Q_8m34nWo3Q) - Mengajarkan hal-hal penting yang sampai saat ini belum diajarkan di sekolah konvensional.
   * [Creativox](https://www.youtube.com/channel/UC4DogC2xftpKFlF-XgZoRBg) - A multi-platform entertainment media - educational, and motivational experience!
   * [Froyonion](https://www.youtube.com/channel/UCG1E2hR9KDuAWFoRO0yyE4w) - Froyonion mengajak penonton memikirkan kembali berbagai hal dari sudut pandang lain.
@@ -294,7 +293,7 @@ Self Improvement : Perluas Ide & Wawasan
   * [SmarterEveryDay](https://www.youtube.com/user/destinws2) - I explore the world using science.  That's pretty much all there is to it. 
   * [Up and Atom](https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw) - Making notoriously hard stuff less hard. Math, physics and computer science.
   * [CGP Grey](https://www.youtube.com/user/CGPGrey) - Short explanatory videos, including politics, geography, economics, history, and culture.
-  * [Vsauce](https://www.youtube.com/user/Vsauce/) - The channels feature videos on scientific, psychological, mathematical, and philosophical topics, etc.
+  * [Vsauce](https://www.youtube.com/user/Vsauce/) - Feature videos on scientific, psychological, mathematical, and philosophical topics, etc.
 
 <hr>
 <div id="sec06"></div>
