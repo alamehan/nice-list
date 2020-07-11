@@ -928,7 +928,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Qur'an Tafsiriyah](https://play.google.com/store/apps/details?id=com.annabawy.qtt&hl=in) - Al-Qur'an tarjamah tafsiriyah (QTT) An Nabawi oleh Al Ustadz Muhammad Thalib.
   * [Tafsir Qur'an Ibnu Katsir](https://islamdownload.net/123997-download-tafsir-ibnu-katsir.html) - Ibnu Katsir adalah seorang ahli hadits, ahli fiqih dan ahli tafsir.
   * [HaditsSoft](https://archive.org/details/SetupHaditsSoft) - Aplikasi Hadits yang saat ini berisi kitab-kitab - Bukhari, Muslim, Tirmidzi, dll.
-  * [Ensiklopedi Hadits](https://store.lidwa.com/get/) - Aplikasi hadits terlengkap, dengan total koleksi lebih dari 62 ribu hadits dari 9 Imam.
+  * [Ensiklopedi Hadits](https://store.lidwa.com/get/) - Aplikasi hadits terlengkap, dengan total koleksi 62 ribu hadits dari 9 Imam.
   * [Hadits Web 7.0](https://ibnumajjah.wordpress.com/2017/10/13/hadits-web-7-0/) - Kumpulan hadits dari kitab-kitab hadits terpercaya, tersusun dengan rapih.
   * [Perpustakaan Islam Digital](https://perpustakaanislamdigital.com/) - Himpunan 800 jilid (3600 judul) kitab kajiam islam klasik dan komtemporer.
   * **Useful Apps**
