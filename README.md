@@ -560,7 +560,7 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Automatic Style Guides](https://www.figma.com/community/plugin/838622388628773312/Automatic-Style-Guides) - Preparing formal style guide documentation from your local styles.
   
 * Font & Text
-  * [Better Font Picker](https://www.figma.com/community/plugin/739922281164562258/Better-Font-Picker) - Helps you select fonts with a preview of how it looks. Shows installed fonts in your system.
+  * [Better Font Picker](https://www.figma.com/community/plugin/739922281164562258/Better-Font-Picker) - Helps you select fonts with a preview of how it looks. Shows installed fonts.
   * [Font Scale](https://www.figma.com/community/plugin/741231992144144738/Font-Scale) - Font Scale is a quick tool to generate a harmonious and consistent typography hierarchy.
   * [Textyles](https://www.figma.com/community/plugin/804843548882105498/Textyles) - Textyles speeds up your typographic workflow by generating Text Styles quickly.
   * [Nisa Text Splitter](https://www.figma.com/community/plugin/739048247603902878/Nisa-Text-Splitter) - Easy way to smart split your text/list into small text pieces. Keep styles.
