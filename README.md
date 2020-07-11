@@ -27,7 +27,7 @@ Topik yang tersedia di NiceList ini memang tidak banyak dan cenderung lebih ke t
 	<a href="#sec06">6. Top Chrome Extensions (69)</a>&nbsp;<br>
 	<a href="#sec07">7. Designer 101 (...)</a>&nbsp;<br>
 	<a href="#sec08">8. Developer 101 (75)</a>&nbsp;<br>
-	<a href="#sec09">9. Top Figma Plugins (131)</a>&nbsp;<br>
+	<a href="#sec09">9. Top Figma Plugins (130)</a>&nbsp;<br>
 	<a href="#sec10">10. Top Visual Studio Code Extensions (33)</a>&nbsp;<br>
 	<a href="#sec11">11. Educational Instagram Accounts (460)</a>&nbsp;<br>
 	<a href="#sec12">12. Windows Software Bundles (154)</a>&nbsp;<br>
@@ -75,7 +75,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [Fandom](https://www.fandom.com/) - The entertainment site where fans come first. Source for all things TV, movies, and games, etc.
   * [Medium](https://medium.com/) - Our sole purpose is to help you find compelling ideas, knowledge, and perspectives.
   * [MakeUseOf](https://www.makeuseof.com/) - Learn how to make use of tech and gadgets around you and discover cool stuff on the Internet.
-  * [Vice](https://www.vice.com/) - The Definitive Guide To Enlightening Information from every corner of the planet.
+  * [Vice](https://www.vice.com/) - The definitive guide to enlightening information from every corner of the planet.
   * [Reddit](https://www.reddit.com/) - An American social news aggregation, web content rating, and discussion website.
   * [Pretty Awesome Lists](https://www.prettyawesomelists.com/) - Pretty Awesome Lists crawls all these lists, collects interesting information.
   
@@ -112,10 +112,10 @@ Useful Websites : Jelajah Manfaat Internet
   * [TubeOffline](https://www.tubeoffline.com/) - Free online downloader for any Twitter video. Best tool that actually works.
   * [Use FYI](https://usefyi.com/templates/) - Free resources and templates you need to get work done in one place.
   * [OnlyGFX](https://www.onlygfx.com/) - A large collection of free in-house design resources for your design project.
-  * [GfxStudy](https://gfxstudy.com/) - Free AE Template, Videohive, Vector, Stock Image , PSD, Photoshop (1).
-  * [Graphicex](https://graphicex.com/) - Free AE Template, Videohive, Vector, Stock Image , PSD, Photoshop (2).
+  * [GfxStudy](https://gfxstudy.com/) - Free AE template, videohive, vector, stock image , PSD, Photoshop ➊
+  * [Graphicex](https://graphicex.com/) - Free AE template, videohive, vector, stock image , PSD, Photoshop ➋
   * [Ttorial](http://ttorial.com/) - Obtain & download the best online courses for free, from 100+ leading institutions.
-  * [FreeCourseLab](https://freecourselab.com/) - A great place to learn. Download Udemy Courses for Free.
+  * [FreeCourseLab](https://freecourselab.com/) - A great place to learn. Download Udemy courses for free.
   * [FreeCourseUdemy](https://freecourseudemy.com/) - Premium Udemy tutorials free download. Top udemy courses. 
   * [KeBioskop21](http://103.194.171.185/) - Streaming film maupun tv series online gratis, subtitle Indonesia.
   
@@ -126,7 +126,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [Coupo Scorpion](https://couponscorpion.com/) - The ultimate resource for 100% free Udemy coupons.
   * [LearnViral](https://udemycoupon.learnviral.com/) - Free Udemy coupons, get your coupons before they expire.
   * [CouponCause](https://couponcause.com/) - Find promo codes and online discounts by store and category.
-  * [Couponos](https://couponos.ooo/) - Get the latest Udemy Coupon and BitDegree Online Courses.
+  * [Couponos](https://couponos.ooo/) - Get the latest Udemy coupon and BitDegree online courses.
   
 * Useful Web Apps
   * [Pdf.io](https://pdf.io/) - Free set of online tools for handling PDF files. Convert and edit your PDF files.
@@ -181,7 +181,7 @@ Internet Library : Eksplorasi Beragam Topik
   * 16 MBTI Personalities : [16Personalities](https://www.16personalities.com/), [PersonalityClub](https://www.personalityclub.com/), [The Personality Database](https://personality-database.com/)
   * Data Visualization : [Visualization Universe](http://visualizationuniverse.com/), [Dataviz Catalogue](https://datavizcatalogue.com/), [Observable HQ](https://observablehq.com/), [Adioma](https://blog.adioma.com/)
   * Explorative Visuals : [By Owen](http://byowen.com/), [One Zoom](https://www.onezoom.org/), [Things Made Thinkable](http://www.thingsmadethinkable.com/), [Knowledge Center](http://www.knowledgecenter.com/ions/NoeticMap.html)
-  * Powerful Diagramming : [Creately](https://creately.com/), [Draw.io](https://app.diagrams.net/), [MindMeister](https://www.mindmeister.com/) (Selebihnya di : Designer 101)
+  * Powerful Diagramming : [Creately](https://creately.com/), [Draw.io](https://app.diagrams.net/), [MindMeister](https://www.mindmeister.com/) _(Selebihnya di : Designer 101)_
 
 <hr>
 <div id="sec04"></div>
@@ -235,11 +235,11 @@ Self Improvement : Perluas Ide & Wawasan
 * Podcast and Ideas (ID & EN)
   * [Podcast Subjective](https://soundcloud.com/iqbalhariadi) - Millennials opinion & stories. Berbagi kisah, insight, dan tips praktis pengembangan diri.
   * [Satu Persen Audio Insight](https://open.spotify.com/show/1iIFlumWtP4xI1QEzCBcSY) - Berkembang bersama kami, satu persen setiap harinya #MaksimalkanHidupmu.
-  * [Thirty Days of Lunch](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww) - Teman makan siang sekaligus nutrisi untuk pikiran. Ga berat, tapi juga ga receh.
+  * [Thirty Days of Lunch](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww) - Teman makan siang sekaligus nutrisi untuk pikiran. Gak berat, tapi juga gak receh.
   * [Makna Talks](https://open.spotify.com/show/1PGN4ilb4aoWKkB7FNSLsx) - A weekly podcast with well known subjects every week talking about what's behind the facts.
   * [Hiduplah Indonesia Maya](https://open.spotify.com/show/6yUPhJdvDAMRVwApXBpQWd) - Podcast dari Pandji Pragiwaksono, membahas segala hal yang terjadi di Indonesia.
   * [Finfolk](https://open.spotify.com/show/3coiCSZDmmBSREVpo0PpIB) - Rethinking money. Sunday chill afternoon. New ideas about investment in a fun way.
-  * [GaryVee Podcast](https://www.garyvaynerchuk.com/podcast/) - The Garyvee Audio Experience. Keynote speeches on marketing and business.
+  * [GaryVee Podcast](https://www.garyvaynerchuk.com/podcast/) - The Garyvee audio experience. Keynote speeches on marketing and business.
   * [HBR IdeaCast](https://open.spotify.com/show/4gtSBBxIAE142ApX6LqsvN) - A weekly podcast featuring the leading thinkers in business and management.
   
 * Youtube : Motivation & Inspiration (ID & EN)
@@ -274,7 +274,7 @@ Self Improvement : Perluas Ide & Wawasan
   * [DW Indonesia](https://www.youtube.com/user/DWBahasaIndonesia) - Lembaga penyiaran yang memproduksi siaran TV, radio dan informasi melalui internet.
   * [Remotivi](https://www.youtube.com/user/remotivi) - Remotivi adalah lembaga studi dan pemantauan media, khususnya televisi di Indonesia.
   * [Satu Persen](https://www.youtube.com/channel/UC_eifcIIjgN8Q_8m34nWo3Q) - Mengajarkan hal-hal penting yang sampai saat ini belum diajarkan di sekolah konvensional.
-  * [Creativox](https://www.youtube.com/channel/UC4DogC2xftpKFlF-XgZoRBg) - A multi-platform entertainment media - educational, and motivational experience!
+  * [Creativox](https://www.youtube.com/channel/UC4DogC2xftpKFlF-XgZoRBg) - A multi-platform entertainment media - educational, and motivational experience.
   * [Froyonion](https://www.youtube.com/channel/UCG1E2hR9KDuAWFoRO0yyE4w) - Froyonion mengajak penonton memikirkan kembali berbagai hal dari sudut pandang lain.
   * [Gue Punya Cerita](https://www.youtube.com/channel/UCkRNRz9ifB2A04zTb6Y9LYg) - Berbagai cerita yang diangkat dari kisah nyata, dikemas dalam bentuk animasi.
   
@@ -288,7 +288,7 @@ Self Improvement : Perluas Ide & Wawasan
   * [Stated Clearly](https://www.youtube.com/user/sciencestatedclearly) - We produce animations on genetics, evolution, biology, and chemistry.
   * [KnowledgeHub](https://www.youtube.com/channel/UC2_KC8lshtCyiLApy27raYw) - A modern philosopher of our time. Except I talk about pretty pointless things.
   * [AsapSCIENCE](https://www.youtube.com/user/AsapSCIENCE) - The channel produces weekly videos that touch on many different topics of science. 
-  * [SciShow](https://www.youtube.com/user/scishow/) - The scientific subjects that defy our expectations and make us even more curious! 
+  * [SciShow](https://www.youtube.com/user/scishow/) - The scientific subjects that defy our expectations and make us even more curious.
   * [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart) - Curious group of atoms in a curious universe—tell you how it all works.
   * [SmarterEveryDay](https://www.youtube.com/user/destinws2) - I explore the world using science.  That's pretty much all there is to it. 
   * [Up and Atom](https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw) - Making notoriously hard stuff less hard. Math, physics and computer science.
@@ -324,21 +324,21 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
 * Text & Read Tools
   * [Reading List](https://chrome.google.com/webstore/detail/reading-list/lloccabjgblebdmncjndmiibianflabo) - This reading list extension allows you to save pages in a list to get back to later.
   * [Wikiwand](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj?hl=id) - A new interface that optimizes Wikipedia's amazing content for improved reading experience.
-  * [Mercury Reader](https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi) - Clear away the clutter from all of your articles. Instantly. 
+  * [Mercury Reader](https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi) - Clear away the clutter from all of your articles, instantly. Removes ads and distractions. 
   * [Rocket Readability](https://chrome.google.com/webstore/detail/rocket-readability/fhckbdfnalikpmcmcpcpkkdlhabngbod) - Mercury Reader alternative. Parses web pages cutting out ads.
   * [Print Friendly & PDF](https://chrome.google.com/webstore/detail/print-friendly-pdf/ohlencieiipommannpdfcmfdpjjmeolj) - Print Friendly removes ads, navigation and junk before your print.
-  * [Kami Extension](https://chrome.google.com/webstore/detail/kami-extension-pdf-and-do/ecnphlgnajanjnkcmbpancdjoidceilk) - Best PDF and Document Annotation and Markup Tool.
+  * [Kami Extension](https://chrome.google.com/webstore/detail/kami-extension-pdf-and-do/ecnphlgnajanjnkcmbpancdjoidceilk) - Best PDF and document annotation and markup tool. Works with Drive and Classroom.
   * [Google Docs Offline](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi) - Edit, create and view all your documents without Internet access.
   * [One Click Translate](https://chrome.google.com/webstore/detail/one-click-translate/anhjddeakbabimdgmonfbnpbainknbfa?hl=en) - Translate your selected text with Google Translate in one click, in a simplest way.
   * [Mate Translate](https://chrome.google.com/webstore/detail/mate-translate-%E2%80%93-translat/ihmgiclibbndffejedjimfjmfoabpcke) - Your all-in-one translator for web pages, highlighted text & Netflix subtitles.
   * [TransOver](https://chrome.google.com/webstore/detail/transover/aggiiclaiamajehmlfpkjmlbadmkledi?hl=en) - Translate word from any language to the language of your choice by pointing or clicking at it.
-  * [Rememberry](https://chrome.google.com/webstore/detail/rememberry-translate-and/dipiagiiohfljcicegpgffpbnjmgjcnf) - Easily replenish your foreign languages dictionary using flashcards.
+  * [Rememberry](https://chrome.google.com/webstore/detail/rememberry-translate-and/dipiagiiohfljcicegpgffpbnjmgjcnf) - Translate and memorize. Easily replenish your foreign languages dictionary using flashcards.
   * [Copy As Plain Text](https://chrome.google.com/webstore/detail/copy-as-plain-text/eneajgkmdhmjmloiabgkpkiooaejmlpk) - Easily copy the selected text without formatting to the clipboard via right-click menu.
   * [Highlight This](https://chrome.google.com/webstore/detail/highlight-this-finds-and/fgmbnmjmbjenlhbefngfibmjkpbcljaj?hl=en-US) - Automatically finds and highlights words and phrases on the web page according to your list.
   * [Weava Highlighter](https://chrome.google.com/webstore/detail/weava-highlighter-pdf-web/cbnaodkpfinfiipjblikofhlhlcickei) - Highlight & organize your research with Weava online Web & PDF highlighter.
   * [Text Tools](https://chrome.google.com/webstore/detail/text-tools/mpcpnbklkemjinipimjcbgjijefholkd) - Handy text tools a click away (including uppercase, lowercase, count words, count lines, etc).
   * [Bitly](https://chrome.google.com/webstore/detail/bitly-unleash-the-power-o/iabeihobmhlgpkcgjiloemdbofjbdcic) - Copy, customize, shorten, measure, optimize and share your links straight from your browser. 
-  * [Medium Unlimited](https://manojvivek.github.io/medium-unlimited/) - Addon to access the medium.com premium articles (_**Third-party**_). 
+  * [Medium Unlimited](https://manojvivek.github.io/medium-unlimited/) - Addon to access the medium.com premium articles (_**Third-party-extension**_). 
   * [Read Aloud](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp) - Read out loud the current web-page article with one click. Supports 40+ languages.
   * [Spreed](https://chrome.google.com/webstore/detail/spreed-speed-read-the-web/ipikiaejjblmdopojhpejjmbedhlibno) - Train yourself to double or triple your reading speed, without sacrificing comprehension.
   
@@ -347,21 +347,21 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
   * [Adblock for Youtube](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk) - A content filtering and ad blocking which blocks all ads on Youtube.
   * [Youtube Repeat Button](https://chrome.google.com/webstore/detail/youtube-repeat-button/aihdpnkmhcbjkfonmmfepcjjfaenobip) - This is a simple extension which adds a repeat button for Youtube.
   * [Open link in same tab](https://chrome.google.com/webstore/detail/open-link-in-same-tab-pop/jmphljmgnagblkombahigniilhnbadca) - Forces Chrome to open new tabs instead of pop-up windows/links in the same tab.
-  * [Click to Remove Element](https://chrome.google.com/webstore/detail/click-to-remove-element/jcgpghgjhhahcefnfpbncdmhhddedhnk) - Remove annoying elements with a single click.
+  * [Click to Remove Element](https://chrome.google.com/webstore/detail/click-to-remove-element/jcgpghgjhhahcefnfpbncdmhhddedhnk) - Remove annoying elements from a website with a single click.
   * [Hoxx VPN Proxy](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh) - Service to unblock blocked websites and encrypt your connection.
   * [Simple Allow Copy](https://chrome.google.com/webstore/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc) - Enable copy and right-click on sites that blocked them.
   
 * Downloader
   * [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj) - Browse and download bulk images from a web page. Always be free.
   * [One-Click Video Downloader](https://chrome.google.com/webstore/detail/one-click-video-downloade/bhepgcoaibmmehlmckhlmbdgcemhidcg) - We are the simplest and fastest way to download videos from any website.
-  * [Video DownloaderHelper](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk) - The most complete Web video downloader. The popular Video Downloader.
+  * [Video DownloaderHelper](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk) - The most complete web video downloader. The popular video downloader.
   * [SVG Export](https://chrome.google.com/webstore/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp) - Download SVGs from websites as SVGs, PNGs or JPEGs. Bulk export, resize, etc.
-  * [SVG-Grabber](https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg) - A tool to quickly preview and get all the svg assets from a website.
+  * [SVG-Grabber](https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg) - A tool to quickly preview and get all the svg assets from a website. An open source tool.
   * [Get Favicon](https://chrome.google.com/webstore/detail/get-favicon/gpipahagclehninhhjkhbkliinfofnhe) - Displays the current page's favicon as well as the favicon's URL and dimensions.
   
 * Frontend Developer
   * [GitZip for Github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn) - It can make the sub-directories and files of github repository as zip and download it.
-  * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Adds a toolbar button with various web developer tools.
+  * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Adds a toolbar button to the browser with various web developer tools.
   * [Live editor for CSS](https://chrome.google.com/webstore/detail/live-editor-for-css-less/ifhikkcafabcgolfjegfcgloomalapol) - Live preview of CSS/Less/Sass code changes. Live edit CSS files.
   * [Bootstrap Viewport](https://chrome.google.com/webstore/detail/bootstrap-viewport/kflgmkikmbklpikoicfhonemdcemkdia) - Determines browser window width and which bootstrap viewport is in use.
   * [Bootstrap 3 Helper](https://chrome.google.com/webstore/detail/bootstrap-3-helper-resize/bnkadmnhdpkpbfmaehgjeijgopkjinbl) - Show the current Bootstrap 3 breakpoint. Help developers in their projects.
@@ -374,7 +374,7 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
   * [Visual Inspector](https://chrome.google.com/webstore/detail/visual-inspector/efaejpgmekdkcngpbghnpcmbpbngoclc) - Collaboration tool for website feedback and fixing design bugs.
   * [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha) - Stylebot lets you manipulate the appearance of any website with custom CSS.
   * [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce) - A simple CSS property viewer. Made by Nicolas Huon as a FireFox add-on.
-  * [CSS Used](https://chrome.google.com/webstore/detail/css-used/cdopjfddjlonogibjahpnmjpoangjfff) - Get all css rules used by the selected DOM and its children.
+  * [CSS Used](https://chrome.google.com/webstore/detail/css-used/cdopjfddjlonogibjahpnmjpoangjfff) - Get all css rules used by the selected DOM and its children. One click to get all.
   * [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) -  Inspect web fonts by just hovering on them. It is that simple and elegant.
   * [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) - Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies.
   * [Vue.js Devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - Chrome and Firefox DevTools extension for debugging Vue.js applications.
@@ -382,7 +382,7 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
 * Miscellaneous
   * [Set Password for Your Browser (Chrome Lock)](https://chrome.google.com/webstore/detail/set-password-for-your-bro/cjmjgijhapgicbhmniemjkjeaedanank) - Allow users to set password for the browser.
   * [Loom](https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb) - Capture, narrate and instantly share videos to communicate faster, clearer and friendlier.
-  * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) - Increase your max volume by up to 4 times the loudness.
+  * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) - Unleash the power of sound, no matter what speakers you're using.
   * [Clever Mute](https://chrome.google.com/webstore/detail/clever-mute/eadinjjkfelcokdlmoechclnmmmjnpdh) - You can mute or unmute any site just by clicking the extension icon.
   
 <hr>
@@ -406,12 +406,12 @@ Developer 101 : Paket Komplit Developer
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
 * Online Tutorials
-  * [Tutorialspoint](https://www.tutorialspoint.com/index.htm) - Free online tutorials, courses and programming projects #1
-  * [Javapoint](https://www.javatpoint.com/) - Free online tutorials, courses and programming projects #2
-  * [FreeCodeCamp](https://www.freecodecamp.org/) - Free online tutorials, courses and programming projects #3
-  * [GeeksForGeeks](https://www.geeksforgeeks.org/) - Free online tutorials, courses and programming projects #4
-  * [Tutorial Kart](https://www.tutorialkart.com/) - Free online tutorials, courses and programming projects #5
-  * [SoloLearn](https://www.sololearn.com/) - Free online tutorials, courses and programming projects #6
+  * [Tutorialspoint](https://www.tutorialspoint.com/index.htm) - Free online tutorials, courses and programming projects ➊
+  * [Javapoint](https://www.javatpoint.com/) - Free online tutorials, courses and programming projects ➋
+  * [FreeCodeCamp](https://www.freecodecamp.org/) - Free online tutorials, courses and programming projects ➌
+  * [GeeksForGeeks](https://www.geeksforgeeks.org/) - Free online tutorials, courses and programming projects ➍
+  * [Tutorial Kart](https://www.tutorialkart.com/) - Free online tutorials, courses and programming projects ➎
+  * [SoloLearn](https://www.sololearn.com/) - Free online tutorials, courses and programming projects ➏
 
 * Top Udemy Course
   * [Brad Traversy Course](https://www.udemy.com/user/brad-traversy/) - Web Dev • Good for Beginners
@@ -427,65 +427,65 @@ Developer 101 : Paket Komplit Developer
   * [Dunia Ilkom](https://www.duniailkom.com/) - Situs yang membahas lengkap materi pembelajaran bahasa pemrograman website.
   * [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) - Membahas mengenai teknologi internet dan pengembangan web.  
   * [Build With Angga](https://buildwithangga.com/) - Pelajari keahlian baru yang dibutuhkan oleh perusahaan IT terbesar di seluruh dunia.
-  * [Be Fullstack Developer](https://buku-laravel-vue.com/) - Panduan Hebat untuk Menjadi Fullstack Developer! Laravel & Vue.js.
+  * [Be Fullstack Developer](https://buku-laravel-vue.com/) - Panduan hebat untuk menjadi Fullstack Developer! Laravel & Vue.js.
   * [W3Schools](https://www.w3schools.com/) - The world's largest web developer site. Tutorials and references relating to web dev.
   * [W3Docs](https://www.w3schools.com/) - We are trying to provide useful and concise materials for the programming enthusiasts.
   * [A Smarter Way](https://www.amazon.com/Mark-Myers/e/B00HNW14T4?ref_=dbs_p_ebk_r00_abau_000000) - Coding, I learned, isn't that hard. Easy way to learn web programming.
-  * [Full-Stack Web Dev Resources](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Full-Stack Resources.
+  * [Full-Stack Web Dev Resources](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Full-Stack complete resources
   
 * Web Dev : Frontend
   * [HTML](https://github.com/diegocard/awesome-html5) - HTML Resource
-  * [CSS](https://github.com/micromata/awesome-css-learning) - CSS Resource #1 (Learn)
-  * [CSS](https://github.com/awesome-css-group/awesome-css) - CSS Resource #2 (Collection)
+  * [CSS](https://github.com/micromata/awesome-css-learning) - CSS Resource (Learn) ➊
+  * [CSS](https://github.com/awesome-css-group/awesome-css) - CSS Resource (Collection) ➋
   * [BootStrap](https://github.com/pierceoneill/awesome-bootstrap) - CSS Framework
-  * [JavaScript](https://github.com/micromata/awesome-javascript-learning) - JavaScript Resource #1 (Learn)
-  * [JavaScript](https://github.com/sorrycc/awesome-javascript) - JavaScript Resource #2 (Collection)
-  * [JavaScript](https://github.com/addyosmani/es6-tools) - JavaScript Resource #3 (Tools)
+  * [JavaScript](https://github.com/micromata/awesome-javascript-learning) - JavaScript Resource (Learn) ➊
+  * [JavaScript](https://github.com/sorrycc/awesome-javascript) - JavaScript Resource (Collection) ➋
+  * [JavaScript](https://github.com/addyosmani/es6-tools) - JavaScript Resource (Tools) ➌
   * [JSON](https://github.com/burningtree/awesome-json) - JSON Resource
   * [JQuery](https://github.com/petk/awesome-jquery) - JavaScript Library
-  * [Vue.js](https://github.com/vuejs/awesome-vue) - JavaScript Framework #1
-  * [React](https://github.com/enaqx/awesome-react) - JavaScript Framework #2
-  * [Angular](https://github.com/PatrickJS/awesome-angular) - JavaScript Framework #3
-  * [Frontend Web Dev Resources](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend Resources.
+  * [Vue.js](https://github.com/vuejs/awesome-vue) - JavaScript Framework ➊
+  * [React](https://github.com/enaqx/awesome-react) - JavaScript Framework ➋
+  * [Angular](https://github.com/PatrickJS/awesome-angular) - JavaScript Framework ➌
+  * [Frontend Web Dev Resources](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend complete resources
 
 * Web Dev : Gift for Frontend Developer 🎁
-  * [Colorlib - Website Templates Archives](https://colorlib.com/wp/category/website-templates/) - Free starter templates #1.
-  * [HTML5 Up - Responsive Site Templates](https://html5up.net/) - Free starter templates #2.
-  * [LayoutIt](https://layoutit.com/) - CSS Grid playground and code generator (for layouting #1).
-  * [Flexy Boxes](https://the-echoplex.net/flexyboxes/) - Flexbox playground and code generator (for layouting #2).
+  * [Colorlib - Website Templates Archives](https://colorlib.com/wp/category/website-templates/) - Free starter templates ➊
+  * [HTML5 Up - Responsive Site Templates](https://html5up.net/) - Free starter templates ➋
+  * [LayoutIt](https://layoutit.com/) - CSS Grid playground and code generator. For layouting ➊
+  * [Flexy Boxes](https://the-echoplex.net/flexyboxes/) - Flexbox playground and code generator. For layouting ➋
   * [CSSDB](https://cssdb.co/) - A collection of the world's best CSS, Sass, LESS libraries.
   * [JavaScripting](https://www.javascripting.com/) - A collection of the world's best JavaScript libraries.
   * [CodyHouse](https://codyhouse.co/ds/components) - Production-ready components and tools. UI Frameworks.
-  * [Free Frontend](https://freefrontend.com/) - Hand-picked HTML, CSS and JavaScript code examples #1.
-  * [CSS Script](https://www.cssscript.com/) - Hand-picked HTML, CSS and JavaScript code examples #2.
-  * [jQuery Script](https://www.jqueryscript.net/) - Hand-picked HTML, CSS and JavaScript code examples #3.
+  * [Free Frontend](https://freefrontend.com/) - Hand-picked HTML, CSS and JavaScript code examples ➊
+  * [CSS Script](https://www.cssscript.com/) - Hand-picked HTML, CSS and JavaScript code examples ➋
+  * [jQuery Script](https://www.jqueryscript.net/) - Hand-picked HTML, CSS and JavaScript code examples ➌
   
 * Web Dev : Backend
-  * [PHP](https://github.com/odan/learn-php) - PHP Resource #1 (Learn)
-  * [PHP](https://github.com/ziadoz/awesome-php) - PHP Resource #2 (Collection)
+  * [PHP](https://github.com/odan/learn-php) - PHP Resource (Learn) ➊
+  * [PHP](https://github.com/ziadoz/awesome-php) - PHP Resource (Collection) ➋
   * [REST](https://github.com/marmelab/awesome-rest) - REST Resource
   * [MySQL](https://github.com/shlomi-noach/awesome-mysql) - MySQL Resource
   * [Laravel](https://github.com/shlomi-noach/awesome-mysql) - PHP Framework
   * [NodeJs](https://github.com/sindresorhus/awesome-nodejs) - **Backend JavaScript Base**
-  * [Backend Web Dev Resources](https://github.com/backend-br/awesome-backend) - Backend Resources.
+  * [Backend Web Dev Resources](https://github.com/backend-br/awesome-backend) - Backend complete resources
 
 * Mobile Dev : Frontend & Backend
-  * [Awesome Android](https://github.com/JStumpp/awesome-android) - Android Dev Resource #1
-  * [Awesome Android Libraries](https://github.com/wasabeef/awesome-android-libraries) - Android Dev Resource #2
-  * [Awesome Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui) - Android Dev Resource #3
-  * [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS Dev Resource #1
-  * [Awesome iOS UI/UX Libraries](https://github.com/cjwirth/awesome-ios-ui) - iOS Dev Resource #2
+  * [Awesome Android](https://github.com/JStumpp/awesome-android) - Android Dev Resource ➊
+  * [Awesome Android Libraries](https://github.com/wasabeef/awesome-android-libraries) - Android Dev Resource ➋
+  * [Awesome Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui) - Android Dev Resource ➌
+  * [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS Dev Resource ➊
+  * [Awesome iOS UI/UX Libraries](https://github.com/cjwirth/awesome-ios-ui) - iOS Dev Resource ➋
 
 * Useful Tools
   * [Carbon](https://carbon.now.sh/) - Easiest way to create and share beautiful images of your source code.
   * [Codeshare](https://codeshare.io/) - An online code editor for interviews, troubleshooting, teaching and more.
   * [Responsive Test Tool](http://responsivetesttool.com/) - The best responsive test tools for check your website resolutions.
-  * [Scrimba](https://scrimba.com/) - Fast-track your career with hands-on coding courses (**playground & learn!**).
-  * [StackBlitz](https://stackblitz.com/) - The same editing experience, now in your browser (playground #1).
-  * [CodeSandbox](https://codesandbox.io/) - An instant IDE and prototyping tool for rapid web development (playground #2).
-  * [Codepen](https://codepen.io/) - An online code editor and community for frontend dev (playground #3).
-  * [JSFiddle](https://codepen.io/) - Test your JavaScript, CSS, HTML or CoffeeScript online (playground #4).
-  * [JS Bin](https://jsbin.com/) - Collaborative JavaScript Debugging (playground #5).
+  * [Scrimba](https://scrimba.com/) - Fast-track your career with hands-on coding courses (**playground & learn**).
+  * [StackBlitz](https://stackblitz.com/) - The same editing experience, now in your browser. Playground ➊
+  * [CodeSandbox](https://codesandbox.io/) - An instant IDE and prototyping tool for rapid web development. Playground ➋
+  * [Codepen](https://codepen.io/) - An online code editor and community for frontend dev. Playground ➌
+  * [JSFiddle](https://codepen.io/) - Test your JavaScript, CSS, HTML or CoffeeScript online. Playground ➍
+  * [JS Bin](https://jsbin.com/) - Collaborative JavaScript Debugging. Playground ➎
   
 * Miscellaneous
   * [Learn Git](http://try.github.io/) - Resources to learn Git (handbook, cheat sheet, branching, etc).
@@ -493,8 +493,8 @@ Developer 101 : Paket Komplit Developer
   * [Markdown Tutorial](https://www.markdowntutorial.com/) - A way to write content for the web (for documentation, etc).
   * [RegexOne](https://regexone.com/) - Interactive lessons and exercises to help you learn regular expressions.
   * [Developer Roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps, mostly about software development.
-  * [Free for Developer](https://github.com/ripienaar/free-for-dev) - A curated list of Developer resources. Free for Developer!
-  * [Awesome Github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness. Huge curated list project!
+  * [Free for Developer](https://github.com/ripienaar/free-for-dev) - A curated list of Developer resources. Free for Developer.
+  * [Awesome Github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness. Huge curated list project.
   * [Awesome Guideline](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
   * [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - Kumpulan group pemrograman Telegram Indonesia.
 
@@ -510,24 +510,24 @@ Top Figma Plugins : Hadiah Untuk Designer
 **Catatan** : Daftar plugin dibawah merupakan hasil filter dari total 600+ figma plugins. _**Terakhir Update** : 10/07/2020_
 
 * Project Starter
-  * [Project Scaffold](https://www.figma.com/community/plugin/747372158567878238/Project-Scaffold) - This plugin Generates a Scaffold for your Product design project in just 1 click.
+  * [Project Scaffold](https://www.figma.com/community/plugin/747372158567878238/Project-Scaffold) - Generates a scaffold for your Product design project in just 1 click.
   * [Quick Thumbnail](https://www.figma.com/community/plugin/861544263629766272/Quick-Thumbnail) - Quick help to build a beautiful thumbnail for your figma files.
   * [Product Planner](https://www.figma.com/community/plugin/766652281834442616/Product-Planner) - 15 product manager templates & 12 product planner templates.
-  * [Status Annitations](https://www.figma.com/community/plugin/795096273369409539/Status-Annotations) - Quickly indicate the status of your designes when collaborating with your team.
-  * [Notepad](https://www.figma.com/community/plugin/739527655081183968/Notepad) - Use Notepad to add a place for notes to your Figma documents.
+  * [Status Annitations](https://www.figma.com/community/plugin/795096273369409539/Status-Annotations) - Indicate the status of your designes when collaborating with your team.
+  * [Notepad](https://www.figma.com/community/plugin/739527655081183968/Notepad) - Use Notepad to add a place for notes to your Figma documents. Automatically saved.
   * [Time Machine](https://www.figma.com/community/plugin/734492262527930956/Time-Machine) - Time Machine saves and organizes work that you want to look back on.
   * [Design Inspo](https://www.figma.com/community/plugin/738775292786594626/Design-Inspo) - The best way to quickly look for design inspiration while you work.
   * [Inspyre](https://www.figma.com/community/plugin/788238141732031933/Inspyre) - The perfect icon, inspiration for a logo, or the perfect component.
   
 * Web Safe Guide
-  * [A11y](https://www.figma.com/community/plugin/733159460536249875/A11y---Color-Contrast-Checker) - Design products that are accessible, ethical, and inclusive. All based on WCAG guidelines.
-  * [Contrast](https://www.figma.com/community/plugin/748533339900865323/Contrast) - Makes it easy to check the contrast ratios of colors as you work.
+  * [A11y](https://www.figma.com/community/plugin/733159460536249875/A11y---Color-Contrast-Checker) - Design products that are accessible, ethical, and inclusive. All based on WCAG.
+  * [Contrast](https://www.figma.com/community/plugin/748533339900865323/Contrast) - Select and scan for contrast issues on gradients, images, blends and fills.
   * [Color Blind](https://www.figma.com/community/plugin/733343906244951586/Color-Blind) - allows you to view your designs in the 8 different types of color vision deficiencies.
   * [VisualEyes](https://www.figma.com/community/plugin/740542057689267294/VisualEyes) - Understand how users look in your prototypes and how clear pleasing are your designs.
-  * [Design Lint](https://www.figma.com/community/plugin/801195587640428208/Design-Lint) - Finds missing styles within your designs on all your layers.
+  * [Design Lint](https://www.figma.com/community/plugin/801195587640428208/Design-Lint) - Find and fix errors in your designs. Ensure your designs are consistent.
   
 * Tools & Tidy Up
-  * [Easy Units](https://www.figma.com/community/plugin/835063877729335093/Easy-Units) - Convert your shape and text from pixels to inches, rem, cm, ft.
+  * [Easy Units](https://www.figma.com/community/plugin/835063877729335093/Easy-Units) - Convert your shape and text from pixels to inches, rem, cm, ft. Great for any project.
   * [Super Select](https://www.figma.com/community/plugin/750783568176946334/Super-Select) - Select All Siblings and Invert Siblings support multiple layer selections.
   * [Clean Document](https://www.figma.com/community/plugin/767379019764649932/Clean-Document) - Automagically organize and clean up your Figma document. Smart rename, sort, etc.
   * [Reset Text Layer Name](https://www.figma.com/community/plugin/768671547563304036/Reset-Text-Layer-Name) - Ever end up wanting to reset your layer names? This plugin will help you.
@@ -543,45 +543,44 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Responsify ⚡️](https://www.figma.com/community/plugin/743654854885744527/Responsify-%E2%9A%A1%EF%B8%8F) - A Figma plugin to quickly test your designs across multiple device sizes.
   * [Snap to Grid](https://www.figma.com/community/plugin/773875667263247070/Snap-to-Grid) - Helper with which it is even easier to arrange elements on the grid.
   * [Grids Generator](https://www.figma.com/community/plugin/841313026689642442/Grids-Generator) - Apply any frame with grid styles config inspired from Chrome's element inspector.
-  * [Auto Grid](https://www.figma.com/community/plugin/817474150404549708/AutoGrid) - Define rows, columns and padding and let AutoGrid do the rest.
+  * [Auto Grid](https://www.figma.com/community/plugin/817474150404549708/AutoGrid) - Define rows, columns, padding and let AutoGrid do the rest. Keep your grids flowing.
   * [Breakpoints](https://www.figma.com/community/plugin/824289601590456356/Breakpoints) - A resizable native frame that works even without the opened plugin window.
   
 * Layout & Component
   * [Wireframe](https://www.figma.com/community/plugin/742764242781786818/Wireframe) - Creating beautiful user flow prototypes and basic structures. Over 350+ build graphics.
-  * [Wireframer](https://www.figma.com/community/plugin/787660853629435276/Wireframer) - Generate cool SVG placeholder text for your next wireframe.
-  * [Wire Box](https://www.figma.com/community/plugin/764471577604277919/Wire-Box) - Sometimes, however, you need to step back into lo-fi wireframes.
+  * [Wireframer](https://www.figma.com/community/plugin/787660853629435276/Wireframer) - Generate cool placeholder text. The new trend in wireframes text generation process. 
+  * [Wire Box](https://www.figma.com/community/plugin/764471577604277919/Wire-Box) - Convert your designs from high-fidelity to low-fidelity and step back into wireframes.
   * [Master](https://www.figma.com/community/plugin/767721682134156281/Master) - Create, attach, clone and move components in a couple of clicks without losing overrides.
   * [Interplay](https://www.figma.com/community/plugin/736368164448889527/Interplay) - Imports your design system code repository and lets you design with code components.
   * [Ready Components](https://www.figma.com/community/plugin/830533738628941885/Ready-Components) - Provides ready-made components, can be used in any of the UI design.
-  * [Spacing Manager](https://www.figma.com/community/plugin/809099681305129697/Spacing-Manager) - Say goodbye to endless naming schemes with "/" for Components and Styles. 
+  * [Spacing Manager](https://www.figma.com/community/plugin/809099681305129697/Spacing-Manager) - Sometimes designers making different spacings between the elements. 
   * [Style Organizer](https://www.figma.com/community/plugin/816627069580757929/Style-Organizer) - Display and organize all color styles in the page. Relink unlinked styles.
   * [Batch Styler](https://www.figma.com/community/plugin/818203235789864127/Batch-Styler) - Change multiple **text & color styles** at once, no matter if 2 or 30 styles.
-  * [Design System Organizer](https://www.figma.com/community/plugin/802579985985331070/Design-System-Organizer) - Say goodbye to endless naming schemes with "/" for Components and Styles.
+  * [Design System Organizer](https://www.figma.com/community/plugin/802579985985331070/Design-System-Organizer) - No more naming schemes with "/" for Components and Styles.
   * [Automatic Style Guides](https://www.figma.com/community/plugin/838622388628773312/Automatic-Style-Guides) - Preparing formal style guide documentation from your local styles.
   
 * Font & Text
-  * [Better Font Picker](https://www.figma.com/community/plugin/739922281164562258/Better-Font-Picker) - Helps you select fonts with a preview of how it looks. 
+  * [Better Font Picker](https://www.figma.com/community/plugin/739922281164562258/Better-Font-Picker) - Helps you select fonts with a preview of how it looks. Shows installed fonts in your system.
   * [Font Scale](https://www.figma.com/community/plugin/741231992144144738/Font-Scale) - Font Scale is a quick tool to generate a harmonious and consistent typography hierarchy.
   * [Textyles](https://www.figma.com/community/plugin/804843548882105498/Textyles) - Textyles speeds up your typographic workflow by generating Text Styles quickly.
-  * [Nisa Text Splitter](https://www.figma.com/community/plugin/739048247603902878/Nisa-Text-Splitter) - Easy way to split your text/list into small text pieces.
+  * [Nisa Text Splitter](https://www.figma.com/community/plugin/739048247603902878/Nisa-Text-Splitter) - Easy way to smart split your text/list into small text pieces. Keep styles.
   * [Find and Replace](https://www.figma.com/community/plugin/735072959812183643/Find-and-Replace) - Search for texts on your page and replace them just like a text editor.
   * [Add Numbers to Texts](https://www.figma.com/community/plugin/738791203005929386/Add-numbers-to-texts) - Numbers, aplhabetical numbering, roman numerals, math expressions, etc.
   * [Text Prettier](https://www.figma.com/community/plugin/783077214649465682/Text-Prettier) - Improve your typography and helps you make your texts legible and readable.
-  * [Truncate Lines](https://www.figma.com/community/plugin/856491403215301428/Truncate-Lines) - Limit the numner of lines of text that appear in your design.
   * [Arc](https://www.figma.com/community/plugin/762070688792833472/arc) - Curve your text upward, downward or into a circle. Adjust the slider and preview the result.
-  * [TextWrap](https://www.figma.com/community/plugin/760113603535822095/TextWrap) - A way to wrap your text around a circle. Excellent for badges, etc.
+  * [TextWrap](https://www.figma.com/community/plugin/760113603535822095/TextWrap) - A way to wrap your text around a circle/ellipse. Excellent for badges, etc.
   * [Substrate for Text](https://www.figma.com/community/plugin/739517744595900126/Substrate-for-text) - Highlight text by adding the cool substrate with this simple plugin.
 
 * Color & Gradient
   * [Color Palettes](https://www.figma.com/community/plugin/740832935938649295/Color-Palettes) - 1500+ meaningful color palettes for your next creative projects.
   * [Brands Colors](https://www.figma.com/community/plugin/740232388085828578/Brands-Colors) - Find the best color from the world's best brands and cool apps.
-  * [Color Search](https://www.figma.com/community/plugin/768550475442788437/Color-Search) - Choose your favorite an add it to your local styles in seconds.
+  * [Color Search](https://www.figma.com/community/plugin/768550475442788437/Color-Search) - Choose your favorite an add it to your local styles in seconds (e.g. mellon). 
   * [Webgradients](https://www.figma.com/community/plugin/802147585857776440/Webgradients) - Powerful functional gradient plugin that you can use as content backdrops.
-  * [uiGradients](https://www.figma.com/community/plugin/744909029427810418/uiGradients) - Adds gradients to groups, text and frames in single click.
+  * [uiGradients](https://www.figma.com/community/plugin/744909029427810418/uiGradients) - Adds gradients to groups, text and frames in single click. Chose from 350+ gradients.
   * [Color Designer](https://www.figma.com/community/plugin/739475857305927370/Color-Designer) - Generates shades, tints, and color harmonies based on select layers or local styles.
   * [Chromatic Figma](https://www.figma.com/community/plugin/759433498184507623/Chromatic-Figma) - Lets you use other color spaces than RGB, to create good-looking color.
-  * [Chroma Colors](https://www.figma.com/community/plugin/739237058450529919/Chroma-Colors) - Create bulk color styles from selection.
-  * [Colorizer](https://www.figma.com/community/plugin/816889819624434639/Colorizer) - Sort colors by their hue value.
+  * [Chroma Colors](https://www.figma.com/community/plugin/739237058450529919/Chroma-Colors) - Create bulk color styles from selection. Select object, run the plugin, generated.
+  * [Colorizer](https://www.figma.com/community/plugin/816889819624434639/Colorizer) - Sort colors by their hue value, then saturation. Select objects, run the plugin, and sorted.
   * [Adjustments](https://www.figma.com/community/plugin/798711644668166520/Adjustments) - HSL color adjustments allow you to tweak hue, saturation and lightness values.
   
 * Illustration & Logos
@@ -590,42 +589,42 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Handz 3D Illustration](https://www.figma.com/community/plugin/856130306757736209/Handz-3D-Illustration) - Brings the amazing 3D illustations library called HANDZ.
   * [Iconscout](https://www.figma.com/community/plugin/744098704933821409/Iconscout) - Allows you to insert millions of high quality icons, illustrations and stock photos.
   * [Logo Creator](https://www.figma.com/community/plugin/768094929040207895/Logo-Creator) - Craft a beautiful logo from prebuild collections of 300+ logos.
-  * [Brandfetch](https://www.figma.com/community/plugin/733590967040604714/Brandfetch) - Enter a company name and instantly get its corresponding brand assets into Figma.
+  * [Brandfetch](https://www.figma.com/community/plugin/733590967040604714/Brandfetch) - Enter a company name and instantly get its corresponding brand assets.
   
 * Icons Pack
   * [Iconify](https://www.figma.com/community/plugin/735098390272716381/Iconify) - Over 50,000 icons from 60 icon sets for your Figma designs.
-  * [Icons8](https://www.figma.com/community/plugin/791103617505812222/Icons8) - Access 120,000 icons and 32 styles from Icons8 library.
+  * [Icons8](https://www.figma.com/community/plugin/791103617505812222/Icons8) - Access hand-crafting 120,000 icons and 32 styles from Icons8 library.
   * [Ionicons](https://www.figma.com/community/plugin/777817104312450242/Ionicons) - Browse, find, use All 1200+ icons from ionicons.com right from inside Figma.
   * [Flaticons](https://www.figma.com/community/plugin/785492935463158906/Flaticons) - 3083500+ Free vector icons in the largest database of flaticon.com
   * [Feather Icons](https://www.figma.com/community/plugin/744047966581015514/Feather-Icons) - Browse, find, use All 280+ icons from feathericons.com right from inside Figma.
-  * [Streamline](https://www.figma.com/community/plugin/852192486284901337/Streamline) - The world's largest icon pack. Browse, search and insert. 30,000 icons!
-  * [Font Awesome Icons](https://www.figma.com/community/plugin/774202616885508874/Font-Awesome-Icons) - This is the unofficial plugin for the Font Awesome Icon Collection.
+  * [Streamline](https://www.figma.com/community/plugin/852192486284901337/Streamline) - The world's largest icon pack. Browse, search and insert. 30,000 icons.
+  * [Font Awesome Icons](https://www.figma.com/community/plugin/774202616885508874/Font-Awesome-Icons) - This is the unofficial plugin for the Font Awesome icon collection.
   * [Material Design Icons](https://www.figma.com/community/plugin/740272380439725040/Material-Design-Icons) - Provides you instant easy access to the entire Material Design Icons library.
  
 * Image Tools
   * [Photos](https://www.figma.com/community/plugin/745428728979155171/Photos) - Search and insert photos (from Unsplash, Pixabay and Flickr) into your Figma files. 
-  * [Unsplash](https://www.figma.com/community/plugin/738454987945972471/Unsplash) - Insert beautiful images from Unsplash straight into your designs.
+  * [Unsplash](https://www.figma.com/community/plugin/738454987945972471/Unsplash) - Insert beautiful images from Unsplash straight into your design projects.
   * [EasyMask](https://www.figma.com/community/plugin/781317794301477536/EasyMask) - Create a mask from the top selected layer. Similiar to how Adobe AI does making.
   * [Remove BG](https://www.figma.com/community/plugin/738992712906748191/Remove-BG) - Remove the background of images automatically with just a single click.
   * [TinyImage Compressor](https://www.figma.com/community/plugin/789009980664807964/TinyImage-Compressor) - Export compressed JPG, PNG, SVG, WebP, GIF and PDF image files.
   * [Text From Image](https://www.figma.com/community/plugin/825603645067095312/Text-From-Image) - Use OCR to copy text from an image fill. The magic of optical character recognition.
   * [Image Tracer](https://www.figma.com/community/plugin/735707089415755407/Image-tracer) - Traces black & white bitmap images, and turns them into a vector layer.
-  * [Social Media Image](https://www.figma.com/community/plugin/750116735703341112/Social-Media-Image) - Cheat sheet on Social Media image sizes. All in one place!
+  * [Social Media Image](https://www.figma.com/community/plugin/750116735703341112/Social-Media-Image) - Cheat sheet on Social Media image sizes. All in one place.
   
 * Images Filter
   * [Filter](https://www.figma.com/community/plugin/792025380269016893/Filter) - 30+ Customizable filters : Brightness, contrast, hue saturation, exposure, sepia, etc.
-  * [Color Overlay](https://www.figma.com/community/plugin/786223450940846289/Color-Overlay) - Recolor PNGs right in Figma, saving minutes of precious time.
-  * [Color Filters](https://www.figma.com/community/plugin/735658738614175372/Color-filters...) - Simple plugin that allows you to quick convert all the colors in you selected layers or frames.
+  * [Color Overlay](https://www.figma.com/community/plugin/786223450940846289/Color-Overlay) - Recolor transparent PNGs right in Figma, saving minutes of precious time.
+  * [Color Filters](https://www.figma.com/community/plugin/735658738614175372/Color-filters...) - Simple plugin that allows you to quick convert all the colors in your layers or frames.
   * [Dither](https://www.figma.com/community/plugin/752462766270432644/Dither) - Add dithering effects to your images right there in Figma. Faster Image processing.
   * [Dominant Color Toolkit](https://www.figma.com/community/plugin/744725347356614754/Dominant-Color-Toolkit-%F0%9F%8E%A8) - Generate a palette from an image to magically populate your designs.
 
 * Mockup Bundle
   * [Artboard Studio Mockups](https://www.figma.com/community/plugin/750673765607708804/Artboard-Studio-Mockups) - Access to thousands of world-class quality Artboard Studio mockup.
-  * [Mockuuups Studio](https://www.figma.com/community/plugin/786250770157843670/Mockuuups-Studio) - A super-easy mockup generator with over 500 various scenes.
+  * [Mockuuups Studio](https://www.figma.com/community/plugin/786250770157843670/Mockuuups-Studio) - A super-easy mockup generator with over 500 various scenes with instant preview.
   * [Vectary 3D](https://www.figma.com/community/plugin/769588393361258724/Vectary-3D) - Vectary 3D plugin for Figma is adding the missing third dimension to your 2D designs.
-  * [Angle Mockups](https://www.figma.com/community/plugin/778645840235495725/Angle-Mockups) - Apply your screen designs to perspective mockups. It's free!
+  * [Angle Mockups](https://www.figma.com/community/plugin/778645840235495725/Angle-Mockups) - Apply your screen designs to perspective mockups. Library of 1000+ mockups.
   * [Clay Mockups 3D](https://www.figma.com/community/plugin/819335598581469537/Clay-Mockups-3D) - Create & customize mockups with 3D clay-style device models.
-  * [Mockup](https://www.figma.com/community/plugin/817043359134136295/Mockup) - Perspective transformation plugin. Great for devices mockups.
+  * [Mockup](https://www.figma.com/community/plugin/817043359134136295/Mockup) - Select screen shape, choose component or frame, add a distort transformation.
   * [Third](https://www.figma.com/community/plugin/772499949564209716/Third) - Lets you import, lit, use and render 3D models right there in Figma.
 
 * Shape Maker
@@ -633,21 +632,21 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Chart](https://www.figma.com/community/plugin/734590934750866002/Chart) - Uses real or random data to create the most popular charts. 16 types of charts.
   * [Wave & Сurve](https://www.figma.com/community/plugin/745971189153303901/Wave-%26-%D0%A1urve) - You can easily create a variety of waves and interesting patterns.  
   * [Make Blob](https://www.figma.com/community/plugin/740172168964577201/Make-blob) - Make random blob and add it on your page. Set your complexity and contrast.
-  * [Metaball](https://www.figma.com/community/plugin/743754408199479204/Metaball) - Metaball plugin generates 2D-Metaball shapes from circle objects.
-  * [Dot Grid](https://www.figma.com/community/plugin/795474715778185230/Dot-Grid) - Easily generate beautiful dot grids for your Figma designs.
+  * [Metaball](https://www.figma.com/community/plugin/743754408199479204/Metaball) - Metaball plugin generates 2D-Metaball shapes from circle objects. Open source project.
+  * [Dot Grid](https://www.figma.com/community/plugin/795474715778185230/Dot-Grid) - No need to create each individual dot and laying them out into a grid anymore.
   * [Autoflow](https://www.figma.com/community/plugin/733902567457592893/Autoflow) - Draw beautiful flows in Figma automagically. Autoflow makes it easy to draw flows.
   * [Pattern Hero](https://www.figma.com/community/plugin/740556241021336678/Pattern-Hero) - Enables you to place selected elements or frames in a grid to create patterns.
-  * [Hero Patterns for Figma](https://www.figma.com/community/plugin/743134103711120154/Hero-Patterns-for-Figma) - Brings the amazing collection of patterns called Hero patterns by Steve Schoger.
+  * [Hero Patterns for Figma](https://www.figma.com/community/plugin/743134103711120154/Hero-Patterns-for-Figma) - Brings the collection of patterns called Hero Patterns by Steve Schoger.
   
 * Shape Manipulation
   * [Swap](https://www.figma.com/community/plugin/739493471028643540/Swap) - Easily swap two selected objects. Keeps the original size of objects and their position.
   * [Simplify](https://www.figma.com/community/plugin/809139536998662893/Simplify) - Simplifies vector paths by automatically reducing and rearranging their line segments.
-  * [Pencil Pal](https://www.figma.com/community/plugin/852436272709911555/Pencil-Pal) - Pencil Pal is for folks who want to get a little more out of the pencil tool.
+  * [Pencil Pal](https://www.figma.com/community/plugin/852436272709911555/Pencil-Pal) - Pencil Pal is for folks who want to get a little more out of the pencil tool. You can customize.
   * [To Path](https://www.figma.com/community/plugin/751576264585242935/To-Path) - Put any objects or text on a path. Make a curve, select an object, and watch the magic happen.
-  * [SkewDat](https://www.figma.com/community/plugin/741472919529947576/SkewDat) - You can skew anything & everything in sight within the comfort of everyone's.
+  * [SkewDat](https://www.figma.com/community/plugin/741472919529947576/SkewDat) - Live skew any shape and fine-tune with simple non-destructive controls. You need this.
   * [Roto](https://www.figma.com/community/plugin/733184376355671573/Roto) - Roto extrudes and rotates shapes in 3D. Select a shape, run Roto and play with Roto's properties. 
   * [Sprinkle](https://www.figma.com/community/plugin/734501601239074381/Sprinkle) - Make it rain with confetti. Select your pieces of confetti and watch the magic happen.
-  * [Confetti](https://www.figma.com/community/plugin/732876968584257019/Confetti) - Confetti for Figma lets anyone create gorgeous confetti patterns.
+  * [Confetti](https://www.figma.com/community/plugin/732876968584257019/Confetti) - Confetti for Figma lets anyone create gorgeous confetti patterns. Make it your own.
   * [Isometric](https://www.figma.com/community/plugin/741184519069077841/Isometric) - Isometric allows you to create isometric layers without manually having to set them up.
   * [Easometric](https://www.figma.com/community/plugin/750743440401413268/Easometric) - With Easometric it is really easy to create isometric layers & groups.
   * [Neumorphism](https://www.figma.com/community/plugin/810863251895788520/Neumorphism) - Create beautiful neumorphistic designs in just a few seconds.
@@ -657,7 +656,7 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Content Reel](https://www.figma.com/community/plugin/731627216655469013/Content-Reel) - Content Reel helps you easily pull text strings, avatars and icons into your designs.
   * [Avatars Generator](https://www.figma.com/community/plugin/746656816456492537/Avatars-generator) - Avatars Generator creates unique, AI-generated photos of a fictional persons.
   * [Mapsicle](https://www.figma.com/community/plugin/736458162635847353/Mapsicle) - Never take a screenshot of a map again! Quickly and seamlessly place maps in your mockups.
-  * [QR Code Generator](https://www.figma.com/community/plugin/735650288109030027/QR-Code-Generator) - QR Code Generator helps you to quickly create a Vector QR code.
+  * [QR Code Generator](https://www.figma.com/community/plugin/735650288109030027/QR-Code-Generator) - QR Code Generator helps you to quickly create a Vector QR code. Just enter URL.
   * [Sigils](https://www.figma.com/community/plugin/755929849994721127/sigils) - Sigils are avatars generated for Urbit IDs, which can be thought of as IP addresses.
 
 * Miscellaneous
@@ -668,7 +667,7 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Anima](https://www.figma.com/community/plugin/857346721138427857/Anima) - Design rich prototypes in minutes, publish live websites, and export HTML.
   * [Marvel Prototyping](https://www.figma.com/community/plugin/733702238760085035/Marvel-Prototyping) - Seamlessly sync frames from Figma to new or existing Marvel projects.
   * [Useberry](https://www.figma.com/community/plugin/788799088384104964/Useberry) - An online user-testing tool that helps UI/UX designers get rich user feedback.
-  * [Figmotion](https://www.figma.com/community/plugin/733025261168520714/Figmotion) - Figmotion is an animation tool built right in Figma. Makes the entry into animation easier.
+  * [Figmotion](https://www.figma.com/community/plugin/733025261168520714/Figmotion) - An animation tool built right in Figma. Makes the entry into animation easier.
   * [LottieFiles](https://www.figma.com/community/plugin/809860933081065308/LottieFiles) - Figma Animations designed for Web and Mobile. 1000+ of free animations.
   
 <hr>
