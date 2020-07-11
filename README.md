@@ -825,7 +825,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Autodesk SketchBook](https://sketchbook.com/) - A raster graphics software intended for expressive drawing and concept sketching.
   * [Krita](https://krita.org/) - A pro free painting program. It's made by artists that want to see affordable art tools for everyone.
   * [Birdfont](https://birdfont.org/) - A free font editor which lets you create vector graphics and export TTF, OTF, EOT and SVG fonts.
-  * [Darktable](https://www.darktable.org/) - An open source photography workflow application and raw developer. Darkroom for photographers.
+  * [Darktable](https://www.darktable.org/) - An open source photography workflow application and raw developer. Darkrooms.
   * [FastStone Photo Resizer](https://www.faststone.org/FSResizerDetail.htm) - Batch photo editor and converter tool - convert, resize, crop, rotate, etc.
   * [Picosmos Tools](https://www.tigercolor.com/) - Covering all kinds of image functions - editing, composing, segmentation, etc.
   * [ColorImpact](https://www.tigercolor.com/) - An interactive color scheme designer that lets you easily create stunning color schemes.
