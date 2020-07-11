@@ -30,7 +30,7 @@ Topik yang tersedia di NiceList ini memang tidak banyak dan cenderung lebih ke t
 	<a href="#sec09">9. Top Figma Plugins (130)</a>&nbsp;<br>
 	<a href="#sec10">10. Top Visual Studio Code Extensions (33)</a>&nbsp;<br>
 	<a href="#sec11">11. Educational Instagram Accounts (460)</a>&nbsp;<br>
-	<a href="#sec12">12. Windows Software Bundles (154)</a>&nbsp;<br>
+	<a href="#sec12">12. Windows Software Bundles (153)</a>&nbsp;<br>
 </p>
 
 <img src="images/img-letsgo.png">
@@ -683,8 +683,8 @@ _**Terakhir Update** : 10/07/2020_
 
 * General
   * [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu) - A simple theme with bright colors and comes in three version - dark, light and mirage.
-  * [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) - Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code.
-  * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter. Parsing your code and re-printing it with its own rules.
+  * [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) - Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code. Code formatter ➊
+  * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Parsing your code and re-printing it with consistent style with own rules. Code formatter ➋
   * [Formatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle) - Allows you to toggle the formatter (Prettier, Beautify, …) ON and OFF with a simple click.
   * [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) - Easily switch between projects. It helps you to easily access your projects.
   * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames (code completion).
@@ -737,7 +737,7 @@ _**Terakhir Update** : 09/03/2020_
 [top-50-akun-ig-interest.txt](../master/instagram/top-50-akun-ig-interest.txt) - Eksplorasi bumi, info untuk developer, info untuk traveler, dan info untuk hobi lainnya.<br>
 [top-50-akun-ig-improve.txt](../master/instagram/top-50-akun-ig-improve.txt) - Buku bisnis, pembelajaran bisnis global & lokal, pembelajaran tentang kehidupan.<br>
 [top-60-akun-ig-influencer.txt](../master/instagram/top-60-akun-ig-influencer.txt) - Para tokoh komedi, milenial, agama, motivator, berbakat, traveler dan selebgram.<br>
-[top-170-akun-ig-skillpackage.txt](../master/instagram/top-170-akun-ig-skillpackage.txt) - Pembelajaran dan inspirasi strategi medsos, developer, ui/ux, desain, art, dan ilustrasi.
+[top-170-akun-ig-skillpackage.txt](../master/instagram/top-170-akun-ig-skillpackage.txt) - Pembelajaran dan strategi medsos, developer, ui/ux, desain, art, dan ilustrasi.
 
 <hr>
 <div id="sec12"></div>
@@ -755,13 +755,13 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Silent Install Builder](http://www.silentinstall.org/) - Tool for quickly install a set of software on a multiple computers.
  
 * First-Install
-  * [Clover 3](http://en.ejie.me/) - Add multi-tab functionality W.Explorer similar to Google Chrome browser.
+  * [Clover 3](http://en.ejie.me/) - Add multi-tab functionality W.Explorer similar to Chrome browser.
   * [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly. Everything.
   * [TeraCopy](https://www.codesector.com/teracopy) - A free utility designed to copy files faster and more secure.
   * [Speecy](https://www.ccleaner.com/speccy) - Fast, lightweight, advanced system information tool for your PC.
   * [SHAREit](https://shareit.one/pc/) - Allows you to share all kind of files from one device to another.
   * [WinRar](https://www.win-rar.com/) - Windows data compression tool that focuses on the RAR and ZIP formats.
-  * [Greenshot](https://getgreenshot.org/) - Greenshot is the most awesome tool for making screenshots.
+  * [Greenshot](https://getgreenshot.org/) - Greenshot is the most awesome tool for making screenshots on Windows PC.
   * [Actual Multiple Monitor](https://www.actualtools.com/multiplemonitors/) - Improves Windows UI when working with several monitors at once.
   
 * File & Folder Protector
@@ -771,7 +771,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Gilisoft EXE Lock](https://www.youtube.com/watch?v=1nN77WlQmpU) - Lock software and EXE files with password.
   
 * Internet & Browsers
-  * [Google Chrome](https://www.google.com/chrome/) - A cross-platform web browser developed by Google.
+  * [Google Chrome](https://www.google.com/chrome/) - A cross-platform web browser developed by Google. The best web browser.
   * [Mozilla Firefox](https://www.mozilla.org/firefox/) - A free and open-source web browser developed by the Mozilla Foundation.
   * [NetBalancer](https://netbalancer.com/) - Windows application for local network traffic control and monitoring.
   * [K9 Web Protection](https://softfamous.com/k9-web-protection/) - Content-control software to help parents protect their children while using the Internet.
@@ -783,7 +783,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Discord](https://discord.com/) - A new way to chat with your communities and friends. Voice, video, text, and more.
 
 * Security & Optimization
-  * [360 Total Security](https://www.360totalsecurity.com/) - Your unified solution for PC security and performance.
+  * [360 Total Security](https://www.360totalsecurity.com/) - Your unified solution for PC security and performance. Free antivirus & system optimization.
   * [Malwarebytes](https://www.malwarebytes.com/) - Protects you against malware, ransomware, malicious websites, and other advanced threats.
   * [Austlogics Boostpeed](https://www.auslogics.com/) - A complete checkup of your system locating junk files and speed-reducing issues.
   * [Wise Care 365](https://www.wisecleaner.com/wise-care-365.html) - All-in-one system tune up tool. Speed up slow computer. Clean registry and junk files.
@@ -793,7 +793,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Microsoft Office](https://www.office.com/) - Your place to create, communicate, collaborate, and get great work done.
   * [WPS Office](https://www.wps.com/) - A new generation of office solutions. With powerful PDF, WPS Cloud, OCR, Files Repair, etc.
   * [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) - Small, fast, and feature-rich PDF viewer that allows you to open, view, and print any PDF file.
-  * [Evernote](https://evernote.com/) - Take notes anywhere. Find information faster. Share ideas with anyone.
+  * [Evernote](https://evernote.com/) - Take notes anywhere. Find information faster. Share ideas with anyone. Best note taking app.
   * [Adobe Digital Edition](https://www.adobe.com/solutions/ebook/digital-editions.html) - Ebook reader software program from Adobe Systems, built initially using Adobe Flash.
   * [Scribus](https://www.scribus.net/) - Free desktop publishing (DTP) software available for most desktop operating systems.
   * [PUB HTML5](https://www.scribus.net/) - Publish interactive magazines or catalogs Online. Create beautiful flipping book in HTML5.
@@ -807,7 +807,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
 * Imaging & Multimedia
   * [IrfanView](https://www.irfanview.com/) - One of the most popular viewers worldwide. Designed to be simple but powerful.
   * [PhotoScape](http://www.photoscape.org/) - Fun and easy photo editing software that enables you to fix and enhance photos.
-  * [AIMP](https://www.aimp.ru/) - Free audio player with support for large number of formats and playlists.
+  * [AIMP](https://www.aimp.ru/) - Free audio player with support for large number of formats and playlists. Enjot the music.
   * [Spotify](https://www.spotify.com/) - Digital music (and podcast) service that gives you access to millions of songs.
   * [VLC Media Player](https://www.videolan.org/vlc/) - Multimedia player that plays most multimedia files, and various streaming protocols.
   * [Format Factory](http://www.pcfreetime.com/) - Free and multifunctional, multimedia file processing tools by PC Free Time.
@@ -825,7 +825,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Autodesk SketchBook](https://sketchbook.com/) - A raster graphics software intended for expressive drawing and concept sketching.
   * [Krita](https://krita.org/) - A pro free painting program. It's made by artists that want to see affordable art tools for everyone.
   * [Birdfont](https://birdfont.org/) - A free font editor which lets you create vector graphics and export TTF, OTF, EOT and SVG fonts.
-  * [Darktable](https://www.darktable.org/) - An open source photography workflow application and raw developer.
+  * [Darktable](https://www.darktable.org/) - An open source photography workflow application and raw developer. Darkroom for photographers.
   * [FastStone Photo Resizer](https://www.faststone.org/FSResizerDetail.htm) - Batch photo editor and converter tool - convert, resize, crop, rotate, etc.
   * [Picosmos Tools](https://www.tigercolor.com/) - Covering all kinds of image functions - editing, composing, segmentation, etc.
   * [ColorImpact](https://www.tigercolor.com/) - An interactive color scheme designer that lets you easily create stunning color schemes.
@@ -833,7 +833,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Icons8](https://icons8.com/) - Design stuff for free, for your project - icons, photos, vectors, music, and tools.
   
 * Producer Tools
-  * [VEGAS](http://www.vegascreativesoftware.com/) - Creative software ll you need for fast, professional and efficient video production.
+  * [VEGAS](http://www.vegascreativesoftware.com/) - Software you need for fast, professional and efficient video production. Faster & more creative.
   * [Wondershare Filmora](https://filmora.wondershare.net/) - A video editor for all creators. Empower your stories and imagination with Filmora.
   * [HitFilm Express](https://fxhome.com/hitfilm-express) - A free video editing software with professional-grade VFX tools and everything you need.
   * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - A professional editing and color grading system that is suitable for everyone.
@@ -850,7 +850,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [GitKraken](https://www.gitkraken.com/) - Three developer productivity tools: Git GUI client, Kanban Boards & Timelines.
   * [Notepad++](https://notepad-plus-plus.org/) - A free source code editor and Notepad replacement that supports several languages. 
   * [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. A lightweight text editor.
-  * [Atom](https://www.sublimetext.com/) - A free and open-source text and source code editor, developed by GitHub.
+  * [Atom](https://atom.io/) - A free and open-source text and source code editor, developed by GitHub. Cross-platform editing.
   * [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging web and
   cloud app.
   * [XAMPP](https://www.apachefriends.org/index.html) - A completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl.
@@ -862,9 +862,9 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - An integrated development environment (IDE) for developing computer software.
   * [Code::Blocks](http://www.codeblocks.org/) - The open source, cross platform, free C, C++ and Fortran IDE. Work with a variety of compilers.
   * **for Data Science Developer**
-  * [Google Colab](https://colab.research.google.com/) - Write and execute Python in your browser, with zero config required and free access to GPUs.
+  * [Google Colab](https://colab.research.google.com/) - Write and execute Python in your browser, with zero config and free access to GPUs.
   * [Anaconda](https://www.anaconda.com/) - The world's most popular Python/R data science platform, work with packages and env.
-  * [Matlab](https://www.mathworks.com/products/matlab.html) - Whether you’re analyzing data, developing algorithms, or creating models.
+  * [Matlab](https://www.mathworks.com/products/matlab.html) - Whether you’re analyzing data, developing algorithms, or creating models. Professionally built.
   * [GNU Octave](https://www.gnu.org/software/octave/) - Powerful mathematics-oriented syntax with built-in plotting and visualization tools.
   * **for Game Developer**
   * [DAZ 3D](https://www.daz3d.com/) - Free 3D Software Suite for modeling & rendering realistic characters, clothes and scenes.
@@ -873,7 +873,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Godot Engine](https://godotengine.org/) - A 2D/3D free and open-source game engine released under the MIT license.
   * [Construct](https://www.scirra.com/) - An HTML5-based 2D game editor. It's aimed primarily at non-programmers.
   * [RPG Maker MV](https://www.rpgmakerweb.com/) - It is a popular game development engine for the development of RPG games.
-  * [Pixel Game Maker MV](https://tkool.jp/act/en/index.html) - Allows you to create thrilling action games with ease - no programming necessary.
+  * [Pixel Game Maker MV](https://tkool.jp/act/en/index.html) - Allows you to create thrilling action games with ease, no programming.
   * **for Network Developer**
   * [PuTTY](https://www.putty.org/) - A free SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
   * [NetSpot](https://www.netspotapp.com/) - The only professional app for wireless site surveys, Wi-Fi analysis, and troubleshooting.
@@ -882,7 +882,6 @@ Windows Software Bundles : Paket Komplit Aplikasi
   
 * Miscellaneous
   * **Emulators**
-  * [GenyMotion](https://www.genymotion.com/fun-zone/) - Cross-platform Android emulator for developers & QA engineers.
   * [BlueStacks](https://www.bluestacks.com/) - Android emulator for PC. Designed to enable Android applications to run on PCs.
   * [iPadian](https://ipadian.net/) - iPadian is a simulator, not an emulator. It gives you an impression of using the iOS
   * [Emulator Zone](https://www.emulator-zone.com/) - Source for the latest emulators for classic video game consoles and home computers.
@@ -902,7 +901,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [MiniTool Power Data Recovery](https://www.minitool.com/data-recovery-software/free-for-windows.html) - Powerful for recovering files lost by human errors, system crash.
   * [MiniTool Partition Wizard](https://hddlife.com/) - All-inclusive free partition manager to organize disk partitions.
   * [EaseUS Data Recovery](https://www.easeus.com/datarecoverywizard/free-data-recovery-software.htm) - Your second to none choice for quick but complete file recovery.
-  * [EaseUS Todo Backup](https://www.easeus.com/backup-software/) - Backup tasks on schedule, automatically run to make copies, and restore instantly.
+  * [EaseUS Todo Backup](https://www.easeus.com/backup-software/) - Backup tasks, automatically run to make copies, and restore instantly.
   * **Remote Apps**
   * [TeamViewer](https://www.teamviewer.com/) - Remote control, desktop sharing, online meetings and file transfer between computers.
   * [Chrome Remote Desktop](https://remotedesktop.google.com/) - A remote desktop software tool. Access your computers from your Android.
@@ -914,7 +913,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [WinMerge](https://winmerge.org/) - Compare both folders and files, presenting differences in a visual text format. Easy to handle.
   * [Phrase Express](https://www.phraseexpress.com/) - Helps you to speed up your typing tasks in any editor by saving lots of keystrokes.
   * [Free Commander](https://freecommander.com/en/summary/) - An alternative to the standard windows file manager - for your daily work in Windows.
-  * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Create window specific profiles of your mouse behaviour.
+  * [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - Allows you to re-configure and expand the capabilities of your mouse.
   * [Pulover's Macro Creator](https://www.macrocreator.com/) - Free automation tool and script generator - multiple automation functions.
   * [Absolute Uninstaller](https://www.glarysoft.com/absolute-uninstaller/) - Best solution to uninstall programs completely with high speed and efficiency.
   * [Advanced Renamer](https://www.advancedrenamer.com/) - Batch rename files and folders in a snap. Perfect for any kind of file renaming.
@@ -929,7 +928,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Qur'an Tafsiriyah](https://play.google.com/store/apps/details?id=com.annabawy.qtt&hl=in) - Al-Qur'an tarjamah tafsiriyah (QTT) An Nabawi oleh Al Ustadz Muhammad Thalib.
   * [Tafsir Qur'an Ibnu Katsir](https://islamdownload.net/123997-download-tafsir-ibnu-katsir.html) - Ibnu Katsir adalah seorang ahli hadits, ahli fiqih dan ahli tafsir.
   * [HaditsSoft](https://archive.org/details/SetupHaditsSoft) - Aplikasi Hadits yang saat ini berisi kitab-kitab - Bukhari, Muslim, Tirmidzi, dll.
-  * [Ensiklopedi Hadits](https://store.lidwa.com/get/) - Aplikasi hadits terlengkap, 62 ribu hadits dari 9 Imam. Belajar dari Nabi jadi lebih mudah.
+  * [Ensiklopedi Hadits](https://store.lidwa.com/get/) - Aplikasi hadits terlengkap, dengan total koleksi lebih dari 62 ribu hadits dari 9 Imam.
   * [Hadits Web 7.0](https://ibnumajjah.wordpress.com/2017/10/13/hadits-web-7-0/) - Kumpulan hadits dari kitab-kitab hadits terpercaya, tersusun dengan rapih.
   * [Perpustakaan Islam Digital](https://perpustakaanislamdigital.com/) - Himpunan 800 jilid (3600 judul) kitab kajiam islam klasik dan komtemporer.
   * **Useful Apps**
