@@ -774,7 +774,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Google Chrome](https://www.google.com/chrome/) - A cross-platform web browser developed by Google. The best web browser.
   * [Mozilla Firefox](https://www.mozilla.org/firefox/) - A free and open-source web browser developed by the Mozilla Foundation.
   * [NetBalancer](https://netbalancer.com/) - Windows application for local network traffic control and monitoring.
-  * [K9 Web Protection](https://softfamous.com/k9-web-protection/) - Content-control to help parents protect their children while using the Internet.
+  * [K9 Web Protection](https://softfamous.com/k9-web-protection/) - Content control to help parents protect their children while using the Internet.
   * [Acrylic Wi-Fi](https://www.acrylicwifi.com/en/wlan-wifi-wireless-network-software-tools/wlan-scanner-acrylic-wifi-free/) - View real-time status of your Wi-Fi. Detects other networks, signal levels, channels.
   * [Internet Download Manager](https://www.internetdownloadmanager.com/) - Tool to increase download speeds by up to 5 times.
   * [4K Video Downloader](https://www.4kdownload.com/) - Allows downloading videos, playlists, channels and subtitles in high quality.
@@ -783,7 +783,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Discord](https://discord.com/) - A new way to chat with your communities and friends. Voice, video, text, and more.
 
 * Security & Optimization
-  * [360 Total Security](https://www.360totalsecurity.com/) - Your unified solution for PC security and performance. Free antivirus & pptimization.
+  * [360 Total Security](https://www.360totalsecurity.com/) - Your unified solution for PC security and performance. Free antivirus & optimization.
   * [Malwarebytes](https://www.malwarebytes.com/) - Protects you against malware, ransomware, malicious websites, and other advanced threats.
   * [Austlogics Boostpeed](https://www.auslogics.com/) - A complete checkup of your system locating junk files and speed-reducing issues.
   * [Wise Care 365](https://www.wisecleaner.com/wise-care-365.html) - All-in-one system tune up tool. Speed up slow computer. Clean registry and junk files.
