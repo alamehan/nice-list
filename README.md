@@ -20,7 +20,7 @@ Topik yang tersedia di NiceList ini memang tidak banyak dan cenderung lebih ke t
 
 <p align="left">
 	<a href="#sec01">1. Find a Job (32)</a>&nbsp;<br>
-	<a href="#sec02">2. Useful Websites (87)</a>&nbsp;<br>
+	<a href="#sec02">2. Useful Websites (88)</a>&nbsp;<br>
 	<a href="#sec03">3. Internet Library (23)</a>&nbsp;<br>
 	<a href="#sec04">4. Wikipedia Uncover (...)</a>&nbsp;<br>
 	<a href="#sec05">5. Self Improvement (78)</a>&nbsp;<br>
@@ -139,6 +139,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [Designer.io](http://designer.io/) - Create graphics, logos and icons, edit images illustrations & presentations, all for free.
   * [Zeplin.io](https://zeplin.io/) - Handoff designs and styleguides with accurate specs, assets, code snippets—automatically.
   * [Io-games.io](http://io-games.io/) - The best io games site in the world. A list of all new io games and most played games.
+  * [Vectorizer.io](https://www.vectorizer.io/) - Convert raster images like PNG/BMP/JPEG to scalable vector graphics (SVG, EPS, DXF).
   * [Remove.bg](https://www.remove.bg/) - Remove image background 100% automatically in 5 seconds, without a single click.
   * [Deep-image.ai](https://deep-image.ai/) - Upscale and enhance photo, improve picture quality based on ANN.
   
