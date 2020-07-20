@@ -512,7 +512,7 @@ Top Figma Plugins : Hadiah Untuk Designer
 
 * Project Starter
   * [Project Scaffold](https://www.figma.com/community/plugin/747372158567878238/Project-Scaffold) - Generates a scaffold for your Product design project in just 1 click.
-  * [Quick Thumbnail](https://www.figma.com/community/plugin/861544263629766272/Quick-Thumbnail) - Quick help to build a beautiful thumbnail for your figma files.
+  * [Better File Thumbnails](https://www.figma.com/community/plugin/743199058431264556/Better-File-Thumbnails) - Create a thumbnail for your project in a few clicks with a visual editor.
   * [Product Planner](https://www.figma.com/community/plugin/766652281834442616/Product-Planner) - 15 product manager templates & 12 product planner templates.
   * [Status Annitations](https://www.figma.com/community/plugin/795096273369409539/Status-Annotations) - Indicate the status of your designes when collaborating with your team.
   * [Notepad](https://www.figma.com/community/plugin/739527655081183968/Notepad) - Use Notepad to add a place for notes to your Figma documents. Automatically saved.
