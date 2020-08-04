@@ -20,17 +20,17 @@ Topik yang tersedia di NiceList ini memang tidak banyak dan cenderung lebih ke t
 
 <p align="left">
 	<a href="#sec01">1. Find a Job (32)</a>&nbsp;<br>
-	<a href="#sec02">2. Useful Websites (88)</a>&nbsp;<br>
-	<a href="#sec03">3. Internet Library (23)</a>&nbsp;<br>
+	<a href="#sec02">2. Useful Websites (85)</a>&nbsp;<br>
+	<a href="#sec03">3. Internet Library (27)</a>&nbsp;<br>
 	<a href="#sec04">4. Wikipedia Uncover (...)</a>&nbsp;<br>
 	<a href="#sec05">5. Self Improvement (78)</a>&nbsp;<br>
-	<a href="#sec06">6. Top Chrome Extensions (69)</a>&nbsp;<br>
+	<a href="#sec06">6. Top Chrome Extensions (71)</a>&nbsp;<br>
 	<a href="#sec07">7. Designer 101 (...)</a>&nbsp;<br>
-	<a href="#sec08">8. Developer 101 (75)</a>&nbsp;<br>
+	<a href="#sec08">8. Developer 101 (77)</a>&nbsp;<br>
 	<a href="#sec09">9. Top Figma Plugins (130)</a>&nbsp;<br>
 	<a href="#sec10">10. Top Visual Studio Code Extensions (33)</a>&nbsp;<br>
 	<a href="#sec11">11. Educational Instagram Accounts (460)</a>&nbsp;<br>
-	<a href="#sec12">12. Windows Software Bundles (153)</a>&nbsp;<br>
+	<a href="#sec12">12. Windows Software Bundles (155)</a>&nbsp;<br>
 </p>
 
 <img src="images/img-letsgo.png">
@@ -60,7 +60,12 @@ Useful Websites : Jelajah Manfaat Internet
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
-* Digital Product Showcase
+* Top Curation Site
+  * [Awesome Github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness. Huge curated list project.
+  * [Pretty Awesome Lists](https://www.prettyawesomelists.com/) - Pretty Awesome Lists crawls all these lists, collects interesting information.
+  * [Content Curation Tools](https://optinmonster.com/best-content-curation-tools/) - Collecting interesting information as individual pieces of content or as a digest.
+
+* Discover Digital Products
   * [Product Hunt](http://www.producthunt.com/) - Discover the latest mobile apps, websites, and technology products.
   * [Stackshare](https://stackshare.io/) - Find the right developer tools and the companies that use them.
   * [YourStack](https://yourstack.com/) - YourStack is for sharing your favorite products with the world.
@@ -69,32 +74,17 @@ Useful Websites : Jelajah Manfaat Internet
   * [Capterra](https://www.capterra.com/) - Search, compare, and choose the right software with confidence.
   * [G2](https://www.g2.com/) - Choose the right software and services based on 1,061,900+ authentic.
 
-* Expand Your Knowledge
+* Knowledge Resources
   * [Wikipedia](https://www.wikipedia.org/) - Encyclopedia. The largest and most popular general reference work on the World Wide Web.
   * [Wikihow](https://www.wikihow.com/) - The world's most helpful how-to instructions to enable everyone to learn how to do anything.
   * [Fandom](https://www.fandom.com/) - The entertainment site where fans come first. Source for all things TV, movies, and games, etc.
   * [Medium](https://medium.com/) - Our sole purpose is to help you find compelling ideas, knowledge, and perspectives.
-  * [MakeUseOf](https://www.makeuseof.com/) - Learn how to make use of tech and gadgets around you and discover cool stuff on the Internet.
-  * [Vice](https://www.vice.com/) - The definitive guide to enlightening information from every corner of the planet.
+  * [MakeUseOf](https://www.makeuseof.com/) - Learn how to make use of tech around you and discover cool stuff on the Internet.
   * [Reddit](https://www.reddit.com/) - An American social news aggregation, web content rating, and discussion website.
-  * [Pretty Awesome Lists](https://www.prettyawesomelists.com/) - Pretty Awesome Lists crawls all these lists, collects interesting information.
-  
-* Expand Your Skills
-  * [Kelas](https://kelas.com/) - Belajar dari para mentor terbaik dibidangnya. Nikmati pengalaman belajar yang berbeda.
-  * [Skill Academy](https://skillacademy.com/) - Tingkatkan technical & soft skill di berbagai bidang (by Ruangguru).
-  * [IndonesiaX](https://www.indonesiax.co.id/) - Kursus dari universitas peringkat tertinggi di Indonesia dan perusahaan terbaik.
-  * [Alison](https://alison.com/) - Free online education platform that mostly focuses on workplace-based skills.
-  * [Udemy](https://www.udemy.com/) - Study any topic, anytime. Choose from thousands of expert-led courses now.
-  * [Udacity](https://www.udacity.com/) - Advance your career with online courses in programming, data science, and more.
-  * [Coursera](https://www.coursera.org/) - Build skills with online courses from world-class universities and companies.
-  * [Lynda](https://www.lynda.com/) - Learn software, creative, and business skills to achieve your personal and professional goals.
-  * [Skill Share](https://www.skillshare.com/) - Learning platform with online classes taught by the world's best practitioners.
-  * [Plural Sight](https://www.pluralsight.com/) - Gives you confidence you have the skills you need to execute your technology strategy.
-  * [Treehouse](https://teamtreehouse.com/) - Learn to code, gain a new skill, get a new job. Whatever your goal — we'll get you there.
-  * [Codecademy](https://www.codecademy.com/) - Learn the technical skills you need for the job you want. An online interactive platform.
+  * [Vice](https://www.vice.com/) - The definitive guide to enlightening information from every corner of the planet.
+  * [Snopes](https://www.snopes.com/) - The definitive fact-checking site and reference source for misinformation.
  
-* Discover Documents
-  * [Internet Archive](https://archive.org/) - Digital library offering free universal access to books, movies & music.
+* Documents Resources
   * [Libgen](https://libgen.is/) - Search engine for articles and books on various topics which allows free access.
   * [Alleng](https://alleng.org/) - For ESL students. Download textbooks, dictionaries, manuals, audio, video etc. 
   * [PDF Drive](https://www.pdfdrive.com/) - Search engine for PDF files. eBooks for you to download for free.
@@ -104,44 +94,29 @@ Useful Websites : Jelajah Manfaat Internet
   * [Scribd](http://www.scribd.com/) - Enjoy an unlimited* number of books, audiobooks, magazines, and more.
    
 * Various Resources
+  * [Internet Archive](https://archive.org/) - Digital library offering free universal access to books, movies & music.
+  * [Use FYI](https://usefyi.com/templates/) - Free resources and templates you need to get work done in one place.
+  * [Biggerplate](https://www.biggerplate.com/) - Download mind map templates and shared by members of our global community.
   * [Kickass](https://kickass.help/) - You can search for TV shows and TV series, movies, music and games.
   * [1337x](https://www.1337x.tw/) - Brings you the latest games, movies, tv series, music and software for free.
   * [Yify](https://yts.mx/) - YTS was a peer-to-peer release group known for distributing large numbers of movies.
   * [Soap2Day](https://soap2day.ru/) - Watch latest movies and TV series online no ads, we daily update.
+  * [KeBioskop21](http://103.194.171.185/) - Streaming film maupun tv series online gratis, subtitle Indonesia.
   * [Subscene](https://subscene.com/) - Free download and browse more movies, TV Series, tv shows subtitles.
   * [TubeOffline](https://www.tubeoffline.com/) - Free online downloader for any Twitter video. Best tool that actually works.
-  * [Use FYI](https://usefyi.com/templates/) - Free resources and templates you need to get work done in one place.
-  * [OnlyGFX](https://www.onlygfx.com/) - A large collection of free in-house design resources for your design project.
-  * [GfxStudy](https://gfxstudy.com/) - Free AE template, videohive, vector, stock image , PSD, Photoshop ➊
-  * [Graphicex](https://graphicex.com/) - Free AE template, videohive, vector, stock image , PSD, Photoshop ➋
-  * [Ttorial](http://ttorial.com/) - Obtain & download the best online courses for free, from 100+ leading institutions.
+  * [Ttorial](http://ttorial.com/) - Obtain & download the best online courses for free, from 100+ institutions.
   * [FreeCourseLab](https://freecourselab.com/) - A great place to learn. Download Udemy courses for free.
-  * [FreeCourseUdemy](https://freecourseudemy.com/) - Premium Udemy tutorials free download. Top udemy courses. 
-  * [KeBioskop21](http://103.194.171.185/) - Streaming film maupun tv series online gratis, subtitle Indonesia.
-  
-* Coupon Hunter
-  * [OzBargain](https://www.ozbargain.com.au/tag/udemy-course) - Hunting community, coupon codes and freebies.
-  * [Freebies Global](https://freebiesglobal.com/) - Latest freebies, courses, coupons & deals.
-  * [Disc Udemy](https://www.discudemy.com/language/english) - The only website where expired courses are deleted.
-  * [Coupo Scorpion](https://couponscorpion.com/) - The ultimate resource for 100% free Udemy coupons.
-  * [LearnViral](https://udemycoupon.learnviral.com/) - Free Udemy coupons, get your coupons before they expire.
-  * [CouponCause](https://couponcause.com/) - Find promo codes and online discounts by store and category.
-  * [Couponos](https://couponos.ooo/) - Get the latest Udemy coupon and BitDegree online courses.
-  
+  * [FreeCourseUdemy](https://freecourseudemy.com/) - Premium Udemy tutorials free download. Top udemy courses.
+  * [FitGirl Repacks](https://fitgirl-repacks.site/) - Collection of repack games, minimize the size of installation.
+    
 * Useful Web Apps
   * [Pdf.io](https://pdf.io/) - Free set of online tools for handling PDF files. Convert and edit your PDF files.
   * [Convert.io](https://convertio.co/) - Convert your files to any format. 300+ formats supported. Fast and easy.
-  * [Stackshare.io](https://stackshare.io/) - Find the right developer tools and the companies that use them.
-  * [Prototypr.io](https://www.prototypr.io/) - Get the latest daily design news and tools. From UX design to frontend dev.
-  * [Libraries.io](https://libraries.io/) - Discover open source packages, modules and frameworks you can use in your code.
   * [Veed.io](https://www.veed.io/) - A simple but powerful online video editor. Music, trim, crop, aff effects, images, filter, etc.
-  * [Draw.io](https://www.draw.io/) - A free diagram software for making flowcharts, process diagrams, org charts, UML, ER, etc.
   * [Designer.io](http://designer.io/) - Create graphics, logos and icons, edit images illustrations & presentations, all for free.
-  * [Zeplin.io](https://zeplin.io/) - Handoff designs and styleguides with accurate specs, assets, code snippets—automatically.
+  * [Draw.io](https://www.draw.io/) - A free diagram software for making flowcharts, process diagrams, org charts, UML, ER, etc.
+  * [Mindmeister](https://www.mindmeister.com/) - An online mind mapping tool that lets you capture, develop and share ideas visually.
   * [Io-games.io](http://io-games.io/) - The best io games site in the world. A list of all new io games and most played games.
-  * [Vectorizer.io](https://www.vectorizer.io/) - Convert raster images like PNG/BMP/JPEG to scalable vector graphics (SVG, EPS, DXF).
-  * [Remove.bg](https://www.remove.bg/) - Remove image background 100% automatically in 5 seconds, without a single click.
-  * [Deep-image.ai](https://deep-image.ai/) - Upscale and enhance photo, improve picture quality based on ANN.
   
 * Useful Web Tools
   * [Get Emoji](https://getemoji.com/) - Copy and paste emoji no apps required 😀 😃 😄 😁 😆 🍎 🍐 🍊 🍋 🍌.
@@ -153,16 +128,38 @@ Useful Websites : Jelajah Manfaat Internet
   * [Tools4Noobs](https://www.tools4noobs.com/online_tools/) - Tools you didn't even know you needed. A collection of useful scripts (Count lines, etc).
   * [Sort My List](https://sortmylist.com/) - Online word tool to alphabetize & text sort. Sort numerically or by length and more.
   * [Remove Line Breaks](http://removelinebreaks.net/) - Remove line breaks from blocks of text (solusi untuk copy text dari PDF).
-  * [Subtitle Translator](https://www.syedgakbar.com/projects/dst) - Quickly translate subtitles from one language to other language.
+  * [Subtitles Translator](https://subtitlestranslator.com/) - Translate multiple subtitle at the same time into 80 different languages.
   * [ttsMP3](https://ttsmp3.com/) - Easily convert your written text into natural sounding voice in up to 50 different languages.
   * [Pastebin](https://pastebin.com/) - Pastebin is a website where you can store text online for a set period of time.
   * [Bitly](https://bitly.com/) - Shorten, create and share trusted, powerful links for your business. Create click-worthy links.
   * [Linktree](https://linktr.ee/) - free bio link tool used by the world's best brands, creators and influencers.
   * [Small PDF](https://smallpdf.com/) - All-in-one (convert, compress, merge, split and edit) easy-to-use online PDF tools.
-  * [Vector Magic](https://vectormagic.com/) - The world's best full-color auto-tracer. Easily convert JPG/PNG/GIF to PDF/SVG/EPS Vectors.
   * [Google Earth](https://www.google.com/intl/id/earth/) - 3D representation of Earth based primarily on satellite imagery - Allows you to "fly".
   * [IsItDownRightNow?](https://www.isitdownrightnow.com/) - Monitors the status of websites and checks whether they are down or not. 
   * [HaveIBeenPwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach.
+  
+* Online Courses
+  * [Kelas](https://kelas.com/) - Belajar dari para mentor terbaik dibidangnya. Nikmati pengalaman belajar yang berbeda.
+  * [Skill Academy](https://skillacademy.com/) - Tingkatkan technical & soft skill di berbagai bidang (by Ruangguru).
+  * [IndonesiaX](https://www.indonesiax.co.id/) - Kursus dari universitas peringkat tertinggi di Indonesia dan perusahaan terbaik.
+  * [Coursera](https://www.coursera.org/) - Build skills with online courses from world-class universities and companies.
+  * [Alison](https://alison.com/) - Free online education platform that mostly focuses on workplace-based skills.
+  * [Udemy](https://www.udemy.com/) - Study any topic, anytime. Choose from thousands of expert-led courses now.
+  * [Udacity](https://www.udacity.com/) - Advance your career with online courses in programming, data science, and more.
+  * [Lynda](https://www.lynda.com/) - Learn software, creative, and business skills to achieve your personal and professional goals.
+  * [Skill Share](https://www.skillshare.com/) - Learning platform with online classes taught by the world's best practitioners.
+  * [Plural Sight](https://www.pluralsight.com/) - Gives you confidence you have the skills you need to execute your technology strategy.
+  * [Treehouse](https://teamtreehouse.com/) - Learn to code, gain a new skill, get a new job. Whatever your goal — we'll get you there.
+  * [Codecademy](https://www.codecademy.com/) - Learn the technical skills you need for the job you want. An online interactive platform.
+  
+* Coupon Hunter
+  * [OzBargain](https://www.ozbargain.com.au/tag/udemy-course) - Hunting community, coupon codes and freebies.
+  * [Freebies Global](https://freebiesglobal.com/) - Latest freebies, courses, coupons & deals.
+  * [Disc Udemy](https://www.discudemy.com/language/english) - The only website where expired courses are deleted.
+  * [Coupo Scorpion](https://couponscorpion.com/) - The ultimate resource for 100% free Udemy coupons.
+  * [LearnViral](https://udemycoupon.learnviral.com/) - Free Udemy coupons, get your coupons before they expire.
+  * [CouponCause](https://couponcause.com/) - Find promo codes and online discounts by store and category.
+  * [Couponos](https://couponos.ooo/) - Get the latest Udemy coupon and BitDegree online courses.
  
 <hr>
 <div id="sec03"></div>
@@ -178,6 +175,7 @@ Internet Library : Eksplorasi Beragam Topik
   * Know Yourself : _(Upcoming!)_ & Learn English : _(Upcoming!)_
 
 * Good Resources
+  * Career Path : [The Balance Careers](https://www.thebalancecareers.com/), [MyMajors](https://www.mymajors.com/), [Recruiter](https://www.recruiter.com/careers/), [Rencanamu.id](https://rencanamu.id/), [Glints](https://glints.com/)
   * Psychology : [Positive Psychology](https://positivepsychology.com/), [Simply Psychology](https://www.simplypsychology.org/), [CCI Health](https://www.cci.health.wa.gov.au/Resources/Overview), [Psychology Tools](https://www.psychologytools.com/), [Tools](https://psychology-tools.com/)
   * 16 MBTI Personalities : [16Personalities](https://www.16personalities.com/), [PersonalityClub](https://www.personalityclub.com/), [The Personality Database](https://personality-database.com/)
   * Data Visualization : [Visualization Universe](http://visualizationuniverse.com/), [Dataviz Catalogue](https://datavizcatalogue.com/), [Observable HQ](https://observablehq.com/), [Adioma](https://blog.adioma.com/)
@@ -327,6 +325,7 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
   * [Wikiwand](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj?hl=id) - A new interface that optimizes Wikipedia's amazing content for improved reading experience.
   * [Mercury Reader](https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi) - Clear away the clutter from all of your articles, instantly. Removes ads and distractions. 
   * [Rocket Readability](https://chrome.google.com/webstore/detail/rocket-readability/fhckbdfnalikpmcmcpcpkkdlhabngbod) - Mercury Reader alternative. Parses web pages cutting out ads.
+  * [Just Read](https://chrome.google.com/webstore/detail/just-read/dgmanlpmmkibanfdgjocnabmcaclkmod) - Remove distractions like the page's styling, ads, poups and comments.
   * [Print Friendly & PDF](https://chrome.google.com/webstore/detail/print-friendly-pdf/ohlencieiipommannpdfcmfdpjjmeolj) - Print Friendly removes ads, navigation and junk before your print.
   * [Kami Extension](https://chrome.google.com/webstore/detail/kami-extension-pdf-and-do/ecnphlgnajanjnkcmbpancdjoidceilk) - Best PDF and document annotation and markup tool. Works with Drive and Classroom.
   * [Google Docs Offline](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi) - Edit, create and view all your documents without Internet access.
@@ -385,6 +384,7 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
   * [Loom](https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb) - Capture, narrate and instantly share videos to communicate faster, clearer and friendlier.
   * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) - Unleash the power of sound, no matter what speakers you're using.
   * [Clever Mute](https://chrome.google.com/webstore/detail/clever-mute/eadinjjkfelcokdlmoechclnmmmjnpdh) - You can mute or unmute any site just by clicking the extension icon.
+  * [Cookies.txt](https://chrome.google.com/webstore/detail/cookiestxt/njabckikapfpffapmjgojcnbfjonfjfg) - Exports your cookies in a format compatible with wget, curl, aria2, etc.
   
 <hr>
 <div id="sec07"></div>
@@ -431,7 +431,9 @@ Developer 101 : Paket Komplit Developer
   * [Be Fullstack Developer](https://buku-laravel-vue.com/) - Panduan hebat untuk menjadi Fullstack Developer! Laravel & Vue.js.
   * [W3Schools](https://www.w3schools.com/) - The world's largest web developer site. Tutorials and references relating to web dev.
   * [W3Docs](https://www.w3schools.com/) - We are trying to provide useful and concise materials for the programming enthusiasts.
+  * [Newline by Fullstack.io](https://www.newline.co/) - We'd love to collaborate to write a book or course together.
   * [A Smarter Way](https://www.amazon.com/Mark-Myers/e/B00HNW14T4?ref_=dbs_p_ebk_r00_abau_000000) - Coding, I learned, isn't that hard. Easy way to learn web programming.
+  * [Head First Series](https://www.amazon.com/Head-First-Series-Books/b?ie=UTF8&node=8456760011) - A series of introductory instructional books to many topics.
   * [Full-Stack Web Dev Resources](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Full-Stack complete resources
   
 * Web Dev : Frontend
@@ -763,6 +765,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [SHAREit](https://shareit.one/pc/) - Allows you to share all kind of files from one device to another.
   * [WinRar](https://www.win-rar.com/) - Windows data compression tool that focuses on the RAR and ZIP formats.
   * [Greenshot](https://getgreenshot.org/) - Greenshot is the most awesome tool for making screenshots on Windows PC.
+  * [PicPick](https://picpick.app/en/) - A full-featured screen capture tool, color picker, pixel-ruler, whiteboard and more.
   * [Actual Multiple Monitor](https://www.actualtools.com/multiplemonitors/) - Improves Windows UI when working with several monitors at once.
   
 * File & Folder Protector
@@ -895,6 +898,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Unstoppable Copier](https://softfamous.com/unstoppable-copier/) - Scan your CD/DVD/hardware used for storage, then you can choose to restore it.
   * [DVDStyler](https://www.dvdstyler.org/) - Free DVD authoring application for the creation of professional-looking DVDs. 
   * **HDD/SSD Apps**
+  * [WizTree](https://antibody-software.com/web/) - Scans your entire hard drive and shows you which files and folders are using the most disk space.
   * [Hard Disk Sentinel](https://www.hdsentinel.com/) - A SSD/HDD monitoring and analysis software - find, test, diagnose and repair.
   * [HDDlife](https://hddlife.com/) - Allowing you to move your data long before the lifespan of your HDD/SSD comes to an end.
   * [DiskSavvy](https://www.disksavvy.com/) - A free, fast and easy-to-use disk space analyzer utility allowing one to analyze disk.
@@ -940,3 +944,4 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Cheat Engine](https://www.cheatengine.org/) - Memory scanner/hex editor/debugger. Mostly used for cheating in computer games.
   * [Razer Cortex](https://www.cheatengine.org/) - Brings enhanced gaming performance, and the ability to discover the best gaming deals.
   * [Rainmeter](https://www.rainmeter.net/) - Most popular desktop customization software for Windows - customizable desktop skins.
+  * [Snap2HTML](https://www.rlvision.com/snap2html/) - Takes a "snapshot" of folder structures on your harddrive and saves as HTML files.
