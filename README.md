@@ -156,7 +156,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [OzBargain](https://www.ozbargain.com.au/tag/udemy-course) - Hunting community, coupon codes and freebies.
   * [Freebies Global](https://freebiesglobal.com/) - Latest freebies, courses, coupons & deals.
   * [Disc Udemy](https://www.discudemy.com/language/english) - The only website where expired courses are deleted.
-  * [Coupo Scorpion](https://couponscorpion.com/) - The ultimate resource for 100% free Udemy coupons.
+  * [Coupo Scorpion](https://couponscorpion.com/) - The ultimate resources for 100% free Udemy coupons.
   * [LearnViral](https://udemycoupon.learnviral.com/) - Free Udemy coupons, get your coupons before they expire.
   * [CouponCause](https://couponcause.com/) - Find promo codes and online discounts by store and category.
   * [Couponos](https://couponos.ooo/) - Get the latest Udemy coupon and BitDegree online courses.
@@ -437,14 +437,14 @@ Developer 101 : Paket Komplit Developer
   * [Full-Stack Web Dev Resources](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Full-Stack complete resources
   
 * Web Dev : Frontend
-  * [HTML](https://github.com/diegocard/awesome-html5) - HTML Resource
-  * [CSS](https://github.com/micromata/awesome-css-learning) - CSS Resource (Learn) ➊
-  * [CSS](https://github.com/awesome-css-group/awesome-css) - CSS Resource (Collection) ➋
+  * [HTML](https://github.com/diegocard/awesome-html5) - HTML Resources
+  * [CSS](https://github.com/micromata/awesome-css-learning) - CSS Resources (Learn) ➊
+  * [CSS](https://github.com/awesome-css-group/awesome-css) - CSS Resources (Collection) ➋
   * [BootStrap](https://github.com/pierceoneill/awesome-bootstrap) - CSS Framework
-  * [JavaScript](https://github.com/micromata/awesome-javascript-learning) - JavaScript Resource (Learn) ➊
-  * [JavaScript](https://github.com/sorrycc/awesome-javascript) - JavaScript Resource (Collection) ➋
-  * [JavaScript](https://github.com/addyosmani/es6-tools) - JavaScript Resource (Tools) ➌
-  * [JSON](https://github.com/burningtree/awesome-json) - JSON Resource
+  * [JavaScript](https://github.com/micromata/awesome-javascript-learning) - JavaScript Resources (Learn) ➊
+  * [JavaScript](https://github.com/sorrycc/awesome-javascript) - JavaScript Resources (Collection) ➋
+  * [JavaScript](https://github.com/addyosmani/es6-tools) - JavaScript Resources (Tools) ➌
+  * [JSON](https://github.com/burningtree/awesome-json) - JSON Resources
   * [JQuery](https://github.com/petk/awesome-jquery) - JavaScript Library
   * [Vue.js](https://github.com/vuejs/awesome-vue) - JavaScript Framework ➊
   * [React](https://github.com/enaqx/awesome-react) - JavaScript Framework ➋
@@ -464,20 +464,20 @@ Developer 101 : Paket Komplit Developer
   * [jQuery Script](https://www.jqueryscript.net/) - Hand-picked HTML, CSS and JavaScript code examples ➌
   
 * Web Dev : Backend
-  * [PHP](https://github.com/odan/learn-php) - PHP Resource (Learn) ➊
-  * [PHP](https://github.com/ziadoz/awesome-php) - PHP Resource (Collection) ➋
-  * [REST](https://github.com/marmelab/awesome-rest) - REST Resource
-  * [MySQL](https://github.com/shlomi-noach/awesome-mysql) - MySQL Resource
+  * [PHP](https://github.com/odan/learn-php) - PHP Resources (Learn) ➊
+  * [PHP](https://github.com/ziadoz/awesome-php) - PHP Resources (Collection) ➋
+  * [REST](https://github.com/marmelab/awesome-rest) - REST Resources
+  * [MySQL](https://github.com/shlomi-noach/awesome-mysql) - MySQL Resources
   * [Laravel](https://github.com/shlomi-noach/awesome-mysql) - PHP Framework
   * [NodeJs](https://github.com/sindresorhus/awesome-nodejs) - **Backend JavaScript Base**
   * [Backend Web Dev Resources](https://github.com/backend-br/awesome-backend) - Backend complete resources
 
 * Mobile Dev : Frontend & Backend
-  * [Awesome Android](https://github.com/JStumpp/awesome-android) - Android Dev Resource ➊
-  * [Awesome Android Libraries](https://github.com/wasabeef/awesome-android-libraries) - Android Dev Resource ➋
-  * [Awesome Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui) - Android Dev Resource ➌
-  * [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS Dev Resource ➊
-  * [Awesome iOS UI/UX Libraries](https://github.com/cjwirth/awesome-ios-ui) - iOS Dev Resource ➋
+  * [Awesome Android](https://github.com/JStumpp/awesome-android) - Android Dev Resources ➊
+  * [Awesome Android Libraries](https://github.com/wasabeef/awesome-android-libraries) - Android Dev Resources ➋
+  * [Awesome Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui) - Android Dev Resources ➌
+  * [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS Dev Resources ➊
+  * [Awesome iOS UI/UX Libraries](https://github.com/cjwirth/awesome-ios-ui) - iOS Dev Resources ➋
 
 * Useful Tools
   * [Carbon](https://carbon.now.sh/) - Easiest way to create and share beautiful images of your source code.
