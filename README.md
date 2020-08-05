@@ -937,7 +937,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Hadits Web 7.0](https://ibnumajjah.wordpress.com/2017/10/13/hadits-web-7-0/) - Kumpulan hadits dari kitab-kitab hadits terpercaya, tersusun dengan rapih.
   * [Perpustakaan Islam Digital](https://perpustakaanislamdigital.com/) - Himpunan 800 jilid (3600 judul) kitab kajiam islam klasik dan komtemporer.
   * **Useful Apps**
-  * [8GadgetPack](https://8gadgetpack.net/) - Allows you to use gadgets on Windows 10/8.1/7. (Ex gadget : [Days Remaining](http://win7gadgets.com/calendar/days_remaining.html))
+  * [8GadgetPack](https://8gadgetpack.net/) - Allows you to use gadgets on Windows 10/8.1/7. (Example gadget : [Days Remaining](http://win7gadgets.com/calendar/days_remaining.html))
   * [KeyTweak](https://softfamous.com/keytweak/) - KeyTweak allows a computer user to remap the keys on the keyboard to a customized layout. 
   * [Event Log Ex](https://eventlogxp.com/) - A software solution for viewing, analyzing and monitoring events recorded in event logs.
   * [HJSplit](http://www.hjsplit.org/) - Tool to split and recombine files as large as 100+ gigabytes - split, join, compare, and checksum.
