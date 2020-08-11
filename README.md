@@ -170,10 +170,6 @@ Internet Library : Eksplorasi Beragam Topik
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
-* The Right Way
-  * Web Development : [Developer Roadmaps](https://roadmap.sh/), [GitKrakenDocs](https://www.gitkraken.com/resources/devops-report-2020), [W3Docs](https://www.w3docs.com/), [W3Schools](https://www.w3schools.com/), [DevDocs](https://devdocs.io/)
-  * Know Yourself : _(Upcoming!)_ & Learn English : _(Upcoming!)_
-
 * Good Resources
   * Career Path : [The Balance Careers](https://www.thebalancecareers.com/), [MyMajors](https://www.mymajors.com/), [Recruiter](https://www.recruiter.com/careers/), [Rencanamu.id](https://rencanamu.id/), [Glints](https://glints.com/)
   * Psychology : [Positive Psychology](https://positivepsychology.com/), [Simply Psychology](https://www.simplypsychology.org/), [CCI Health](https://www.cci.health.wa.gov.au/Resources/Overview), [Psychology Tools](https://www.psychologytools.com/), [Tools](https://psychology-tools.com/)
@@ -406,13 +402,16 @@ Developer 101 : Paket Komplit Developer
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
-* Online Tutorials
-  * [Tutorialspoint](https://www.tutorialspoint.com/index.htm) - Free online tutorials, courses and programming projects ➊
-  * [Javapoint](https://www.javatpoint.com/) - Free online tutorials, courses and programming projects ➋
-  * [FreeCodeCamp](https://www.freecodecamp.org/) - Free online tutorials, courses and programming projects ➌
-  * [GeeksForGeeks](https://www.geeksforgeeks.org/) - Free online tutorials, courses and programming projects ➍
-  * [Tutorial Kart](https://www.tutorialkart.com/) - Free online tutorials, courses and programming projects ➎
-  * [SoloLearn](https://www.sololearn.com/) - Free online tutorials, courses and programming projects ➏
+* Top Curated List for Developer
+  * ON PROGRESS
+  * [Developer Roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps, mostly about software development.
+  * [Web Dev : Full-Stack](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Full-Stack complete resources.
+  * [Web Dev : Frontend](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend complete resources.
+  * [Web Dev : Backend](https://github.com/backend-br/awesome-backend) - Backend complete resources.
+  * [Web Dev : Devops](https://github.com/awesome-soft/awesome-devops) - Devops complete resources.
+  * [Free for Developer](https://github.com/ripienaar/free-for-dev) - A curated list of Developer resources. Free for Developer.
+  * [Awesome Guideline](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+  * [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - Kumpulan group pemrograman Telegram Indonesia.
 
 * Top Udemy Course
   * [Brad Traversy Course](https://www.udemy.com/user/brad-traversy/) - Web Dev • Good for Beginners
@@ -423,6 +422,25 @@ Developer 101 : Paket Komplit Developer
   * [The Complete Android 10 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/) - Android Dev • Kotlin Base
   * [The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/) - Mobile Dev • Flutter Base
   * [The Complete React Native + Hooks Course 2020 Edition](https://www.udemy.com/course/the-complete-react-native-and-redux-course/) - Mobile Dev • React Native Base
+  
+* Online Tutorials
+  * [Tutorialspoint](https://www.tutorialspoint.com/index.htm) - Free online tutorials, courses and programming projects ➊
+  * [Javapoint](https://www.javatpoint.com/) - Free online tutorials, courses and programming projects ➋
+  * [FreeCodeCamp](https://www.freecodecamp.org/) - Free online tutorials, courses and programming projects ➌
+  * [GeeksForGeeks](https://www.geeksforgeeks.org/) - Free online tutorials, courses and programming projects ➍
+  * [Tutorial Kart](https://www.tutorialkart.com/) - Free online tutorials, courses and programming projects ➎
+  * [SoloLearn](https://www.sololearn.com/) - Free online tutorials, courses and programming projects ➏
+  
+* Useful Tools
+  * [Carbon](https://carbon.now.sh/) - Easiest way to create and share beautiful images of your source code.
+  * [Codeshare](https://codeshare.io/) - An online code editor for interviews, troubleshooting, teaching and more.
+  * [Responsive Test Tool](http://responsivetesttool.com/) - The best responsive test tools for check your website resolutions.
+  * [Scrimba](https://scrimba.com/) - Fast-track your career with hands-on coding courses (**playground & learn**).
+  * [StackBlitz](https://stackblitz.com/) - The same editing experience, now in your browser. Playground ➊
+  * [CodeSandbox](https://codesandbox.io/) - An instant IDE and prototyping tool for rapid web development. Playground ➋
+  * [Codepen](https://codepen.io/) - An online code editor and community for frontend dev. Playground ➌
+  * [JSFiddle](https://codepen.io/) - Test your JavaScript, CSS, HTML or CoffeeScript online. Playground ➍
+  * [JS Bin](https://jsbin.com/) - Collaborative JavaScript Debugging. Playground ➎
  
 * Web Dev : Full-Stack
   * [Dunia Ilkom](https://www.duniailkom.com/) - Situs yang membahas lengkap materi pembelajaran bahasa pemrograman website.
@@ -434,9 +452,8 @@ Developer 101 : Paket Komplit Developer
   * [Newline by Fullstack.io](https://www.newline.co/) - We'd love to collaborate to write a book or course together.
   * [A Smarter Way](https://www.amazon.com/Mark-Myers/e/B00HNW14T4?ref_=dbs_p_ebk_r00_abau_000000) - Coding, I learned, isn't that hard. Easy way to learn web programming.
   * [Head First Series](https://www.amazon.com/Head-First-Series-Books/b?ie=UTF8&node=8456760011) - A series of introductory instructional books to many topics.
-  * [Full-Stack Web Dev Resources](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Full-Stack complete resources
   
-* Web Dev : Frontend
+* Web Dev : Frontend (1)
   * [HTML](https://github.com/diegocard/awesome-html5) - HTML Resources
   * [CSS](https://github.com/micromata/awesome-css-learning) - CSS Resources (Learn) ➊
   * [CSS](https://github.com/awesome-css-group/awesome-css) - CSS Resources (Collection) ➋
@@ -449,9 +466,8 @@ Developer 101 : Paket Komplit Developer
   * [Vue.js](https://github.com/vuejs/awesome-vue) - JavaScript Framework ➊
   * [React](https://github.com/enaqx/awesome-react) - JavaScript Framework ➋
   * [Angular](https://github.com/PatrickJS/awesome-angular) - JavaScript Framework ➌
-  * [Frontend Web Dev Resources](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend complete resources
 
-* Web Dev : Gift for Frontend Developer 🎁
+* Web Dev : Frontend (2)
   * [Colorlib - Website Templates Archives](https://colorlib.com/wp/category/website-templates/) - Free starter templates ➊
   * [HTML5 Up - Responsive Site Templates](https://html5up.net/) - Free starter templates ➋
   * [LayoutIt](https://layoutit.com/) - CSS Grid playground and code generator. For layouting ➊
@@ -470,7 +486,6 @@ Developer 101 : Paket Komplit Developer
   * [MySQL](https://github.com/shlomi-noach/awesome-mysql) - MySQL Resources
   * [Laravel](https://github.com/shlomi-noach/awesome-mysql) - PHP Framework
   * [NodeJs](https://github.com/sindresorhus/awesome-nodejs) - **Backend JavaScript Base**
-  * [Backend Web Dev Resources](https://github.com/backend-br/awesome-backend) - Backend complete resources
 
 * Mobile Dev : Frontend & Backend
   * [Awesome Android](https://github.com/JStumpp/awesome-android) - Android Dev Resources ➊
@@ -478,28 +493,13 @@ Developer 101 : Paket Komplit Developer
   * [Awesome Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui) - Android Dev Resources ➌
   * [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS Dev Resources ➊
   * [Awesome iOS UI/UX Libraries](https://github.com/cjwirth/awesome-ios-ui) - iOS Dev Resources ➋
-
-* Useful Tools
-  * [Carbon](https://carbon.now.sh/) - Easiest way to create and share beautiful images of your source code.
-  * [Codeshare](https://codeshare.io/) - An online code editor for interviews, troubleshooting, teaching and more.
-  * [Responsive Test Tool](http://responsivetesttool.com/) - The best responsive test tools for check your website resolutions.
-  * [Scrimba](https://scrimba.com/) - Fast-track your career with hands-on coding courses (**playground & learn**).
-  * [StackBlitz](https://stackblitz.com/) - The same editing experience, now in your browser. Playground ➊
-  * [CodeSandbox](https://codesandbox.io/) - An instant IDE and prototyping tool for rapid web development. Playground ➋
-  * [Codepen](https://codepen.io/) - An online code editor and community for frontend dev. Playground ➌
-  * [JSFiddle](https://codepen.io/) - Test your JavaScript, CSS, HTML or CoffeeScript online. Playground ➍
-  * [JS Bin](https://jsbin.com/) - Collaborative JavaScript Debugging. Playground ➎
   
 * Miscellaneous
   * [Learn Git](http://try.github.io/) - Resources to learn Git (handbook, cheat sheet, branching, etc).
   * [Oh Shit, Git!?!](https://ohshitgit.com/) - Ragam permasalahan saat bekerja dengan Git beserta solusinya.
+  * [GitKraken Docs](https://www.gitkraken.com/resources/devops-report-2020) - Git GUI Client, solusi untuk bekerja dengan Git dengan mudah.
   * [Markdown Tutorial](https://www.markdowntutorial.com/) - A way to write content for the web (for documentation, etc).
   * [RegexOne](https://regexone.com/) - Interactive lessons and exercises to help you learn regular expressions.
-  * [Developer Roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps, mostly about software development.
-  * [Free for Developer](https://github.com/ripienaar/free-for-dev) - A curated list of Developer resources. Free for Developer.
-  * [Awesome Github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness. Huge curated list project.
-  * [Awesome Guideline](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
-  * [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - Kumpulan group pemrograman Telegram Indonesia.
 
 <hr>
 <div id="sec09"></div>
