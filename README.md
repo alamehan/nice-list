@@ -406,11 +406,12 @@ Developer 101 : Paket Komplit Developer
 * Top Curated List for Developer
   * ON PROGRESS
   * [Developer Roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps, mostly about software development.
-  * [Web Dev : Full-Stack](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Full-Stack complete resources.
-  * [Web Dev : Frontend](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend complete resources.
-  * [Web Dev : Backend](https://github.com/backend-br/awesome-backend) - Backend complete resources.
-  * [Web Dev : Devops](https://github.com/awesome-soft/awesome-devops) - Devops complete resources.
+  * Web Dev Full-Stack [(1)](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) [(2)](https://www.newline.co/) [(3)](https://www.newline.co/30-days-of-webdev) [(4)](https://www.duniailkom.com/) [(5)](https://buku-laravel-vue.com/) [(6)](https://bukureact.id/) [(7)](https://daveceddia.com/) [(8)](https://www.w3docs.com/) [(9)](https://www.w3schools.com/) - Full-Stack complete resources.
+  * Web Dev Frontend [(1)](https://frontendmasters.com/books/front-end-handbook/2019/) [(2)](https://github.com/dypsilon/frontend-dev-bookmarks) [(3)](https://github.com/felipefialho/frontend-challenges) [(4)](https://github.com/nas5w/100-days-of-code-frontend) [(5)](https://100dayscss.com/) [(6)](https://javascript30.com/) [(7)](https://www.newline.co/30-days-of-vue) [(8)](https://www.newline.co/30-days-of-react) [(9)](https://www.newline.co/30-days-of-react-native) - Frontend complete resources.
+  * Web Dev Backend [(1)](https://github.com/backend-br/awesome-backend) [(2)](https://github.com/CollabCodeTech/backend-challenges) - Backend complete resources
+  * Web Dev Devops [(1)](https://github.com/awesome-soft/awesome-devops) [(2)](ttps://www.gitkraken.com/resources/devops-report-2020) - Devops complete resources.
   * [Free for Developer](https://github.com/ripienaar/free-for-dev) - A curated list of Developer resources. Free for Developer.
+  * [Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/) - They include everything you should know in one single file.
   * [Awesome Guideline](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
   * [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - Kumpulan group pemrograman Telegram Indonesia.
 
@@ -449,7 +450,7 @@ Developer 101 : Paket Komplit Developer
   * [Build With Angga](https://buildwithangga.com/) - Pelajari keahlian baru yang dibutuhkan oleh perusahaan IT terbesar di seluruh dunia.
   * [Be Fullstack Developer](https://buku-laravel-vue.com/) - Panduan hebat untuk menjadi Fullstack Developer! Laravel & Vue.js.
   * [W3Schools](https://www.w3schools.com/) - The world's largest web developer site. Tutorials and references relating to web dev.
-  * [W3Docs](https://www.w3schools.com/) - We are trying to provide useful and concise materials for the programming enthusiasts.
+  * [W3Docs](https://www.w3docs.com/) - We are trying to provide useful and concise materials for the programming enthusiasts.
   * [Newline by Fullstack.io](https://www.newline.co/) - We'd love to collaborate to write a book or course together.
   * [A Smarter Way](https://www.amazon.com/Mark-Myers/e/B00HNW14T4?ref_=dbs_p_ebk_r00_abau_000000) - Coding, I learned, isn't that hard. Easy way to learn web programming.
   * [Head First Series](https://www.amazon.com/Head-First-Series-Books/b?ie=UTF8&node=8456760011) - A series of introductory instructional books to many topics.
