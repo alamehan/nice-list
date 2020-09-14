@@ -87,8 +87,9 @@ Useful Websites : Jelajah Manfaat Internet
 * Documents Resources
   * [Libgen](https://libgen.is/) - Search engine for articles and books on various topics which allows free access.
   * [Z-Lib](https://z-lib.org/) - The world's largest ebook library, download books for free. Part of Z-Library project.
-  * [Alleng](https://alleng.org/) - For ESL students. Download textbooks, dictionaries, manuals, audio, video etc. 
+  * [Lib-Ebooks](https://lib-ebooks.com/) - Provides Free PDF Books and more.. For all, In many different Subjects.
   * [PDF Drive](https://www.pdfdrive.com/) - Search engine for PDF files. eBooks for you to download for free.
+  * [Alleng](https://alleng.org/) - For ESL students. Download textbooks, dictionaries, manuals, audio, video etc. 
   * [Sci-Hub](https://sci-hub.tw/) - The first website in the world to provide mass & public access to research papers.
   * [IEEE](https://www.ieee.org/) - The world's largest technical professional organization for the advancement of technology.
   * [DocSity](https://www.docsity.com/) - Access free study contents - study notes, essays, summaries and a lot more.
