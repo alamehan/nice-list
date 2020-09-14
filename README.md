@@ -808,7 +808,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Draw.io](https://www.draw.io/) - A free diagram software for making flowcharts, process diagrams, org charts, UML, ER, etc.
   * [PDF Sharper](https://www.pdfshaper.com/) - All-in-one PDF software optimized for better productivity and document security.
   * [eBook Converter Bundle](https://www.ebook-converter.com/) - All in one tools to convert ebook to other format, it support DRM ebook.
-  * [Anicesoft EPUB Converter](https://www.anicesoft.com/) - Best EPUB Converter & EPUB/PDF/Kindle/AZW/MOBI. An easy, efficient and quick.
+  * [Anicesoft EPUB Converter](https://www.anicesoft.com/) - Best EPUB Converter & EPUB/PDF/Kindle/AZW/MOBI. An easy and quick.
   
 * Imaging & Multimedia
   * [IrfanView](https://www.irfanview.com/) - One of the most popular viewers worldwide. Designed to be simple but powerful.
