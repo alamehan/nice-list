@@ -799,6 +799,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Microsoft Office](https://www.office.com/) - Your place to create, communicate, collaborate, and get great work done.
   * [WPS Office](https://www.wps.com/) - A new generation of office solutions. With powerful PDF, WPS Cloud, OCR, Files Repair, etc.
   * [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) - Small, fast, and feature-rich PDF viewer that allows you to open, view, and print any PDF file.
+  * [Calibre](https://calibre-ebook.com/) - A powerful and easy to use E-Book manager. **Edit Metadata, Convert All E-Book Format, Etc.**
   * [Evernote](https://evernote.com/) - Take notes anywhere. Find information faster. Share ideas with anyone. Best note taking app.
   * [Adobe Digital Edition](https://www.adobe.com/solutions/ebook/digital-editions.html) - Ebook reader software program from Adobe Systems, built initially using Adobe Flash.
   * [Scribus](https://www.scribus.net/) - Free desktop publishing (DTP) software available for most desktop operating systems.
