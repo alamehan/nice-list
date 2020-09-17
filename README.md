@@ -102,7 +102,10 @@ Useful Websites : Jelajah Manfaat Internet
   * [Internet Archive](https://archive.org/) - Digital library offering free universal access to books, movies & music.
   * [Use FYI](https://usefyi.com/templates/) - Free resources and templates you need to get work done in one place.
   * [Biggerplate](https://www.biggerplate.com/) - Download mind map templates and shared by members of our global community.
+  * [Torrentz2](https://torrentz2.is/) - Fast and powerful meta-search engine combining results of search engines.
+  * [TorrentFunk](https://www.torrentfunk.com/) - The fastest download search engine. Find the latest games, etc.
   * [Kickass](https://kickass.help/) - You can search for TV shows and TV series, movies, music and games.
+  * [Torlock](https://www.torlock.com/) - A fast BitTorrent search engine that only lists verified torrents.
   * [1337x](https://www.1337x.tw/) - Brings you the latest games, movies, tv series, music and software for free.
   * [Yify](https://yts.mx/) - YTS was a peer-to-peer release group known for distributing large numbers of movies.
   * [Soap2Day](https://soap2day.ru/) - Watch latest movies and TV series online no ads, we daily update.
