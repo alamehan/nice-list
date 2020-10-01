@@ -105,7 +105,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [Remove Line Breaks](http://removelinebreaks.net/) - Remove line breaks from blocks of text (solusi untuk copy text dari PDF).
   * [Subtitles Translator](https://subtitlestranslator.com/) - Translate multiple subtitle at the same time into 80 different languages.
   * [ttsMP3](https://ttsmp3.com/) - Easily convert your written text into natural sounding voice in up to 50 different languages.
-  * [WeTransfer](https://wetransfer.com/) - Simple file-sharing, No registration, It's free. the simplest way to send your files around the world.
+  * [WeTransfer](https://wetransfer.com/) - Simple file-sharing, No registration, It's free. the simplest way to send your files.
   * [Pasteboard](https://pasteboard.co/) - Super simple and lightning fast image sharing. Upload clipboard images with Copy & Paste.
   * [Pastebin](https://pastebin.com/) - Pastebin is a website where you can store text online for a set period of time.
   * [Bitly](https://bitly.com/) - Shorten, create and share trusted, powerful links for your business. Create click-worthy links.
