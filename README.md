@@ -83,40 +83,6 @@ Useful Websites : Jelajah Manfaat Internet
   * [Reddit](https://www.reddit.com/) - An American social news aggregation, web content rating, and discussion website.
   * [Vice](https://www.vice.com/) - The definitive guide to enlightening information from every corner of the planet.
   * [Snopes](https://www.snopes.com/) - The definitive fact-checking site and reference source for misinformation.
- 
-* Documents Resources
-  * [Libgen](https://libgen.is/) - Search engine for articles and books on various topics which allows free access.
-  * [Z-Lib](https://z-lib.org/) - The world's largest ebook library, download books for free. Part of Z-Library project.
-  * [PDF Drive](https://www.pdfdrive.com/) - Search engine for PDF files. eBooks for you to download for free.
-  * [SoftArchive](https://sastatus.com/) - Unlimited Resource for Free Downloading Latest PDF eBooks and Video Tutorials.
-  * [Ebookee](https://ebookee.com/) - A free ebooks search engine, the best free ebooks download library. Tech, Novel, etc.
-  * [Ebook3000](http://ebook3000.com/) - The best place to read ebooks and search free download ebooks. It's the open directory.
-  * [Lib-Ebooks](https://lib-ebooks.com/) - Provides Free PDF Books and more.. For all, In many different Subjects.
-  * [Alleng](https://alleng.org/) - For ESL students. Download textbooks, dictionaries, manuals, audio, video etc. 
-  * [Sci-Hub](https://sci-hub.tw/) - The first website in the world to provide mass & public access to research papers.
-  * [IEEE](https://www.ieee.org/) - The world's largest technical professional organization for the advancement of technology.
-  * [DocSity](https://www.docsity.com/) - Access free study contents - study notes, essays, summaries and a lot more.
-  * [Scribd](http://www.scribd.com/) - Enjoy an unlimited* number of books, audiobooks, magazines, and more.
-   
-* Various Resources
-  * [Internet Archive](https://archive.org/) - Digital library offering free universal access to books, movies & music.
-  * [Use FYI](https://usefyi.com/templates/) - Free resources and templates you need to get work done in one place.
-  * [Biggerplate](https://www.biggerplate.com/) - Download mind map templates and shared by members of our global community.
-  * [Torrentz2](https://torrentz2.is/) - Fast and powerful meta-search engine combining results of search engines.
-  * [TorrentFunk](https://www.torrentfunk.com/) - The fastest download search engine. Find the latest games, etc.
-  * [Kickass](https://kickass.help/) - You can search for TV shows and TV series, movies, music and games.
-  * [Torlock](https://www.torlock.com/) - A fast BitTorrent search engine that only lists verified torrents.
-  * [1337x](https://www.1337x.tw/) - Brings you the latest games, movies, tv series, music and software for free.
-  * [Yify](https://yts.mx/) - YTS was a peer-to-peer release group known for distributing large numbers of movies.
-  * [Soap2Day](https://soap2day.ru/) - Watch latest movies and TV series online no ads, we daily update.
-  * [KeBioskop21](http://103.194.171.185/) - Streaming film maupun tv series online gratis, subtitle Indonesia #1
-  * [Rebahin Streaming](http://198.54.124.245/) - Streaming film maupun tv series online gratis, subtitle Indonesia #2
-  * [Subscene](https://subscene.com/) - Free download and browse more movies, TV Series, tv shows subtitles.
-  * [TubeOffline](https://www.tubeoffline.com/) - Free online downloader for any Twitter video. Best tool that actually works.
-  * [Ttorial](http://ttorial.com/) - Obtain & download the best online courses for free, from 100+ institutions.
-  * [FreeCourseLab](https://freecourselab.com/) - A great place to learn. Download Udemy courses for free.
-  * [FreeCourseUdemy](https://freecourseudemy.com/) - Premium Udemy tutorials free download. Top udemy courses.
-  * [FitGirl Repacks](https://fitgirl-repacks.site/) - Collection of repack games, minimize the size of installation.
     
 * Useful Web Apps
   * [Pdf.io](https://pdf.io/) - Free set of online tools for handling PDF files. Convert and edit your PDF files.
@@ -169,6 +135,45 @@ Useful Websites : Jelajah Manfaat Internet
   * [LearnViral](https://udemycoupon.learnviral.com/) - Free Udemy coupons, get your coupons before they expire.
   * [CouponCause](https://couponcause.com/) - Find promo codes and online discounts by store and category.
   * [Couponos](https://couponos.ooo/) - Get the latest Udemy coupon and BitDegree online courses.
+
+* Downloadable : Multimedia
+  * [SoftArchive](https://sastatus.com/) - Unlimited Resource for Free Downloading Latest PDF eBooks and Video Tutorials.
+  * [Internet Archive](https://archive.org/) - Digital library offering free universal access to books, movies & music.
+  * [Torrentz2](https://torrentz2.is/) - Fast and powerful meta-search engine combining results of search engines.
+  * [TorrentFunk](https://www.torrentfunk.com/) - The fastest download search engine. Find the latest games, etc.
+  * [Kickass](https://kickass.help/) - You can search for TV shows and TV series, movies, music and games.
+  * [Torlock](https://www.torlock.com/) - A fast BitTorrent search engine that only lists verified torrents.
+  * [1337x](https://www.1337x.tw/) - Brings you the latest games, movies, tv series, music and software for free.
+  * [Yify](https://yts.mx/) - YTS was a peer-to-peer release group known for distributing large numbers of movies.
+  * [Soap2Day](https://soap2day.ru/) - Watch latest movies and TV series online no ads, we daily update.
+  * [KeBioskop21](http://103.194.171.185/) - Streaming film maupun tv series online gratis, subtitle Indonesia #1
+  * [Rebahin Streaming](http://198.54.124.245/) - Streaming film maupun tv series online gratis, subtitle Indonesia #2
+  * [Subscene](https://subscene.com/) - Free download and browse more movies, TV Series, tv shows subtitles.
+  * [TubeOffline](https://www.tubeoffline.com/) - Free online downloader for any Twitter video. Best tool that actually works.
+  * [FitGirl Repacks](https://fitgirl-repacks.site/) - Collection of repack games, minimize the size of installation.
+
+* Downloadable : Documents
+  * [Libgen](https://libgen.is/) - Search engine for articles and books on various topics which allows free access.
+  * [Z-Lib](https://z-lib.org/) - The world's largest ebook library, download books for free. Part of Z-Library project.
+  * [PDF Drive](https://www.pdfdrive.com/) - Search engine for PDF files. eBooks for you to download for free.
+  * [Ebookee](https://ebookee.com/) - A free ebooks search engine, the best free ebooks download library. Tech, Novel, etc.
+  * [Ebook3000](http://ebook3000.com/) - The best place to read ebooks and search free download ebooks. It's the open directory.
+  * [Lib-Ebooks](https://lib-ebooks.com/) - Provides Free PDF Books and more.. For all, In many different Subjects.
+  * [Alleng](https://alleng.org/) - For ESL students. Download textbooks, dictionaries, manuals, audio, video etc. 
+  * [Sci-Hub](https://sci-hub.tw/) - The first website in the world to provide mass & public access to research papers.
+  * [IEEE](https://www.ieee.org/) - The world's largest technical professional organization for the advancement of technology.
+  * [DocSity](https://www.docsity.com/) - Access free study contents - study notes, essays, summaries and a lot more.
+  * [Scribd](http://www.scribd.com/) - Enjoy an unlimited* number of books, audiobooks, magazines, and more.
+  * [Use FYI](https://usefyi.com/templates/) - Free resources and templates you need to get work done in one place.
+  * [Biggerplate](https://www.biggerplate.com/) - Download mind map templates and shared by members of our global community.
+
+* Downloadable : Courses
+  * [Tutflix](https://tutflix.io/) - Free Education Community. A Place Where You Can Learn Any Course Online And Discuss.
+  * [Ttorial](http://ttorial.com/) - Obtain & download the best online courses for free, from 100+ institutions.
+  * [FreeCourseLab](https://freecourselab.com/) - A great place to learn. Download Udemy courses for free.
+  * [FreeCourseSite](https://freecoursesite.com/) - Learn Hacking, Programming, IT, Marketing, Music, and more.
+  * [FreeCourseUdemy](https://freecourseudemy.com/) - Premium Udemy tutorials free download. Top udemy courses.
+  * [FreeEducationWeb](https://freeeducationweb.com/) - We are sharing the knowledge for free of charge and help learners.
  
 <hr>
 <div id="sec03"></div>
