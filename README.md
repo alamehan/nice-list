@@ -105,6 +105,8 @@ Useful Websites : Jelajah Manfaat Internet
   * [Remove Line Breaks](http://removelinebreaks.net/) - Remove line breaks from blocks of text (solusi untuk copy text dari PDF).
   * [Subtitles Translator](https://subtitlestranslator.com/) - Translate multiple subtitle at the same time into 80 different languages.
   * [ttsMP3](https://ttsmp3.com/) - Easily convert your written text into natural sounding voice in up to 50 different languages.
+  * [WeTransfer](https://wetransfer.com/) - Simple file-sharing, No registration, It's free. the simplest way to send your files around the world.
+  * [Pasteboard](https://pasteboard.co/) - Super simple and lightning fast image sharing. Upload clipboard images with Copy & Paste.
   * [Pastebin](https://pastebin.com/) - Pastebin is a website where you can store text online for a set period of time.
   * [Bitly](https://bitly.com/) - Shorten, create and share trusted, powerful links for your business. Create click-worthy links.
   * [Linktree](https://linktr.ee/) - free bio link tool used by the world's best brands, creators and influencers.
@@ -159,14 +161,16 @@ Useful Websites : Jelajah Manfaat Internet
   * [Ebookee](https://ebookee.com/) - A free ebooks search engine, the best free ebooks download library. Tech, Novel, etc.
   * [Ebook3000](http://ebook3000.com/) - The best place to read ebooks and search free download ebooks. It's the open directory.
   * [Lib-Ebooks](https://lib-ebooks.com/) - Provides Free PDF Books and more.. For all, In many different Subjects.
-  * [Alleng](https://alleng.org/) - For ESL students. Download textbooks, dictionaries, manuals, audio, video etc. 
+  * [Twirpx](https://www.twirpx.com/) - Everything for the student. Languages and linguistics, Computer literature, Math, etc.
+  * [Alleng](https://alleng.org/) - For ESL students. Download textbooks, dictionaries, manuals, audio, video etc.
   * [Sci-Hub](https://sci-hub.tw/) - The first website in the world to provide mass & public access to research papers.
   * [IEEE](https://www.ieee.org/) - The world's largest technical professional organization for the advancement of technology.
   * [DocSity](https://www.docsity.com/) - Access free study contents - study notes, essays, summaries and a lot more.
   * [Scribd](http://www.scribd.com/) - Enjoy an unlimited* number of books, audiobooks, magazines, and more.
   * [Use FYI](https://usefyi.com/templates/) - Free resources and templates you need to get work done in one place.
   * [Biggerplate](https://www.biggerplate.com/) - Download mind map templates and shared by members of our global community.
-
+  * [Small Pocket Library]( https://www.smallpocketlibrary.com/) - Help students and teachers and anyone interested in science.
+  
 * Downloadable : Courses
   * [Tutflix](https://tutflix.io/) - Free Education Community. A Place Where You Can Learn Any Course Online And Discuss.
   * [Ttorial](http://ttorial.com/) - Obtain & download the best online courses for free, from 100+ institutions.
@@ -315,6 +319,7 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
 
 * Increase Productivity
   * [Extensify](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) - Tool for lightning fast enabling/disabling all your extensions for Chrome.
+  * [Elenco](https://chrome.google.com/webstore/detail/elenco/phbjhmbdcecahmckhhbdabmnhmjcpjab) - With Elenco, browsing the internet is distraction free with every new tab you open.
   * [Infinity New Tab](https://chrome.google.com/webstore/detail/infinity-new-tab-producti/dbfmnekepjoapopniengjbcpnbljalfg) - Replaces the original new tab with variety of quick and useful features.
   * [Muzli 2](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc) - The freshest links about design and interactive, from around the web.
   * [Bookmark Sidebar](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh) - Toggleable sidebar with all your bookmarks at the edge of your browser window.
@@ -339,6 +344,7 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
   * [Print Friendly & PDF](https://chrome.google.com/webstore/detail/print-friendly-pdf/ohlencieiipommannpdfcmfdpjjmeolj) - Print Friendly removes ads, navigation and junk before your print.
   * [Kami Extension](https://chrome.google.com/webstore/detail/kami-extension-pdf-and-do/ecnphlgnajanjnkcmbpancdjoidceilk) - Best PDF and document annotation and markup tool. Works with Drive and Classroom.
   * [Google Docs Offline](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi) - Edit, create and view all your documents without Internet access.
+  * [EPUB Reader](https://chrome.google.com/webstore/detail/epub-reader/mbcgbbpomkkndfbpiepjimakkbocjgkh) - Great choice for reading EPUB files, you can esaily open your EPUB files with this app.
   * [One Click Translate](https://chrome.google.com/webstore/detail/one-click-translate/anhjddeakbabimdgmonfbnpbainknbfa?hl=en) - Translate your selected text with Google Translate in one click, in a simplest way.
   * [Mate Translate](https://chrome.google.com/webstore/detail/mate-translate-%E2%80%93-translat/ihmgiclibbndffejedjimfjmfoabpcke) - Your all-in-one translator for web pages, highlighted text & Netflix subtitles.
   * [TransOver](https://chrome.google.com/webstore/detail/transover/aggiiclaiamajehmlfpkjmlbadmkledi?hl=en) - Translate word from any language to the language of your choice by pointing or clicking at it.
@@ -354,11 +360,17 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
   
 * Better Browsing
   * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Finally, an efficient blocker and content-filtering. Easy on CPU and memory.
+  * [AdBlock Best Ad Blocker](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom) - Block ads and pop-ups on YouTube, FB, and your favorite websites.
+  * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Finally, an efficient blocker and content-filtering. Easy on CPU and memory.
   * [Adblock for Youtube](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk) - A content filtering and ad blocking which blocks all ads on Youtube.
   * [Youtube Repeat Button](https://chrome.google.com/webstore/detail/youtube-repeat-button/aihdpnkmhcbjkfonmmfepcjjfaenobip) - This is a simple extension which adds a repeat button for Youtube.
+  * [Seek Subtitles for YouTube](https://chrome.google.com/webstore/detail/seek-subtitles-for-youtub/ghjmdgljbfiiaginabfnaopnocgafffb) - Save time by filtering subtitles and skipping uninteresting parts.
+  * [Two Captions for YouTube & Netflix](https://chrome.google.com/webstore/detail/two-captions-for-youtube/lpeonmjfimoijceaalocpgjjchocbiap) - Show subtitles in two languages on Youtube & Netflix.
+  * [eJOY English Learn with Movies](https://chrome.google.com/webstore/detail/ejoy-english-learn-with-m/amfojhdiedpdnlijjbhjnhokbnohfdfb) - Learn Vocabulary from videos with games to remember forever.
   * [Open link in same tab](https://chrome.google.com/webstore/detail/open-link-in-same-tab-pop/jmphljmgnagblkombahigniilhnbadca) - Forces Chrome to open new tabs instead of pop-up windows/links in the same tab.
   * [Click to Remove Element](https://chrome.google.com/webstore/detail/click-to-remove-element/jcgpghgjhhahcefnfpbncdmhhddedhnk) - Remove annoying elements from a website with a single click.
   * [Hoxx VPN Proxy](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh) - Service to unblock blocked websites and encrypt your connection.
+  * [SetupVPN](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp) - Unblock any blocked website in your country, school or company.
   * [Simple Allow Copy](https://chrome.google.com/webstore/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc) - Enable copy and right-click on sites that blocked them.
   
 * Downloader
@@ -370,6 +382,7 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
   * [Get Favicon](https://chrome.google.com/webstore/detail/get-favicon/gpipahagclehninhhjkhbkliinfofnhe) - Displays the current page's favicon as well as the favicon's URL and dimensions.
   
 * Frontend Developer
+  * [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - Automated tool for improving the performance, quality, and correctness of your web apps.
   * [GitZip for Github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn) - It can make the sub-directories and files of github repository as zip and download it.
   * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Adds a toolbar button to the browser with various web developer tools.
   * [Live editor for CSS](https://chrome.google.com/webstore/detail/live-editor-for-css-less/ifhikkcafabcgolfjegfcgloomalapol) - Live preview of CSS/Less/Sass code changes. Live edit CSS files.
@@ -394,6 +407,7 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
   * [Loom](https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb) - Capture, narrate and instantly share videos to communicate faster, clearer and friendlier.
   * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) - Unleash the power of sound, no matter what speakers you're using.
   * [Clever Mute](https://chrome.google.com/webstore/detail/clever-mute/eadinjjkfelcokdlmoechclnmmmjnpdh) - You can mute or unmute any site just by clicking the extension icon.
+  * [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) - You can add, delete, edit, search, protect and block cookies.
   * [Cookies.txt](https://chrome.google.com/webstore/detail/cookiestxt/njabckikapfpffapmjgojcnbfjonfjfg) - Exports your cookies in a format compatible with wget, curl, aria2, etc.
   
 <hr>
