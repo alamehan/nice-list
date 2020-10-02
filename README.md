@@ -175,6 +175,7 @@ Useful Websites : Jelajah Manfaat Internet
 * Downloadable : Courses
   * [Tutflix](https://tutflix.io/) - Free Education Community. A Place Where You Can Learn Any Course Online And Discuss.
   * [Ttorial](http://ttorial.com/) - Obtain & download the best online courses for free, from 100+ institutions.
+  * [Downloadly](https://downloadly.net/) - Free software download. Education, courses, programming, software, etc.
   * [FreeCourseLab](https://freecourselab.com/) - A great place to learn. Download Udemy courses for free.
   * [FreeCourseWeb](https://freecourseweb.com/) - Tutorials Archives. Free Udemy Courses Download for free.
   * [FreeCourseSite](https://freecoursesite.com/) - Learn Hacking, Programming, IT, Marketing, Music, and more.
