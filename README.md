@@ -149,8 +149,8 @@ Useful Websites : Jelajah Manfaat Internet
   * [1337x](https://www.1337x.tw/) - Brings you the latest games, movies, tv series, music and software for free.
   * [Yify](https://yts.mx/) - YTS was a peer-to-peer release group known for distributing large numbers of movies.
   * [Soap2Day](https://soap2day.ru/) - Watch latest movies and TV series online no ads, we daily update.
-  * [KeBioskop21](http://103.194.171.185/) - Streaming film maupun tv series online gratis, subtitle Indonesia #1
-  * [Rebahin Streaming](http://198.54.124.245/) - Streaming film maupun tv series online gratis, subtitle Indonesia #2
+  * [KeBioskop21](http://103.194.171.185/) - Streaming film maupun tv series online gratis, subtitle Indonesia. ➊
+  * [Rebahin Streaming](http://198.54.124.245/) - Streaming film maupun tv series online gratis, subtitle Indonesia. ➋
   * [Subscene](https://subscene.com/) - Free download and browse more movies, TV Series, tv shows subtitles.
   * [TubeOffline](https://www.tubeoffline.com/) - Free online downloader for any Twitter video. Best tool that actually works.
   * [FitGirl Repacks](https://fitgirl-repacks.site/) - Collection of repack games, minimize the size of installation.
@@ -173,10 +173,11 @@ Useful Websites : Jelajah Manfaat Internet
   * [Small Pocket Library]( https://www.smallpocketlibrary.com/) - Help students and teachers and anyone interested in science.
   
 * Downloadable : Courses
-  * [Tutflix](https://tutflix.io/) - Free Education Community. A Place Where You Can Learn Any Course Online And Discuss.
-  * [Tutflix (Old)](https://tutflix.com/) - Free Education Community. A Place Where You Can Learn Any Course Online And Discuss.
+  * [Tutflix.io](https://tutflix.io/) - Free Education Community. A Place Where You Can Learn Any Course Online And Discuss. ➊
+  * [Tutflix.com](https://tutflix.com/) - Free Education Community. A Place Where You Can Learn Any Course Online And Discuss. ➋
+  * [Downloadly.ir](https://downloadly.ir/) - Free software download. Education, courses, programming, software, etc. ➊
+  * [Downloadly.net](https://downloadly.net/) - Free software download. Education, courses, programming, software, etc. ➋
   * [Ttorial](http://ttorial.com/) - Obtain & download the best online courses for free, from 100+ institutions.
-  * [Downloadly](https://downloadly.net/) - Free software download. Education, courses, programming, software, etc.
   * [FreeCourseLab](https://freecourselab.com/) - A great place to learn. Download Udemy courses for free.
   * [FreeCourseWeb](https://freecourseweb.com/) - Tutorials Archives. Free Udemy Courses Download for free.
   * [FreeCourseSite](https://freecoursesite.com/) - Learn Hacking, Programming, IT, Marketing, Music, and more.
