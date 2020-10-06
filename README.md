@@ -349,7 +349,8 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
   * [Print Friendly & PDF](https://chrome.google.com/webstore/detail/print-friendly-pdf/ohlencieiipommannpdfcmfdpjjmeolj) - Print Friendly removes ads, navigation and junk before your print.
   * [Kami Extension](https://chrome.google.com/webstore/detail/kami-extension-pdf-and-do/ecnphlgnajanjnkcmbpancdjoidceilk) - Best PDF and document annotation and markup tool. Works with Drive and Classroom.
   * [Google Docs Offline](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi) - Edit, create and view all your documents without Internet access.
-  * [EPUB Reader](https://chrome.google.com/webstore/detail/epub-reader/mbcgbbpomkkndfbpiepjimakkbocjgkh) - Great choice for reading EPUB files, you can esaily open your EPUB files with this app.
+  * [Readiator EPUB Reader](https://chrome.google.com/webstore/detail/readiator-epub-reader/ecoaijekbhjbbojbkgliclceljlgelbf/related?hl=en) - Open source cross-platform EPUB reader with full EPUB3 support, works offline. ➊
+  * [EPUB Reader](https://chrome.google.com/webstore/detail/epub-reader/mbcgbbpomkkndfbpiepjimakkbocjgkh) - Great choice for reading EPUB files, you can esaily open your EPUB files with this app. ➋
   * [One Click Translate](https://chrome.google.com/webstore/detail/one-click-translate/anhjddeakbabimdgmonfbnpbainknbfa?hl=en) - Translate your selected text with Google Translate in one click, in a simplest way.
   * [Mate Translate](https://chrome.google.com/webstore/detail/mate-translate-%E2%80%93-translat/ihmgiclibbndffejedjimfjmfoabpcke) - Your all-in-one translator for web pages, highlighted text & Netflix subtitles.
   * [TransOver](https://chrome.google.com/webstore/detail/transover/aggiiclaiamajehmlfpkjmlbadmkledi?hl=en) - Translate word from any language to the language of your choice by pointing or clicking at it.
@@ -357,6 +358,7 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
   * [Copy As Plain Text](https://chrome.google.com/webstore/detail/copy-as-plain-text/eneajgkmdhmjmloiabgkpkiooaejmlpk) - Easily copy the selected text without formatting to the clipboard via right-click menu.
   * [Highlight This](https://chrome.google.com/webstore/detail/highlight-this-finds-and/fgmbnmjmbjenlhbefngfibmjkpbcljaj?hl=en-US) - Automatically finds and highlights words and phrases on the web page according to your list.
   * [Weava Highlighter](https://chrome.google.com/webstore/detail/weava-highlighter-pdf-web/cbnaodkpfinfiipjblikofhlhlcickei) - Highlight & organize your research with Weava online Web & PDF highlighter.
+  * [Qvotr](https://chrome.google.com/webstore/detail/qvotr/hcnnoehmifkdlbiihocaadhemblgleep) - Save and share quotes from around the web with a single click.
   * [Text Tools](https://chrome.google.com/webstore/detail/text-tools/mpcpnbklkemjinipimjcbgjijefholkd) - Handy text tools a click away (including uppercase, lowercase, count words, count lines, etc).
   * [Bitly](https://chrome.google.com/webstore/detail/bitly-unleash-the-power-o/iabeihobmhlgpkcgjiloemdbofjbdcic) - Copy, customize, shorten, measure, optimize and share your links straight from your browser. 
   * [Medium Unlimited](https://manojvivek.github.io/medium-unlimited/) - Addon to access the medium.com premium articles (_**Third-party-extension**_). 
