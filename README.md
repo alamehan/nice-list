@@ -139,34 +139,28 @@ Useful Websites : Jelajah Manfaat Internet
   * [LearnViral](https://udemycoupon.learnviral.com/) - Free Udemy coupons, get your coupons before they expire.
   * [CouponCause](https://couponcause.com/) - Find promo codes and online discounts by store and category.
   * [Couponos](https://couponos.ooo/) - Get the latest Udemy coupon and BitDegree online courses.
+  
+* Torrents & Leech
+  * [Torrentz2](https://torrentz2.is/) - Fast and powerful meta-search engine combining results of search engines.
+  * [TorrentFunk](https://www.torrentfunk.com/) - The fastest download search engine. Find the latest games, etc.
+  * [Kickass](https://kickass.help/) - You can search for TV shows and TV series, movies, music and games.
+  * [Torlock](https://www.torlock.com/) - A fast BitTorrent search engine that only lists verified torrents.
+  * [1337x](https://www.1337x.tw/) - Brings you the latest games, movies, tv series, music and software for free.
+  * [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) - Provide the most complete lists of premium link generators, torrent, etc. ⭐
+  * [Unblockit](https://unblocked-pw.github.io/) - nblock your favourite sites such as The Pirate Bay, Kickass torrents, Primewire, etc.
+  * [LeechListing](https://www.leechlisting.com/) - Latest list of working free premium link generators in an innovative way.
+  * [OnLeech](https://onleech.me/) - Free premium link generator service for uploaded, rapidgator, turbobit, nitroflare, etc.
+  * [PremixStore](https://premixstore.com/) - Penyedia jasa akun digital premium di indonesia dengan harga yang murah.
 
-* Downloadable : Multimedia
+* Downloadable : Resources
   * [SoftArchive](https://sastatus.com/) - Unlimited Resource for Free Downloading Latest PDF eBooks and Video Tutorials. ⭐
   * [DownTurk](https://www.downturk.net/) - Download fresh hidden object, game, software, movie, magazine, e-book, music. ⭐
   * [DirtyWarez](https://forum.dirtywarez.com/) - Popular warez forum with films, TV shows, ebooks, anime, games, and more. ⭐
   * [Puzo](https://www.puzo.org/) - Because we like it free. The forums that provide tons of resources for download. ⭐
   * [FileCR](https://filecr.com/en/) - Free download software, apps, games, e-learning, e-books, scripts and much more.
   * [Internet Archive](https://archive.org/) - Digital library offering free universal access to books, movies & music.
-  * [Torrentz2](https://torrentz2.is/) - Fast and powerful meta-search engine combining results of search engines.
-  * [TorrentFunk](https://www.torrentfunk.com/) - The fastest download search engine. Find the latest games, etc.
-  * [Kickass](https://kickass.help/) - You can search for TV shows and TV series, movies, music and games.
-  * [Torlock](https://www.torlock.com/) - A fast BitTorrent search engine that only lists verified torrents.
-  * [1337x](https://www.1337x.tw/) - Brings you the latest games, movies, tv series, music and software for free.
-  * [Yify](https://yts.mx/) - YTS was a peer-to-peer release group known for distributing large numbers of movies. ⭐
-  * [Soap2Day](https://soap2day.ru/) - Watch latest movies and TV series online no ads, we daily update.
-  * [KeBioskop21](http://103.194.171.185/) - Streaming film maupun tv series online gratis, subtitle Indonesia. ➊
-  * [Rebahin Streaming](http://198.54.124.245/) - Streaming film maupun tv series online gratis, subtitle Indonesia. ➋
-  * [Subscene](https://subscene.com/) - Free download and browse more movies, TV Series, tv shows subtitles.
-  * [pyTranscriber](https://github.com/raryelcostasouza/pyTranscriber) - Generate automatic subtitles for audio/video files (Desktop). ⭐
-  * [Subtitles Translator](https://subtitlestranslator.com/) - Translate multiple subtitle at the same time into 80 different languages. ⭐
-  * [TubeOffline](https://www.tubeoffline.com/) - Free online downloader for any Twitter video. Best tool that actually works.
   * [FitGirl Repacks](https://fitgirl-repacks.site/) - Collection of repack games, minimize the size of installation.
   * [OVA Games](https://www.ovagames.com/) - Free download pc game, codex, plaza, cpy, gog, elamigos, repack, etc.
-  * [Unblockit](https://unblocked-pw.github.io/) - nblock your favourite sites such as The Pirate Bay, Kickass torrents, Primewire, etc.
-  * [PremixStore](https://premixstore.com/) - Penyedia jasa akun digital premium di indonesia dengan harga yang murah.
-  * [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) - Provide the most complete lists of premium link generators, torrent, etc. ⭐
-  * [LeechListing](https://www.leechlisting.com/) - Latest list of working free premium link generators in an innovative way.
-  * [OnLeech](https://onleech.me/) - Free premium link generator service for uploaded, rapidgator, turbobit, nitroflare, etc.
 
 * Downloadable : Documents
   * [Libgen](https://libgen.is/) - Search engine for articles and books on various topics which allows free access. ⭐
@@ -201,6 +195,16 @@ Useful Websites : Jelajah Manfaat Internet
   * [FreeCourseSite](https://freecoursesite.com/) - Learn Hacking, Programming, IT, Marketing, Music, and more.
   * [FreeCourseUdemy](https://freecourseudemy.com/) - Premium Udemy tutorials free download. Top udemy courses.
   * [FreeEducationWeb](https://freeeducationweb.com/) - We are sharing the knowledge for free of charge and help learners.
+  
+* Downloadable : Movies
+  * [Yify](https://yts.mx/) - YTS was a peer-to-peer release group known for distributing large numbers of movies. ⭐
+  * [Soap2Day](https://soap2day.ru/) - Watch latest movies and TV series online no ads, we daily update.
+  * [KeBioskop21](http://103.194.171.185/) - Streaming film maupun tv series online gratis, subtitle Indonesia. ➊
+  * [Rebahin Streaming](http://198.54.124.245/) - Streaming film maupun tv series online gratis, subtitle Indonesia. ➋
+  * [Subscene](https://subscene.com/) - Free download and browse more movies, TV Series, tv shows subtitles.
+  * [pyTranscriber](https://github.com/raryelcostasouza/pyTranscriber) - Generate automatic subtitles for audio/video files (Desktop). ⭐
+  * [Subtitles Translator](https://subtitlestranslator.com/) - Translate multiple subtitle at the same time into 80 different languages. ⭐
+  * [TubeOffline](https://www.tubeoffline.com/) - Free online downloader for any Twitter video. Best tool that actually works.
  
 <hr>
 <div id="sec03"></div>
