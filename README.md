@@ -81,7 +81,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [Fandom](https://www.fandom.com/) - The entertainment site where fans come first. Source for all things TV, movies, and games, etc.
   * [Medium](https://medium.com/) - Our sole purpose is to help you find compelling ideas, knowledge, and perspectives.
   * [MakeUseOf](https://www.makeuseof.com/) - Learn how to make use of tech around you and discover cool stuff on the Internet.
-  * [Reddit](https://www.reddit.com/) - An American social news aggregation, web content rating, and discussion website.
+  * [Reddit](https://www.reddit.com/) - Home to thousands of communities, endless conversation, and authentic human connection.
   * [Vice](https://www.vice.com/) - The definitive guide to enlightening information from every corner of the planet.
   * [Snopes](https://www.snopes.com/) - The definitive fact-checking site and reference source for misinformation.
     
@@ -119,7 +119,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [Kelas](https://kelas.com/) - Belajar dari para mentor terbaik dibidangnya. Nikmati pengalaman belajar yang berbeda.
   * [Skill Academy](https://skillacademy.com/) - Tingkatkan technical & soft skill di berbagai bidang (by Ruangguru).
   * [IndonesiaX](https://www.indonesiax.co.id/) - Kursus dari universitas peringkat tertinggi di Indonesia dan perusahaan terbaik.
-  * [Coursera](https://www.coursera.org/) - Build skills with online courses from world-class universities and companies.
+  * [Coursera](https://www.coursera.org/) - Build skills with online courses from world-class universities and companies. ⭐
   * [Alison](https://alison.com/) - Free online education platform that mostly focuses on workplace-based skills.
   * [Udemy](https://www.udemy.com/) - Study any topic, anytime. Choose from thousands of expert-led courses now.
   * [Udacity](https://www.udacity.com/) - Advance your career with online courses in programming, data science, and more.
@@ -131,7 +131,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [Zero to Mastery](https://zerotomastery.io/) - Help you advance your career, get hired and succeed at some of the top companies.
   
 * Coupon Hunter
-  * [Tutflix Coupon](https://tutflix.io/forums/udemy-coupon/) - A place where you can learn any course online.
+  * [Tutflix Coupon](https://tutflix.io/forums/udemy-coupon/) - A place where you can learn any course online. ⭐
   * [OzBargain](https://www.ozbargain.com.au/tag/udemy-course) - Hunting community, coupon codes and freebies.
   * [Freebies Global](https://freebiesglobal.com/) - Latest freebies, courses, coupons & deals.
   * [Disc Udemy](https://www.discudemy.com/language/english) - The only website where expired courses are deleted.
@@ -141,7 +141,6 @@ Useful Websites : Jelajah Manfaat Internet
   * [Couponos](https://couponos.ooo/) - Get the latest Udemy coupon and BitDegree online courses.
 
 * Downloadable : Multimedia
-  * [Reddit](https://www.reddit.com/) - Home to thousands of communities, endless conversation, and authentic human connection. ⭐
   * [SoftArchive](https://sastatus.com/) - Unlimited Resource for Free Downloading Latest PDF eBooks and Video Tutorials. ⭐
   * [FileCR](https://filecr.com/en/) - Free download software, apps, games, e-learning, e-books, scripts and much more.
   * [Internet Archive](https://archive.org/) - Digital library offering free universal access to books, movies & music.
@@ -150,13 +149,13 @@ Useful Websites : Jelajah Manfaat Internet
   * [Kickass](https://kickass.help/) - You can search for TV shows and TV series, movies, music and games.
   * [Torlock](https://www.torlock.com/) - A fast BitTorrent search engine that only lists verified torrents.
   * [1337x](https://www.1337x.tw/) - Brings you the latest games, movies, tv series, music and software for free.
-  * [Yify](https://yts.mx/) - YTS was a peer-to-peer release group known for distributing large numbers of movies.
+  * [Yify](https://yts.mx/) - YTS was a peer-to-peer release group known for distributing large numbers of movies. ⭐
   * [Soap2Day](https://soap2day.ru/) - Watch latest movies and TV series online no ads, we daily update.
   * [KeBioskop21](http://103.194.171.185/) - Streaming film maupun tv series online gratis, subtitle Indonesia. ➊
   * [Rebahin Streaming](http://198.54.124.245/) - Streaming film maupun tv series online gratis, subtitle Indonesia. ➋
   * [Subscene](https://subscene.com/) - Free download and browse more movies, TV Series, tv shows subtitles.
-  * [pyTranscriber](https://github.com/raryelcostasouza/pyTranscriber) - Generate automatic subtitles for audio/video files (Desktop).
-  * [Subtitles Translator](https://subtitlestranslator.com/) - Translate multiple subtitle at the same time into 80 different languages.
+  * [pyTranscriber](https://github.com/raryelcostasouza/pyTranscriber) - Generate automatic subtitles for audio/video files (Desktop). ⭐
+  * [Subtitles Translator](https://subtitlestranslator.com/) - Translate multiple subtitle at the same time into 80 different languages. ⭐
   * [TubeOffline](https://www.tubeoffline.com/) - Free online downloader for any Twitter video. Best tool that actually works.
   * [FitGirl Repacks](https://fitgirl-repacks.site/) - Collection of repack games, minimize the size of installation.
   * [OVA Games](https://www.ovagames.com/) - Free download pc game, codex, plaza, cpy, gog, elamigos, repack, etc.
@@ -171,6 +170,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [Lib-Ebooks](https://lib-ebooks.com/) - Provides Free PDF Books and more.. For all, In many different Subjects.
   * [Ebookee](https://ebookee.com/) - A free ebooks search engine, the best free ebooks download library. Tech, Novel, etc.
   * [Ebook3000](http://ebook3000.com/) - The best place to read ebooks and search free download ebooks. It's the open directory.
+  * [All-Ebooks](http://all-ebooks.com/) - Ebooks for free. Library where you can download e-books and magazines for free.
   * [Twirpx](https://www.twirpx.com/) - Everything for the student. Languages and linguistics, Computer literature, Math, etc.
   * [Alleng](https://alleng.org/) - For ESL students. Download textbooks, dictionaries, manuals, audio, video etc.
   * [Sci-Hub](https://sci-hub.tw/) - The first website in the world to provide mass & public access to research papers.
@@ -182,11 +182,13 @@ Useful Websites : Jelajah Manfaat Internet
   * [Small Pocket Library]( https://www.smallpocketlibrary.com/) - Help students and teachers and anyone interested in science.
   
 * Downloadable : Courses
-  * [Tutflix.io](https://tutflix.io/) - Free education community. A place where you can learn any course online and discuss. ➊
-  * [Tutflix.com](https://tutflix.com/) - Free education community. A place where you can learn any course online and discuss. ➋
+  * [Tutflix.io](https://tutflix.io/) - Free education community. A place where you can learn any course online and discuss. ⭐
+  * [Tutflix.com](https://tutflix.com/) - Free education community. A place where you can learn any course online and discuss.
   * [Downloadly.ir](https://downloadly.ir/) - Free software download. Education, courses, programming, software, etc. ➊
   * [Downloadly.net](https://downloadly.net/) - Free software download. Education, courses, programming, software, etc. ➋
+  * [Tut4dl](https://tut4dl.com/) - Get new video training, update tutorials for programing tutorials, mobile dev, etc. ⭐
   * [Ttorial](http://ttorial.com/) - Obtain & download the best online courses for free, from 100+ institutions.
+  * [OneHack](https://onehack.us/) - Tutorials for free. A place where everyone can share knowledge with each other.
   * [FreeCourseLab](https://freecourselab.com/) - A great place to learn. Download Udemy courses for free.
   * [FreeCourseWeb](https://freecourseweb.com/) - Tutorials Archives. Free Udemy Courses Download for free.
   * [FreeCourseSite](https://freecoursesite.com/) - Learn Hacking, Programming, IT, Marketing, Music, and more.
@@ -336,33 +338,33 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
   * [Elenco](https://chrome.google.com/webstore/detail/elenco/phbjhmbdcecahmckhhbdabmnhmjcpjab) - With Elenco, browsing the internet is distraction free with every new tab you open.
   * [Infinity New Tab](https://chrome.google.com/webstore/detail/infinity-new-tab-producti/dbfmnekepjoapopniengjbcpnbljalfg) - Replaces the original new tab with variety of quick and useful features.
   * [Muzli 2](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc) - The freshest links about design and interactive, from around the web.
-  * [Bookmark Sidebar](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh) - Toggleable sidebar with all your bookmarks at the edge of your browser window.
+  * [Bookmark Sidebar](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh) - Toggleable sidebar with all your bookmarks at the edge of your browser window. ⭐
   * [Tabli](https://chrome.google.com/webstore/detail/tabli/igeehkedfibbnhbfponhjjplpkeomghi) - A simple and powerful tab manager that provides fast switching between windows.
   * [Sticky Notes](https://chrome.google.com/webstore/detail/sticky-notes-just-popped/plpdjbappofmfbgdmhoaabefbobddchk) - A perfect tool for taking quick notes. Its fast, secure, and private. A must tool for everyone. 
-  * [Black Menu for Google](https://chrome.google.com/webstore/detail/black-menu-for-google/eignhdfgaldabilaaegmdfbajngjmoke) - Quick access to your favorite Google services with a convenient drop-down menu.
+  * [Black Menu for Google](https://chrome.google.com/webstore/detail/black-menu-for-google/eignhdfgaldabilaaegmdfbajngjmoke) - Quick access to your favorite Google services with a convenient drop-down menu. ⭐
   * [Application Launcher for Drive](https://chrome.google.com/webstore/detail/application-launcher-for/lmjegmlicamnimmfhcmpkclmigmmcbeh) - Open Drive files directly from your browser in compatible applications.
   * [Checker Plus for Gmail](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj) - Get notifications, read, listen, delete emails without opening Gmail.
   * [InstaClean](https://www.instaclean.app/) - Instantly clear out all unwanted mails & bulk unsubscribe newsletters (_**Bukan extension**_).
-  * [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=id) - Share screenshots with your friends or teammates, fast and easily.
+  * [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=id) - Share screenshots with your friends or teammates, fast and easily. ⭐
   * [Nimbus Screenshot](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj) - Screen capture full web page or any part & record screencasts.
   * [Element Screenshot](https://chrome.google.com/webstore/detail/element-screenshot/mhbapdljigafafoimcnnhagdclejnkcf) - Take screenshot of any HTML element on a webpage.
   * [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj) - Copy, paste and translate text from any image, video or PDF.
   * [Image Reader (OCR)](https://chrome.google.com/webstore/detail/image-reader-ocr/cakcfocedphbadddjpalejbkhflfbhmf) - Easily get words out of an image with OCR engine.
   
 * Text & Read Tools
-  * [Reading List](https://chrome.google.com/webstore/detail/reading-list/lloccabjgblebdmncjndmiibianflabo) - This reading list extension allows you to save pages in a list to get back to later.
+  * [Reading List](https://chrome.google.com/webstore/detail/reading-list/lloccabjgblebdmncjndmiibianflabo) - This reading list extension allows you to save pages in a list to get back to later. ⭐
   * [Wikiwand](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj?hl=id) - A new interface that optimizes Wikipedia's amazing content for improved reading experience.
   * [Mercury Reader](https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi) - Clear away the clutter from all of your articles, instantly. Removes ads and distractions. 
   * [Rocket Readability](https://chrome.google.com/webstore/detail/rocket-readability/fhckbdfnalikpmcmcpcpkkdlhabngbod) - Mercury Reader alternative. Parses web pages cutting out ads.
   * [Just Read](https://chrome.google.com/webstore/detail/just-read/dgmanlpmmkibanfdgjocnabmcaclkmod) - Remove distractions like the page's styling, ads, poups and comments.
   * [Print Friendly & PDF](https://chrome.google.com/webstore/detail/print-friendly-pdf/ohlencieiipommannpdfcmfdpjjmeolj) - Print Friendly removes ads, navigation and junk before your print.
-  * [Kami Extension](https://chrome.google.com/webstore/detail/kami-extension-pdf-and-do/ecnphlgnajanjnkcmbpancdjoidceilk) - Best PDF and document annotation and markup tool. Works with Drive and Classroom.
+  * [Kami Extension](https://chrome.google.com/webstore/detail/kami-extension-pdf-and-do/ecnphlgnajanjnkcmbpancdjoidceilk) - Best PDF and document annotation and markup tool. Works with Drive and Classroom. ⭐
   * [Google Docs Offline](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi) - Edit, create and view all your documents without Internet access.
-  * [Readiator EPUB Reader](https://chrome.google.com/webstore/detail/readiator-epub-reader/ecoaijekbhjbbojbkgliclceljlgelbf/related?hl=en) - Open source cross-platform EPUB reader with full EPUB3 support, works offline. ➊
-  * [EPUB Reader](https://chrome.google.com/webstore/detail/epub-reader/mbcgbbpomkkndfbpiepjimakkbocjgkh) - Great choice for reading EPUB files, you can esaily open your EPUB files with this app. ➋
-  * [One Click Translate](https://chrome.google.com/webstore/detail/one-click-translate/anhjddeakbabimdgmonfbnpbainknbfa?hl=en) - Translate your selected text with Google Translate in one click, in a simplest way.
+  * [Readiator EPUB Reader](https://chrome.google.com/webstore/detail/readiator-epub-reader/ecoaijekbhjbbojbkgliclceljlgelbf/related?hl=en) - Open source cross-platform EPUB reader with full EPUB3 support, works offline. ⭐
+  * [EPUB Reader](https://chrome.google.com/webstore/detail/epub-reader/mbcgbbpomkkndfbpiepjimakkbocjgkh) - Great choice for reading EPUB files, you can esaily open your EPUB files with this app.
+  * [One Click Translate](https://chrome.google.com/webstore/detail/one-click-translate/anhjddeakbabimdgmonfbnpbainknbfa?hl=en) - Translate your selected text with Google Translate in one click, in a simplest way. ⭐
   * [Mate Translate](https://chrome.google.com/webstore/detail/mate-translate-%E2%80%93-translat/ihmgiclibbndffejedjimfjmfoabpcke) - Your all-in-one translator for web pages, highlighted text & Netflix subtitles.
-  * [TransOver](https://chrome.google.com/webstore/detail/transover/aggiiclaiamajehmlfpkjmlbadmkledi?hl=en) - Translate word from any language to the language of your choice by pointing or clicking at it.
+  * [TransOver](https://chrome.google.com/webstore/detail/transover/aggiiclaiamajehmlfpkjmlbadmkledi?hl=en) - Translate word from any language to the language of your choice by pointing or clicking at it. ⭐
   * [Rememberry](https://chrome.google.com/webstore/detail/rememberry-translate-and/dipiagiiohfljcicegpgffpbnjmgjcnf) - Translate and memorize. Easily replenish your foreign languages dictionary using flashcards.
   * [Copy As Plain Text](https://chrome.google.com/webstore/detail/copy-as-plain-text/eneajgkmdhmjmloiabgkpkiooaejmlpk) - Easily copy the selected text without formatting to the clipboard via right-click menu.
   * [Highlight This](https://chrome.google.com/webstore/detail/highlight-this-finds-and/fgmbnmjmbjenlhbefngfibmjkpbcljaj?hl=en-US) - Automatically finds and highlights words and phrases on the web page according to your list.
@@ -375,15 +377,15 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
   * [Spreed](https://chrome.google.com/webstore/detail/spreed-speed-read-the-web/ipikiaejjblmdopojhpejjmbedhlibno) - Train yourself to double or triple your reading speed, without sacrificing comprehension.
   
 * Better Browsing
-  * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Finally, an efficient blocker and content-filtering. Easy on CPU and memory.
+  * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Finally, an efficient blocker and content-filtering. Easy on CPU and memory. ⭐
   * [AdBlock Best Ad Blocker](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom) - Block ads and pop-ups on YouTube, FB, and your favorite websites.
-  * [Adblock for Youtube](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk) - A content filtering and ad blocking which blocks all ads on Youtube.
+  * [Adblock for Youtube](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk) - A content filtering and ad blocking which blocks all ads on Youtube. ⭐
   * [Youtube Repeat Button](https://chrome.google.com/webstore/detail/youtube-repeat-button/aihdpnkmhcbjkfonmmfepcjjfaenobip) - This is a simple extension which adds a repeat button for Youtube.
-  * [Seek Subtitles for YouTube](https://chrome.google.com/webstore/detail/seek-subtitles-for-youtub/ghjmdgljbfiiaginabfnaopnocgafffb) - Save time by filtering subtitles and skipping uninteresting parts.
+  * [Seek Subtitles for YouTube](https://chrome.google.com/webstore/detail/seek-subtitles-for-youtub/ghjmdgljbfiiaginabfnaopnocgafffb) - Save time by filtering subtitles and skipping uninteresting parts. ⭐
   * [Two Captions for YouTube & Netflix](https://chrome.google.com/webstore/detail/two-captions-for-youtube/lpeonmjfimoijceaalocpgjjchocbiap) - Show subtitles in two languages on Youtube & Netflix.
   * [eJOY English Learn with Movies](https://chrome.google.com/webstore/detail/ejoy-english-learn-with-m/amfojhdiedpdnlijjbhjnhokbnohfdfb) - Learn Vocabulary from videos with games to remember forever.
-  * [Open link in same tab](https://chrome.google.com/webstore/detail/open-link-in-same-tab-pop/jmphljmgnagblkombahigniilhnbadca) - Forces Chrome to open new tabs instead of pop-up windows/links in the same tab.
-  * [Click to Remove Element](https://chrome.google.com/webstore/detail/click-to-remove-element/jcgpghgjhhahcefnfpbncdmhhddedhnk) - Remove annoying elements from a website with a single click.
+  * [Open link in same tab](https://chrome.google.com/webstore/detail/open-link-in-same-tab-pop/jmphljmgnagblkombahigniilhnbadca) - Forces Chrome to open new tabs instead of pop-up windows/links in the same tab. ⭐
+  * [Click to Remove Element](https://chrome.google.com/webstore/detail/click-to-remove-element/jcgpghgjhhahcefnfpbncdmhhddedhnk) - Remove annoying elements from a website with a single click. ⭐
   * [Hoxx VPN Proxy](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh) - Service to unblock blocked websites and encrypt your connection.
   * [SetupVPN](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp) - Unblock any blocked website in your country, school or company.
   * [Simple Allow Copy](https://chrome.google.com/webstore/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc) - Enable copy and right-click on sites that blocked them.
@@ -398,7 +400,7 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
   
 * Frontend Developer
   * [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - Automated tool for improving the performance, quality, and correctness of your web apps.
-  * [GitZip for Github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn) - It can make the sub-directories and files of github repository as zip and download it.
+  * [GitZip for Github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn) - It can make the sub-directories and files of github repository as zip and download it. ⭐
   * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) - Adds a toolbar button to the browser with various web developer tools.
   * [Live editor for CSS](https://chrome.google.com/webstore/detail/live-editor-for-css-less/ifhikkcafabcgolfjegfcgloomalapol) - Live preview of CSS/Less/Sass code changes. Live edit CSS files.
   * [Bootstrap Viewport](https://chrome.google.com/webstore/detail/bootstrap-viewport/kflgmkikmbklpikoicfhonemdcemkdia) - Determines browser window width and which bootstrap viewport is in use.
@@ -418,7 +420,7 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
   * [Vue.js Devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - Chrome and Firefox DevTools extension for debugging Vue.js applications.
   
 * Miscellaneous
-  * [Set Password for Your Browser (Chrome Lock)](https://chrome.google.com/webstore/detail/set-password-for-your-bro/cjmjgijhapgicbhmniemjkjeaedanank) - Allow users to set password for the browser.
+  * [Set Password for Your Browser (Chrome Lock)](https://chrome.google.com/webstore/detail/set-password-for-your-bro/cjmjgijhapgicbhmniemjkjeaedanank) - Allow users to set password for the browser. ⭐
   * [Loom](https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb) - Capture, narrate and instantly share videos to communicate faster, clearer and friendlier.
   * [Volume Booster](https://chrome.google.com/webstore/detail/volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo) - Unleash the power of sound, no matter what speakers you're using.
   * [Clever Mute](https://chrome.google.com/webstore/detail/clever-mute/eadinjjkfelcokdlmoechclnmmmjnpdh) - You can mute or unmute any site just by clicking the extension icon.
