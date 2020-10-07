@@ -131,6 +131,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [Zero to Mastery](https://zerotomastery.io/) - Help you advance your career, get hired and succeed at some of the top companies.
   
 * Coupon Hunter
+  * [Tutflix Coupon](https://tutflix.io/forums/udemy-coupon/) - A place where you can learn any course online.
   * [OzBargain](https://www.ozbargain.com.au/tag/udemy-course) - Hunting community, coupon codes and freebies.
   * [Freebies Global](https://freebiesglobal.com/) - Latest freebies, courses, coupons & deals.
   * [Disc Udemy](https://www.discudemy.com/language/english) - The only website where expired courses are deleted.
@@ -140,7 +141,8 @@ Useful Websites : Jelajah Manfaat Internet
   * [Couponos](https://couponos.ooo/) - Get the latest Udemy coupon and BitDegree online courses.
 
 * Downloadable : Multimedia
-  * [SoftArchive](https://sastatus.com/) - Unlimited Resource for Free Downloading Latest PDF eBooks and Video Tutorials.
+  * [PremixStore](https://premixstore.com/) - Penyedia jasa akun digital premium di indonesia dengan harga yang murah.
+  * [SoftArchive](https://sastatus.com/) - Unlimited Resource for Free Downloading Latest PDF eBooks and Video Tutorials.⭐
   * [Internet Archive](https://archive.org/) - Digital library offering free universal access to books, movies & music.
   * [Torrentz2](https://torrentz2.is/) - Fast and powerful meta-search engine combining results of search engines.
   * [TorrentFunk](https://www.torrentfunk.com/) - The fastest download search engine. Find the latest games, etc.
@@ -154,15 +156,16 @@ Useful Websites : Jelajah Manfaat Internet
   * [Subscene](https://subscene.com/) - Free download and browse more movies, TV Series, tv shows subtitles.
   * [TubeOffline](https://www.tubeoffline.com/) - Free online downloader for any Twitter video. Best tool that actually works.
   * [FitGirl Repacks](https://fitgirl-repacks.site/) - Collection of repack games, minimize the size of installation.
+  * [OVA Games](https://www.ovagames.com/) - Free download pc game, codex, plaza, cpy, gog, elamigos, repack, etc.
 
 * Downloadable : Documents
-  * [Libgen](https://libgen.is/) - Search engine for articles and books on various topics which allows free access.
-  * [Z-Lib](https://z-lib.org/) - The world's largest ebook library, download books for free. Part of Z-Library project.
+  * [Libgen](https://libgen.is/) - Search engine for articles and books on various topics which allows free access.⭐
+  * [Z-Lib](https://z-lib.org/) - The world's largest ebook library, download books for free. Part of Z-Library project.⭐
   * [PDF Drive](https://www.pdfdrive.com/) - Search engine for PDF files. eBooks for you to download for free.
   * [BooksRack](https://booksrack.net/) - Free download e-books, magazine, available in PDF, ePub, Kindle and AudioBook formats.
   * [Lib-Ebooks](https://lib-ebooks.com/) - Provides Free PDF Books and more.. For all, In many different Subjects.
   * [FileCR](https://filecr.com/en/) - Free download software, apps, games, e-learning, e-books, scripts and much more.
-  * [Sanet](https://sastatus.com/) - Unlimited Resource for Free Downloading Latest PDF eBooks and Video Tutorials.
+  * [Sanet](https://sastatus.com/) - Unlimited Resource for Free Downloading Latest PDF eBooks and Video Tutorials.⭐
   * [Ebookee](https://ebookee.com/) - A free ebooks search engine, the best free ebooks download library. Tech, Novel, etc.
   * [Ebook3000](http://ebook3000.com/) - The best place to read ebooks and search free download ebooks. It's the open directory.
   * [Twirpx](https://www.twirpx.com/) - Everything for the student. Languages and linguistics, Computer literature, Math, etc.
@@ -176,8 +179,8 @@ Useful Websites : Jelajah Manfaat Internet
   * [Small Pocket Library]( https://www.smallpocketlibrary.com/) - Help students and teachers and anyone interested in science.
   
 * Downloadable : Courses
-  * [Tutflix.io](https://tutflix.io/) - Free Education Community. A Place Where You Can Learn Any Course Online And Discuss. ➊
-  * [Tutflix.com](https://tutflix.com/) - Free Education Community. A Place Where You Can Learn Any Course Online And Discuss. ➋
+  * [Tutflix.io](https://tutflix.io/) - Free education community. A place where you can learn any course online and discuss. ➊
+  * [Tutflix.com](https://tutflix.com/) - Free education community. A place where you can learn any course online and discuss. ➋
   * [Downloadly.ir](https://downloadly.ir/) - Free software download. Education, courses, programming, software, etc. ➊
   * [Downloadly.net](https://downloadly.net/) - Free software download. Education, courses, programming, software, etc. ➋
   * [Ttorial](http://ttorial.com/) - Obtain & download the best online courses for free, from 100+ institutions.
