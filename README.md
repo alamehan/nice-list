@@ -142,7 +142,9 @@ Useful Websites : Jelajah Manfaat Internet
   * [Couponos](https://couponos.ooo/) - Get the latest Udemy coupon and BitDegree online courses.
 
 * Downloadable : Multimedia
-  * [SoftArchive](https://sastatus.com/) - Unlimited Resource for Free Downloading Latest PDF eBooks and Video Tutorials.⭐
+  * [Reddit](https://www.reddit.com/) - Home to thousands of communities, endless conversation, and authentic human connection. ⭐
+  * [SoftArchive](https://sastatus.com/) - Unlimited Resource for Free Downloading Latest PDF eBooks and Video Tutorials. ⭐
+  * [FileCR](https://filecr.com/en/) - Free download software, apps, games, e-learning, e-books, scripts and much more.
   * [Internet Archive](https://archive.org/) - Digital library offering free universal access to books, movies & music.
   * [Torrentz2](https://torrentz2.is/) - Fast and powerful meta-search engine combining results of search engines.
   * [TorrentFunk](https://www.torrentfunk.com/) - The fastest download search engine. Find the latest games, etc.
@@ -161,13 +163,11 @@ Useful Websites : Jelajah Manfaat Internet
   * [OnLeech](https://onleech.me/) - Free premium link generator service for uploaded, rapidgator, turbobit, nitroflare, etc.
 
 * Downloadable : Documents
-  * [Libgen](https://libgen.is/) - Search engine for articles and books on various topics which allows free access.⭐
-  * [Z-Lib](https://z-lib.org/) - The world's largest ebook library, download books for free. Part of Z-Library project.⭐
+  * [Libgen](https://libgen.is/) - Search engine for articles and books on various topics which allows free access. ⭐
+  * [Z-Lib](https://z-lib.org/) - The world's largest ebook library, download books for free. Part of Z-Library project. ⭐
   * [PDF Drive](https://www.pdfdrive.com/) - Search engine for PDF files. eBooks for you to download for free.
   * [BooksRack](https://booksrack.net/) - Free download e-books, magazine, available in PDF, ePub, Kindle and AudioBook formats.
   * [Lib-Ebooks](https://lib-ebooks.com/) - Provides Free PDF Books and more.. For all, In many different Subjects.
-  * [FileCR](https://filecr.com/en/) - Free download software, apps, games, e-learning, e-books, scripts and much more.
-  * [Sanet](https://sastatus.com/) - Unlimited Resource for Free Downloading Latest PDF eBooks and Video Tutorials.⭐
   * [Ebookee](https://ebookee.com/) - A free ebooks search engine, the best free ebooks download library. Tech, Novel, etc.
   * [Ebook3000](http://ebook3000.com/) - The best place to read ebooks and search free download ebooks. It's the open directory.
   * [Twirpx](https://www.twirpx.com/) - Everything for the student. Languages and linguistics, Computer literature, Math, etc.
