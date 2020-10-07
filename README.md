@@ -128,7 +128,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [Plural Sight](https://www.pluralsight.com/) - Gives you confidence you have the skills you need to execute your technology strategy.
   * [Treehouse](https://teamtreehouse.com/) - Learn to code, gain a new skill, get a new job. Whatever your goal — we'll get you there.
   * [Codecademy](https://www.codecademy.com/) - Learn the technical skills you need for the job you want. An online interactive platform.
-  * [Zero to Mastery](https://zerotomastery.io/) - Help you advance your career, get hired and succeed at some of the top companies.
+  * [Zero to Mastery](https://zerotomastery.io/) - Help you advance your career, get hired and succeed at some of the top companies. ⭐
   
 * Coupon Hunter
   * [Tutflix Coupon](https://tutflix.io/forums/udemy-coupon/) - A place where you can learn any course online. ⭐
@@ -173,7 +173,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [All-Ebooks](http://all-ebooks.com/) - Ebooks for free. Library where you can download e-books and magazines for free.
   * [Twirpx](https://www.twirpx.com/) - Everything for the student. Languages and linguistics, Computer literature, Math, etc.
   * [Alleng](https://alleng.org/) - For ESL students. Download textbooks, dictionaries, manuals, audio, video etc.
-  * [Sci-Hub](https://sci-hub.tw/) - The first website in the world to provide mass & public access to research papers.
+  * [Sci-Hub](https://sci-hub.tw/) - The first website in the world to provide mass & public access to research papers. ⭐
   * [IEEE](https://www.ieee.org/) - The world's largest technical professional organization for the advancement of technology.
   * [DocSity](https://www.docsity.com/) - Access free study contents - study notes, essays, summaries and a lot more.
   * [Scribd](http://www.scribd.com/) - Enjoy an unlimited* number of books, audiobooks, magazines, and more.
