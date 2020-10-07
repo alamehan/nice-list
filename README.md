@@ -62,6 +62,7 @@ Useful Websites : Jelajah Manfaat Internet
 
 * Top Curation Site
   * [Awesome Github](https://github.com/phillipadsmith/awesome-github) - A curated list of GitHub's awesomeness. Huge curated list project.
+  * [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy) - Everything you need to get started on your pirate voyage can be found here.
   * [Pretty Awesome Lists](https://www.prettyawesomelists.com/) - Pretty Awesome Lists crawls all these lists, collects interesting information.
   * [Content Curation Tools](https://optinmonster.com/best-content-curation-tools/) - Collecting interesting information as individual pieces of content or as a digest.
 
@@ -141,7 +142,6 @@ Useful Websites : Jelajah Manfaat Internet
   * [Couponos](https://couponos.ooo/) - Get the latest Udemy coupon and BitDegree online courses.
 
 * Downloadable : Multimedia
-  * [PremixStore](https://premixstore.com/) - Penyedia jasa akun digital premium di indonesia dengan harga yang murah.
   * [SoftArchive](https://sastatus.com/) - Unlimited Resource for Free Downloading Latest PDF eBooks and Video Tutorials.⭐
   * [Internet Archive](https://archive.org/) - Digital library offering free universal access to books, movies & music.
   * [Torrentz2](https://torrentz2.is/) - Fast and powerful meta-search engine combining results of search engines.
@@ -157,6 +157,8 @@ Useful Websites : Jelajah Manfaat Internet
   * [TubeOffline](https://www.tubeoffline.com/) - Free online downloader for any Twitter video. Best tool that actually works.
   * [FitGirl Repacks](https://fitgirl-repacks.site/) - Collection of repack games, minimize the size of installation.
   * [OVA Games](https://www.ovagames.com/) - Free download pc game, codex, plaza, cpy, gog, elamigos, repack, etc.
+  * [PremixStore](https://premixstore.com/) - Penyedia jasa akun digital premium di indonesia dengan harga yang murah.
+  * [OnLeech](https://onleech.me/) - Free premium link generator service for uploaded, rapidgator, turbobit, nitroflare, etc.
 
 * Downloadable : Documents
   * [Libgen](https://libgen.is/) - Search engine for articles and books on various topics which allows free access.⭐
