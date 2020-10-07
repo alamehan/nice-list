@@ -81,9 +81,9 @@ Useful Websites : Jelajah Manfaat Internet
   * [Fandom](https://www.fandom.com/) - The entertainment site where fans come first. Source for all things TV, movies, and games, etc.
   * [Medium](https://medium.com/) - Our sole purpose is to help you find compelling ideas, knowledge, and perspectives.
   * [MakeUseOf](https://www.makeuseof.com/) - Learn how to make use of tech around you and discover cool stuff on the Internet.
-  * [Reddit](https://www.reddit.com/) - Home to thousands of communities, endless conversation, and authentic human connection.
   * [Vice](https://www.vice.com/) - The definitive guide to enlightening information from every corner of the planet.
   * [Snopes](https://www.snopes.com/) - The definitive fact-checking site and reference source for misinformation.
+  * [Reddit](https://www.reddit.com/) - Home to thousands of communities, endless conversation, and human connection.
     
 * Useful Web Apps
   * [Pdf.io](https://pdf.io/) - Free set of online tools for handling PDF files. Convert and edit your PDF files.
@@ -142,6 +142,9 @@ Useful Websites : Jelajah Manfaat Internet
 
 * Downloadable : Multimedia
   * [SoftArchive](https://sastatus.com/) - Unlimited Resource for Free Downloading Latest PDF eBooks and Video Tutorials. ⭐
+  * [DownTurk](https://www.downturk.net/) - Download fresh hidden object, game, software, movie, magazine, e-book, music. ⭐
+  * [DirtyWarez](https://forum.dirtywarez.com/) - Popular warez forum with films, TV shows, ebooks, anime, games, and more. ⭐
+  * [Puzo](https://www.puzo.org/) - Because we like it free. The forums that provide tons of resources for download. ⭐
   * [FileCR](https://filecr.com/en/) - Free download software, apps, games, e-learning, e-books, scripts and much more.
   * [Internet Archive](https://archive.org/) - Digital library offering free universal access to books, movies & music.
   * [Torrentz2](https://torrentz2.is/) - Fast and powerful meta-search engine combining results of search engines.
@@ -159,7 +162,10 @@ Useful Websites : Jelajah Manfaat Internet
   * [TubeOffline](https://www.tubeoffline.com/) - Free online downloader for any Twitter video. Best tool that actually works.
   * [FitGirl Repacks](https://fitgirl-repacks.site/) - Collection of repack games, minimize the size of installation.
   * [OVA Games](https://www.ovagames.com/) - Free download pc game, codex, plaza, cpy, gog, elamigos, repack, etc.
+  * [Unblockit](https://unblocked-pw.github.io/) - nblock your favourite sites such as The Pirate Bay, Kickass torrents, Primewire, etc.
   * [PremixStore](https://premixstore.com/) - Penyedia jasa akun digital premium di indonesia dengan harga yang murah.
+  * [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) - Provide the most complete lists of premium link generators, torrent, etc. ⭐
+  * [LeechListing](https://www.leechlisting.com/) - Latest list of working free premium link generators in an innovative way.
   * [OnLeech](https://onleech.me/) - Free premium link generator service for uploaded, rapidgator, turbobit, nitroflare, etc.
 
 * Downloadable : Documents
