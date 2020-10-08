@@ -131,7 +131,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [Zero to Mastery](https://zerotomastery.io/) - Help you advance your career, get hired and succeed at some of the top companies. ⭐
   
 * Coupon Hunter
-  * [Tutflix Coupon](https://tutflix.io/forums/udemy-coupon/) - A place where you can learn any course online. ⭐
+  * [Tutflix Coupon](https://tutflix.io/forums/udemy-coupon/) - A place where you can learn any course online.
   * [OzBargain](https://www.ozbargain.com.au/tag/udemy-course) - Hunting community, coupon codes and freebies.
   * [Freebies Global](https://freebiesglobal.com/) - Latest freebies, courses, coupons & deals.
   * [Disc Udemy](https://www.discudemy.com/language/english) - The only website where expired courses are deleted.
@@ -141,22 +141,25 @@ Useful Websites : Jelajah Manfaat Internet
   * [Couponos](https://couponos.ooo/) - Get the latest Udemy coupon and BitDegree online courses.
   
 * Torrents & Leech
-  * [Torrentz2](https://torrentz2.is/) - Fast and powerful meta-search engine combining results of search engines.
+  * [Torrentz2](https://torrentz2.is/) - Fast and powerful meta-search engine combining results of search engines. ⭐
   * [TorrentFunk](https://www.torrentfunk.com/) - The fastest download search engine. Find the latest games, etc.
   * [Kickass](https://kickass.help/) - You can search for TV shows and TV series, movies, music and games.
   * [Torlock](https://www.torlock.com/) - A fast BitTorrent search engine that only lists verified torrents.
   * [1337x](https://www.1337x.tw/) - Brings you the latest games, movies, tv series, music and software for free.
-  * [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) - Provide the most complete lists of premium link generators, torrent, etc. ⭐
-  * [Unblockit](https://unblocked-pw.github.io/) - nblock your favourite sites such as The Pirate Bay, Kickass torrents, Primewire, etc.
-  * [LeechListing](https://www.leechlisting.com/) - Latest list of working free premium link generators in an innovative way.
-  * [OnLeech](https://onleech.me/) - Free premium link generator service for uploaded, rapidgator, turbobit, nitroflare, etc.
+  * [Unblockit](https://unblocked-pw.github.io/) - Unblock your favourite sites such as The Pirate Bay, Kickass torrents, Primewire, etc.
   * [PremixStore](https://premixstore.com/) - Penyedia jasa akun digital premium di indonesia dengan harga yang murah.
+  * [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) - Provide the most complete lists of premium link generators, torrent, etc. ⭐
+  * [LeechListing](https://www.leechlisting.com/) - Latest list of working free premium link generators in an innovative way.
+  * [OnLeech](https://onleech.me/) - Free premium link generator service for uploaded, rapidgator, turbobit, nitroflare, etc. ➊
+  * [LeechPremiumh](https://leechpremium.link/index.php) - Free premium link generator service for uploaded, rapidgator, turbobit, nitroflare, etc. ➋
+  * [RapidGrab](https://rapidgrab.pl/) - Free premium link generator service for uploaded, rapidgator, turbobit, nitroflare, etc. ➌
+  * [CocoLeech](https://cocoleech.com/) - Free premium link generator service for uploaded, rapidgator, turbobit, nitroflare, etc. ➍
 
 * Downloadable : Resources
   * [SoftArchive](https://sastatus.com/) - Unlimited Resource for Free Downloading Latest PDF eBooks and Video Tutorials. ⭐
   * [DownTurk](https://www.downturk.net/) - Download fresh hidden object, game, software, movie, magazine, e-book, music. ⭐
-  * [DirtyWarez](https://forum.dirtywarez.com/) - Popular warez forum with films, TV shows, ebooks, anime, games, and more. ⭐
-  * [Puzo](https://www.puzo.org/) - Because we like it free. The forums that provide tons of resources for download. ⭐
+  * [DirtyWarez](https://forum.dirtywarez.com/) - Popular warez forum with films, TV shows, ebooks, anime, games, and more.
+  * [Puzo](https://www.puzo.org/) - Because we like it free. The forums that provide tons of resources for download.
   * [FileCR](https://filecr.com/en/) - Free download software, apps, games, e-learning, e-books, scripts and much more.
   * [Internet Archive](https://archive.org/) - Digital library offering free universal access to books, movies & music.
   * [FitGirl Repacks](https://fitgirl-repacks.site/) - Collection of repack games, minimize the size of installation.
@@ -203,7 +206,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [Rebahin Streaming](http://198.54.124.245/) - Streaming film maupun tv series online gratis, subtitle Indonesia. ➋
   * [Subscene](https://subscene.com/) - Free download and browse more movies, TV Series, tv shows subtitles.
   * [pyTranscriber](https://github.com/raryelcostasouza/pyTranscriber) - Generate automatic subtitles for audio/video files (Desktop). ⭐
-  * [Subtitles Translator](https://subtitlestranslator.com/) - Translate multiple subtitle at the same time into 80 different languages. ⭐
+  * [Subtitles Translator](https://subtitlestranslator.com/) - Translate multiple subtitle at the same time into 80 different languages.
   * [TubeOffline](https://www.tubeoffline.com/) - Free online downloader for any Twitter video. Best tool that actually works.
  
 <hr>
