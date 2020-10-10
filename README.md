@@ -205,9 +205,11 @@ Useful Websites : Jelajah Manfaat Internet
   * [KeBioskop21](http://103.194.171.185/) - Streaming film maupun tv series online gratis, subtitle Indonesia. ➊
   * [Rebahin Streaming](http://198.54.124.245/) - Streaming film maupun tv series online gratis, subtitle Indonesia. ➋
   * [Subscene](https://subscene.com/) - Free download and browse more movies, TV Series, tv shows subtitles.
+  * [Google2SRT](https://sourceforge.net/projects/google2srt/) - Download, save and convert multiple subtitles from YouTube videos (Desktop).
   * [pyTranscriber](https://github.com/raryelcostasouza/pyTranscriber) - Generate automatic subtitles for audio/video files (Desktop). ⭐
   * [Subtitles Translator](https://subtitlestranslator.com/) - Translate multiple subtitle at the same time into 80 different languages.
   * [TubeOffline](https://www.tubeoffline.com/) - Free online downloader for any Twitter video. Best tool that actually works.
+  * [YoutubeMultiDownloader](https://youtubemultidownloader.net/) - Free youtube downloader online. Download single link, playlist or channel.
  
 <hr>
 <div id="sec03"></div>
@@ -826,6 +828,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [WinRar](https://www.win-rar.com/) - Windows data compression tool that focuses on the RAR and ZIP formats.
   * [Greenshot](https://getgreenshot.org/) - Greenshot is the most awesome tool for making screenshots on Windows PC.
   * [PicPick](https://picpick.app/en/) - A full-featured screen capture tool, color picker, pixel-ruler, whiteboard and more.
+  * [DisplayFusion](https://www.displayfusion.com/) - Make your multi-monitor life much easier! With powerful features.
   * [Actual Multiple Monitor](https://www.actualtools.com/multiplemonitors/) - Improves Windows UI when working with several monitors at once.
   
 * File & Folder Protector
@@ -842,7 +845,6 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Acrylic Wi-Fi](https://www.acrylicwifi.com/en/wlan-wifi-wireless-network-software-tools/wlan-scanner-acrylic-wifi-free/) - View real-time status of your Wi-Fi. Detects other networks, signal levels, channels.
   * [Internet Download Manager](https://www.internetdownloadmanager.com/) - Tool to increase download speeds by up to 5 times.
   * [4K Video Downloader](https://www.4kdownload.com/) - Allows downloading videos, playlists, channels and subtitles in high quality.
-  * [Google2SRT](https://sourceforge.net/projects/google2srt/) - Download, save and convert multiple subtitles from YouTube videos.
   * [uTorrent](https://www.utorrent.com/) - The best torrent downloading app for beginners. Play torrents while you download.
   * [Discord](https://discord.com/) - A new way to chat with your communities and friends. Voice, video, text, and more.
 
