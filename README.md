@@ -119,7 +119,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [Kelas](https://kelas.com/) - Belajar dari para mentor terbaik dibidangnya. Nikmati pengalaman belajar yang berbeda.
   * [Skill Academy](https://skillacademy.com/) - Tingkatkan technical & soft skill di berbagai bidang (by Ruangguru).
   * [IndonesiaX](https://www.indonesiax.co.id/) - Kursus dari universitas peringkat tertinggi di Indonesia dan perusahaan terbaik.
-  * [Coursera](https://www.coursera.org/) - Build skills with online courses from world-class universities and companies. ⭐
+  * [Coursera](https://www.coursera.org/) - <ins>Build skills with online courses from world-class universities and companies.</ins>
   * [Alison](https://alison.com/) - Free online education platform that mostly focuses on workplace-based skills.
   * [Udemy](https://www.udemy.com/) - Study any topic, anytime. Choose from thousands of expert-led courses now.
   * [Udacity](https://www.udacity.com/) - Advance your career with online courses in programming, data science, and more.
@@ -128,7 +128,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [Plural Sight](https://www.pluralsight.com/) - Gives you confidence you have the skills you need to execute your technology strategy.
   * [Treehouse](https://teamtreehouse.com/) - Learn to code, gain a new skill, get a new job. Whatever your goal — we'll get you there.
   * [Codecademy](https://www.codecademy.com/) - Learn the technical skills you need for the job you want. An online interactive platform.
-  * [Zero to Mastery](https://zerotomastery.io/) - Help you advance your career, get hired and succeed at some of the top companies. ⭐
+  * [Zero to Mastery](https://zerotomastery.io/) - <ins>Help you advance your career, get hired and succeed at some of the top companies.</ins>
   
 * Coupon Hunter
   * [Tutflix Coupon](https://tutflix.io/forums/udemy-coupon/) - A place where you can learn any course online.
@@ -141,14 +141,14 @@ Useful Websites : Jelajah Manfaat Internet
   * [Couponos](https://couponos.ooo/) - Get the latest Udemy coupon and BitDegree online courses.
   
 * Torrents & Leech
-  * [Torrentz2](https://torrentz2.is/) - Fast and powerful meta-search engine combining results of search engines. ⭐
+  * [Torrentz2](https://torrentz2.is/) - <ins>Fast and powerful meta-search engine combining results of search engines.</ins>
   * [TorrentFunk](https://www.torrentfunk.com/) - The fastest download search engine. Find the latest games, etc.
   * [Kickass](https://kickass.help/) - You can search for TV shows and TV series, movies, music and games.
   * [Torlock](https://www.torlock.com/) - A fast BitTorrent search engine that only lists verified torrents.
   * [1337x](https://www.1337x.tw/) - Brings you the latest games, movies, tv series, music and software for free.
   * [Unblockit](https://unblocked-pw.github.io/) - Unblock your favourite sites such as The Pirate Bay, Kickass torrents, Primewire, etc.
   * [PremixStore](https://premixstore.com/) - Penyedia jasa akun digital premium di indonesia dengan harga yang murah.
-  * [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) - Provide the most complete lists of premium link generators, torrent, etc. ⭐
+  * [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) - <ins>Provide the most complete lists of premium link generators, torrent, etc.</ins>
   * [LeechListing](https://www.leechlisting.com/) - Latest list of working free premium link generators in an innovative way.
   * [OnLeech](https://onleech.me/) - Free premium link generator service for uploaded, rapidgator, turbobit, nitroflare, etc. ➊
   * [LeechPremiumh](https://leechpremium.link/index.php) - Free premium link generator service for uploaded, rapidgator, turbobit, nitroflare, etc. ➋
@@ -156,8 +156,8 @@ Useful Websites : Jelajah Manfaat Internet
   * [CocoLeech](https://cocoleech.com/) - Free premium link generator service for uploaded, rapidgator, turbobit, nitroflare, etc. ➍
 
 * Downloadable : Resources
-  * [SoftArchive](https://sastatus.com/) - Unlimited Resource for Free Downloading Latest PDF eBooks and Video Tutorials. ⭐
-  * [DownTurk](https://www.downturk.net/) - Download fresh hidden object, game, software, movie, magazine, e-book, music. ⭐
+  * [SoftArchive](https://sastatus.com/) - <ins>Unlimited Resource for Free Downloading Latest PDF eBooks and Video Tutorials.</ins>
+  * [DownTurk](https://www.downturk.net/) - <ins>Download fresh hidden object, game, software, movie, magazine, e-book, music.</ins>
   * [DirtyWarez](https://forum.dirtywarez.com/) - Popular warez forum with films, TV shows, ebooks, anime, games, and more.
   * [Puzo](https://www.puzo.org/) - Because we like it free. The forums that provide tons of resources for download.
   * [FileCR](https://filecr.com/en/) - Free download software, apps, games, e-learning, e-books, scripts and much more.
@@ -166,9 +166,9 @@ Useful Websites : Jelajah Manfaat Internet
   * [OVA Games](https://www.ovagames.com/) - Free download pc game, codex, plaza, cpy, gog, elamigos, repack, etc.
 
 * Downloadable : Documents
-  * [Libgen](https://libgen.is/) - Search engine for articles and books on various topics which allows free access. ⭐
-  * [Z-Lib](https://z-lib.org/) - The world's largest ebook library, download books for free. Part of Z-Library project. ⭐
-  * [Mobilism](https://forum.mobilism.org/index.php) - Large forum of mobile apps and books. Romance, classic, etc. ⭐
+  * [Libgen](https://libgen.is/) - <ins>Search engine for articles and books on various topics which allows free access.</ins>
+  * [Z-Lib](https://z-lib.org/) - <ins>The world's largest ebook library, download books for free. Part of Z-Library project.</ins>
+  * [Mobilism](https://forum.mobilism.org/index.php) - <ins>Large forum of mobile apps and books. Romance, classic, etc.</ins>
   * [PDF Drive](https://www.pdfdrive.com/) - Search engine for PDF files. eBooks for you to download for free.
   * [BooksRack](https://booksrack.net/) - Free download e-books, magazine, available in PDF, ePub, Kindle and AudioBook formats.
   * [Lib-Ebooks](https://lib-ebooks.com/) - Provides Free PDF Books and more.. For all, In many different Subjects.
@@ -177,7 +177,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [All-Ebooks](http://all-ebooks.com/) - Ebooks for free. Library where you can download e-books and magazines for free.
   * [Twirpx](https://www.twirpx.com/) - Everything for the student. Languages and linguistics, Computer literature, Math, etc.
   * [Alleng](https://alleng.org/) - For ESL students. Download textbooks, dictionaries, manuals, audio, video etc.
-  * [Sci-Hub](https://sci-hub.tw/) - The first website in the world to provide mass & public access to research papers. ⭐
+  * [Sci-Hub](https://sci-hub.tw/) - <ins>The first website in the world to provide mass & public access to research papers.</ins>
   * [IEEE](https://www.ieee.org/) - The world's largest technical professional organization for the advancement of technology.
   * [DocSity](https://www.docsity.com/) - Access free study contents - study notes, essays, summaries and a lot more.
   * [Scribd](http://www.scribd.com/) - Enjoy an unlimited* number of books, audiobooks, magazines, and more.
@@ -186,11 +186,11 @@ Useful Websites : Jelajah Manfaat Internet
   * [Small Pocket Library]( https://www.smallpocketlibrary.com/) - Help students and teachers and anyone interested in science.
   
 * Downloadable : Courses
-  * [Tutflix.io](https://tutflix.io/) - Free education community. A place where you can learn any course online and discuss. ⭐
+  * [Tutflix.io](https://tutflix.io/) - <ins>Free education community. A place where you can learn any course online and discuss.</ins>
   * [Tutflix.com](https://tutflix.com/) - Free education community. A place where you can learn any course online and discuss.
   * [Downloadly.ir](https://downloadly.ir/) - Free software download. Education, courses, programming, software, etc. ➊
   * [Downloadly.net](https://downloadly.net/) - Free software download. Education, courses, programming, software, etc. ➋
-  * [Tut4dl](https://tut4dl.com/) - Get new video training, update tutorials for programing tutorials, mobile dev, etc. ⭐
+  * [Tut4dl](https://tut4dl.com/) - <ins>Get new video training, update tutorials for programing tutorials, mobile dev, etc.</ins>
   * [Ttorial](http://ttorial.com/) - Obtain & download the best online courses for free, from 100+ institutions.
   * [OneHack](https://onehack.us/) - Tutorials for free. A place where everyone can share knowledge with each other.
   * [FreeCourseLab](https://freecourselab.com/) - A great place to learn. Download Udemy courses for free.
@@ -200,13 +200,13 @@ Useful Websites : Jelajah Manfaat Internet
   * [FreeEducationWeb](https://freeeducationweb.com/) - We are sharing the knowledge for free of charge and help learners.
   
 * Downloadable : Movies
-  * [Yify](https://yts.mx/) - YTS was a peer-to-peer release group known for distributing large numbers of movies. ⭐
+  * [Yify](https://yts.mx/) - <ins>YTS was a peer-to-peer release group known for distributing large numbers of movies.</ins>
   * [Soap2Day](https://soap2day.ru/) - Watch latest movies and TV series online no ads, we daily update.
   * [KeBioskop21](http://103.194.171.185/) - Streaming film maupun tv series online gratis, subtitle Indonesia. ➊
   * [Rebahin Streaming](http://198.54.124.245/) - Streaming film maupun tv series online gratis, subtitle Indonesia. ➋
   * [Subscene](https://subscene.com/) - Free download and browse more movies, TV Series, tv shows subtitles.
   * [Google2SRT](https://sourceforge.net/projects/google2srt/) - Download, save and convert multiple subtitles from YouTube videos (Desktop).
-  * [pyTranscriber](https://github.com/raryelcostasouza/pyTranscriber) - Generate automatic subtitles for audio/video files (Desktop). ⭐
+  * [pyTranscriber](https://github.com/raryelcostasouza/pyTranscriber) - <ins>Generate automatic subtitles for audio/video files (Desktop).</ins>
   * [Subtitles Translator](https://subtitlestranslator.com/) - Translate multiple subtitle at the same time into 80 different languages.
   * [TubeOffline](https://www.tubeoffline.com/) - Free online downloader for any Twitter video. Best tool that actually works.
   * [YoutubeMultiDownloader](https://youtubemultidownloader.net/) - Free youtube downloader online. Download single link, playlist or channel.
