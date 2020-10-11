@@ -458,7 +458,7 @@ Designer 101 : Paket Komplit Designer
   * **Free (2)**
   * [Icons8 Vector Creator](https://icons8.com/vector-creator), [Stubborn Fun](https://stubborn.fun/), [ManyPixels](https://www.manypixels.co/gallery/), [UnDraw](https://undraw.co/illustrations), [IRA Design](https://iradesign.io/), [Open Doodles](https://www.opendoodles.com/), [Open Peeps](https://www.openpeeps.com/), [Humaaans](https://www.humaaans.com/), [Avataaars](https://avataaars.com/), [Bottts](https://bottts.com/), [Personas by Draftbit](https://personas.draftbit.com/), [Diversity Avatars](https://diversityavatars.com/)
   * **Partly-Free**
-  * [Blush](https://blush.design/collections), [Iconscout Illustrations](https://iconscout.com/illustrations), [Craftwork Illustrations](https://craftwork.design/downloads/category/illustrations/), [Black Illustrations](https://www.blackillustrations.com/), [ITG Digital](https://itg.digital/), [Control.Rocks](https://control.rocks/), [Drawer.Design](https://drawer.design/)
+  * [Blush](https://blush.design/collections), [Iconscout Illustrations](https://iconscout.com/illustrations), [Craftwork Illustrations](https://craftwork.design/downloads/category/illustrations/), [Black Illustrations](https://www.blackillustrations.com/), [ITG Digital](https://itg.digital/), [Control.Rocks](https://control.rocks/), [Drawer](https://drawer.design/)
 
 <hr>
 <div id="sec08"></div>
