@@ -95,8 +95,8 @@ Useful Websites : Jelajah Manfaat Internet
   * [Io-games.io](http://io-games.io/) - The best io games site in the world. A list of all new io games and most played games.
   
 * Useful Web Tools
-  * [Get Emoji](https://getemoji.com/) - Copy and paste emoji no apps required 😀 😃 😄 😁 😆 🍎 🍐 🍊 🍋 🍌.
-  * [Emojipedia](https://emojipedia.org/) - A fast emoji search experience with options to browse every emoji by name or category.
+  * [Get Emoji](https://getemoji.com/) - Copy and paste emoji no apps required 😀 😃 😄 😁 😆 🍎 🍐 🍊 🍋 🍌. ➊
+  * [Emojipedia](https://emojipedia.org/) - A fast emoji search experience with options to browse every emoji by name or category. ➋
   * [Cool Symbol](https://coolsymbol.com/) - A symbol & picture text collection that provides access to many special fancy text symbols.
   * [LingoJam](https://lingojam.com/) - LingoJam lets you create an online translator (biasanya untuk style text generator).
   * [Text Fixer](https://www.textfixer.com/) - A Helpful collection of free online tools for web coding and text conversion.
@@ -458,7 +458,7 @@ Designer 101 : Paket Komplit Designer
   * **Icons B**
   * [Icons8 Line Awesome](https://icons8.com/line-awesome), [Material Icon Design](https://material.io/resources/icons/), [Polaris Icons](https://polaris-icons.shopify.com/), [Remix Icon](https://remixicon.com/), [Boxicons](https://boxicons.com/), [Simpaticons](http://www.simpaticons.com/), [Ionicons](https://ionicons.com/), [CSS.gg](https://css.gg/), [JAM Icons](https://jam-icons.com/), [Tilda Icons](https://tilda.cc/free-icons/), [Iconoir](https://iconoir.com/), [Zwicon](https://www.zwicon.com/), [Evericons](http://www.evericons.com/), [Entypo](entypo.com), [Octicons](https://primer.style/octicons/), [Materize Icons](https://www.alessioatzeni.com/wp-content/cache/page_enhanced/www.alessioatzeni.com/metrize-icons/_index.html_gzip), [Dripicons](http://demo.amitjakhu.com/dripicons/), [Heroicons](https://heroicons.dev/), [Feather Icons](https://feathericons.com/), [Eva Icons](https://akveo.github.io/eva-icons/), [Ikonate](https://ikonate.com/), [IconSVG](https://iconsvg.xyz/), [Hawcons](http://hawcons.com/)
   * **Icons C (Brand)**
-  * [World Vector Logo](https://worldvectorlogo.com/), [Simple Icons](https://simpleicons.org/), [Fontisto](https://www.fontisto.com/icons), [BrandEps](https://www.brandeps.com/), [Logos Vector](https://logosvector.net/brand-vector-logos), [Brand of the World](https://www.brandsoftheworld.com/), [SeekLogo](https://seeklogo.com/free-vector-logos/brand), [BONUS: Iconify](https://iconify.design/icon-sets/)
+  * [World Vector Logo](https://worldvectorlogo.com/), [Simple Icons](https://simpleicons.org/), [Fontisto](https://www.fontisto.com/icons), [BrandEps](https://www.brandeps.com/), [Logos Vector](https://logosvector.net/brand-vector-logos), [Brand of the World](https://www.brandsoftheworld.com/), [SeekLogo](https://seeklogo.com/free-vector-logos/brand), [Iconify](https://iconify.design/icon-sets/)
   * **Illustrations A**
   * [Icons8 Ouch](https://icons8.com/illustrations), [Freepik Stories](https://www.freepik.com/stories), [UI8 Freebies](https://ui8.net/category/freebies), [DrawKit](https://www.drawkit.io/), [Smash Illustrations](https://usesmash.com/), [Delesign Illustrations](https://www.delesign.com/free-designs/graphics), [404 Illustrations](https://error404.fun/), [Mixkit Art](https://mixkit.co/free-stock-art/), [Karthik Srinivas](https://www.karthiksrinivas.in/illustrations), [Lukasz Adam](https://lukaszadam.com/illustrations), [Illustrations.co](https://illlustrations.co/), [Isometric Love](https://www.isometriclove.com/), [Absurd Design](https://absurd.design/)
   * **Illustrations B**
