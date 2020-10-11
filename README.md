@@ -473,7 +473,6 @@ Developer 101 : Paket Komplit Developer
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
 * Top Curated List for Developer
-  * ON PROGRESS
   * [Developer Roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps, mostly about software development.
   * [Free for Developer](https://github.com/ripienaar/free-for-dev) - A curated list of Developer resources. Free for Developer.
   * Web Dev Full-Stack [(1)](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) [(2)](https://www.newline.co/) [(3)](https://www.newline.co/30-days-of-webdev) [(4)](https://www.duniailkom.com/) [(5)](https://buku-laravel-vue.com/) [(6)](https://bukureact.id/) [(7)](https://daveceddia.com/) [(8)](https://www.w3docs.com/) [(9)](https://www.w3schools.com/) - Full-Stack complete resources.
