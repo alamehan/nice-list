@@ -452,12 +452,15 @@ Designer 101 : Paket Komplit Designer
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
-* Illustration
-  * **Free (1)**
+* Icons & Illustrations
+  * **Icons**
+  * []()
+  * []()
+  * **Illustrations A (Free)**
   * [Icons8 Ouch](https://icons8.com/illustrations), [Freepik Stories](https://www.freepik.com/stories), [UI8 Freebies](https://ui8.net/category/freebies), [DrawKit](https://www.drawkit.io/), [Smash Illustrations](https://usesmash.com/), [Delesign Illustrations](https://www.delesign.com/free-designs/graphics), [404 Illustrations](https://error404.fun/), [Mixkit Art](https://mixkit.co/free-stock-art/), [Karthik Srinivas](https://www.karthiksrinivas.in/illustrations), [Lukasz Adam](https://lukaszadam.com/illustrations), [Illustrations.co](https://illlustrations.co/), [Isometric Love](https://www.isometriclove.com/), [Absurd Design](https://absurd.design/)
-  * **Free (2)**
+  * **Illustrations B (Free)**
   * [Icons8 Vector Creator](https://icons8.com/vector-creator), [Stubborn Fun](https://stubborn.fun/), [ManyPixels](https://www.manypixels.co/gallery/), [UnDraw](https://undraw.co/illustrations), [IRA Design](https://iradesign.io/), [Open Doodles](https://www.opendoodles.com/), [Open Peeps](https://www.openpeeps.com/), [Humaaans](https://www.humaaans.com/), [Avataaars](https://avataaars.com/), [Bottts](https://bottts.com/), [Personas by Draftbit](https://personas.draftbit.com/), [Diversity Avatars](https://diversityavatars.com/)
-  * **Partly-Free**
+  * **Illustrations C (Partly-Free)**
   * [Blush](https://blush.design/collections), [Iconscout Illustrations](https://iconscout.com/illustrations), [Craftwork Illustrations](https://craftwork.design/downloads/category/illustrations/), [Black Illustrations](https://www.blackillustrations.com/), [ITG Digital](https://itg.digital/), [Control.Rocks](https://control.rocks/), [Drawer](https://drawer.design/)
 
 <hr>
