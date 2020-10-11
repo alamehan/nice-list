@@ -453,7 +453,9 @@ Designer 101 : Paket Komplit Designer
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
 * Icon (Example)
-  * [Flaticon](https://flaticon.com/), [Fontawesome](https://fontawesome.com/), [Icons8](https://icons8.com/), [Flaticon](https://flaticon.com/), [Fontawesome](https://fontawesome.com/), [Icons8](https://icons8.com/), [Flaticon](https://flaticon.com/), [Fontawesome](https://fontawesome.com/), [Icons8](https://icons8.com/), [Flaticon](https://flaticon.com/), [Fontawesome](https://fontawesome.com/), [Icons8](https://icons8.com/)
+  * [Flaticon](https://flaticon.com/), [Fontawesome](https://fontawesome.com/), [Icons8](https://icons8.com/), [Flaticon](https://flaticon.com/), [Fontawesome](https://fontawesome.com/), [Icons8](https://icons8.com/), [Flaticon](https://flaticon.com/), [Fontawesome](https://fontawesome.com/), [Icons8](https://icons8.com/), [Flaticon](https://flaticon.com/), [Fontawesome](https://fontawesome.com/), [Icons8](https://icons8.com/), [Icons8](https://icons8.com/), [Flaticon](https://flaticon.com/), [Fontawesome](https://fontawesome.com/), [Icons8](https://icons8.com/)
+* Icon (Example)
+  * [Flaticon](https://flaticon.com/), [Fontawesome](https://fontawesome.com/), [Icons8](https://icons8.com/), [Flaticon](https://flaticon.com/), [Fontawesome](https://fontawesome.com/), [Icons8](https://icons8.com/), [Flaticon](https://flaticon.com/), [Fontawesome](https://fontawesome.com/), [Icons8](https://icons8.com/), [Flaticon](https://flaticon.com/), [Fontawesome](https://fontawesome.com/), [Icons8](https://icons8.com/), [Icons8](https://icons8.com/), [Flaticon](https://flaticon.com/), [Fontawesome](https://fontawesome.com/), [Icons8](https://icons8.com/)
 
 <hr>
 <div id="sec08"></div>
