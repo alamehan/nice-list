@@ -452,7 +452,8 @@ Designer 101 : Paket Komplit Designer
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
-_(Upcoming!)_
+* Icon (Example)
+  * [Flaticon](https://flaticon.com/), [Fontawesome](https://fontawesome.com/), [Icons8](https://icons8.com/), [Flaticon](https://flaticon.com/), [Fontawesome](https://fontawesome.com/), [Icons8](https://icons8.com/), [Flaticon](https://flaticon.com/), [Fontawesome](https://fontawesome.com/), [Icons8](https://icons8.com/), [Flaticon](https://flaticon.com/), [Fontawesome](https://fontawesome.com/), [Icons8](https://icons8.com/)
 
 <hr>
 <div id="sec08"></div>
@@ -789,7 +790,7 @@ _**Terakhir Update** : 10/07/2020_
 <div id="sec11"></div>
 
 💎 
-Educational Instagram Accounts : Instragram Sumber Belajar
+Educational Instagram Accounts : Sumber Belajar di Instragram
 ---
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
