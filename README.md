@@ -453,14 +453,17 @@ Designer 101 : Paket Komplit Designer
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
 * Icons & Illustrations
-  * **Icons**
-  * []()
-  * []()
-  * **Illustrations A (Free)**
+  * **Icons A**
+  * [Iconfinder](https://www.iconfinder.com/), [Flaticon](https://www.flaticon.com/), [Noun Project](https://thenounproject.com/), [Iconscout](https://iconscout.com/icons), [VisualPharm](https://visualpharm.com/), [Icons8](https://icons8.com/icons), [toIcon](https://www.toicon.com/), [Iconstore](https://iconstore.co/), [IconBros](https://www.iconbros.com/), [Streamline Icons](https://streamlineicons.com/), [Orion Icon Library](https://orioniconlibrary.com/all-icons), [Iconmonstr](https://iconmonstr.com/), [Icon-Icons](https://icon-icons.com/), [Unicons](https://iconscout.com/unicons), [IcoFont](https://icofont.com/), [LineIcons](https://lineicons.com/), [Font Awesome](https://fontawesome.com/), [Shape.so](https://shape.so/)
+  * **Icons B**
+  * [Icons8 Line Awesome](https://icons8.com/line-awesome), [Material Icon Design](https://material.io/resources/icons/), [Polaris Icons](https://polaris-icons.shopify.com/), [Remix Icon](https://remixicon.com/), [Boxicons](https://boxicons.com/), [Simpaticons](http://www.simpaticons.com/), [Ionicons](https://ionicons.com/), [CSS.gg](https://css.gg/), [JAM Icons](https://jam-icons.com/), [Tilda Icons](https://tilda.cc/free-icons/), [Iconoir](https://iconoir.com/), [Zwicon](https://www.zwicon.com/), [Evericons](http://www.evericons.com/), [Entypo](entypo.com), [Octicons](https://primer.style/octicons/), [Materize Icons](https://www.alessioatzeni.com/wp-content/cache/page_enhanced/www.alessioatzeni.com/metrize-icons/_index.html_gzip), [Dripicons](http://demo.amitjakhu.com/dripicons/), [Heroicons](https://heroicons.dev/), [Feather Icons](https://feathericons.com/), [Eva Icons](https://akveo.github.io/eva-icons/), [Ikonate](https://ikonate.com/), [IconSVG](https://iconsvg.xyz/), [Hawcons](http://hawcons.com/)
+  * **Icons C (Brand)**
+  * [World Vector Logo](https://worldvectorlogo.com/), [Simple Icons](https://simpleicons.org/), [Fontisto](https://www.fontisto.com/icons), [BrandEps](https://www.brandeps.com/), [Logos Vector](https://logosvector.net/brand-vector-logos), [Brand of the World](https://www.brandsoftheworld.com/), [SeekLogo](https://seeklogo.com/free-vector-logos/brand), [BONUS: Iconify](https://iconify.design/icon-sets/)
+  * **Illustrations A**
   * [Icons8 Ouch](https://icons8.com/illustrations), [Freepik Stories](https://www.freepik.com/stories), [UI8 Freebies](https://ui8.net/category/freebies), [DrawKit](https://www.drawkit.io/), [Smash Illustrations](https://usesmash.com/), [Delesign Illustrations](https://www.delesign.com/free-designs/graphics), [404 Illustrations](https://error404.fun/), [Mixkit Art](https://mixkit.co/free-stock-art/), [Karthik Srinivas](https://www.karthiksrinivas.in/illustrations), [Lukasz Adam](https://lukaszadam.com/illustrations), [Illustrations.co](https://illlustrations.co/), [Isometric Love](https://www.isometriclove.com/), [Absurd Design](https://absurd.design/)
-  * **Illustrations B (Free)**
+  * **Illustrations B**
   * [Icons8 Vector Creator](https://icons8.com/vector-creator), [Stubborn Fun](https://stubborn.fun/), [ManyPixels](https://www.manypixels.co/gallery/), [UnDraw](https://undraw.co/illustrations), [IRA Design](https://iradesign.io/), [Open Doodles](https://www.opendoodles.com/), [Open Peeps](https://www.openpeeps.com/), [Humaaans](https://www.humaaans.com/), [Avataaars](https://avataaars.com/), [Bottts](https://bottts.com/), [Personas by Draftbit](https://personas.draftbit.com/), [Diversity Avatars](https://diversityavatars.com/)
-  * **Illustrations C (Partly-Free)**
+  * **Illustrations C (Premium)**
   * [Blush](https://blush.design/collections), [Iconscout Illustrations](https://iconscout.com/illustrations), [Craftwork Illustrations](https://craftwork.design/downloads/category/illustrations/), [Black Illustrations](https://www.blackillustrations.com/), [ITG Digital](https://itg.digital/), [Control.Rocks](https://control.rocks/), [Drawer](https://drawer.design/)
 
 <hr>
