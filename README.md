@@ -1,6 +1,6 @@
 <img src="images/img-cover.png">
 
-⚠️ <ins>**UPDATE**: NiceList</u> dalam bentuk tabel dan tanpa deskripsi (lebih compact dan praktis) bisa diakses di: [NiceListLite](https://github.com/alamehan/nice-list-lite)</ins>
+⚠️ **UPDATE**: <ins>NiceList dalam bentuk tabel dan tanpa deskripsi (lebih compact dan praktis) bisa diakses di:</ins> [NiceListLite](https://github.com/alamehan/nice-list-lite)
 
 ## NiceList
 - Navigasi beragam website dan produk digital yang berkualitas, terseleksi dan dapat diandalkan<br>
