@@ -988,7 +988,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * **Tive-Saving Apps**
   * [Autosofted](https://www.autosofted.com/) - Automated keyboard pressers/typers/mouse clickers & useful programs for organizing files.
   * [1Clipboard](http://1clipboard.io/) - A universal clipboard managing app that makes it easy to access your clipboard from anywhere.
-  * [GrepWin](https://tools.stefankueng.com/grepWin.html) - A simple search and replace tool which can use regular expressions to do its job.
+  * [GrepWin](https://tools.stefankueng.com/grepWin.html) - **Search text specified in a folder containing many documents, even sub-folders**
   * [WinMerge](https://winmerge.org/) - Compare both folders and files, presenting differences in a visual text format. Easy to handle.
   * [Phrase Express](https://www.phraseexpress.com/) - Helps you to speed up your typing tasks in any editor by saving lots of keystrokes.
   * [Free Commander](https://freecommander.com/en/summary/) - An alternative to the standard windows file manager - for your daily work in Windows.
