@@ -454,6 +454,8 @@ Designer 101 : Paket Komplit Designer
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
+⚠️ **INFO**: <ins>Semua update Designer 101 pindah ke:</ins> [RightTr4ck](https://alamehan.github.io/road/)
+
 * Top Curated List for Designer
   * **General** : [Design Notes](https://www.designnotes.co/), [Design Resources](https://www.designresourc.es/), [ZerotoMastery Design Resources](https://mega.nz/file/EJkwSSDD#dGMZXWSWLxV9uMoyb4tHTnp4rpQKFJkIBSDpvYkIDeA), [Bradtraversy Design Resources](https://github.com/bradtraversy/design-resources-for-developers), [Alirezas: Design Resources](https://github.com/alirezas/design-resources), [Gschema: UX Design](https://github.com/gschema/awesome-ux), [Tipoqueno: UI Design](https://github.com/tipoqueno/UI-Design), [Teybannerman: UX & UI Design Resource](https://gist.github.com/teybannerman/9c234424eb1d940a8505), [Design Systems Repo](https://designsystemsrepo.com/), [Kalypso Designs](https://www.instagram.com/kalypsodesigns/)
   * **Awesome** : [Design](https://github.com/gztchan/awesome-design), [Product Design](https://github.com/teoga/awesome-product-design), [Design Tools](https://github.com/goabstract/Awesome-Design-Tools), [Web Design](https://github.com/nicolesaidy/awesome-web-design), [Design Systems](https://github.com/alexpate/awesome-design-systems), [UX](https://github.com/netoguimaraes/awesome-ux), [UX Design Guidelines](https://github.com/anubhavsrivastava/awesome-ux-design-styles), [UI](https://github.com/kevindeasis/awesome-ui), [Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui), [iOS UI/UX Libraries](https://github.com/cjwirth/awesome-ios-ui)
@@ -473,6 +475,8 @@ Developer 101 : Paket Komplit Developer
 ---
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
+
+⚠️ **INFO**: <ins>Semua update Developer 101 pindah ke:</ins> [RightTr4ck](https://alamehan.github.io/road/)
 
 * Top Curated List for Developer
   * [Developer Roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps, mostly about software development.
