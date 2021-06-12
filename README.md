@@ -32,7 +32,7 @@ Topik yang tersedia di NiceList ini memang tidak banyak dan cenderung lebih ke t
 	<a href="#sec09">9. Top Figma Plugins (130)</a>&nbsp;<br>
 	<a href="#sec10">10. Top Visual Studio Code Extensions (33)</a>&nbsp;<br>
 	<a href="#sec11">11. Educational Instagram Accounts (460)</a>&nbsp;<br>
-	<a href="#sec12">12. Windows Software Bundles (155)</a>&nbsp;<br>
+	<a href="#sec12">12. Windows Software Bundles (161)</a>&nbsp;<br>
 </p>
 
 <img src="images/img-letsgo.png">
