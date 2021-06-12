@@ -1,5 +1,7 @@
 <img src="images/img-cover.png">
 
+⚠️ **INFO**: <ins>NiceList dalam bentuk tabel (lebih compact dan praktis) bisa diakses di:</ins> [NiceListLite](https://github.com/alamehan/nice-list-lite)
+
 ## NiceList
 - Navigasi beragam website dan produk digital yang berkualitas, terseleksi dan dapat diandalkan<br>
 - Merupakan salah satu personal project dari [alamehan.github.io](https://alamehan.github.io/) yang berfokus pada _curated list_
@@ -452,6 +454,8 @@ Designer 101 : Paket Komplit Designer
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
+⚠️ **INFO**: <ins>Semua update Designer 101 pindah ke:</ins> [RightTr4ck](https://alamehan.github.io/road/)
+
 * Top Curated List for Designer
   * **General** : [Design Notes](https://www.designnotes.co/), [Design Resources](https://www.designresourc.es/), [ZerotoMastery Design Resources](https://mega.nz/file/EJkwSSDD#dGMZXWSWLxV9uMoyb4tHTnp4rpQKFJkIBSDpvYkIDeA), [Bradtraversy Design Resources](https://github.com/bradtraversy/design-resources-for-developers), [Alirezas: Design Resources](https://github.com/alirezas/design-resources), [Gschema: UX Design](https://github.com/gschema/awesome-ux), [Tipoqueno: UI Design](https://github.com/tipoqueno/UI-Design), [Teybannerman: UX & UI Design Resource](https://gist.github.com/teybannerman/9c234424eb1d940a8505), [Design Systems Repo](https://designsystemsrepo.com/), [Kalypso Designs](https://www.instagram.com/kalypsodesigns/)
   * **Awesome** : [Design](https://github.com/gztchan/awesome-design), [Product Design](https://github.com/teoga/awesome-product-design), [Design Tools](https://github.com/goabstract/Awesome-Design-Tools), [Web Design](https://github.com/nicolesaidy/awesome-web-design), [Design Systems](https://github.com/alexpate/awesome-design-systems), [UX](https://github.com/netoguimaraes/awesome-ux), [UX Design Guidelines](https://github.com/anubhavsrivastava/awesome-ux-design-styles), [UI](https://github.com/kevindeasis/awesome-ui), [Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui), [iOS UI/UX Libraries](https://github.com/cjwirth/awesome-ios-ui)
@@ -471,6 +475,8 @@ Developer 101 : Paket Komplit Developer
 ---
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
+
+⚠️ **INFO**: <ins>Semua update Developer 101 pindah ke:</ins> [RightTr4ck](https://alamehan.github.io/road/)
 
 * Top Curated List for Developer
   * [Developer Roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps, mostly about software development.
@@ -993,7 +999,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * **Tive-Saving Apps**
   * [Autosofted](https://www.autosofted.com/) - Automated keyboard pressers/typers/mouse clickers & useful programs for organizing files.
   * [1Clipboard](http://1clipboard.io/) - A universal clipboard managing app that makes it easy to access your clipboard from anywhere.
-  * [GrepWin](https://tools.stefankueng.com/grepWin.html) - A simple search and replace tool which can use regular expressions to do its job.
+  * [GrepWin](https://tools.stefankueng.com/grepWin.html) - **Search (and Replace) specific text in a folder containing many documents, even sub-folders.**
   * [WinMerge](https://winmerge.org/) - Compare both folders and files, presenting differences in a visual text format. Easy to handle.
   * [Phrase Express](https://www.phraseexpress.com/) - Helps you to speed up your typing tasks in any editor by saving lots of keystrokes.
   * [Free Commander](https://freecommander.com/en/summary/) - An alternative to the standard windows file manager - for your daily work in Windows.
