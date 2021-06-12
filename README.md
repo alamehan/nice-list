@@ -866,7 +866,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Austlogics Boostpeed](https://www.auslogics.com/) - A complete checkup of your system locating junk files and speed-reducing issues.
   * [Wise Care 365](https://www.wisecleaner.com/wise-care-365.html) - All-in-one system tune up tool. Speed up slow computer. Clean registry and junk files.
   * [CCleaner](https://www.ccleaner.com/) - The No.1 Tool For Cleaning Your PC. Automatic cleaning. Reduce PC startup time.
-  * [Razer Cortex](https://www.razer.com/cortex) - Get better, faster, smoother performance from your PC (RAM Cleaner).
+  * [Razer Cortex](https://www.razer.com/cortex) - Get better, faster, smoother performance from your PC **(RAM Cleaner)**.
   
 * Document & Office Tools
   * [Microsoft Office](https://www.office.com/) - Your place to create, communicate, collaborate, and get great work done.
