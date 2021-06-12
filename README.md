@@ -1027,6 +1027,5 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Event Log Ex](https://eventlogxp.com/) - A software solution for viewing, analyzing and monitoring events recorded in event logs.
   * [HJSplit](http://www.hjsplit.org/) - Tool to split and recombine files as large as 100+ gigabytes - split, join, compare, and checksum.
   * [Cheat Engine](https://www.cheatengine.org/) - Memory scanner/hex editor/debugger. Mostly used for cheating in computer games.
-  * [Razer Cortex](https://www.cheatengine.org/) - Brings enhanced gaming performance, and the ability to discover the best gaming deals.
   * [Rainmeter](https://www.rainmeter.net/) - Most popular desktop customization software for Windows - customizable desktop skins.
   * [Snap2HTML](https://www.rlvision.com/snap2html/) - Takes a "snapshot" of folder structures on your harddrive and saves as HTML files.
