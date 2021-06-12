@@ -829,7 +829,9 @@ Windows Software Bundles : Paket Komplit Aplikasi
  
 * First-Install
   * [Clover 3](http://en.ejie.me/) - Add multi-tab functionality W.Explorer similar to Chrome browser.
+  * [Listary](https://www.listary.com/) - Search utility for Windows that makes finding your files blazing fast.
   * [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly. Everything.
+  * [DeskPins](https://efotinis.neocities.org/deskpins/) - Make any app topmost, that is, to keep it above all other windows.
   * [TeraCopy](https://www.codesector.com/teracopy) - A free utility designed to copy files faster and more secure.
   * [Speecy](https://www.ccleaner.com/speccy) - Fast, lightweight, advanced system information tool for your PC.
   * [SHAREit](https://shareit.one/pc/) - Allows you to share all kind of files from one device to another.
@@ -853,6 +855,8 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Acrylic Wi-Fi](https://www.acrylicwifi.com/en/wlan-wifi-wireless-network-software-tools/wlan-scanner-acrylic-wifi-free/) - View real-time status of your Wi-Fi. Detects other networks, signal levels, channels.
   * [Internet Download Manager](https://www.internetdownloadmanager.com/) - Tool to increase download speeds by up to 5 times.
   * [4K Video Downloader](https://www.4kdownload.com/) - Allows downloading videos, playlists, channels and subtitles in high quality.
+  * [By Click Downloader](https://www.byclickdownloader.com/) - YouTube, Dailymotion, Vimeo, Facebook and +40 sites in HD, MP3, MP4, AVI and other.
+  * [MiniTool uTube Downloader](https://youtubedownload.minitool.com/) - Free download YouTube videos & audio, convert and record PC screen.
   * [uTorrent](https://www.utorrent.com/) - The best torrent downloading app for beginners. Play torrents while you download.
   * [Discord](https://discord.com/) - A new way to chat with your communities and friends. Voice, video, text, and more.
 
@@ -862,6 +866,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Austlogics Boostpeed](https://www.auslogics.com/) - A complete checkup of your system locating junk files and speed-reducing issues.
   * [Wise Care 365](https://www.wisecleaner.com/wise-care-365.html) - All-in-one system tune up tool. Speed up slow computer. Clean registry and junk files.
   * [CCleaner](https://www.ccleaner.com/) - The No.1 Tool For Cleaning Your PC. Automatic cleaning. Reduce PC startup time.
+  * [Razer Cortex](https://www.razer.com/cortex) - Get better, faster, smoother performance from your PC (RAM Cleaner).
   
 * Document & Office Tools
   * [Microsoft Office](https://www.office.com/) - Your place to create, communicate, collaborate, and get great work done.
@@ -890,6 +895,8 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [HandBrake](https://handbrake.fr/) - Tool for converting video from nearly any format to a selection of modern.
   * [Audacity](https://www.audacityteam.org/) - Audacity is an easy-to-use, multi-track audio editor and recorder.
   * [Subtitle Edit](https://www.nikse.dk/subtitleedit) - A free (open source) editor for video subtitles - a subtitle editor.
+  * [Bandicam Screen Recorder](https://www.bandicam.com/downloads/) - Screen recorder that enables you to capture any area of your screen.
+  * [Icecream Screen Recorder](https://icecreamapps.com/Screen-Recorder/) - Record apps and games, video tutorials, live streams and much more.
 
 * Designer Tools
   * [Adobe Creative Suite](https://www.adobe.com/creativecloud.html) - 20+ most popular Adobe apps. Watch all 50+ Adobe apps explained in [Youtube](https://www.youtube.com/watch?v=7W0ISI3yqwo).
