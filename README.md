@@ -158,7 +158,8 @@ Useful Websites : Jelajah Manfaat Internet
   * [CocoLeech](https://cocoleech.com/) - Free premium link generator service for uploaded, rapidgator, turbobit, nitroflare, etc. ➍
 
 * Downloadable : Resources
-  * [SoftArchive](https://sastatus.com/) - <ins>Unlimited Resource for Free Downloading Latest PDF eBooks and Video Tutorials.</ins>
+  * [SoftArchive (Sanet)](https://sastatus.com/) - <ins>Unlimited Resource for Free Downloading Latest PDF eBooks and Video Tutorials.</ins>
+  * [ShareAppsCrack](https://shareappscrack.com/) - <ins>A blog to sharing software, applications, course and game. For everyone.</ins>
   * [DownTurk](https://www.downturk.net/) - <ins>Download fresh hidden object, game, software, movie, magazine, e-book, music.</ins>
   * [DirtyWarez](https://forum.dirtywarez.com/) - Popular warez forum with films, TV shows, ebooks, anime, games, and more.
   * [Puzo](https://www.puzo.org/) - Because we like it free. The forums that provide tons of resources for download.
