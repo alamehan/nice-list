@@ -885,6 +885,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Scribus](https://www.scribus.net/) - Free desktop publishing (DTP) software available for most desktop operating systems.
   * [PUB HTML5](https://www.scribus.net/) - Publish interactive magazines or catalogs Online. Create beautiful flipping book in HTML5.
   * [Edraw Max](https://www.edrawsoft.com/edraw-max/) - Creating flow chart, mind map, org charts, network diagrams and floor plans with templates.
+  * [Edraw MindMaster](https://www.edrawsoft.com/mindmaster/) - A versatile, user-friendly, and professional mind mapping tool. For everyone.
   * [SmartDraw](https://www.smartdraw.com/) - The smartest way to draw any type of chart, diagram, charts, network diagrams, and more.
   * [XMind](https://www.xmind.net/) - The most professional and popular mind mapping tool, to capture ideas, clarify thinking, etc.
   * [Draw.io](https://www.draw.io/) - A free diagram software for making flowcharts, process diagrams, org charts, UML, ER, etc.
