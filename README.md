@@ -22,16 +22,16 @@ Topik yang tersedia di NiceList ini memang tidak banyak dan cenderung lebih ke t
 ## Daftar Isi (Section) :
 
 <p align="left">
-	<a href="#sec01">1. Find a Job (32)</a>&nbsp;<br>
+	<a href="#sec01"><s>1. Find a Job (32)</s></a>&nbsp;<br>
 	<a href="#sec02">2. Useful Websites (85)</a>&nbsp;<br>
 	<a href="#sec03">3. Internet Library (27)</a>&nbsp;<br>
-	<a href="#sec04">4. Wikipedia Uncover (...)</a>&nbsp;<br>
+	<a href="#sec04"><s>4. Wikipedia Uncover (...)</s></a>&nbsp;<br>
 	<a href="#sec05">5. Self Improvement (78)</a>&nbsp;<br>
-	<a href="#sec06">6. Top Chrome Extensions (71)</a>&nbsp;<br>
+	<a href="#sec06"><s>6. Top Chrome Extensions (71)</s></a>&nbsp;<br>
 	<a href="#sec07">7. Designer 101 (...)</a>&nbsp;<br>
-	<a href="#sec08">8. Developer 101 (77)</a>&nbsp;<br>
+	<a href="#sec08"><s>8. Developer 101 (77)</s></a>&nbsp;<br>
 	<a href="#sec09">9. Top Figma Plugins (130)</a>&nbsp;<br>
-	<a href="#sec10">10. Top Visual Studio Code Extensions (33)</a>&nbsp;<br>
+	<a href="#sec10"><s>10. Top Visual Studio Code Extensions (33)</s></a>&nbsp;<br>
 	<a href="#sec11">11. Educational Instagram Accounts (460)</a>&nbsp;<br>
 	<a href="#sec12">12. Windows Software Bundles (161)</a>&nbsp;<br>
 </p>
