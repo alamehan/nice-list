@@ -7,7 +7,7 @@
 - Navigasi beragam website dan produk digital yang berkualitas, terseleksi dan dapat diandalkan<br>
 - Merupakan salah satu personal project dari [alamehan.github.io](https://alamehan.github.io/) yang berfokus pada _curated list_
 
-## Motivasi 
+## Motivasi
 
 Dari tak terhitungnya jumlah konten di internet, terdapat konten "harta karun" yang tersembunyi. Harta karun ini tidak mudah ditemukan, diperlukan sebuah _keyword_ yang tepat pada mesin pencari untuk mendapatkannya. Harta karun yang dimaksud ini berupa website maupun produk digital yang berkualitas, terseleksi dan dapat diandalkan. Dengan harta karun ini, hidup anda akan jauh lebih mudah, anda akan mendapatkan banyak sekali manfaat nyata dari internet, mulai dari informasi yang berbobot dan gak setengah-setengah hingga produk digital gratisan yang dapat membantu anda dalam mengerjakan pekerjaan sehari-hari. Kabar baiknya, anda gak perlu menghabiskan waktu untuk mencarinya kesana-kemari, karena saya akan memberikan semua harta karun yang berhasil saya kumpulkan dalam **NiceList** ini.
 
@@ -40,24 +40,24 @@ Topik yang tersedia di NiceList ini memang tidak banyak dan cenderung lebih ke t
 
 <div id="sec01"></div>
 
-💼 
+💼
 Find a Job : Mudah Mencari Kerja
 ---
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
 * **General** : [LinkedIn](https://www.linkedin.com/), [Qerja](https://www.qerja.com/), [Glints](https://glints.com/id), [Glassdoor](https://www.glassdoor.com/index.htm), [Urbanhire](https://www.urbanhire.com/), [Careerjet](https://www.careerjet.co.id/), [Indeed](https://id.indeed.com/), [TheMuse](https://www.themuse.com/), [JobStreet](https://www.jobstreet.co.id/), [Jora](https://www.jora.com/), [JobFinder](http://www.jobfinder.co.id/)
-  
+
 * **Developer** : [Tech in Asia](https://www.techinasia.com/jobs/search), [Dicoding](https://www.dicoding.com/jobs/list), [Ekrut](https://careers.ekrut.com/), [SIMONAS (Sistem Informasi Monitoring Alumni Sertifikasi ) Kominfo](https://simonas.kominfo.go.id/)
-  
+
 * **Startup Career** : [Tokopedia](https://www.tokopedia.com/careers/jobs/), [Bukalapak](https://careers.bukalapak.com/browse/Engineering), [Shopee](https://careers.shopee.co.id/jobs/), [Blibli](https://www.blibli.com/page/karir/), [Gojek](https://career.go-jek.com/job/), [Traveloka](https://www.traveloka.com/en/careers), [Pegipegi](https://www.pegipegi.com/team/career.html), [Dana](https://www.dana.id/karir), [KitaBisa](https://kitabisa.urbanhire.com/), [Ruangguru](https://career.ruangguru.com)
-  
+
 * **Freelancer & Project** : [Freelancer](https://www.freelancer.co.id/search/projects/), [Sribu](https://www.sribu.com/id/contests), [Sribulancer](https://www.sribulancer.com/id/bj/loker/v3), [Projects](https://projects.co.id/public/browse_projects/listing), [Fastwork](https://fastwork.id/start-selling), [99designs](https://99designs.com/contests), [DesignCrowd](https://jobs.designcrowd.com/jobs/)
 
 <hr>
 <div id="sec02"></div>
 
-🌐 
+🌐
 Useful Websites : Jelajah Manfaat Internet
 ---
 
@@ -87,7 +87,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [Vice](https://www.vice.com/) - The definitive guide to enlightening information from every corner of the planet.
   * [Snopes](https://www.snopes.com/) - The definitive fact-checking site and reference source for misinformation.
   * [Reddit](https://www.reddit.com/) - Home to thousands of communities, endless conversation, and human connection.
-    
+
 * Useful Web Apps
   * [Pdf.io](https://pdf.io/) - Free set of online tools for handling PDF files. Convert and edit your PDF files.
   * [Convert.io](https://convertio.co/) - Convert your files to any format. 300+ formats supported. Fast and easy.
@@ -96,7 +96,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [Draw.io](https://www.draw.io/) - A free diagram software for making flowcharts, process diagrams, org charts, UML, ER, etc.
   * [Mindmeister](https://www.mindmeister.com/) - An online mind mapping tool that lets you capture, develop and share ideas visually.
   * [Io-games.io](http://io-games.io/) - The best io games site in the world. A list of all new io games and most played games.
-  
+
 * Useful Web Tools
   * [Get Emoji](https://getemoji.com/) - Copy and paste emoji no apps required 😀 😃 😄 😁 😆 🍎 🍐 🍊 🍋 🍌. ➊
   * [Emojipedia](https://emojipedia.org/) - A fast emoji search experience with options to browse every emoji by name or category. ➋
@@ -115,9 +115,9 @@ Useful Websites : Jelajah Manfaat Internet
   * [Linktree](https://linktr.ee/) - free bio link tool used by the world's best brands, creators and influencers.
   * [Small PDF](https://smallpdf.com/) - All-in-one (convert, compress, merge, split and edit) easy-to-use online PDF tools.
   * [Google Earth](https://www.google.com/intl/id/earth/) - 3D representation of Earth based primarily on satellite imagery - Allows you to "fly".
-  * [IsItDownRightNow?](https://www.isitdownrightnow.com/) - Monitors the status of websites and checks whether they are down or not. 
+  * [IsItDownRightNow?](https://www.isitdownrightnow.com/) - Monitors the status of websites and checks whether they are down or not.
   * [HaveIBeenPwned](https://haveibeenpwned.com/) - Check if you have an account that has been compromised in a data breach.
-  
+
 * Online Courses
   * [Kelas](https://kelas.com/) - Belajar dari para mentor terbaik dibidangnya. Nikmati pengalaman belajar yang berbeda.
   * [Skill Academy](https://skillacademy.com/) - Tingkatkan technical & soft skill di berbagai bidang (by Ruangguru).
@@ -132,7 +132,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [Treehouse](https://teamtreehouse.com/) - Learn to code, gain a new skill, get a new job. Whatever your goal — we'll get you there.
   * [Codecademy](https://www.codecademy.com/) - Learn the technical skills you need for the job you want. An online interactive platform.
   * [Zero to Mastery](https://zerotomastery.io/) - <ins>Help you advance your career, get hired and succeed at some of the top companies.</ins>
-  
+
 * Coupon Hunter
   * [Tutflix Coupon](https://tutflix.io/forums/udemy-coupon/) - A place where you can learn any course online.
   * [OzBargain](https://www.ozbargain.com.au/tag/udemy-course) - Hunting community, coupon codes and freebies.
@@ -142,7 +142,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [LearnViral](https://udemycoupon.learnviral.com/) - Free Udemy coupons, get your coupons before they expire.
   * [CouponCause](https://couponcause.com/) - Find promo codes and online discounts by store and category.
   * [Couponos](https://couponos.ooo/) - Get the latest Udemy coupon and BitDegree online courses.
-  
+
 * Torrents & Leech
   * [Torrentz2](https://torrentz2.is/) - <ins>Fast and powerful meta-search engine combining results of search engines.</ins>
   * [TorrentFunk](https://www.torrentfunk.com/) - The fastest download search engine. Find the latest games, etc.
@@ -188,7 +188,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [Use FYI](https://usefyi.com/templates/) - Free resources and templates you need to get work done in one place.
   * [Biggerplate](https://www.biggerplate.com/) - Download mind map templates and shared by members of our global community.
   * [Small Pocket Library]( https://www.smallpocketlibrary.com/) - Help students and teachers and anyone interested in science.
-  
+
 * Downloadable : Courses
   * [Tutflix.io](https://tutflix.io/) - <ins>Free education community. A place where you can learn any course online and discuss.</ins> ➊
   * [Tutflix.com](https://tutflix.com/) - Free education community. A place where you can learn any course online and discuss. ➋
@@ -202,7 +202,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [FreeCourseSite](https://freecoursesite.com/) - Learn Hacking, Programming, IT, Marketing, Music, and more.
   * [FreeCourseUdemy](https://freecourseudemy.com/) - Premium Udemy tutorials free download. Top udemy courses.
   * [FreeEducationWeb](https://freeeducationweb.com/) - We are sharing the knowledge for free of charge and help learners.
-  
+
 * Downloadable : Movies
   * [Yify](https://yts.mx/) - <ins>YTS was a peer-to-peer release group known for distributing large numbers of movies.</ins>
   * [Soap2Day](https://soap2day.ru/) - Watch latest movies and TV series online no ads, we daily update.
@@ -214,7 +214,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [Subtitles Translator](https://subtitlestranslator.com/) - Translate multiple subtitle at the same time into 80 different languages.
   * [TubeOffline](https://www.tubeoffline.com/) - Free online downloader for any Twitter video. Best tool that actually works.
   * [YoutubeMultiDownloader](https://youtubemultidownloader.net/) - Free youtube downloader online. Download single link, playlist or channel.
- 
+
 <hr>
 <div id="sec03"></div>
 
@@ -235,7 +235,7 @@ Internet Library : Eksplorasi Beragam Topik
 <hr>
 <div id="sec04"></div>
 
-🌌 
+🌌
 Wikipedia Uncover : Peta Ilmu Pengetahuan
 ---
 
@@ -246,7 +246,7 @@ _(Upcoming!)_
 <hr>
 <div id="sec05"></div>
 
-💡 
+💡
 Self Improvement : Perluas Ide & Wawasan
 ---
 
@@ -290,9 +290,9 @@ Self Improvement : Perluas Ide & Wawasan
   * [Finfolk](https://open.spotify.com/show/3coiCSZDmmBSREVpo0PpIB) - Rethinking money. Sunday chill afternoon. New ideas about investment in a fun way.
   * [GaryVee Podcast](https://www.garyvaynerchuk.com/podcast/) - The Garyvee audio experience. Keynote speeches on marketing and business.
   * [HBR IdeaCast](https://open.spotify.com/show/4gtSBBxIAE142ApX6LqsvN) - A weekly podcast featuring the leading thinkers in business and management.
-  
+
 * Youtube : Motivation & Inspiration (ID & EN)
-  * [TEDx Talks](https://www.youtube.com/user/TEDxTalks) - American media organization that posts talks online - "ideas worth spreading". 
+  * [TEDx Talks](https://www.youtube.com/user/TEDxTalks) - American media organization that posts talks online - "ideas worth spreading".
   * [OPTIMIZE](https://www.youtube.com/channel/UCRhEwzsFYLGcMa4m2AbTAoA) - The best Big Ideas from the best optimal living books. More wisdom in less time.
   * [FightMediocity](https://www.youtube.com/user/phuckmediocrity/) - The free audiobook or for reading a book, here's FightMediocrity.
   * [GaryVee](https://www.youtube.com/user/GaryVaynerchuk) - Highly sought after public speaker. Keynote speeches on marketing and business.
@@ -302,14 +302,14 @@ Self Improvement : Perluas Ide & Wawasan
   * [Chandra Hasyim](https://www.youtube.com/channel/UCFCUdbQNQjbK-7UhKy--chg) - Inspiring and motivational video translations in Indonesia. Feed your mind.
   * [Merry Riana](https://www.youtube.com/user/merryrianashow) - Menciptakan dampak positif di dalam kehidupan jutaan orang di Indonesia.
   * [Dewa Eka Prayoga](https://www.youtube.com/channel/UCx-9wWeG3YcqxXKXxOn3wMA) - Sharing seputar bisnis online, digital marketing, copywriting, dll.
-  
+
 * Youtube : Animated Book Summaries (EN)
   * [OnePercentBetter](https://www.youtube.com/channel/UCRI6t05DNVlV0XhdI7hx_iw/) - Get the key lessons from self-development books in 10 minutes or less.
   * [Mervan Polat](https://www.youtube.com/channel/UCfr02PiHepExS81u6jRT2Cw) - I tell stories about art, history, technology, philosophy and science. Book summaries.
   * [Practical Psychology](https://www.youtube.com/channel/UCir93b_ftqInEaDpsWYbo_g) - Giving high-quality and informative videos to everyone who wishes to learn.
   * [After Skool](https://www.youtube.com/channel/UC1KmNKYC1l0stjctkGswl6g) - A weekly dose of fun and interesting science, ideas, stories, education and more.
   * [FightMediocrity](https://www.youtube.com/user/phuckmediocrity) - Big Ideas for a better life. The free audiobook or for reading a book.
-  
+
 * Youtube : Insight, Feed Your Brain (ID)
   * [Sisi Terang](https://www.youtube.com/channel/UCSg-Y9uI1E-my-I4WKKioEQ) - Penemuan sains, ruang angkasa, misteri, kisah nyata mengejutkan, psikologi, dll.
   * [Kok Bisa?](https://www.youtube.com/channel/UCu0yQD7NFMyLu_-TmKa4Hqg) - Pengalaman belajar sains yang inovatif melalui video-video animasi edukatif.
@@ -326,7 +326,7 @@ Self Improvement : Perluas Ide & Wawasan
   * [Creativox](https://www.youtube.com/channel/UC4DogC2xftpKFlF-XgZoRBg) - A multi-platform entertainment media - educational, and motivational experience.
   * [Froyonion](https://www.youtube.com/channel/UCG1E2hR9KDuAWFoRO0yyE4w) - Froyonion mengajak penonton memikirkan kembali berbagai hal dari sudut pandang lain.
   * [Gue Punya Cerita](https://www.youtube.com/channel/UCkRNRz9ifB2A04zTb6Y9LYg) - Berbagai cerita yang diangkat dari kisah nyata, dikemas dalam bentuk animasi.
-  
+
 * Youtube : Insight, Feed Your Brain (EN)
   * [TED-Ed](https://www.youtube.com/user/TEDEducation) - Creating lessons worth sharing is an extension of TED’s mission of spreading great ideas.
   * [Crash Course](https://www.youtube.com/user/crashcourse) - Tons of awesome courses - sociology, computer science, film history and mythology.
@@ -336,10 +336,10 @@ Self Improvement : Perluas Ide & Wawasan
   * [Minute Physics](https://www.youtube.com/user/minutephysics) - Simply put: cool physics and other sweet science. Helps understand the world around us.
   * [Stated Clearly](https://www.youtube.com/user/sciencestatedclearly) - We produce animations on genetics, evolution, biology, and chemistry.
   * [KnowledgeHub](https://www.youtube.com/channel/UC2_KC8lshtCyiLApy27raYw) - A modern philosopher of our time. Except I talk about pretty pointless things.
-  * [AsapSCIENCE](https://www.youtube.com/user/AsapSCIENCE) - The channel produces weekly videos that touch on many different topics of science. 
+  * [AsapSCIENCE](https://www.youtube.com/user/AsapSCIENCE) - The channel produces weekly videos that touch on many different topics of science.
   * [SciShow](https://www.youtube.com/user/scishow/) - The scientific subjects that defy our expectations and make us even more curious.
   * [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart) - Curious group of atoms in a curious universe—tell you how it all works.
-  * [SmarterEveryDay](https://www.youtube.com/user/destinws2) - I explore the world using science.  That's pretty much all there is to it. 
+  * [SmarterEveryDay](https://www.youtube.com/user/destinws2) - I explore the world using science.  That's pretty much all there is to it.
   * [Up and Atom](https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw) - Making notoriously hard stuff less hard. Math, physics and computer science.
   * [CGP Grey](https://www.youtube.com/user/CGPGrey) - Short explanatory videos, including politics, geography, economics, history, and culture.
   * [Vsauce](https://www.youtube.com/user/Vsauce/) - Feature videos on scientific, psychological, mathematical, and philosophical topics, etc.
@@ -347,7 +347,7 @@ Self Improvement : Perluas Ide & Wawasan
 <hr>
 <div id="sec06"></div>
 
-⚙️ 
+⚙️
 Top Chrome Extensions : Tingkatkan Kemampuan Browser
 ---
 
@@ -360,7 +360,7 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
   * [Muzli 2](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc) - The freshest links about design and interactive, from around the web.
   * [Bookmark Sidebar](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh) - <ins>Toggleable sidebar with all your bookmarks at the edge of your browser window.</ins>
   * [Tabli](https://chrome.google.com/webstore/detail/tabli/igeehkedfibbnhbfponhjjplpkeomghi) - A simple and powerful tab manager that provides fast switching between windows.
-  * [Sticky Notes](https://chrome.google.com/webstore/detail/sticky-notes-just-popped/plpdjbappofmfbgdmhoaabefbobddchk) - A perfect tool for taking quick notes. Its fast, secure, and private. A must tool for everyone. 
+  * [Sticky Notes](https://chrome.google.com/webstore/detail/sticky-notes-just-popped/plpdjbappofmfbgdmhoaabefbobddchk) - A perfect tool for taking quick notes. Its fast, secure, and private. A must tool for everyone.
   * [Black Menu for Google](https://chrome.google.com/webstore/detail/black-menu-for-google/eignhdfgaldabilaaegmdfbajngjmoke) - <ins>Quick access to your favorite Google services with a convenient drop-down menu.</ins>
   * [Application Launcher for Drive](https://chrome.google.com/webstore/detail/application-launcher-for/lmjegmlicamnimmfhcmpkclmigmmcbeh) - Open Drive files directly from your browser in compatible applications.
   * [Checker Plus for Gmail](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj) - Get notifications, read, listen, delete emails without opening Gmail.
@@ -370,11 +370,11 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
   * [Element Screenshot](https://chrome.google.com/webstore/detail/element-screenshot/mhbapdljigafafoimcnnhagdclejnkcf) - Take screenshot of any HTML element on a webpage.
   * [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj) - Copy, paste and translate text from any image, video or PDF.
   * [Image Reader (OCR)](https://chrome.google.com/webstore/detail/image-reader-ocr/cakcfocedphbadddjpalejbkhflfbhmf) - Easily get words out of an image with OCR engine.
-  
+
 * Text & Read Tools
   * [Reading List](https://chrome.google.com/webstore/detail/reading-list/lloccabjgblebdmncjndmiibianflabo) - <ins>This reading list extension allows you to save pages in a list to get back to later.</ins>
   * [Wikiwand](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj?hl=id) - A new interface that optimizes Wikipedia's amazing content for improved reading experience.
-  * [Mercury Reader](https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi) - Clear away the clutter from all of your articles, instantly. Removes ads and distractions. 
+  * [Mercury Reader](https://chrome.google.com/webstore/detail/mercury-reader/oknpjjbmpnndlpmnhmekjpocelpnlfdi) - Clear away the clutter from all of your articles, instantly. Removes ads and distractions.
   * [Rocket Readability](https://chrome.google.com/webstore/detail/rocket-readability/fhckbdfnalikpmcmcpcpkkdlhabngbod) - Mercury Reader alternative. Parses web pages cutting out ads.
   * [Just Read](https://chrome.google.com/webstore/detail/just-read/dgmanlpmmkibanfdgjocnabmcaclkmod) - Remove distractions like the page's styling, ads, poups and comments.
   * [Print Friendly & PDF](https://chrome.google.com/webstore/detail/print-friendly-pdf/ohlencieiipommannpdfcmfdpjjmeolj) - Print Friendly removes ads, navigation and junk before your print.
@@ -391,11 +391,11 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
   * [Weava Highlighter](https://chrome.google.com/webstore/detail/weava-highlighter-pdf-web/cbnaodkpfinfiipjblikofhlhlcickei) - Highlight & organize your research with Weava online Web & PDF highlighter.
   * [Qvotr](https://chrome.google.com/webstore/detail/qvotr/hcnnoehmifkdlbiihocaadhemblgleep) - Save text from any website by selecting text on the page and clicking the Qvotr chrome extention.
   * [Text Tools](https://chrome.google.com/webstore/detail/text-tools/mpcpnbklkemjinipimjcbgjijefholkd) - Handy text tools a click away (including uppercase, lowercase, count words, count lines, etc).
-  * [Bitly](https://chrome.google.com/webstore/detail/bitly-unleash-the-power-o/iabeihobmhlgpkcgjiloemdbofjbdcic) - Copy, customize, shorten, measure, optimize and share your links straight from your browser. 
-  * [Medium Unlimited](https://manojvivek.github.io/medium-unlimited/) - Addon to access the medium.com premium articles (_**Third-party-extension**_). 
+  * [Bitly](https://chrome.google.com/webstore/detail/bitly-unleash-the-power-o/iabeihobmhlgpkcgjiloemdbofjbdcic) - Copy, customize, shorten, measure, optimize and share your links straight from your browser.
+  * [Medium Unlimited](https://manojvivek.github.io/medium-unlimited/) - Addon to access the medium.com premium articles (_**Third-party-extension**_).
   * [Read Aloud](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp) - Read out loud the current web-page article with one click. Supports 40+ languages.
   * [Spreed](https://chrome.google.com/webstore/detail/spreed-speed-read-the-web/ipikiaejjblmdopojhpejjmbedhlibno) - Train yourself to double or triple your reading speed, without sacrificing comprehension.
-  
+
 * Better Browsing
   * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - <ins>Finally, an efficient blocker and content-filtering. Easy on CPU and memory.</ins>
   * [AdBlock Best Ad Blocker](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom) - Block ads and pop-ups on YouTube, FB, and your favorite websites.
@@ -409,7 +409,7 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
   * [Hoxx VPN Proxy](https://chrome.google.com/webstore/detail/hoxx-vpn-proxy/nbcojefnccbanplpoffopkoepjmhgdgh) - Service to unblock blocked websites and encrypt your connection.
   * [SetupVPN](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp) - Unblock any blocked website in your country, school or company.
   * [Simple Allow Copy](https://chrome.google.com/webstore/detail/simple-allow-copy/aefehdhdciieocakfobpaaolhipkcpgc) - Enable copy and right-click on sites that blocked them.
-  
+
 * Downloader
   * [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj) - Browse and download bulk images from a web page. Always be free.
   * [One-Click Video Downloader](https://chrome.google.com/webstore/detail/one-click-video-downloade/bhepgcoaibmmehlmckhlmbdgcemhidcg) - We are the simplest and fastest way to download videos from any website.
@@ -417,7 +417,7 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
   * [SVG Export](https://chrome.google.com/webstore/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp) - Download SVGs from websites as SVGs, PNGs or JPEGs. Bulk export, resize, etc.
   * [SVG-Grabber](https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg) - A tool to quickly preview and get all the svg assets from a website. An open source tool.
   * [Get Favicon](https://chrome.google.com/webstore/detail/get-favicon/gpipahagclehninhhjkhbkliinfofnhe) - Displays the current page's favicon as well as the favicon's URL and dimensions.
-  
+
 * Frontend Developer
   * [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - Automated tool for improving the performance, quality, and correctness of your web apps.
   * [GitZip for Github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn) - <ins>It can make the sub-directories and files of github repository as zip and download it.</ins>
@@ -438,7 +438,7 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
   * [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) -  Inspect web fonts by just hovering on them. It is that simple and elegant.
   * [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) - Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies.
   * [Vue.js Devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - Chrome and Firefox DevTools extension for debugging Vue.js applications.
-  
+
 * Miscellaneous
   * [Set Password for Your Browser (Chrome Lock)](https://chrome.google.com/webstore/detail/set-password-for-your-bro/cjmjgijhapgicbhmniemjkjeaedanank) - <ins>Allow users to set password for the browser.</ins>
   * [Loom](https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb) - Capture, narrate and instantly share videos to communicate faster, clearer and friendlier.
@@ -446,11 +446,11 @@ Top Chrome Extensions : Tingkatkan Kemampuan Browser
   * [Clever Mute](https://chrome.google.com/webstore/detail/clever-mute/eadinjjkfelcokdlmoechclnmmmjnpdh) - You can mute or unmute any site just by clicking the extension icon.
   * [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) - You can add, delete, edit, search, protect and block cookies.
   * [Cookies.txt](https://chrome.google.com/webstore/detail/cookiestxt/njabckikapfpffapmjgojcnbfjonfjfg) - Exports your cookies in a format compatible with wget, curl, aria2, etc.
-  
+
 <hr>
 <div id="sec07"></div>
 
-🎨 
+🎨
 Designer 101 : Paket Komplit Designer
 ---
 
@@ -467,12 +467,12 @@ Designer 101 : Paket Komplit Designer
   * **Icons: Brand** : [World Vector Logo](https://worldvectorlogo.com/), [Simple Icons](https://simpleicons.org/), [Fontisto](https://www.fontisto.com/icons), [BrandEps](https://www.brandeps.com/), [Logos Vector](https://logosvector.net/brand-vector-logos), [Brand of the World](https://www.brandsoftheworld.com/), [SeekLogo](https://seeklogo.com/free-vector-logos/brand), [LogoTypes101](http://www.logotypes101.com/), [Vector-Logo](http://www.vector-logo.net/), [Free Vector Logo](http://freevectorlogo.net/)
   * **Illustrations: General** : [Icons8 Ouch](https://icons8.com/illustrations), [Freepik Stories](https://www.freepik.com/stories), [UI8 Freebies](https://ui8.net/category/freebies), [Pngtree Illustration](https://pngtree.com/illustration-design/flat), [DrawKit](https://www.drawkit.io/), [Smash Illustrations](https://usesmash.com/), [Delesign Illustrations](https://www.delesign.com/free-designs/graphics), [404 Illustrations](https://error404.fun/), [Mixkit Art](https://mixkit.co/free-stock-art/), [Karthik Srinivas](https://www.karthiksrinivas.in/illustrations), [Iconfont Illustrations](https://www.iconfont.cn/illustrations/index?spm=a313x.7781069.1998910419.3), [Lukasz Adam](https://lukaszadam.com/illustrations), [Illustrations.co](https://illlustrations.co/), [Isometric Love](https://www.isometriclove.com/), [Absurd Design](https://absurd.design/)
   * **Illustrations: Customization** : [Icons8 Vector Creator](https://icons8.com/vector-creator), [Stubborn Fun](https://stubborn.fun/), [ManyPixels](https://www.manypixels.co/gallery/), [UnDraw](https://undraw.co/illustrations), [IRA Design](https://iradesign.io/), [Open Doodles](https://www.opendoodles.com/), [Open Peeps](https://www.openpeeps.com/), [Humaaans](https://www.humaaans.com/), [Avataaars](https://avataaars.com/), [Bottts](https://bottts.com/), [Personas by Draftbit](https://personas.draftbit.com/), [Diversity Avatars](https://diversityavatars.com/), [Joe Schmoe](https://joeschmoe.io/)
-  * **Illustrations: Premium** : [Blush](https://blush.design/collections), [Iconscout Illustrations](https://iconscout.com/illustrations), [Craftwork Illustrations](https://craftwork.design/downloads/category/illustrations/), [Black Illustrations](https://www.blackillustrations.com/), [ITG Digital](https://itg.digital/), [Control.Rocks](https://control.rocks/), [Pixeltrue](https://www.pixeltrue.com/illustrations), [GrowwwKit](https://growwwkit.com/#products), [Drawer.Design](https://drawer.design/) 
+  * **Illustrations: Premium** : [Blush](https://blush.design/collections), [Iconscout Illustrations](https://iconscout.com/illustrations), [Craftwork Illustrations](https://craftwork.design/downloads/category/illustrations/), [Black Illustrations](https://www.blackillustrations.com/), [ITG Digital](https://itg.digital/), [Control.Rocks](https://control.rocks/), [Pixeltrue](https://www.pixeltrue.com/illustrations), [GrowwwKit](https://growwwkit.com/#products), [Drawer.Design](https://drawer.design/)
 
 <hr>
 <div id="sec08"></div>
 
-💻 
+💻
 Developer 101 : Paket Komplit Developer
 ---
 
@@ -499,7 +499,7 @@ Developer 101 : Paket Komplit Developer
   * [The Complete Android 10 & Kotlin Development Masterclass](https://www.udemy.com/course/android-kotlin-developer/) - Android Dev • Kotlin Base
   * [The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/) - Mobile Dev • Flutter Base
   * [The Complete React Native + Hooks Course 2020 Edition](https://www.udemy.com/course/the-complete-react-native-and-redux-course/) - Mobile Dev • React Native Base
-  
+
 * Online Tutorials
   * [Tutorialspoint](https://www.tutorialspoint.com/index.htm) - Free online tutorials, courses and programming projects ➊
   * [Javapoint](https://www.javatpoint.com/) - Free online tutorials, courses and programming projects ➋
@@ -507,7 +507,7 @@ Developer 101 : Paket Komplit Developer
   * [GeeksForGeeks](https://www.geeksforgeeks.org/) - Free online tutorials, courses and programming projects ➍
   * [Tutorial Kart](https://www.tutorialkart.com/) - Free online tutorials, courses and programming projects ➎
   * [SoloLearn](https://www.sololearn.com/) - Free online tutorials, courses and programming projects ➏
-  
+
 * Useful Tools
   * [Carbon](https://carbon.now.sh/) - Easiest way to create and share beautiful images of your source code.
   * [Codeshare](https://codeshare.io/) - An online code editor for interviews, troubleshooting, teaching and more.
@@ -518,10 +518,10 @@ Developer 101 : Paket Komplit Developer
   * [Codepen](https://codepen.io/) - An online code editor and community for frontend dev. Playground ➌
   * [JSFiddle](https://codepen.io/) - Test your JavaScript, CSS, HTML or CoffeeScript online. Playground ➍
   * [JS Bin](https://jsbin.com/) - Collaborative JavaScript Debugging. Playground ➎
- 
+
 * Web Dev : Full-Stack
   * [Dunia Ilkom](https://www.duniailkom.com/) - Situs yang membahas lengkap materi pembelajaran bahasa pemrograman website.
-  * [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) - Membahas mengenai teknologi internet dan pengembangan web.  
+  * [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) - Membahas mengenai teknologi internet dan pengembangan web.
   * [Build With Angga](https://buildwithangga.com/) - Pelajari keahlian baru yang dibutuhkan oleh perusahaan IT terbesar di seluruh dunia.
   * [Be Fullstack Developer](https://buku-laravel-vue.com/) - Panduan hebat untuk menjadi Fullstack Developer! Laravel & Vue.js.
   * [W3Schools](https://www.w3schools.com/) - The world's largest web developer site. Tutorials and references relating to web dev.
@@ -529,7 +529,7 @@ Developer 101 : Paket Komplit Developer
   * [Newline by Fullstack.io](https://www.newline.co/) - We'd love to collaborate to write a book or course together.
   * [A Smarter Way](https://www.amazon.com/Mark-Myers/e/B00HNW14T4?ref_=dbs_p_ebk_r00_abau_000000) - Coding, I learned, isn't that hard. Easy way to learn web programming.
   * [Head First Series](https://www.amazon.com/Head-First-Series-Books/b?ie=UTF8&node=8456760011) - A series of introductory instructional books to many topics.
-  
+
 * Web Dev : Frontend (1)
   * [HTML](https://github.com/diegocard/awesome-html5) - HTML Resources
   * [CSS](https://github.com/micromata/awesome-css-learning) - CSS Resources (Learn) ➊
@@ -555,7 +555,7 @@ Developer 101 : Paket Komplit Developer
   * [Free Frontend](https://freefrontend.com/) - Hand-picked HTML, CSS and JavaScript code examples ➊
   * [CSS Script](https://www.cssscript.com/) - Hand-picked HTML, CSS and JavaScript code examples ➋
   * [jQuery Script](https://www.jqueryscript.net/) - Hand-picked HTML, CSS and JavaScript code examples ➌
-  
+
 * Web Dev : Backend
   * [PHP](https://github.com/odan/learn-php) - PHP Resources (Learn) ➊
   * [PHP](https://github.com/ziadoz/awesome-php) - PHP Resources (Collection) ➋
@@ -570,7 +570,7 @@ Developer 101 : Paket Komplit Developer
   * [Awesome Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui) - Android Dev Resources ➌
   * [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS Dev Resources ➊
   * [Awesome iOS UI/UX Libraries](https://github.com/cjwirth/awesome-ios-ui) - iOS Dev Resources ➋
-  
+
 * Miscellaneous
   * [Learn Git](http://try.github.io/) - Resources to learn Git (handbook, cheat sheet, branching, etc).
   * [Oh Shit, Git!?!](https://ohshitgit.com/) - Ragam permasalahan saat bekerja dengan Git beserta solusinya.
@@ -581,7 +581,7 @@ Developer 101 : Paket Komplit Developer
 <hr>
 <div id="sec09"></div>
 
-🔮 
+🔮
 Top Figma Plugins : Hadiah Untuk Designer
 ---
 
@@ -598,14 +598,14 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Time Machine](https://www.figma.com/community/plugin/734492262527930956/Time-Machine) - Time Machine saves and organizes work that you want to look back on.
   * [Design Inspo](https://www.figma.com/community/plugin/738775292786594626/Design-Inspo) - The best way to quickly look for design inspiration while you work.
   * [Inspyre](https://www.figma.com/community/plugin/788238141732031933/Inspyre) - The perfect icon, inspiration for a logo, or the perfect component.
-  
+
 * Web Safe Guide
   * [A11y](https://www.figma.com/community/plugin/733159460536249875/A11y---Color-Contrast-Checker) - Design products that are accessible, ethical, and inclusive. All based on WCAG.
   * [Contrast](https://www.figma.com/community/plugin/748533339900865323/Contrast) - Select and scan for contrast issues on gradients, images, blends and fills.
   * [Color Blind](https://www.figma.com/community/plugin/733343906244951586/Color-Blind) - allows you to view your designs in the 8 different types of color vision deficiencies.
   * [VisualEyes](https://www.figma.com/community/plugin/740542057689267294/VisualEyes) - Understand how users look in your prototypes and how clear pleasing are your designs.
   * [Design Lint](https://www.figma.com/community/plugin/801195587640428208/Design-Lint) - Find and fix errors in your designs. Ensure your designs are consistent.
-  
+
 * Tools & Tidy Up
   * [Easy Units](https://www.figma.com/community/plugin/835063877729335093/Easy-Units) - Convert your shape and text from pixels to inches, rem, cm, ft. Great for any project.
   * [Super Select](https://www.figma.com/community/plugin/750783568176946334/Super-Select) - Select All Siblings and Invert Siblings support multiple layer selections.
@@ -617,7 +617,7 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Aspects](https://www.figma.com/community/plugin/739222456238688882/Aspects) - A little plugin that helps resize selected elements to fit a certain aspect ratio.
   * [Proportional Scale](https://www.figma.com/community/plugin/756895186298946525/Proportional-Scale) - Easily resize your shapes with all other attributes resizing proportionally.
   * [Fix Your Mess](https://www.figma.com/community/plugin/817773666528183444/Fix-Your-Mess) - Fix Your Mess scans your Figma designs and helps you tidy up your work.
-  
+
 * Canvas & Responsive
   * [Viewports](https://www.figma.com/community/plugin/732240841094697441/Viewports) - Browse the most popular display sizes and apply them to frames.
   * [Responsify ⚡️](https://www.figma.com/community/plugin/743654854885744527/Responsify-%E2%9A%A1%EF%B8%8F) - A Figma plugin to quickly test your designs across multiple device sizes.
@@ -625,20 +625,20 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Grids Generator](https://www.figma.com/community/plugin/841313026689642442/Grids-Generator) - Apply any frame with grid styles config inspired from Chrome's element inspector.
   * [Auto Grid](https://www.figma.com/community/plugin/817474150404549708/AutoGrid) - Define rows, columns, padding and let AutoGrid do the rest. Keep your grids flowing.
   * [Breakpoints](https://www.figma.com/community/plugin/824289601590456356/Breakpoints) - A resizable native frame that works even without the opened plugin window.
-  
+
 * Layout & Component
   * [Wireframe](https://www.figma.com/community/plugin/742764242781786818/Wireframe) - Creating beautiful user flow prototypes and basic structures. Over 350+ build graphics.
-  * [Wireframer](https://www.figma.com/community/plugin/787660853629435276/Wireframer) - Generate cool placeholder text. The new trend in wireframes text generation process. 
+  * [Wireframer](https://www.figma.com/community/plugin/787660853629435276/Wireframer) - Generate cool placeholder text. The new trend in wireframes text generation process.
   * [Wire Box](https://www.figma.com/community/plugin/764471577604277919/Wire-Box) - Convert your designs from high-fidelity to low-fidelity and step back into wireframes.
   * [Master](https://www.figma.com/community/plugin/767721682134156281/Master) - Create, attach, clone and move components in a couple of clicks without losing overrides.
   * [Interplay](https://www.figma.com/community/plugin/736368164448889527/Interplay) - Imports your design system code repository and lets you design with code components.
   * [Ready Components](https://www.figma.com/community/plugin/830533738628941885/Ready-Components) - Provides ready-made components, can be used in any of the UI design.
-  * [Spacing Manager](https://www.figma.com/community/plugin/809099681305129697/Spacing-Manager) - Sometimes designers making different spacings between the elements. 
+  * [Spacing Manager](https://www.figma.com/community/plugin/809099681305129697/Spacing-Manager) - Sometimes designers making different spacings between the elements.
   * [Style Organizer](https://www.figma.com/community/plugin/816627069580757929/Style-Organizer) - Display and organize all color styles in the page. Relink unlinked styles.
   * [Batch Styler](https://www.figma.com/community/plugin/818203235789864127/Batch-Styler) - Change multiple **text & color styles** at once, no matter if 2 or 30 styles.
   * [Design System Organizer](https://www.figma.com/community/plugin/802579985985331070/Design-System-Organizer) - No more naming schemes with "/" for Components and Styles.
   * [Automatic Style Guides](https://www.figma.com/community/plugin/838622388628773312/Automatic-Style-Guides) - Preparing formal style guide documentation from your local styles.
-  
+
 * Font & Text
   * [Better Font Picker](https://www.figma.com/community/plugin/739922281164562258/Better-Font-Picker) - Helps you select fonts with a preview of how it looks. Shows installed fonts.
   * [Font Scale](https://www.figma.com/community/plugin/741231992144144738/Font-Scale) - Font Scale is a quick tool to generate a harmonious and consistent typography hierarchy.
@@ -654,7 +654,7 @@ Top Figma Plugins : Hadiah Untuk Designer
 * Color & Gradient
   * [Color Palettes](https://www.figma.com/community/plugin/740832935938649295/Color-Palettes) - 1500+ meaningful color palettes for your next creative projects.
   * [Brands Colors](https://www.figma.com/community/plugin/740232388085828578/Brands-Colors) - Find the best color from the world's best brands and cool apps.
-  * [Color Search](https://www.figma.com/community/plugin/768550475442788437/Color-Search) - Choose your favorite an add it to your local styles in seconds (e.g. mellon). 
+  * [Color Search](https://www.figma.com/community/plugin/768550475442788437/Color-Search) - Choose your favorite an add it to your local styles in seconds (e.g. mellon).
   * [Webgradients](https://www.figma.com/community/plugin/802147585857776440/Webgradients) - Powerful functional gradient plugin that you can use as content backdrops.
   * [uiGradients](https://www.figma.com/community/plugin/744909029427810418/uiGradients) - Adds gradients to groups, text and frames in single click. Chose from 350+ gradients.
   * [Color Designer](https://www.figma.com/community/plugin/739475857305927370/Color-Designer) - Generates shades, tints, and color harmonies based on select layers or local styles.
@@ -662,7 +662,7 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Chroma Colors](https://www.figma.com/community/plugin/739237058450529919/Chroma-Colors) - Create bulk color styles from selection. Select object, run the plugin, generated.
   * [Colorizer](https://www.figma.com/community/plugin/816889819624434639/Colorizer) - Sort colors by their hue value, then saturation. Select objects, run the plugin, and sorted.
   * [Adjustments](https://www.figma.com/community/plugin/798711644668166520/Adjustments) - HSL color adjustments allow you to tweak hue, saturation and lightness values.
-  
+
 * Illustration & Logos
   * [Illustrations](https://www.figma.com/community/plugin/781441863578182316/Illustrations) - Free Illustration library for everyone. 250+ illustrations by pablo stanley.
   * [Blush](https://www.figma.com/community/plugin/838959511417581040/Blush) - Create and customize illustrations in your designs with Blush (**Paid**).
@@ -670,7 +670,7 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Iconscout](https://www.figma.com/community/plugin/744098704933821409/Iconscout) - Allows you to insert millions of high quality icons, illustrations and stock photos.
   * [Logo Creator](https://www.figma.com/community/plugin/768094929040207895/Logo-Creator) - Craft a beautiful logo from prebuild collections of 300+ logos.
   * [Brandfetch](https://www.figma.com/community/plugin/733590967040604714/Brandfetch) - Enter a company name and instantly get its corresponding brand assets.
-  
+
 * Icons Pack
   * [Iconify](https://www.figma.com/community/plugin/735098390272716381/Iconify) - Over 50,000 icons from 60 icon sets for your Figma designs.
   * [Icons8](https://www.figma.com/community/plugin/791103617505812222/Icons8) - Access hand-crafting 120,000 icons and 32 styles from Icons8 library.
@@ -680,9 +680,9 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Streamline](https://www.figma.com/community/plugin/852192486284901337/Streamline) - The world's largest icon pack. Browse, search and insert. 30,000 icons.
   * [Font Awesome Icons](https://www.figma.com/community/plugin/774202616885508874/Font-Awesome-Icons) - This is the unofficial plugin for the Font Awesome icon collection.
   * [Material Design Icons](https://www.figma.com/community/plugin/740272380439725040/Material-Design-Icons) - Provides you instant easy access to the entire Material Design Icons library.
- 
+
 * Image Tools
-  * [Photos](https://www.figma.com/community/plugin/745428728979155171/Photos) - Search and insert photos (from Unsplash, Pixabay and Flickr) into your Figma files. 
+  * [Photos](https://www.figma.com/community/plugin/745428728979155171/Photos) - Search and insert photos (from Unsplash, Pixabay and Flickr) into your Figma files.
   * [Unsplash](https://www.figma.com/community/plugin/738454987945972471/Unsplash) - Insert beautiful images from Unsplash straight into your design projects.
   * [EasyMask](https://www.figma.com/community/plugin/781317794301477536/EasyMask) - Create a mask from the top selected layer. Similiar to how Adobe AI does making.
   * [Remove BG](https://www.figma.com/community/plugin/738992712906748191/Remove-BG) - Remove the background of images automatically with just a single click.
@@ -690,7 +690,7 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Text From Image](https://www.figma.com/community/plugin/825603645067095312/Text-From-Image) - Use OCR to copy text from an image fill. The magic of optical character recognition.
   * [Image Tracer](https://www.figma.com/community/plugin/735707089415755407/Image-tracer) - Traces black & white bitmap images, and turns them into a vector layer.
   * [Social Media Image](https://www.figma.com/community/plugin/750116735703341112/Social-Media-Image) - Cheat sheet on Social Media image sizes. All in one place.
-  
+
 * Images Filter
   * [Filter](https://www.figma.com/community/plugin/792025380269016893/Filter) - 30+ Customizable filters : Brightness, contrast, hue saturation, exposure, sepia, etc.
   * [Color Overlay](https://www.figma.com/community/plugin/786223450940846289/Color-Overlay) - Recolor transparent PNGs right in Figma, saving minutes of precious time.
@@ -710,28 +710,28 @@ Top Figma Plugins : Hadiah Untuk Designer
 * Shape Maker
   * [Geometric](https://www.figma.com/community/plugin/816329785694858088/Geometric) - Make math shapes and curves. Make complex patterns with ease.
   * [Chart](https://www.figma.com/community/plugin/734590934750866002/Chart) - Uses real or random data to create the most popular charts. 16 types of charts.
-  * [Wave & Сurve](https://www.figma.com/community/plugin/745971189153303901/Wave-%26-%D0%A1urve) - You can easily create a variety of waves and interesting patterns.  
+  * [Wave & Сurve](https://www.figma.com/community/plugin/745971189153303901/Wave-%26-%D0%A1urve) - You can easily create a variety of waves and interesting patterns.
   * [Make Blob](https://www.figma.com/community/plugin/740172168964577201/Make-blob) - Make random blob and add it on your page. Set your complexity and contrast.
   * [Metaball](https://www.figma.com/community/plugin/743754408199479204/Metaball) - Metaball plugin generates 2D-Metaball shapes from circle objects. Open source project.
   * [Dot Grid](https://www.figma.com/community/plugin/795474715778185230/Dot-Grid) - No need to create each individual dot and laying them out into a grid anymore.
   * [Autoflow](https://www.figma.com/community/plugin/733902567457592893/Autoflow) - Draw beautiful flows in Figma automagically. Autoflow makes it easy to draw flows.
   * [Pattern Hero](https://www.figma.com/community/plugin/740556241021336678/Pattern-Hero) - Enables you to place selected elements or frames in a grid to create patterns.
   * [Hero Patterns for Figma](https://www.figma.com/community/plugin/743134103711120154/Hero-Patterns-for-Figma) - Brings the collection of patterns called Hero Patterns by Steve Schoger.
-  
+
 * Shape Manipulation
   * [Swap](https://www.figma.com/community/plugin/739493471028643540/Swap) - Easily swap two selected objects. Keeps the original size of objects and their position.
   * [Simplify](https://www.figma.com/community/plugin/809139536998662893/Simplify) - Simplifies vector paths by automatically reducing and rearranging their line segments.
   * [Pencil Pal](https://www.figma.com/community/plugin/852436272709911555/Pencil-Pal) - Pencil Pal is for folks who want to get a little more out of the pencil tool. You can customize.
   * [To Path](https://www.figma.com/community/plugin/751576264585242935/To-Path) - Put any objects or text on a path. Make a curve, select an object, and watch the magic happen.
   * [SkewDat](https://www.figma.com/community/plugin/741472919529947576/SkewDat) - Live skew any shape and fine-tune with simple non-destructive controls. You need this.
-  * [Roto](https://www.figma.com/community/plugin/733184376355671573/Roto) - Roto extrudes and rotates shapes in 3D. Select a shape, run Roto and play with Roto's properties. 
+  * [Roto](https://www.figma.com/community/plugin/733184376355671573/Roto) - Roto extrudes and rotates shapes in 3D. Select a shape, run Roto and play with Roto's properties.
   * [Sprinkle](https://www.figma.com/community/plugin/734501601239074381/Sprinkle) - Make it rain with confetti. Select your pieces of confetti and watch the magic happen.
   * [Confetti](https://www.figma.com/community/plugin/732876968584257019/Confetti) - Confetti for Figma lets anyone create gorgeous confetti patterns. Make it your own.
   * [Isometric](https://www.figma.com/community/plugin/741184519069077841/Isometric) - Isometric allows you to create isometric layers without manually having to set them up.
   * [Easometric](https://www.figma.com/community/plugin/750743440401413268/Easometric) - With Easometric it is really easy to create isometric layers & groups.
   * [Neumorphism](https://www.figma.com/community/plugin/810863251895788520/Neumorphism) - Create beautiful neumorphistic designs in just a few seconds.
   * [SmoothShadow](https://www.figma.com/community/plugin/788830704169694737/SmoothShadow) - Create really smooth, layered shadows with easing curvers, friend.
-  
+
 * Dummy Generator
   * [Content Reel](https://www.figma.com/community/plugin/731627216655469013/Content-Reel) - Content Reel helps you easily pull text strings, avatars and icons into your designs.
   * [Avatars Generator](https://www.figma.com/community/plugin/746656816456492537/Avatars-generator) - Avatars Generator creates unique, AI-generated photos of a fictional persons.
@@ -749,11 +749,11 @@ Top Figma Plugins : Hadiah Untuk Designer
   * [Useberry](https://www.figma.com/community/plugin/788799088384104964/Useberry) - An online user-testing tool that helps UI/UX designers get rich user feedback.
   * [Figmotion](https://www.figma.com/community/plugin/733025261168520714/Figmotion) - An animation tool built right in Figma. Makes the entry into animation easier.
   * [LottieFiles](https://www.figma.com/community/plugin/809860933081065308/LottieFiles) - Figma Animations designed for Web and Mobile. 1000+ of free animations.
-  
+
 <hr>
 <div id="sec10"></div>
 
-⚔️ 
+⚔️
 Top Visual Studio Code Extensions : Hadiah Untuk Developer
 ---
 
@@ -768,7 +768,7 @@ _**Terakhir Update** : 10/07/2020_
   * [Formatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle) - Allows you to toggle the formatter (Prettier, Beautify, …) ON and OFF with a simple click.
   * [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) - Easily switch between projects. It helps you to easily access your projects.
   * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames (code completion).
-  * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - Override user/workspace settings with settings found in .editorconfig files. 
+  * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - Override user/workspace settings with settings found in .editorconfig files.
   * [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - This extension highlights matching opening and/or closing tags.
   * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Automatically add HTML/XML close tag, same as Visual Studio IDE does.
   * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
@@ -781,7 +781,7 @@ _**Terakhir Update** : 10/07/2020_
   * [Git Tags](https://marketplace.visualstudio.com/items?itemName=howardzuo.vscode-git-tags) - Quick manage tags for a git repo. Fast synchronization to remote repositories.
   * [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - View a Git Graph of your repository, and perform Git actions from the graph.
   * [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Allows you to review and manage GitHub pull requests and issues.
-  
+
 * Frontend
   * [HTMLTagWrap](https://marketplace.visualstudio.com/items?itemName=bradgashler.htmltagwrap) - Wraps your selection in HTML tags (inline selections and selections that span multiple lines).
   * [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) - Class attribute completion, Id attribute completion, supports remote css files, etc.
@@ -795,7 +795,7 @@ _**Terakhir Update** : 10/07/2020_
   * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static & dynamic pages.
   * [Live SASS Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) - Compile/transpile your SASS/SCSS files to CSS files at realtime with live browser reload.
   * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - Allows you to send HTTP request and view the response in Visual Studio Code directly.
-  
+
 * Backend
   * [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) - Advanced Autocompletion and Refactoring support for PHP (at least PHP 7).
   * [PHP Intellisense for Codeigniter](https://marketplace.visualstudio.com/items?itemName=small.php-ci) - Code completion for PHP Codeigniter framework, go to definition, etc.
@@ -804,7 +804,7 @@ _**Terakhir Update** : 10/07/2020_
 <hr>
 <div id="sec11"></div>
 
-💎 
+💎
 Educational Instagram Accounts : Sumber Belajar di Instragram
 ---
 
@@ -823,18 +823,18 @@ _**Terakhir Update** : 09/03/2020_
 <hr>
 <div id="sec12"></div>
 
-💽 
+💽
 Windows Software Bundles : Paket Komplit Aplikasi
 ---
 
 <a href="#daftarisi">🡹 Kembali ke daftar isi</a>
 
 **Catatan** : Untuk mencari dan membandingkan kemampuan antar software dapat kunjungi web [Capterra](https://www.capterra.com/) atau [G2](https://www.g2.com/).
-  
+
 * Driver Installer
   * [DriverPack Solution](https://driverpack.io/) - Help you to download all the required and competitive drivers to your computer.
   * [Silent Install Builder](http://www.silentinstall.org/) - Tool for quickly install a set of software on a multiple computers.
- 
+
 * First-Install
   * [Clover 3](http://en.ejie.me/) - Add multi-tab functionality W.Explorer similar to Chrome browser.
   * [Listary](https://www.listary.com/) - Search utility for Windows that makes finding your files blazing fast.
@@ -848,13 +848,13 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [PicPick](https://picpick.app/en/) - A full-featured screen capture tool, color picker, pixel-ruler, whiteboard and more.
   * [DisplayFusion](https://www.displayfusion.com/) - Make your multi-monitor life much easier! With powerful features.
   * [Actual Multiple Monitor](https://www.actualtools.com/multiplemonitors/) - Improves Windows UI when working with several monitors at once.
-  
+
 * File & Folder Protector
   * [Encrypto](https://macpaw.com/encrypto) - Drop a file into Encrypto, set a password, and then send it with added security.
   * [Folder Lock](https://www.newsoftwares.net/download/) - Complete Data security software with military grade encryption.
   * [Folder Guard](http://www.folder-guard.com/) - Lock a folder with password & restrict a file or folder.
   * [Gilisoft EXE Lock](https://www.youtube.com/watch?v=1nN77WlQmpU) - Lock software and EXE files with password.
-  
+
 * Internet & Browsers
   * [Google Chrome](https://www.google.com/chrome/) - A cross-platform web browser developed by Google. The best web browser.
   * [Mozilla Firefox](https://www.mozilla.org/firefox/) - A free and open-source web browser developed by the Mozilla Foundation.
@@ -875,7 +875,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Wise Care 365](https://www.wisecleaner.com/wise-care-365.html) - All-in-one system tune up tool. Speed up slow computer. Clean registry and junk files.
   * [CCleaner](https://www.ccleaner.com/) - The No.1 Tool For Cleaning Your PC. Automatic cleaning. Reduce PC startup time.
   * [Razer Cortex](https://www.razer.com/cortex) - Get better, faster, smoother performance from your PC **(RAM Cleaner)**.
-  
+
 * Document & Office Tools
   * [Microsoft Office](https://www.office.com/) - Your place to create, communicate, collaborate, and get great work done.
   * [WPS Office](https://www.wps.com/) - A new generation of office solutions. With powerful PDF, WPS Cloud, OCR, Files Repair, etc.
@@ -893,7 +893,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [PDF Sharper](https://www.pdfshaper.com/) - All-in-one PDF software optimized for better productivity and document security.
   * [eBook Converter Bundle](https://www.ebook-converter.com/) - All in one tools to convert ebook to other format, it support DRM ebook.
   * [Anicesoft EPUB Converter](https://www.anicesoft.com/) - Best EPUB Converter & EPUB/PDF/Kindle/AZW/MOBI. An easy and quick.
-  
+
 * Imaging & Multimedia
   * [IrfanView](https://www.irfanview.com/) - One of the most popular viewers worldwide. Designed to be simple but powerful.
   * [PhotoScape](http://www.photoscape.org/) - Fun and easy photo editing software that enables you to fix and enhance photos.
@@ -923,7 +923,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [ColorImpact](https://www.tigercolor.com/) - An interactive color scheme designer that lets you easily create stunning color schemes.
   * [Cyotek Palette Editor](https://www.cyotek.com/cyotek-palette-editor) - Allows you to create and work with colour palettes, in a variety of formats.
   * [Icons8](https://icons8.com/) - Design stuff for free, for your project - icons, photos, vectors, music, and tools.
-  
+
 * Producer Tools
   * [VEGAS](http://www.vegascreativesoftware.com/) - Software you need for fast, professional and efficient video production. Faster & more creative.
   * [Wondershare Filmora](https://filmora.wondershare.net/) - A video editor for all creators. Empower your stories and imagination with Filmora.
@@ -934,13 +934,13 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [4K Slideshow Maker](https://photopia.nl/) - An extremely easy-to-use app to create slideshows. Save your memories.
   * [Synfig Studio](https://www.synfig.org/) - A free and open-source 2D vector graphics and timeline-based computer animation program.
   * [Aseprite](https://www.aseprite.org/) - Create 2D animations for videogames. From sprites, to pixel-art, retro style graphics, and more.
-  
+
 * Developer Tools
   * **for Web Developer**
   * [DevDocs Desktop](https://devdocs.egoist.moe/) - Fast, offline, and free documentation for developers. Search 100+ docs in one place.
   * [Git](https://git-scm.com/) - A free and open source distributed version control system - handle projects with speed and efficiency.
   * [GitKraken](https://www.gitkraken.com/) - Three developer productivity tools: Git GUI client, Kanban Boards & Timelines.
-  * [Notepad++](https://notepad-plus-plus.org/) - A free source code editor and Notepad replacement that supports several languages. 
+  * [Notepad++](https://notepad-plus-plus.org/) - A free source code editor and Notepad replacement that supports several languages.
   * [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose. A lightweight text editor.
   * [Atom](https://atom.io/) - A free and open-source text and source code editor, developed by GitHub. Cross-platform editing.
   * [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging web and
@@ -971,7 +971,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [NetSpot](https://www.netspotapp.com/) - The only professional app for wireless site surveys, Wi-Fi analysis, and troubleshooting.
   * [Wireshark](https://www.wireshark.org/) - The world’s foremost and widely-used network protocol analyzer - troubleshooting, analysis, etc.
   * [Cisco Packet Tracker](https://www.netacad.com/courses/packet-tracer) - A networking simulation tool used for practice, discovery and troubleshooting.
-  
+
 * Miscellaneous
   * **Emulators**
   * [BlueStacks](https://www.bluestacks.com/) - Android emulator for PC. Designed to enable Android applications to run on PCs.
@@ -984,7 +984,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [AVS Disc Creator](https://www.avs4you.com/avs-free-disc-creator.aspx) - Burn audio, video, images, dvd, blu-ray easily. Make ISO images and create boot discs.
   * [WinX DVD Ripper](https://www.winxdvd.com/dvd-ripper/) - DVD ripping software to digitize DVD for easier backup, archiving, editing and sharing.
   * [Unstoppable Copier](https://softfamous.com/unstoppable-copier/) - Scan your CD/DVD/hardware used for storage, then you can choose to restore it.
-  * [DVDStyler](https://www.dvdstyler.org/) - Free DVD authoring application for the creation of professional-looking DVDs. 
+  * [DVDStyler](https://www.dvdstyler.org/) - Free DVD authoring application for the creation of professional-looking DVDs.
   * **HDD/SSD Apps**
   * [WizTree](https://antibody-software.com/web/) - Scans your entire hard drive and shows you which files and folders are using the most disk space.
   * [Hard Disk Sentinel](https://www.hdsentinel.com/) - A SSD/HDD monitoring and analysis software - find, test, diagnose and repair.
@@ -1026,7 +1026,7 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [Perpustakaan Islam Digital](https://perpustakaanislamdigital.com/) - Himpunan 800 jilid (3600 judul) kitab kajiam islam klasik dan komtemporer.
   * **Useful Apps**
   * [8GadgetPack](https://8gadgetpack.net/) - Allows you to use gadgets on Windows 10/8.1/7. (Example gadget : [Days Remaining](http://win7gadgets.com/calendar/days_remaining.html))
-  * [KeyTweak](https://softfamous.com/keytweak/) - KeyTweak allows a computer user to remap the keys on the keyboard to a customized layout. 
+  * [KeyTweak](https://softfamous.com/keytweak/) - KeyTweak allows a computer user to remap the keys on the keyboard to a customized layout.
   * [Event Log Ex](https://eventlogxp.com/) - A software solution for viewing, analyzing and monitoring events recorded in event logs.
   * [HJSplit](http://www.hjsplit.org/) - Tool to split and recombine files as large as 100+ gigabytes - split, join, compare, and checksum.
   * [Cheat Engine](https://www.cheatengine.org/) - Memory scanner/hex editor/debugger. Mostly used for cheating in computer games.
