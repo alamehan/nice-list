@@ -1,7 +1,6 @@
 <img src="images/img-cover.png">
 
-🔔 **INFO**: <ins>NiceList dalam bentuk tabel (lebih compact dan praktis) bisa diakses di:</ins> [NiceListLite](https://github.com/alamehan/nice-list-lite)<br>
-⚠️ **NEW**: <ins>LAST UPDATE: NiceList sudah dibuat ke dalam sebuah website, bisa diakses di:</ins> [Nice List Web](https://alamehan.github.io/news/)
+⚠️ **LAST UPDATE**: <ins>: Halaman ini tidak di akan diupdate lagi. Saat ini NiceList terupdate pindah ke GitHub Pages berikut:</ins> [Nice List Web](https://alamehan.github.io/news/).
 
 ## NiceList
 - Navigasi beragam website dan produk digital yang berkualitas, terseleksi dan dapat diandalkan<br>
@@ -33,7 +32,7 @@ Topik yang tersedia di NiceList ini memang tidak banyak dan cenderung lebih ke t
 	<a href="#sec09"><s>9. Top Figma Plugins (130)</s></a>&nbsp;<br>
 	<a href="#sec10"><s>10. Top Visual Studio Code Extensions (33)</s></a>&nbsp;<br>
 	<a href="#sec11">11. Educational Instagram Accounts (460)</a>&nbsp;<br>
-	<a href="#sec12">12. Windows Software Bundles (161)</a>&nbsp;<br>
+	<a href="#sec12"><s>12. Windows Software Bundles (161)</s></a>&nbsp;<br>
 </p>
 
 <img src="images/img-letsgo.png">
