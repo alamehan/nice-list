@@ -30,7 +30,7 @@ Topik yang tersedia di NiceList ini memang tidak banyak dan cenderung lebih ke t
 	<a href="#sec06"><s>6. Top Chrome Extensions (71)</s></a>&nbsp;<br>
 	<a href="#sec07">7. Designer 101 (...)</a>&nbsp;<br>
 	<a href="#sec08"><s>8. Developer 101 (77)</s></a>&nbsp;<br>
-	<a href="#sec09">9. Top Figma Plugins (130)</a>&nbsp;<br>
+	<a href="#sec09"><s>9. Top Figma Plugins (130)</s></a>&nbsp;<br>
 	<a href="#sec10"><s>10. Top Visual Studio Code Extensions (33)</s></a>&nbsp;<br>
 	<a href="#sec11">11. Educational Instagram Accounts (460)</a>&nbsp;<br>
 	<a href="#sec12">12. Windows Software Bundles (161)</a>&nbsp;<br>
