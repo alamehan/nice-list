@@ -1,6 +1,6 @@
 <img src="images/img-cover.png">
 
-⚠️ **LAST UPDATE**: <ins>: Halaman ini tidak di akan diupdate lagi. Saat ini NiceList terupdate pindah ke GitHub Pages berikut:</ins> [Nice List Web](https://alamehan.github.io/news/). Masi dalam proses migrasi, belum seluruhnya dipindahkan ke NiceList Web.
+⚠️ **LAST UPDATE**: <ins>: Halaman ini tidak di akan diupdate lagi. Saat ini NiceList terupdate pindah ke GitHub Pages berikut:</ins> [Nice List Web](https://alamehan.github.io/alamehan-v1/news/). Masi dalam proses migrasi, belum seluruhnya dipindahkan ke NiceList Web.
 
 ## NiceList
 - Navigasi beragam website dan produk digital yang berkualitas, terseleksi dan dapat diandalkan<br>
