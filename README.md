@@ -976,8 +976,8 @@ Windows Software Bundles : Paket Komplit Aplikasi
   * [BlueStacks](https://www.bluestacks.com/) - Android emulator for PC. Designed to enable Android applications to run on PCs.
   * [iPadian](https://ipadian.net/) - iPadian is a simulator, not an emulator. It gives you an impression of using the iOS
   * [Emulator Zone](https://www.emulator-zone.com/) - Source for the latest emulators for classic video game consoles and home computers.
-  * [Citra](https://citra-emu.org/) - An experimental open-source Nintendo 3DS emulator/debugger written in C++.
-  * [Yuzu](https://yuzu-emu.org/) - An experimental open-source emulator for the Nintendo Switch from the creators of Citra.
+  * [Citra](https://citra-emulator.com/) - An open-source Nintendo 3DS emulator/debugger written in C++. Fork by PabloMK7 of the now discontinuted orignal Citra emulator.
+  * [PastGames](https://www.pastgames.net/cores/) - List of best emulators for classic video game consoles.
   * **CD/DVD/Blue-Ray Apps**
   * [DAEMON Tools](https://www.daemon-tools.cc/) - One of the most popular burning tools - mount, copy and create an image.
   * [AVS Disc Creator](https://www.avs4you.com/avs-free-disc-creator.aspx) - Burn audio, video, images, dvd, blu-ray easily. Make ISO images and create boot discs.
