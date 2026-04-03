@@ -101,6 +101,7 @@ Useful Websites : Jelajah Manfaat Internet
   * [Emojipedia](https://emojipedia.org/) - A fast emoji search experience with options to browse every emoji by name or category. ➋
   * [Cool Symbol](https://coolsymbol.com/) - A symbol & picture text collection that provides access to many special fancy text symbols.
   * [LingoJam](https://lingojam.com/) - LingoJam lets you create an online translator (biasanya untuk style text generator).
+  * [Letras diferentes](https://letrasdiferentes.my/) - Generate custom fonts for social media (Spanish/Portuguese focus).
   * [Text Fixer](https://www.textfixer.com/) - A Helpful collection of free online tools for web coding and text conversion.
   * [Online Text Tools](https://onlinetexttools.com/) - Online text tools is a collection of useful text utilities (Add line number, etc).
   * [Tools4Noobs](https://www.tools4noobs.com/online_tools/) - Tools you didn't even know you needed. A collection of useful scripts (Count lines, etc).
